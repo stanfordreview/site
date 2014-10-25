@@ -1,0 +1,279 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 7 - 1987-1988</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="index.shtml" onMouseOver="window.status='1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1987-1988</font></a><br>
+
+<a href="../1991-1993/index.shtml" onMouseOver="window.status='1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1991-1993</font></a><br>
+
+<a href="../1994/index.shtml" onMouseOver="window.status='1994'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1994</font></a><br>
+
+<a href="../1995/index.shtml" onMouseOver="window.status='1995'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1995</font></a><br>
+
+<a href="../2001/index.shtml" onMouseOver="window.status='2001'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>2001</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../2001/index.shtml" onMouseOver="window.status='David Myszewski in 2001'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../1991-1993/1991-19932.shtml" onMouseOver="window.status='David Valle in 1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Valle</font></a><br>
+
+<a href="../1994/index.shtml" onMouseOver="window.status='Ed Malone in 1994'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ed Malone</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Henry Towsner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="1987-19882.shtml" onMouseOver="window.status='Jennifer Bryson in 1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jennifer Bryson</font></a><br>
+
+<a href="../1991-1993/1991-19931.shtml" onMouseOver="window.status='Rakesh R. Khanna in 1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Rakesh R. Khanna</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Scott Rasmussen in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<a href="1987-19881.shtml" onMouseOver="window.status='Steve Hellman in 1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Steve Hellman</font></a><br>
+
+<a href="../1995/index.shtml" onMouseOver="window.status='Thorvin Anderson in 1995'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Thorvin Anderson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 7
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 7, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 7'; return true" onMouseOut="window.status=' '; return true">Issue 7</a> - 1987-1988
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+1987-1988
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+There is More to Hoover than Controversy: Hoover Offers Many Benefits to Stanford
+</font><br>
+
+<b>by Jennifer Bryson</b><br>
+Volume III, Issue 1: September 1988<p>
+
+
+<table align=Left>
+    <tr>
+        <td>
+<a href="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/1987-1988/images/hoover_graph_big.jpg" onMouseOver="window.status='View larger image'; return true" onMouseOut="window.status=' '; return true">
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/1987-1988/images/hoover_graph_small.jpg" width=201 height=105 alt="Graph" border=0></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i><a href="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/1987-1988/images/hoover_graph_big.jpg" onMouseOver="window.status='View larger image'; return true" onMouseOut="window.status=' '; return true">(Click for larger image)</a></i>
+        </td>
+    </tr>
+</table>
+
+
+	In the course of recent years, members of the faculty and administration have criticized a range of institutions at Stanford for being too "conservative" or "reactionary."
+
+<p>
+
+	As a result, Stanford scrapped plans for the Reagan Presidential library in 1986, and earlier this year the Faculty Culture program beginning with the class of '93.  But perhaps no part of the University has come under as relentless an attack as the Hoover Institution.
+
+<p>
+
+	Some members of the Stanford community have demanded that the Institution be brought under "normal academic governance" (under which the University could hire and fire Hoover Fellows at will), while others hope for nothing less than the severance of all ties between the University and the think tank.
+
+<p>
+
+	As spelled out at its founding in 1919, the fundamental purpose of the Hoover Institution is to impart knowledge and understanding and to further peace and freedom by its scholarship, research, and vast library holdings.  At the time, Hoover donated $50,000 for the purchase of source documents dealing with World War I and the Bolshevik Revolution.  By 1922 the acquisitions have grown to the size of a full library, and in 1957 the present name, The Hoover Institution on War, Revolution and Peace, was adopted.
+
+<p>
+
+	A wide range of resident and visiting scholars have made Hoover a leading center for research and policy development in domestic and international affairs.  the Institution's 120 researchers include renowned scholars such as Angelo Codevilla, Milton Friedman, Sidney Hook, Seymour Martin Lipset, Alexander Solzhenitsyn, Thomas Sowell, and Edward Teller; six of the Hoover Fellows are Nobel Laureates.  Hoover Fellows and staff members have served with distinction in the administrations of both major political parties and advised Presidents and other elected officials on a range of social, economic, and foreign policy issues.
+
+<p>
+
+	In addition to a body of first-rate thinkers, the Institution now has one of the world's largest private libraries.  The initial "special collection" donated by Hoover quickly grew to encompass important social, political and economic developments in the 20th century.  The library now includes 1.6 million volumes, 3,860 current newspaper and journal subscriptions, and over 40 million documents in the 4,000 special collections.
+
+<p>
+
+	These vast resources emphasize the development of democratic institutions, international affairs, peace negotiations and movements, political ideologies (especially communism, Nazism, fascism, nationalism, and colonialism), political upheavals and revolutions, changes in the status of women, underground resistance movements, governments-in-exile, and military history.
+
+<p>
+
+	The faculty members who oppose Stanford's ties to Hoover, led by professors Manley and Rebholz, have accused the Institution of partisanship.  However, some recent research by Hoover Fellow George Marotta suggests that the charges can go both ways.  Marotta found that, among Hoover Fellows, 34% are registered Democratic, 54% Republican, and 14% independent.  On the other hand, the Stanford faculty is 80% Democratic, 10% Republican, and 10% independent.  From his survey, Marotta concluded that the Hoover Fellows are not too different from the U.S. public in political orientation, although they may appear conservative relative to the Stanford faculty.  (According to a 1987 Gallup Poll, the general U.S. public is 39% Democratic, 32% Republican, and 29% independent.)
+
+<p>
+
+	Unfortunately, the great mutual benefits of cooperation between Hoover and the University are often forgotten.  Distinguished faculty are attracted through joint appointments; research is supported through fellowships and grants to Stanford faculty; conferences are cosponsored; extensive library and archival facilities are shared; and many Hoover supporters become financial contributors to Stanford, and vice versa.
+
+<p>
+
+	Last but not least, Stanford students also derive significant benefits from the presence of the Hoover Institution.  Students have access to the wealth of resources in Hoover's library, work as research assistants to the scholars, and interact with Hoover Fellows who take part in campus speaking engagements.
+
+<p>
+
+	All told, there is much more to Hoover than some of the critics might suggest.  But do not just take our word for it: check it out for yourself.
+
+<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:14:35 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

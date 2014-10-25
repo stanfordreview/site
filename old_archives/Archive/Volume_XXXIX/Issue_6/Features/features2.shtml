@@ -1,0 +1,410 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - December 7, 2007</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style1 {font-style: italic}
+.style2 {font-size: 12px; color: #000000; line-height: 3px; font-family: Tahoma;}
+.style3 {font-style: italic}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXIX, Issue 6 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">December 7, 2007 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">FEATURES</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">War Studied Anew</p>
+              <p><span class="byline">by </span><span class="style2"><a href="http://www.stanfordreview.org/About/Staff/gstarrett.shtml">Grant Everett Starrett</a></span></p>
+              <p class="byline"><em>Staff Writer</em></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>Max Boot may be a military historian who graduated from our unbearable adversary, but, even so, his work is la cr&egrave;me de la cr&egrave;me. Currently a fellow at the Council on Foreign Relations, Boot is a prolific writer of excellent commentary, ranging from his previous work with the Wall Street Journal editorial page, to his columns in the LA Times and Weekly Standard, to his blog with the magazine Commentary, to his two books on war. The previous book, The Savage Wars of Peace, is recommended reading for naval officers and offers an insightful look at American military history &ndash; particularly our dealings with &lsquo;small wars&rsquo; and counter-insurgencies (published in 2003, it is even more relevant given something else that started that year). </p>
+              <p>His latest work, War Made New, is a lengthy treatise on the role of technology in warfare from 1500 to today. As he explains in the beginning, this is no ode to technological determinism, the idea that history is determined solely by technology. Instead, it traces broad movements in new thinking that include actual technological innovations such as the Maxim machine gun as well as, fascinatingly, intellectual innovations, such as those developed by the Nazis in the interwar period of the early 20th century.  The latter is, for me, a really interesting angle, and I thoroughly perused the sections on how much the German General Staff studied their previous mistakes so as not to repeat them &ndash; and how incredibly professionalized they became. Boot presents each case study in a format he nailed in his previous work, opening each chapter with a story that allows readers to live in the moment in which the technology was first being employed. He then follows up each anecdote with aggressive analysis about the impact of this technology in the course of both the grander scheme at play within the story as well as in history. Altogether, War Made New proves to be a fascinating read.</p>
+              <p>In addition to being a general refresher on military history&mdash;and its focus provides an interesting lens through which to examine past conflicts&mdash;there are also tidbits of information irresistible to bring up in conversation. It amazed me, for example, how much previous governments were dedicated to military spending: Louis XIV spent 75% of his budget on defense, Peter the Great 85%, Frederick the Great 90%! I also was taken aback at the fact that anyone would be crazy enough to wage war on the United States in 1941 when I read that, at the time, we produced 2/3 of the world&rsquo;s petrol. I suppose it might have something to do with the average effectiveness of the German soldier, estimated to be 1.5 times that of the average American or Brit. Or here&rsquo;s a drastic image for you: France lost more men in the first six weeks of World War II than the US did in Korea and Vietnam combined.</p>
+              <p>But, of course, some of the most engaging statistics involve the central theme of the book: the US Army had 99% fewer deaths from disease in World War II than in the American Civil War (or, as some might prefer it be called, the War of Northern Aggression). The average number of shots taken to eliminate an enemy tank in World War II was 17. In the first Gulf War, it was close to one &ndash; and they could operate at night. And, of course, everyone knows that air bombing improved from World War II to the first Gulf War, but the rate is still staggering: 10,000 fold. </p>
+              <p>So, either because you need a nice thick book to keep you company by the fireside during these long winter nights, or you would like some quick retorts for your next cocktail party, pick up this book without hesitation or delay!<br>
+                <br>
+                <br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,408 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - October 21, 2005</title>
+<style type="text/css">
+<!--
+.style1 {
+	margin-right: 5px;
+}
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXV, Issue 3 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">October 21, 2005</div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">OPINIONS</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Why We Need Education Reform Now </p>
+              <p class="byline"><p>&nbsp;     </p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p><p>Education has always been a value central to the American dream. While other countries adopted education models that lead to a small elite educated class, America favored a more broadly based
+
+system. Though initially criticized by America&rsquo;s European counterparts, the empirical evidence of the 20th century seems to validate America&rsquo;s approach. Yet, increasingly, the world is catching up. America&rsquo;s economic engine, which depends on a large, educated workforce, is increasingly turning to other countries not only for unskilled labor, but also highly-skilled workers. In the meantime, the education system in America has remained stagnant. </p>
+              <p> Did you know that United Auto Workers is the largest labor union in America? Well, actually, it isn&rsquo;t. The largest labor union in America is none other than the National Education Association (NEA) with 2.7 million members. The NEA was founded in the mid 1800&rsquo;s in order to represent the interests of professional educators. Though the organization became involved in politics from the start, it did not become the collectivist enclave that it now represents for many years to come. In fact, one of the organization&rsquo;s earliest conventions was addressed by keynote speaker Booker T. Washington, a controversial African-American who, after being freed from slavery, spoke to the power of the individual to overcome adversity. </p>
+              <p> Of course, in the last several decades, the NEA has distanced itself from any hint of individual responsibility or self reliance. In the year 2004, the NEA is a decidedly partisan institution. The NEA has publicly opposed measures to improve school accountability, such as mandatory testing in public school. According to USA Today, 9 out of every 10 </p>
+              <p> dollars raised by the NEA goes to fund Democratic candidates. Yet, the NEA is not only concerned with education policy. The NEA has never, in its 150 year history, endorsed a Republican for president. Its official webpage proudly touts several official resolutions adopted at the latest convention. The resolutions include opposition to the war in Iraq, a boycott of Wal-Mart, opposition to CAFTA, support for race preferences and &ldquo;education&rdquo; about the need for debt cancellation for underdeveloped countries. </p>
+              <p> It&rsquo;s a brilliant plan for failure, and it is no wonder that America&rsquo;s primary education system does more to trap individuals in a cycle of poverty than any other government institution. Step 1: form an organization that opposes school choice, forcing students to attend poorly maintained, ineffective socialist hell holes for their &ldquo;education.&rdquo; Step 2: populate the faculties of these schools with members of the union, 75% of which vote Democrat. Step 3: transform the union into a political propaganda tool, adopting a number of resolutions for left wing causes. Result: students that cannot afford to attend private schools, thanks to the NEA&rsquo;s strict opposition to vouchers, will be educated by a contingent of partisan hacks. </p>
+              <p> You know, it is no wonder that I encounter so many brainwashed loony liberals coming out of high school. They have been bombarded with left wing ideology for the past 12 years! According to a recent national history and civics test, only 10 percent of high school seniors could identify America&rsquo;s allies and enemies during World War II. Yet, America is not just failing to teach its students history. In 1999, an international study conducted by Boston College showed American 8th graders to perform significantly worse than other major industrialized countries in math and science. Students in China, Korea and Singapore performed best in the study. </p>
+              <p> Personally, I don&rsquo;t find it all that surprising that these three countries are at the top of the list. Education is as much a result of personal drive as it is environment. Personal drive is largely influenced by cultural factors. Youth in other parts of the world look up to the CEOs and technological leaders in their country as role models. Americans look up to 50 cent as the definition of success. While America has nearly doubled (in real dollars) federal education funding in the past 20 years, achievement has remained nearly constant. Thus, the solution is not money! America spends more than any other country on education, yet our schooling system is getting trampled by more efficient, better organized school systems elsewhere. </p>
+              <p> It is about high time that we reevaluate the way that the public school system functions. First, the funding structure must be reformed. For too long, America has pushed the notion that the ideal of public education is for all schools to be equal. The result is that nearly all public schools are equally miserable. This notion that &ldquo;fairness,&rdquo; interpreted as equal distribution of resources leads to one thing: stagnation. It failed in the Soviet Union, and it has failed our public schools. As it stands, despite efforts to &ldquo;level the playing field&rdquo; with funding regulations, poor communities continue to have poorly performing schools. Yet, qualified students that cannot find an education in their own neighborhood are unable to look elsewhere. It is not only unfair, but immoral to force qualified students to continue to attend a failing school. Voucher programs and the elimination of school districting, for example, would allow these students to simply go elsewhere. This increased competition might incentivize schools to reform in order to attract students. For instance, a recent study by the Cato Institute found that only 40% of school employees are actually teachers. Surely there are jobs outside of the classroom that are necessary for school to be run effectively. Yet, groups like the NEA have turned our schools into a mass of bureaucracy. The result is not just better for the student, but in the big picture, it is better for schools. </p>
+              <p><br>
+               <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

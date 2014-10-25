@@ -1,0 +1,413 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - November 9, 2007</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style1 {font-style: italic}
+.style2 {font-size: 12px; color: #000000; line-height: 3px; font-family: Tahoma;}
+.style3 {font-style: italic}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXIX, Issue 4 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">November 9, 2007 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">FEATURES</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">A Straightforward Film is None the Worse For It</p>
+              <p><span class="byline">by </span><span class="style2">Blair Nathan</span></p>
+              <p class="byline"><em>Staff Writer</em></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>The Kingdom, released on September 28, stars Jamie Foxx as an FBI agent investigating an act of terrorism in Saudi Arabia. Specifically, a residence facility for American oil workers is targeted by a terrorist attack that comes in multiple explosive waves and kills hundreds in the final tally. The Saudis, who prefer to give the attack as low a profile as possible, initially attempt to prevent American personnel from conducting an investigation of the bombings. The kingdom would rather follow up itself on an apparently homegrown attack. Eventually, however, FBI Special Agent Ronald Fleury (Foxx) finagles his way into Saudi Arabia. Fleury brings with him a crack team of agents, who set about seeking the perpetrator of the attacks. The Saudis are none too happy to help, but with the aid of the sympathetic police colonel Faris Al Ghazi, the American team is able to follow leads and overcome the Saudi government&rsquo;s intransigent obstruction of the case. Along with the stern but ultimately endearing Al Ghazi, the team puts the pieces of the puzzle together until it comes close to the truth, at which point the Americans must fight for their lives against the fury of the jihadis.</p>
+              <p>The Kingdom stands out, politically at least, not for what it is but for what it is not. Universal, the film&rsquo;s producer, could have served up typical Hollywood fare. The FBI team could have been abrasive and incompetent. The villain could have been a puppet of the Department of Defense, the CIA, or Mossad (or even all three at once, as befits a particularly sophisticated film). Oil companies could have been given a much more prominent and insidious role, the ne plus ultra of edgy urbanity being the subtle suggestion that, just perhaps, the American oil workers and their families had it coming. Fortunately, The Kingdom goes in for none of this. To be sure, the American Feds are a little surly with their hosts, but no more so than is warranted by the frustration of thwarted professionals. On the whole, then, the film refrains from scoring cheap shots against America and the West, and for this it is to be commended.</p>
+              <p>The movie&rsquo;s treatment of Saudi Arabia is also admirable. The kingdom is not merely exotic and different; rather, it is dangerous and somewhat dysfunctional. The viewer encounters a society in which things are not quite right. The rulers enjoy an opulence that can only be called decadent. This wealth and polish, moreover, belies a great deal to be desired in the governance of the country. The government&rsquo;s investigation of the oil compound bombings is incompetent and lackadaisical (except when it comes to beating suspects, a task at which the police demonstrate considerable &eacute;lan). It is up to the FBI to comb the internet as well as the ruins of the compound in order to find essential clues. Meanwhile, at least one entire neighborhood of Riyadh is the fiefdom of a locally revered terrorist. The viewer is left to ponder the poignant question&mdash;how many such locales exist in Saudi Arabia? And in the Middle East as a whole? The answer to that question is unknown to this reviewer, but it ought to be a matter of the foremost concern for Americans.</p>
+              <p>All of this might suggest that the film is a celluloid roll of jingo, but this is not so. The moral framework of the film may be one of Us versus Them, but the decisive question rests upon who we are and who they are. We are not Americans, or at least we are not exclusively Americans. We are those who share a fundamental revulsion at ideological butchery, who would rather turn their attentions to their families than to dealing with atrocities, and who would rather have orderly communities than zealous ones. They are those who see gears and cogs where others see human beings. They are not interested in any sort of pluralism or tolerance. Nominally, they would only like to be the instruments through which government by righteous revelation is spread across the earth. One suspects, however, that their cause is a more visceral one&mdash;that they live for the destruction that they wreak and the terror they sow.</p>
+              <p>This brings the spotlight to Colonel Al Ghazi. Over the course of the film, we encounter him as much more than an austere officer of the law. We see him as a father and a husband. We see him as a much-needed friend to the unwelcome Fleury. We see him as a good-hearted man caught in a complicated and base world. To wit, Al Ghazi is a nine-to-five, blue-collar cop. In another universe he might be chasing drug dealers through Manhattan or breaking up organized crime in Chicago. As it happens, he is a thoroughly admirable Saudi Arab in this film. The filmmakers&rsquo; conception of us is a rather ecumenical one, and we are surely given to understand that there are Al Ghazis all over the world.</p>
+              <p>Rest assured in any case that The Kingdom is not a moral or political polemic&mdash;it contains scenes of intense action, particularly in the final half-hour. Viewers looking for hand grenades, RPGs, machine guns, and exploding cars will not be disappointed. (Think of Clear and Present Danger&rsquo;s Bogota ambush scene, but extended substantially.)</p>
+              <p>Still, the film raises some important points about Saudi Arabia in particular and the ongoing conflict against terrorism in general. I will not give away the ending, but I will note that the final scene of the film all but states that the struggle against terrorists will be very long and immensely difficult. That&rsquo;s certainly food for thought.<br>
+                <br>
+                <br>
+                <br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

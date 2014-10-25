@@ -1,0 +1,285 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 3 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Beinin_Watch/index.shtml" onMouseOver="window.status='Beinin Watch'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Beinin Watch</font></a><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorial</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letters_to_the_Editor/index.shtml" onMouseOver="window.status='Letters to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letters to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Bob Sensenbrenner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob Sensenbrenner</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Charles Hallford in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Daniel Foley in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Daniel Foley</font></a><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial Board in Editorial'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Board</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Kathy Hart in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kathy Hart</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Laura Surma in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Laura Surma</font></a><br>
+
+<a href="../Opinion/opinion4.shtml" onMouseOver="window.status='Ming Zhu in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Ryan J. Wisnesky in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan J. Wisnesky</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 3
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+March 13, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Affirmative Action Bubbles Hard to Burst
+</font><br>
+
+<b>by Bob Sensenbrenner</b><br>
+News Staff<p>
+
+Bursting the Bubble, a panel discussion series founded this year to raise undergraduate awareness of national issues, held a panel on affirmative action on Tuesday, March 4. 
+
+<p>
+
+Hoover Fellow Shelby Steele, Dean of Admissions Robin Mamlet, Vice President of the College Board Jim Montoya, and Stanford law student Eliot Fladen spoke that evening.  The panel was moderated by Political Science professor Luis Fraga. Speaking to an audience of approximately 170 people, most of them students at Stanford, the panel presented very different views on Affirmative action in their 7 minute speeches and subsequent questions.
+
+<p>
+
+Mr. Montoya, former Stanford Vice Provost for Student Affairs and a self-described "product of affirmative action," described the current controversy as a question of where we wish to go with higher education.  
+
+<p>
+
+He explained that the College Board filed an amicus brief in the Bollinger case because "we feel strongly as an organization that we are still in a period of time where diversity, including race, should be considered."  
+
+<p>
+
+Believing that there is "no one standard of merit," Montoya stated that he believes firmly rather in the richness of experience that affirmative action provides.  According to Montoya, under affirmative action every student admitted to the University is qualified to do the work.
+
+<p>
+
+Dean Mamlet followed Mr. Montoya in the discussion and attempted to explain Stanford's admissions policy. She stated that Stanford's policy as defined by the Faculty Senate includes factors of diversity such as culture, socioeconomic class, race, ethnicity, and life experience.  
+
+<p>
+
+She desires a "broad implementation" of these factors because "Stanford must produce graduates of every race so that their children can come here."  This is a tacit coupling of legacy admissions and affirmative-action policy. 
+
+<p>
+
+Furthermore, she stated that there was no bar, no minimum, no formula, and no points in Stanford's admission policy.  Rather, it relied on nuanced reads of every application.  In these reads, interpretation of SAT scores follows the belief that "One Student's 650 verbal isn't equal to another Student's 650 verbal."  Mamlet admitted that if we were to reduce to SAT scores, most of the students who are at Stanford today would not be at the institution.  
+
+<p>
+
+The third panelist, Eliot Fladen, described himself as neutral on affirmative action, but challenged the prevailing notion that affirmative action has indeed brought true diversity to Stanford.  
+<p>
+
+He described the difficulty conservatives have in gaining tenure and employment at a university and lamented the singular perspective expressed in Stanford's faculty.  When looking for diversity, Mr. Fladen said that "[the] first place for looking is the Professor's podium."  
+
+<p>
+
+When the university makes a good faith effort with the professors from both sides of the ideological perspective, he will then be convinced on affirmative action.  Furthermore, he argued that admissions is a zero-sum game because of the limited amount of spots, and that by giving a certain spot to a group, you take it away from another, resulting in overrepresented groups.
+
+<p>
+
+Finally, Mr. Steele finished the lecture portion of the assembly with a different perspective on affirmative action.  He stated his belief that "affirmative action is a public policy manifestation of white guilt." 
+
+<p>
+
+Defining white guilt as the "vacuum of moral authority" enforced by a stigma on all whites that they are racist, he elucidated that, when the Civil Rights movement was successful, white America acknowledged it was wrong.  
+
+<p>
+
+Because of this, white America lost moral authority, and thus all whites are stigmatized as racist in the same way that blacks at universities are stigmatized as inferior.  Because of this, institutions such as universities created affirmative action to prove that they are not racist.  
+
+<p>
+
+Coupled with his theory on institutional guilt, Mr. Steele also excoriated the creation of racial policies devoted to the recovery of moral authority and to the intellectual development of blacks.  According to him, affirmative action did not provide anything for the development of black people, but only gave an institution moral authority. 
+
+<p>
+
+Because of this, "Institutions don't really care if it works for black people," he said.  Citing the evidence of the dearth of any studies on the efficacy of affirmative action for 30 years into its implementation, Mr. Steele elaborated his point that the current concepts of race reform desire social engineering, not black development.  Mr. Steele stated, "At some level, blacks feel  the shame of affirmative action."
+
+<p>
+
+During the question-and-answer period, several interesting questions were put forth.  Also, a student from Berkeley began a soliloquy about how affirmative action is necessary because of present racism and distributed flyers calling for a march on Washington during the arguing of the Bollinger case, and demanding for the overturning of proposition 209, which bans affirmative action in the University of California System.  One student questioned Dean Mamlet about a study in the Chronicle of Higher Education commissioned by six Ivy League presidents that cited the reasons for a dearth of minority professors as a mismatch of students with universities because of affirmative action, and thus preventing a high enough GPA to get into graduate schools. Ms. Mamlet criticized the study without addressing this possibility.  
+
+<p>
+
+During this period, Mr. Steele queried Mr. Montoya on why minority students were unsuccessful in K-12 education, and whether parental responsibility were a factor. Mr. Montoya replied that it was not.
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:21:58 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

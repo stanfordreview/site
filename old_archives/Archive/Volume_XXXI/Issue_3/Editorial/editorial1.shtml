@@ -1,0 +1,228 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 3 - Editorial</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="index.shtml" onMouseOver="window.status='Editorial'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorial</font></a><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Features'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Features</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Aliyya Haque in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aliyya Haque</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Chris Fish in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Fish</font></a><br>
+
+<a href="editorial1.shtml" onMouseOver="window.status='Editorial Board in Editorial'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Board</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Harrison Y. Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Y. Osaki</font></a><br>
+
+<a href="../Letter_to_the_Editor/lettertotheeditor1.shtml" onMouseOver="window.status='Jennifer Yoon in Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jennifer Yoon</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Michael Hasper in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Michael J. New in Features'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael J. New</font></a><br>
+
+<a href="../Letter_to_the_Editor/lettertotheeditor2.shtml" onMouseOver="window.status='Milton Solorzano in Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Milton Solorzano</font></a><br>
+
+<a href=http://www.stanfordreview.org/Archive/Volume_XXXI/Issue_3/Letter_to_the_Editor/lettertotheeditor3.shtml onMouseOver="window.status='Patricia Alarcon in Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Patricia Alarcon</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Chris Fish in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Stephen A. Cohen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 3
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+October 23, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - Editorial
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Editorial
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Episode 2: The Review Strikes Back
+</font><br>
+
+<b>by Editorial Board</b><p>
+
+Following some of the weakest reporting in recent memory, <i>The Stanford Daily</i> managed to dash what little remained of its journalistic integrity earlier this week. In an exceptionally poor display of writing, the Daily attacked the <i>Review</i> for our comparison of MEChA to the KKK, citing a lack of evidence on our part to support the comparison.<p>
+While criticism is necessary to keep journalists and their papers honest, the criticism must follow a logical argument, remain consistent, and have a strong factual basis before it can be taken seriously.<p>
+With so many blatant falsehoods in their writing, it is obvious the Daily failed to even read the Review before they wrote their editorial.<p>
+For example, the <i>Daily</i> states, " The <i>Review</i> criticizes MEChA for attempting to uphold its own particular culture and unite Hispanics regardless of their particular nationality."  In fact, this is precisely the opposite of our stated criticism of MEChA.
+<i>The Review's</i> criticism of MEChA philosophy centered upon its divisive nature, particularly with regard to Hispanics. <i>The Review</i> never criticized MEChA for attempting to preserve " its own particular culture,"  but rather called into question its ability to unite Hispanics.<p>
+Here is what we said, verbatim: " What is perhaps the most injurious is the disenfranchisement of Hispanics advocated in El Plan Espiritual de Santa Barbara. As opposed to Chicano, 'The Mexican American or Hispanic is a person who lacks self-respect and pride in one's ethnic and cultural background.' Therefore, this plan does not even recognize Hispanics who choose not to emphasize their differences from other Americans due to race as being part of MEChA." <p>
+<i>The Daily</i> also stated that " Although the Review qualifies its use of the Ku Klux Klan within the editorial to be a comparison of the modern-day Ku Klux Klan, which it claims is for some reason more acceptable than the historical Ku Klux Klan" <p>
+The claim that the modern KKK is better, or more acceptable, than the " historical"  KKK was never made. Any racist organization like the KKK should be unacceptable to a diverse society such as ours. A change in tactics to spread the hate does not mean it is better or more acceptable.<p>
+This is what we actually said: " Before proceeding, note that the parallel is between modern day KKK and MEChA, which is a much different organization than the KKK of the past. We are in no way suggesting that MEChA is an organization that lynches and terrorizes other races in the manner the KKK has in the past, nor has MEChA been the cause of intimidation, pain, and anguish as has the KKK. Where the comparisons are familiar, however, are in the present day ideologies of the organizations." <p>
+How did the <i>Daily</i> get it so wrong? Was it because of malicious intent or simply because of incompetence? The answer is both. It is a well-known fact that the <i>Daily's</i> opinions board is dominated by liberals‹the editor-in-chief admitted it, stating that they had " 2 or 3 Republicans on the board of 7 or 8"  (he wasn't sure which at the time). We do not challenge their right to choose their board, nor do we challenge their right to be liberal, as most of the campus is. But when ideology, or perhaps in this case, incompetence, leads to a blatant disregard for the facts, this should cause major concern among the Stanford community that the main paper of the University is not doing their job.<p>
+Furthermore, we find it ironic that the Daily would criticize us for making a comparison of MEChA to the KKK when the <i>Daily</i> itself compared the <i>Review</i> to the KKK a few years ago in an editorial cartoon. The fact that they didn't back up the comparison with evidence should come as no surprise.<p>
+Just ask yourself why every President of the University since Richard Lyman has criticized the <i>Daily</i> for their disregard for the facts and called on them to hire a fact checker. Pick up an issue of the <i>Daily</i>, read it, and you will have your answer.<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:25:16 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

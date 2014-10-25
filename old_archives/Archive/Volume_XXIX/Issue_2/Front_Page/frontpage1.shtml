@@ -1,0 +1,316 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIX - Issue 2 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word From The Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion4.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Alex Robbins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Bob McGrew in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Charles Hallford in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Harrison Osaki in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='Chris Fish in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Fish</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Michael Jason New in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Jason New</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Nels Hansen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Nens Hansen in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nens Hansen</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='William Hudson in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William Hudson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXIX, Issue 2
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+November 7, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIX'; return true" onMouseOut="window.status=' '; return true">Volume XXIX</a> - <a href="../index.html" onMouseOver="window.status='Issue 2'; return true" onMouseOut="window.status=' '; return true">Issue 2</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Stanford College Republicans Lead Effort  to  Return  ROTC  to  Campus
+</font><br>
+
+<b>by Bob McGrew and Charles Hallford</b><br>
+Staff Writers<p>
+
+<table width=348>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIX/Issue_2/Front_Page/images/rotc.jpg" width=348 height=250 alt="ROTC">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>A proud group of students are ready for anything as members of the Berkeley Navy ROTC.</i>
+        </td>
+    </tr>
+</table>
+<br>
+
+
+The Stanford College Republicans have launched their first major initiative: an attempt to bring the military's Reserve Officer Training Corps back to campus.  ROTC has been gone from the Stanford campus since 1969, the height of the Stanford anti-war movement, and the sporadic efforts to bring it back to campus have so far been an unmitigated failure.
+
+<p>
+
+Travis Menk is determined to change that record. He is the co-founder and co-president of the Stanford College Republicans, who wears an Army hat he inherited from his father, class of '75 at West Point. 
+
+<p>
+
+"It's garbage that Stanford pushes diversity left and right, but they won't let us have ROTC on campus," explained Mr. Menk.  "That's just wrong.  We should not be punishing these kids by making their lives miserable."
+
+<p>
+
+ROTC is a nationwide program run by all branches of the armed forces to train reserve officers, who are not assigned to active duty but can be called up at need.  ROTC students receive military training and classes in addition to taking normal schoolwork, and many receive tuition scholarships from the program as well.
+
+<p>
+
+Unlike most universities across the nation, however, Stanford does not have an on-campus ROTC program.  Stanford students who wish to enroll in ROTC must spend hours every week commuting to San Jose State, Santa Clara University, or Berkeley.  Even then, Stanford does not recognize military science credit unless students pay those other universities thousands of tuition dollars to enroll.
+
+<p>
+
+<table align=Right width=394>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIX/Issue_2/Front_Page/images/rotc_sf.jpg" width=394 height=244 alt="Navy Carrier">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>A Navy carrier is a floating city partially powered by students from ROTC.</i>
+        </td>
+    </tr>
+</table>
+
+
+Stanford students find that going off-campus for ROTC makes it even harder to balance with the already-hectic Stanford course-load.  Says sophomore Daniel Foley of the Navy ROTC, "One of the big problems [for ROTC students] is transportation.  That takes up hours every week."
+
+<p>
+
+In ROTC units, which include both Stanford and local students, every student is ranked.  Members can improve their rankings by performing extra services for their unit.  The lack of a unit on campus makes participation difficult due to transit time and costs. "Stanford students are at a disadvantage," stated former midshipman Silvia Cruz, a sophomore active in the effort to return ROTC to campus and a staff member of the Stanford Review.  "If we want to do anything extra, we have to go there and do it."
+
+<p>
+
+While Stanford College Republicans and many members want the ROTC back on campus, not everyone else does.  ROTC left in 1969 due to a Faculty Senate ruling and pressure from students who opposed the Vietnam War.  This ruling denied students credit for ROTC classes, took the title of faculty member away from ROTC instructors, and strongly encouraged the ROTC to leave.  Despite sporadic attempts to revive it on campus, ROTC has never returned.
+
+<p>
+
+The ROTC initiative is the first major project of Stanford College Republicans, started only this year by Travis Menk and Joe Fairbanks.  Their strategy meeting on Tuesday October 29th attracted about a dozen enthusiastic members excited about confronting the university.  Their current plan hopes to use not just campus publicity, but also alumni power and the national media to put pressure on Stanford's policy. 
+Yet the obstacles to returning ROTC to campus are formidable and not simply a relic of the Vietnam War.  The Faculty Senate, which must make the final decision, has given no indication that it plans to change its policy and several outspoken faculty members have opposed any return, based on both ideological and academic grounds.
+
+<p>
+
+Barton Bernstein, a Stanford professor of history, is one such opponent.  In fact, he helped lead opposition to ROTC back to when it was still on campus.
+
+<p>
+
+"I was certainly involved in opposing ROTC [when it left campus]," stated Mr. Bernstein. "It does not meet what I consider Stanford academic standards."
+
+<p>
+
+Mr. Bernstein questioned whether ROTC coursework is of the same caliber as other Stanford courses. "The students who want ROTC [back] should really look at the course material," he said. "They should sit in on classes."
+
+<p>
+
+Ms. Cruz countered that while some of the first-year courses are not academically challenging, the more advanced courses are truly difficult and apply hard-core physics and mathematics. "You've got Stanford students struggling in these classes."
+
+<p>
+
+Other supporters argue that if Stanford will award credit for classes in social dance and posture, then fairness necessitates awarding credit for military science classes as well.  Yet even if ROTC proponents were to prove academic equivalence, some faculty members oppose ROTC on ideological grounds.
+
+<p>
+
+"I understand that there are times when society wants militaristic approaches to problems, but I don't think it's the place of first-rate universities to feed those desires," Cecilia Ridgeway told Stanford Magazine.  She is a professor of sociology and a Faculty Senate member. "Universities are about solving problems through discussion, not military approaches."
+
+<p>
+
+Beyond gaining approval from the Faculty Senate, ROTC supporters face a possibly even larger problem: it is not yet certain that any of the service branches even want to come back to the Stanford campus.  Currently, there are too few Stanford students in ROTC to support a full-fledged program for the Navy, Army, or Air Force.  And even if there were, the military has not yet officially stated its position to return or not.
+"I'm sure that if there were enough numbers, they'd want to come back," assured Antonio Mora, a Stanford senior and the public affairs officer of the Army ROTC battalion at Santa Clara.  "If ROTC as a whole were allowed back on, I think they would.  This is Stanford University, one of the elite universities on the West Coast."
+
+<p>
+
+Yet, despite the problems which must be resolved if ROTC were to return, even ROTC's opponents predict that the effort may be successful.  Says Mr. Bernstein, "If there's a strong effort to bring it back, it will come back in a handful of years."
+
+<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:49:56 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

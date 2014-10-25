@@ -1,0 +1,251 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 5 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Charles Hallford in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Editorial Staff in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Staff</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Michael Hasper in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Travis Menk in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Travis Menk</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='William E. Hudson in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William E. Hudson</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 5
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+April 24, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+The News in Brief
+</font><br>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Diversity Fest</font><br>
+
+	The second annual Diversity Fest 2003, sponsored by Murray, the Comparative Studies in Race and Ethnicity dorm, took place on Friday, April 18. Murray's focus program was established in order to try to promote racial and ethnic understanding among residents and the Stanford community as a whole.
+
+<p>
+
+	Diversity Fest began with a fair in White Plaza during which various student performing arts groups from the campus performed while students could engage in conversation and "see our diverse community in action!" The Fest concluded with a faculty panel, including visiting History Professor Gin Yong Pang and Professor of Sociology C. Matthew Snipp, featuring discussion of marginalized people within marginalized ethnic communities.
+
+<p>
+
+<hr align=center width=300>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>ASSU Reconsiders Special Fees Policy</font><br>
+
+	The ASSU Senate discussed possible changes to the policy concerning special fees in response to the sizable increase in fees requested by student groups, mostly due to the increased number of groups requesting fees. Due primarily to student apathy, almost all student groups who apply for special fees receive the requested funds. In this year's election 57 of 61 groups requesting fees were approved.
+
+<p>
+
+	ASSU Senators fear that the increase in funds per student, which will be $206 for the upcoming year, will cause more students to request special fee refunds, in addition to more publicity of the ability to withdraw funds. Proposed solutions include a possible cap placed on the amount of fees groups a student could vote to approve, stricter budget trimming processes, and more stringent requirements to apply for special fees. However, the ASSU has no current plans to alter the buffer system in which student groups receive the voted amount of money from a calculated overcharge of students no matter how many withdraw funds from the organization.
+
+<p>
+
+<hr align=center width=300>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Stanford Bans Alcohol in All-Freshman Dorms</font><br>
+	As a result of its annual review of the Alcohol Policy, Residential Education, the Dean of Student Affairs, the Dean of Freshm and and Transfer Students, the Department of Public Saftey, and Vaden Health Promotion decided to amend the University's alcohol policy by no longer allowing alcohol to be served at events in all-freshman halls, lounges, or outer areas. The new policy will take effect beginning next year, and is the first change in the policy since 1997 when the use of dorm funds for alcohol was prohibited.
+
+<p>
+
+	Many students and staff believe the new policy will encourage behind-the-scenes drinking and thereby increase danger because of the lack of monitoring by other dorm residents and staff members. However, the administration argues that underage drinking is, in fact, illegal, and that excessive drinking in freshman dorms is a serious problem and they hope the new policy will reduce peer pressure and the number of students who drink underage. 
+
+<p>
+
+<hr align=center width=300>
+
+<p> 
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Queer Awareness Days</font><br>
+
+	The Lesbian, Gay, Bisexual, and Transgender Community Resources Center (LGBT-CRC) are sponsoring the annual celebration of queer issues known as Queer Awareness Days (QuAD). The events began April 16 and will last until April 30.
+
+<p>
+
+	The first event was a National Day of Silence, in which participants protested the silently suffered intolerance and prejudice by not speaking and eating a silent lunch. The purpose of the nationwide event is to promote passage of nondiscrimination laws that include LGBT bias. Other scheduled events include staged play-readings, book-readings, cartoonist presentations, film screenings, musical performances, and political and social discussions.
+
+<p>
+
+Information gathered in part from the Stanford University News Service,  the Stanford Report, and the Stanford Daily
+
+<p>
+
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:22:58 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

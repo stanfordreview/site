@@ -1,0 +1,300 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 1 - Editor's Note</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Beinin_Watch/index.shtml" onMouseOver="window.status='Beinin Watch'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Beinin Watch</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Entertainment/index.shtml" onMouseOver="window.status='Entertainment'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Entertainment</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Bob Sensenbrenner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob Sensenbrenner</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Charles Hallford in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="../Opinion/opinion4.shtml" onMouseOver="window.status='Jeff Russell in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jeff Russell</font></a><br>
+
+<a href="../Opinion/opinion5.shtml" onMouseOver="window.status='Laura Billadello in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Laura Billadello</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Laura Surma in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Laura Surma</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Michael Hasper in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="../Entertainment/index.shtml" onMouseOver="window.status='Ming Zhu in Entertainment'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Piotr Kosicki in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr Kosicki</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Travis Menk in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Travis Menk</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='William E. Hudson in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William E. Hudson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 1
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 26, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - Editor's Note
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Editor's Note
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+New Volume, New Editor, New Look
+</font><br>
+
+<b>by Piotr Kosicki</b><br>
+Editor-in-Chief<p>
+
+<table align=Left width=240>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXX/Issue_1/Editors_Note/images/piotr.jpg" width=240 height=206 alt="Piotr H. Kosicki">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>Piotr H. Kosicki<br>Editor-in-Chief</i>
+        </td>
+    </tr>
+</table>
+
+
+It feels somewhat trite to suggest that the opening of a new volume in the history of the <i>Review</i> is inaugurating a new personality.  The <i>Review</i> has existed since 1987 as Stanford's lone conservative voice, offering a welcoming home to any brave soul willing to admit to being to the right of center in this den of liberality.  Our proudest days have been those of weekly publication schedules focused around investigative pieces that other publications were scared to tackle.  These pieces have allowed the <i>Review</i> to pursue major sociopolitical themes as they relate to the Stanford community, thereby bringing closer together our alumni subscribers who have departed for bigger and better things with students and community members who confront everyday life here in Silicon Valley.
+
+<p>
+
+In recent years, however, the picture has become less rosy.  Our publication schedule has become irregular, our themes inconsistent.  Our writing has from time to time been marred by the cold rhetoric of indignation, as though we have become surprised that our leftist neighbors do not welcome us with open arms.  Instead of looking at ourselves in the context of our neighbors so that we might determine constructive ways to persuade them of the truths that may be plain as day to us, we have bombarded them with unbalance rhetoric that to them may even seem spiteful.  
+
+<p>
+
+In effect, we have sometimes given into the rhetoric of dissociation, trying to an "us vs. them" mentality that results not in building bridges but rather in deepening the gulf between liberals and conservatives.  
+
+<p>
+
+As conservatives, we do not argue that liberals are idiots; such a contention would be short-sighted, hurtful, and unconstructive at the very least.  Instead, we argue that our conservative values enable us to see truths that liberals have prevented themselves from seeing by virtue of their worldview.  In effect, by publishing our conservative viewpoint, we should be bringing a component of truth to the community that demonstrates to everyone the wisdom that we can offer.
+
+<p>
+
+As our new Editor-in-Chief, I vow never to indulge short-sighted alienation of colleagues and neighbors.  The overarching theme for this volume can be summed up in one word: diversity.  Such a theme may appear odd or unorthodox to our committed readership, yet it strikes at the core of a goal that we conservatives of Stanford have ourselves often failed to recognize.  As human as the next bunch, we see that we live among--indeed, we are--a diverse community united by common values.  Our staff includes men and women, whites and blacks, Catholics and Jews, Californians and Texans.  While recognizing who we are, we celebrate one aspect of diversity that liberals who would claim to fight fot diversity to the detah usually miss: its unifying potential.
+
+<p>
+
+Put simply, our diversity should drive us to find and expose instances of institutional and individual discrimination for the inequalities they perpetuate, for the disunity they engender.  
+On 23 January, Stanford University President John Hennessy issued a statement affirming Stanford's commitment "to affirmative action, to the importance of diversity broadly defined."  On 17 February, the ASSU Undergraduate Senate voted to declare its formal support for the president's statement.  (For full details, see <a href="../News/news4.shtml" onMouseOver="window.status='Read the article'; return true" onMouseOut="window.status=' '; return true">Michael Hasper's article</a>.)  
+
+<p>
+
+While we of the <i>Review</i> in principle support the president's commitment to diversity, we cannot accept a blank-check validation of existing mechanisms without first investigating where we stand.  The pending Supreme Court decision with regard to the affirmative-action policy employed by the University of Michigan has given us an opportunity to reexamine our own policies here at Stanford.  While President Hennessy and the ASSU Senate flock to reaffirm the perfection of procedures that have never even been defined for the public, we question unthinking acceptance on all levels, and we take it upon ourselves this volume to follow up on the successes and failures of affirmative action at Stanford.  While respecting the original intent behind affirmative action, we recognize its current form to be a system that has itself institutionalized inequalities and stereotypes that defeat our common goal of promoting diversity.
+
+<p>
+
+At this point, I think it worthwhile to take a step back from the substantive themes of our volume to consider the basic ideas underlying our work.  The fundamental question to which we return again and again is this: what exactly creates the divide between liberals and conservatives?  The last thing I want is to essentialize any group by oversimplifying matters, but, to help foster our conservative goal of preaching our gospel persuasively, I believe I can offer a fair generalization at least of the extremes.  While liberals tend to view the world with boundless idealism that makes them live first and foremost for the ideals of hope, love, and peace regardless of the realities confronting our world, conservatives gravitate toward a cynical realism that prioritizes the immediacies of safety and survival over lofty ideals.
+
+<p>
+
+Clearly, there is ample room for compromise, and we all thankfully blur the line between liberality and conservatism on a regular basis.  I for one acknowledge that my life would indeed be impoverished without love, just as liberals out of necessity acknowledge a need to adapt to the circumstances around them, if for no other reason than to turn in their assignments on time and to get jobs that will allow them to subsist in our society.
+
+<p>
+
+Having made that generalization, I return to affirmative action with a pledge to point out the flaws in the reality of our life at Stanford caused by the absolutization of unrealistic ideals.  Nonetheless, I pledge to respect these ideals, and I call liberals to do the same in their treatment of conservatives.  
+This call leads me to introduce the second theme of this new volume.  Stanford University has long been on the Watch List of the conservative publication <i>Campus Watch</i> for campus antisemitism, and this issue has become all the more pressing since 9-11.  In our commitment to protect diversity by exposing inequalities and acts of discrimination, we of the <i>Review</i> commit ourselves also to documenting the rise of discrimination against Jewish and Zionist academics.  We are inaugurating a new section of the <i>Review</i> called Beinin Watch to keep the Stanford community up-to-date on the activities of Stanford's Professor of Middle Eastern History Joel Beinin, an academic for whom the adjective "controversial" has long been a euphemism.  By the end of the volume, I hope to have secured input from Professor Beinin himself to help move us toward fuller awareness of and solutions to campus antisemitism.
+
+<p>
+
+My hope of conversation with Professor Beinin brings me to my final point on diversity: we respect diversity within our own pages as much as on campus.  I hope that this volume will allow for a broader, more representative exposition of campus conservatism ranging from moderate to reactionary.  Participation from across our side of the ideological spectrum is essential to honest analysis of the events taking place around us.  Diversity in thought has motivated me also to reactivate our Letters to the Editor section, in which I hope to open dialogue between non-conservative readers and staff members in order to achieve an understanding of what our positions mean to the Stanford community.
+
+<p>
+
+I wish to close with a vote of thanks to my predecessor, Joe Lonsdale, who has given me the opportunity to breathe new life into the Review, and to my staff for the commitments I have already asked and will continue to ask of them.  
+
+<p>
+To them, to my readership, and to the entire Stanford community, I pledge my full, honest commitment and intellectual rigor.  I invite anyone and everyone to contact me at any time via e-mail at <a href=mailto:editor@stanfordreview.org onMouseOver="window.status='E-mail the Editor-in-Chief'; return true" onMouseOut="window.status=' '; return true">editor@stanfordreview.org</a> with questions, comments, or concerns.  <p>
+I hope to be responsive to the Stanford community and to our alumni subscribers alike.  Without compromising our ideals, we may actually be able to move closer to a sense of truth by working together to raise the  place and practice of our values in the world around us.<p>
+Thank you to all, and I wish you a great volume! 
+
+<p>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXX/Issue_1/Editors_Note/images/signature.jpg" width=239 height=69 alt="Signature">
+<br>
+Piotr H. Kosicki<br>
+Editor-in-Chief
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:20:50 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

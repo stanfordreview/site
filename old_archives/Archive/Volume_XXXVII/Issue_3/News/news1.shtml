@@ -1,0 +1,411 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - October 13, 2006</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style3 {font-family: Tahoma; font-size: 12px; color: #000000; font-weight: normal; font-style: italic; }
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXVII, Issue 3 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">October 13, 2006</div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">NEWS</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Revisiting a Tear in the Iron Curtain: Hungary</p>
+              <p class="byline">by <a href="http://www.stanfordreview.org/About/Staff/ckelm.shtml">Carl J. Kelm </a><a href="http://www.stanfordreview.org/About/Staff/sbaimel.shtml"></a></p>
+              <p class="byline"><em>News Editor </em></p>
+              <p class="style1"><img src="news1.jpg" width="311" height="235" border="0" align="right"></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>On September 19, the Hoover Institution held a reception announcing the opening of a new exhibit called &ldquo;A Tear in the Iron Curtain: The Hungarian Uprising of 1956&rdquo; to commemorate the affair&rsquo;s 50th anniversary. Speaking at the reception were several notables, including award-winning photographer Erich Lessing, whose work forms a cornerstone of the exhibit; Maciej Siekierski, curator of the institute&rsquo;s East European Collection; Hungarian Consul General Ferenc Bosenbacher, and Austrian Consul-General Martin Weiss. The several speakers briefly informed the audience of the historic event that had drawn the crowd together. </p>
+              <p>In 1956, burdened by an oppressive communist government, irritated by permanent Soviet occupation, and spurred on by hopes of reform in the new era of de-Stalinization, Hungarian students turned-out for a peaceful protest in Budapest. By the afternoon, the band of students had turned into a mass of hundreds of thousands, as they were joined by other Hungarians and even soldiers who abandoned their posts to demonstrate against the status quo. And there was much to protest. After the war, free elections were held, but the occupying Soviet Army ensured the installation of a Communist government in Hungary, despite the fact that the Party had received only 17% of the vote. By 1956, standards of living had dropped below 1938 levels&mdash;a time when Hungary already lagged behind its European counterparts. </p>
+              <p>By nightfall, the protestors had reached the center of the city, near the Parliament building and the Radio Budapest building, at which point the AVH secret police opened fire on the crowd, sparking a transition from peaceful protest to violent revolution. The hard-line Hungarian government then asked the Red Army to help restore order. By the next day, October 24, reformist Imre Nagy, a former prime minister who had been expelled from the party, was restored to power in an unsuccessful attempt to placate the freedom-fighters now filling the streets. Meanwhile, Soviet tanks began to enter the city, but proved unable to quell the resistance. By October 29, the government had promised a package of political and economic reforms and a cease-fire was in effect. Over the next two days, the Red Army withdrew from Budapest&mdash;in a feigned retreat. On November 1, Prime Minister Nagy announced Hungary&rsquo;s neutrality and its withdrawal from the Warsaw Pact. Nagy simultaneously called for the West to recognize this new status and aid in establishing Hungary as a nation independent from the Soviet bloc. The West, however, had to tread lightly around the possibility of open war, and in any case was distracted by the Suez Canal Crisis, which had manifested itself as an invasion of Egypt just three days before. Under Khrushchev&rsquo;s subsequent orders to crush Hungary, the Red Army counter-attacked with even greater force than before, utilizing air strikes, artillery, and tanks in urban warfare. Hungarian Consul Helen Szablya told The Stanford Review that many of the Soviet soldiers used were actually Mongolians brainwashed into thinking they were fighting Americans at the Suez Canal. In this new phase of the conflict, over 100,000 troops and several thousand tanks were used to overrun the freedom-fighters, leaving casualties in the tens of thousands. By November 10, the revolution and the reformist government had been crushed and Nagy captured. He would be executed two years later. </p>
+              <p>Within a matter of weeks, over 180,000 people fled Hungary for nearby Austria; Austrian Consul-General Martin Weiss estimates that 70,000 of those ended up staying. This was a substantial number, considering that there were only 6 million people in Austria at the time. This initial wave of expatriates alone constituted a three percent increase in population in only a few days. The Hungarian Revolution presented a dilemma for Austria. The post-war occupation had ended only a year before, with the Soviet Army agreeing to remove its troops on the condition that Austria remain politically neutral. Consul-General Weiss stated in an interview with The Stanford Review, &ldquo;Ideologically, we were clearly rooted in the West,&rdquo; but at the same time, Austria had to balance that with its position of weakness relative to Soviet might. Weiss further stated that there were very real fears that the Red Army would follow the refugees into Austria and reoccupy the newly freed-state. Though Austria could not openly stand with the West, Weiss states, &ldquo;Our neutrality never meant ideological indifference&rdquo; and the government put that sentiment into practice as &ldquo;very active neutrality.&rdquo; In the immediate aftermath of the revolution, Austria toiled to help the expatriates who had fled the tyranny of the East. Consul Szablya was one of those who fled in the weeks after the Revolution. She escaped with her husband and young children mere days after giving birth to her third child. The stories of refugees like the Szablyas became a testament to, in Weiss&rsquo;s words, &ldquo;how dangerous our neighborhood had become,&rdquo; ultimately helping to discredit communism throughout Austria. After the Hungarian Revolution, Austria further worked with the West through the U.N. while nations like Switzerland meanwhile saw membership as incompatible with neutrality. </p>
+              <p>The Hungarian Revolution not only affected neutral nations like Austria, but the Soviet Union itself. Szablya states, &ldquo;The effect on Soviet policy was that they no longer dared to be as cruel in Hungary. The tyranny was beginning to let up after the first six to seven years of total revenge. They let Hungary become the &ldquo;happiest barrack&rdquo; in the concentration camp, lest people would revolt again.&rdquo; But the Soviets could not pacify everyone enslaved behind the Iron Curtain. The Hungarian Revolution was the bloodiest challenge to the Warsaw Pact governments, but it was neither the first nor the last. Worker strikes and protests had already occurred in Poland a few months before and in East Germany even before that. According to Szablya, &ldquo;Each of the movements tried to learn from the previous ones.&rdquo; From the Polish strikes to the Hungarian uprising to the Czechoslovakian revolt in the spring of 1968, various efforts to break Communism&rsquo;s stranglehold were beaten back, but the dream of liberation could not be killed or overrun.</p>
+              <p>Consul Szablya agrees that the uprising can be considered a moral victory: &ldquo;The Hungarian Revolution was the first nail hammered into the coffin of the Soviet system and the last nail was also hammered in by the Hungarians, when, in 1989, during the Pan-European picnic they let the East German tourists escape into the West, when the Austrian and the Hungarian Ministers of Foreign Affairs cut the physical Iron Curtain. Also, the Hungarian Revolution, or rather the crushing of it, made many western Communists change their minds about their beliefs and abandon their former ideals. Communism could never recover from this. As the Latin saying goes: &lsquo;Gloria Victis!&rsquo;&rdquo; Consul-General Weiss concurred, saying, &ldquo;The seeds of freedom were sown in 1956. The Hungarians were defeated in their fight, but the Soviets could not break their spirit.&rdquo; </p>
+              <p>The Hoover Institution&rsquo;s new exhibit, &ldquo;A Tear in the Iron Curtain,&rdquo; offers a powerful insight into this dark page of history, allowing us to fully grasp the incident&rsquo;s significance. Arranged by the Hoover Institution&rsquo;s Exhibits Coordinator Kyra Bowling, the exhibition draws upon the bountiful Hoover Archives, as well as countless photos taken by Erich Lessing during the Revolution itself. A photographer for Time-Life, Lessing for years captured the nations and peoples of the Eastern Bloc with a lens. Glancing around the displays, his pictures show us citizens-turned-soldiers, spectators glancing upon history in the making, and the casualties of war. But everywhere one sees men and women of determination, passion, and hope. Lessing&rsquo;s photographs invite us, in his words, to &ldquo;look at the courage, to look at the spontaneity of the revolution.&rdquo; </p>
+              <p>The Iron Curtain has long since been torn down, and those who once cowered behind barbed wire, cringed before menacing minefields, and trembled under the Party&rsquo;s eternal gaze no longer need fear. But as Lessing told The Stanford Review, &ldquo;Each nation is a story that never ends.&rdquo; Although Reagan succeeded in sweeping the Soviet Union into &ldquo;the ash heap of history,&rdquo; we should never forget the lessons learned during the tumultuous decades of the Cold War. Whether they come from the tense Cuban Missile Crisis, the bloody Prague Spring, the bittersweet memory of Hungarian freedom-fighters battling in the streets of Budapest, or one of countless other episodes, many lessons remain about the power of ideas and the nature of man&rsquo;s struggle for freedom.</p>
+              <p>&ldquo;A Tear in the Iron Curtain: The Hungarian Uprising of 1956&rdquo; is currently on display in the Herbert Hoover Memorial Exhibit Pavilion. The exhibition is open Tuesday through Saturday, 11AM to 4PM. It will remain open until December 15.<br>
+                    <br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

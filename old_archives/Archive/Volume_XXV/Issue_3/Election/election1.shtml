@@ -1,0 +1,234 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXV - Issue 3 - Election</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.shtml" onMouseOver="window.status='A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Note From Bob</font></a><br>
+
+<a href="../Best_Of_Web/index.shtml" onMouseOver="window.status='Best of the Web'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Best of the Web</font></a><br>
+
+<a href="../Election_Roundup/index.shtml" onMouseOver="window.status='Election Roundup'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Election Roundup</font></a><br>
+
+<a href="index.html" onMouseOver="window.status='Election'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Election</font></a><br>
+
+<a href="../Feature/index.html" onMouseOver="window.status='Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Feature</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="../Interview/index.html" onMouseOver="window.status='Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Interview</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.html" onMouseOver="window.status='Bob McGrew in A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='David Myszewski in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="election2.shtml" onMouseOver="window.status='Henry Towsner in Election'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Feature/index.html" onMouseOver="window.status='John McCarthy in Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>John McCarthy</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Kurt Berglund in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kurt Berglund</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Matthew Barrett in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="election1.shtml" onMouseOver="window.status='Scott Rasmussen in Election'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXV, Issue 3
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+November 6, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXV'; return true" onMouseOut="window.status=' '; return true">Volume XXV</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - Election
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Election
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+The Republican Philosopher King
+</font><br>
+
+<img src="images/bush_side.jpg" alt="George W Bush" width=120 height=162 align=left>
+	"One of you -- one of you -- is about to be elected the leader of the single most powerful nation in the world -- economically, financially, militarily, diplomatically, you name it," stated moderator Jim Lehrer at the beginning of the second presidential debate.  "Have you formed any guiding principles for exercising this enormous power?" George W. Bush's and Al Gore's answers to this question reveal a difference in political philosophy that underlies the rest of this campaign's programs, politicking, and posturing.  Mr. Bush believes in the American people; Mr. Gore believes in American government.<p>
+
+	Mr. Bush answered first, "The first question is what's in the best interests of the United States? What's in the best interests of our people?  ...  I also understand that an administration is not one person, but an administration is dedicated citizens who are called by the President to serve the country, to serve a cause greater than self."<p>
+
+	Mr. Gore responded, "And I see our greatest natural -- national strength coming from what we stand for in the world.  I see it as a question of values. . . . So I think first and foremost, our power ought to be wielded to -- in ways that form a more perfect union."<p>
+
+	Discerning concrete differences between the proposals of Messrs. Bush and Gore is difficult, intentionally so.  In an effort to reach out to critical blocs of the electorate in this too-close-to-call election, both candidates present centrist solutions to the common problems of the nation's common demographic groups.  Reform Medicare to appeal to seniors, reform Social Security to appeal to baby boomers, reform education to appeal to young families, reform the government's finances to appeal to workers.  The salient difference between the candidates is not the programs they propose or the people they want to appeal to, but rather the philosophies of government that will shape their every action as chief executive.  And this difference is clear, as the candidates stated for themselves in the second debate.  Mr. Bush stands for American interests, Gore stands for American values.  Mr. Bush defers to the American people, Gore wants to make their government more perfect.<p>
+
+	Using the lens of the candidates' underlying philosophical differences sheds light on what appear initially to be indistinguishable proposals.  Yes, Messrs. Bush and Gore want to address the same issues to appeal to the same voters, but the problems that they perceive and the ways they plan to solve them are dictated by their ideas of the purpose and practice of government.<p>
+
+	Mr. Gore sees rising health care prices for senior citizens and believes that government can do better, so his solution is to increase the size and the cost of the Great Society Medicare program.  Mr. Bush sees in the current Medicare crisis an opportunity to harness the free market principles of choice and competition, so his solution is to give seniors access to the same set of collectively bargained health plans that members of Congress have.<p>
+
+	Mr. Gore sees Social Security's projected financial imbalance as a test of New Deal big government, so his solution is to expand the federal government's role in the program by feeding it more taxpayer dollars.  Mr. Bush sees Social Security as a promise to the American people, so his solution is to give them the choice to meet their needs through a mechanism that is indisputably more efficient and more reliable than government handouts in the long run: the free market.<p>
+
+	Mr. Gore sees education as a new arena for big government, so he seeks to expand federal control by sending standards and teachers to states.  Mr. Bush sees education as the responsibility of parents and
+of communities to provide for children, so he seeks to strengthen them through choice and incentives.<p>
+
+	Mr. Gore sees the projected budget surplus as the government's money to spend, and seeks to use it to expand the role of the federal government in individuals' lives by creating new pet projects and shoring up the finances of old entitlements.  Mr. Bush sees the surplus as the taxpayers' money, and seeks to return it to dedicated American workers to invest in the same economic activities which produced the wealth in the first place. <p>
+
+	One need only look so far as the candidates' repeated mantras to see whom, or what, they put their trust in.  As an advocate of "Reinventing Government," Mr. Gore believes that he can solve individuals' problems by making the federal government better at interfering in their lives.  As a "compassionate conservative," Mr. Bush believes that the most compassionate thing a government can do is to allow individuals to decide for themselves how they will pursue their own happiness.  In a campaign of nearly identical proposals and positioning, the candidate whom you put your trust in may well hinge on a simple philosophical question: who trusts you?<p>
+
+<i>Scott Rasmussen is a sophomore, considering a major in  Mathematical and Computational  Science. Scott was in second grade the last time a Republican won the White House.</i><p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:53:39 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

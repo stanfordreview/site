@@ -1,0 +1,270 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIX - Issue 1 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href=http://www.stanfordreview.org/Archive/Volume_XXIX/Issue_1/A_Word_From_The_Editor/index.shtml onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word From The Editor</font></a><br>
+
+<a href="../Entertainment/index.shtml" onMouseOver="window.status='Entertainment'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Entertainment</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Harrison Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Jen Loomis in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jen Loomis</font></a><br>
+
+<a href="../News/news5.shtml" onMouseOver="window.status='Joe Fairbanks in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Fairbanks</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.html" onMouseOver="window.status='Joe Lonsdale in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Mark Zavislak in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="../Entertainment/entertainment1.shtml" onMouseOver="window.status='Ming Zhu in Entertainment'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Stephen Cohen in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Stephen Cohen</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='William E. Hudson in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William E. Hudson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXIX, Issue 1
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+October 24, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIX'; return true" onMouseOut="window.status=' '; return true">Volume XXIX</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Taking Out Saddam Hussein Gives a Chance for Peace
+</font><br>
+
+<b>by William E. Hudson</b><br>
+Staff Writer<p>
+
+The war against Iraq is really about the three major powers in the region. Not surprisingly, the problems are many.
+
+<p>
+
+
+Iraq is the most immediate threat to our country and indeed most of the world at large. Producer and proliferators of weapons of mass destruction, Iraqi dictator Saddam Hussein used his own people as shields in the Gulf War, and there's very little to indicate that his record on freedom and human rights can realistically get much worse. Iran also boasts a passionate but imprisoned people. Restricted and held hostage by their Islamofascist government, the Iranian people are beginning their slow process to freedom even now. The Saudi kings have kept their totalitarian power by remaining out of the lives of most of its citizens -- unfortunately, visiting Christian ministers and charity groups have not qualified for this benevolence, and are often jailed.
+
+<p>
+
+The reasons why the United States has not intervened in the Middle East in the scope it warrants are layered and complex, but one is quite simple -- Saudi Arabian oil. Although the United States receives less than 12% of its oil from the Saudis, our European and Asian allies are almost completely dependant upon it; unrest or instability in the Saudi kingdom is a death knoll for many of our closest friends and security partners. While a regime change in Iraq would bring short-term stability and make the world much safer from weapons of mass destruction, the resulting political shockwaves could destroy the balance of power in the Arab world - undoubtedly, this is precisely what the administration is counting on.
+
+<p>
+
+When Iraq is toppled, the only major military power in the Arab world will have collapsed. The people, while ready for a regime change and release from Hussein's despotism, are in no way friendly to the United States or its regional ally, Israel. The miseducation and religious fundamentalism that penetrates and supercedes political regimes is long-entrenched and extremely stubborn; no amount of Western policymaking is going to undo decades of unfounded hatred and genocide. The people of Iraq, spiritual yet misguided, must turn to a Muslim source of success and power that is also geographically near their country. For the people of Iran, there is also no question of the will to topple their leaders and live free, liberated lives, but they also must turn to religious sources to undo religious hatreds. The fanaticism is so deeply entrenched that no amount of market-economy proselytizing will erase or placate these vicious emotions and heritages.
+
+<p>
+
+In Iran, however, are the seeds of hope. If and when the people of that beleaguered country throw of their shackles and replace their leader, it will undoubtedly be one whose views will conflict with those of the United States, but the mere fact that the people are now in some small way liberated is nevertheless immensely encouraging and progressive. Iraq, soon to follow courtesy the American army, will be posited alongside its long-time regional foe as newly-reformed states. They will need leadership, economically, politically, and spiritually.
+
+<p>
+
+The most important thing the United States can possibly do at this point is to renounce its support for the Saudi regime. Aid and leadership in the region cannot and must not come from Saudi Arabia, because if this happens, the process will simply repeat itself under new leadership. The United States is considered too biased by its Arab observers, and the lay Arab knows this full well. Israel is out of the question at this point. Perhaps the best source of leadership and inspiration lies a bit to the north -- Turkey.
+
+<p>
+
+The choice makes a tremendous amount of sense, for a variety of reasons. A strongly Muslim country whose people have avoided fundamentalism and extremism while still holding on to their religious zeal would be encouraging the rest of the Arab world, and their economic successes would give hope to a hopeless landscape. Additionally, ties with Iran are already pre-existing, and the development of a southern Caspian Sea oil pipeline through Iran and Iraq into Turkey would further economic reform and rebuilding in the former two countries while strengthening ties with the latter. The reinvigorated economies of Iran and Iraq would, with time, lead to market-based economies and with the Caspian pipeline development, most likely to Iran and Iraq renouncing their ties with OPEC.
+
+<p>
+
+As less and less countries partake in the OPEC thug-show, there will be less and less incentive to stay -- the fewer the member states, the fewer the benefits for each state that limits production. Indeed, as Kuwait discovered in 1990, massive gains can be had by simply cheating OPEC's restrictions. With Iran and Iraq now able to more fully utilize their oil resources, and with sufficient markets in which to sell them, thanks to their regime changes and ties with Turkey, the Iraqi invasion that was sparked by a Kuwaiti "economic war" would not be repeated; it simply wouldn't make sense to do so.
+
+<p>
+
+In short, the Saudis would be left alone in the region, and although they would hold a significant amount of the world's proved oil supply, they would have to compete with the newly independent states, force-feeding market capitalism to the Saudi princes. As the market economy grew wider, so would the grip of the Saudi kings weaken against their people, and they would have less and less incentive to sit idly by as their rulers bathed in monopolistic riches. The leaders, without military or police powers, would be easily overthrown, and the Saudis would follow the example of their successful brethren and turn to Turkey for support and leadership, and because this would not be a result of direct American involvement, it would be more palatable to the Islamic fundamentalist crowd, whose likes would be gradually thinned by the combination of the Turkish moderate example and a growing capitalist ethos.
+
+<p>
+
+Eventually, this could contribute to the formation of a regional economic organization similar to NATO or the OAS, which would not just focus on oil but instead all economic activities, fostering free trade and therein expanding Arab business venues and diversifying the Arab economies. This is absolutely essential for long-term Arab economic success and for international security.
+
+<p>
+
+Finally, with moderate governments in power and with the region's countries looking for new markets, the Palestinians -- who have never had much support with the Arab people in general -- would be left without despots to applaud suicide bombers and with no dictator who would fund their efforts. And as the markets become more and more interdependent, so would the people -- and perhaps we'd finally see some peace in that troubled region.
+
+<p>
+
+All of this, of course, depends on the success of liberty in Iran. Iran is on the verge of a revolution. Kuwait is no friend of Saddam. Both are targets for any Iraqi weapons of mass destruction; the first case would effectively thwart any revolution and thereby make the first positive step towards basic human rights and democratic rule in the region collapse before it got started. In the second case of Kuwait, there is sufficient political and economic collateral to make the case appealing to a tyrant like Saddam Hussein. 
+
+<p>
+
+Essentially, then, Saddam with weapons of mass destruction would be able to solidify his own power, deter the United States or United Nations from intervening, and furthermore be able to deter revolutionary democracy and human rights in the region, especially in Iran. Democratic rule on his borders would endanger the political vitality of Saddam's reign and would ultimately shift the balance of power in the region in a fairly fundamental way -- by deterring such revolution under the smokescreen of biological or nuclear weapons, Saddam maintains control of his country and solidifies the Middle Eastern resistance to reform and democraticization.
+
+<p>
+
+It's easy to envision a revolution in Iran, but it's difficult to envision a successful one while Iraq still has weapons of mass destruction capable of firing on any revolutionary regime in Iran. For the freedom of the Iraqis, for the freedom of the Iranians, for the freedom of the Middle East, those weapons of mass destruction will simply have to go. Our president realized this some months ago; it's time now to support him and his brave push towards peace and justice in the Middle East. Regardless of politics, we can all agree on that.
+
+<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:49:35 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

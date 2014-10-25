@@ -1,0 +1,261 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVIII - Issue 1 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Alex Robbins in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Andrew Wright in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Harrison Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="../Editors_Note/index.html" onMouseOver="window.status='Henry Towsner in Editor\'s Note and Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Joe Lonsdale in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Matthew Barrett in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Ming Zhu in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Sam Shapero in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVIII, Issue 1
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 14, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVIII'; return true" onMouseOut="window.status=' '; return true">Volume XXVIII</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Glenn Campbell: 2001-02 Man of the Year
+</font><br>
+
+<b>by Henry Towsner</b><br>
+Editor in Chief<p>
+
+<table align=Left width=150>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVIII/Issue_1/Front_Page/images/campbell_hoover.jpg" width=150 height=264>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>Glenn Campbell served for 30 years as director of the <a href=http://www-hoover.stanford.edu/ onMouseOver="window.status='Hoover Institution'; return true" onMouseOut="window.status=' '; return true">Hoover Institution</a>, during which time he built it into a nationally renowned think tank</i>
+        </td>
+    </tr>
+</table>
+
+	Every year the <i>Stanford Review</i> honors a Man of the Year, a tradition dating back to shortly after our founding.  However, in all those years, we have overlooked an individual who has earned the title many times over.  Perhaps too late, given his recent death, we have decided to rectify the situation by naming Glenn Campbell, former director of the <a href=http://www-hoover.stanford.edu/ onMouseOver="window.status='Hoover Institution'; return true" onMouseOut="window.status=' '; return true">Hoover Institution</a>, as the 2001-2002 Man of the Year.
+
+<p>
+
+	Mr. Campbell's contributions to the nation as a whole are plentiful.  He served two terms on the University of California's Board of Regents, one of them as its chairman.  He was a member of both the National Science Board and the President's Foreign Intelligence Advisory Board, as well as chair of the President's Intelligence Oversight Board.  None of these, however, would be enough to make Mr. Campbell the Man of the Year.  It is for his work at Stanford that we are thanking him.  
+
+<p>
+
+	In 1960, Mr. Campbell accepted a position as director of a small library on the Stanford campus.  Thirty years later he retired from a world class think tank.  While a few particularly prominent people (Milton Friedman, George Shultz, Edward Teller, and a few others) are usually mentioned to demonstrate the caliber of people Mr. Campbell brought to Hoover, it is the complete list of Hoover scholars which is so impressive.  They have influenced national policy for decades, advising one president after another.  Indeed, in the last twenty years, Hoover's scholars have served in a host of positions in the federal government, including Secretary of State and National Security Advisor.  It is worth noting the researchers from Hoover have worked for every president, Republican or Democrat, since Nixon.
+
+<p>
+
+	Most important, at least from Stanford's point of view, is the resource the Hoover Institution has been to the campus.  Besides bringing many outstanding researchers to the school, it has collected one of the world's largest libraries of documents, a treasure trove for anyone in the social sciences.  Hoover's scholars have been part an integral part of Stanford's rise to be in the top handful of Universities in the country, and it was Mr. Campbell's work that put Hoover in the top handful of think tanks.
+
+<p>
+
+	It has often been acknowledged, if not by Stanford itself, that neither Mr. Campbell nor the Hoover Institution have ever been given the respect they deserve by most of the campus.  While I was interviewing students for a position in Stanford's student government, one, who stated on his resume that he was a research assistant at Hoover, felt the need to disclaim that the job did not reflect his political views.  And while the campus has been quieter lately, throughout the sixties and seventies some professors joined students in literally assaulting the Hoover Institution, breaking windows and attempting to occupy the buildings.
+
+<p>
+
+	A continuous battle between Stanford and Mr. Campbell began early in Mr. Campbell's tenure as director, only a few months after he began.  Over the next thirty years, the Academic Council and its successor, the Faculty Senate, along with several University Presidents and, of course, hordes of students, cursed Mr. Campbell, demanded his removal, and even burned him in effigy.  They profited little; Mr. Campbell managed to fight off attack after attack, maintaining the Institution's ideological and financial independence as well as his own position as director.
+
+<p>
+
+	Indeed, Mr. Campbell has often turned the attacks of his opponents into victory.  He turned broken windows into a fundraising bonanza, and in 1989, the year he turned 65, he managed to extract a substantial retirement package and a reaffirmation of the Hoover Institution's independence in exchange for his retirement.
+
+<p>
+
+	However the <i>Stanford Review</i> has a more direct reason for honoring Mr. Campbell.  From its founding, the <i>Review</i> has had a friend and supporter in Mr. Campbell.  His advice was essential to the paper's early years, and we would probably not have survived long without the aid he provided.
+
+<p>
+
+	Glenn Campbell's years at Stanford have had an enormous impact on the school; without his tenacity Stanford might have faded into obscurity.  Mr. Campbell richly deserves to be recognized as the Man of the Year.
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:16:24 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

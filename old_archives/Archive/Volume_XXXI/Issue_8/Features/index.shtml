@@ -1,0 +1,282 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 8 - Features</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Features'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Features</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinions'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinions</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Shawn M. Sims in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Shawn M. Sims</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Sam Shapero in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+<a href="../Editorial/editorial1.shtml" onMouseOver="window.status='Chris Fish in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Fish</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Ben Guthrie in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ben Guthrie</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Joseph A. Fairbanks in Features'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joseph A. Fairbanks</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='David Stat in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Stat</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 8
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+January 29, 2004</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 8'; return true" onMouseOut="window.status=' '; return true">Issue 8</a> - Features
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Features
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+The Good and the Bad: Memorable Moments in Recent US History
+</font><br>
+
+<b>by Joseph A. Fairbanks</b><br>
+Associate Editor<p>
+
+<p>The Good: 
+
+<p>"To The Moon We Will Go"
+<br>President John F. Kennedy
+<br>September 12, 1962
+<p>With the Soviet Union far ahead in the Space Race, President John F. Kennedy made it one of the priorities of his presidency to put a man on the moon within a decade.  Speaking at Rice University in Texas, President Kennedy, in one of his most memorable presidential addresses, told the audience: 
+<p>"We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too."
+<p>
+<p>"I Have A Dream"
+<br>Martin Luther King, Jr.
+<br>August 28, 1963
+<p>
+<p>Martin Luther King, Jr., emerged as a leader of the American civil rights movement after organizing the famous 1955 bus boycott in Montgomery, Alabama. Throughout his career he pressed for equal treatment and improved circumstances for blacks, organizing nonviolent protests and delivering powerful speeches on the necessity of eradicating institutional racial inequalities. In 1963 King led a peaceful march between the Washington Monument and the Lincoln Memorial, where he delivered his most famous speech, "I Have a Dream."
+<p>"I have a dream that one day this nation will rise up and live out the true meaning of its creed: 'We hold these truths to be self-evident, that all men are created equal.' ... I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character...When we let freedom ring, when we let it ring from every village and every hamlet, from every state and every city, we will be able to speed up that day when all of God's children, black men and white men, Jews and Gentiles, Protestants and Catholics, will be able to join hands and sing in the words of the old Negro spiritual, "Free at last! Free at last! Thank God Almighty, we are free at last!""
+<p>
+<p>"The Miracle On Ice"
+<br>United States Hockey Team
+<br>February 22, 1980
+<p>
+<p>On February 22, 1980, the young United States hockey team was to play a heavily favored veteran Soviet Union squad in the semifinals of the 1980 Winter Olympics. The Americans had been no hope of beating the Soviets. As the final seconds in the game ticked away with the US holding a 4-3 lead, announcer Al Michaels exclaimed, "Do you believe in miracles? Yes!" The term "Miracle on Ice" was coined by the media to describe one of the greatest upsets in sports history.  The US team advanced to the finals and defeated Finland to win the gold medal.
+<p>
+<p>"Tear Down This Wall!"
+<br>President Ronald Reagan
+<br>June 12, 1987
+<p>
+<p>With the defeat of the Soviet Union in the Cold War close at hand, President Ronald Reagan took a trip to West Berlin to deliver a speech urging the the leader of the Soviet Union, Mikhail Gorbachev, to join the free world in uniting Berlin. President Reagan's speech was delivered on the West side of the wall, yet it was clearly audible on the Communist controlled East side. The most memorable part of the speech was a phrase advisors to Reagan thought was too provocative and, thus, urged him not to use. He declined their advice and issued one of the most memorable moments of his presidency:
+<p>"General Secretary Gorbachev, if you seek peace, if you seek prosperity for the Soviet Union and Eastern Europe, if you seek liberalization: Come here to this gate! Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this wall!"
+<p>
+<p>"They Will Hear All of Us Soon!"
+<br>President George W. Bush
+<br>September 14, 2001
+<p>
+<p>On September 14th, 2001, just three days after terrorist attacks on the United States began the War on Terrorism, President George W. Bush met with the firefighters and rescue workers searching for survivors in the rubble where the World Trade Center once stood. Delivering an impromptu speech with a megaphone and his arm around a Chief firefighter, President Bush inspired the crowd who was chanting "USA! USA! USA!" as the president spoke: 
+<p>"I can hear you! I can hear you, the rest of the world hears you... and the people who knocked these buildings down will hear all of us soon."
+<p>Soon, they did:
+<p>On October 7th, 2001, after refusing to meet the demands of the United States to surrender Osama bin Laden and al Qaeda terrorists, military strikes on the Taliban and an invasion of Afghanistan was ordered by the president to seek and destroy all terrorist infrastructure and overthrow the terror-supporting regime. President Bush, addressing the nation, assured the American people:
+<p>"We will not waver; we will not tire; we will not falter; and we will not fail.  Peace and freedom will prevail."
+<p>
+<p>The Fall of Saddam Hussein
+<br>United States Military
+<br>April 15th, 2003
+<p>
+<p>After defying and threatening the world for 12 years, Saddam Hussein chose to go to war against a coalition of over 30 countries for not opening his country to weapons inspections and brutally murdering and oppressing his own people. He was handily defeated and forced to flee and literally hide in a hole.  As coalition forces took Baghdad, Iraqis celebrated in the streets and attempted to topple the huge statue of their former dictator. Others took turns throwing slippers and shoes at the statue as they waited for it to start falling. But when U.S. Marines saw that the Iraqis needed help, they intervened. The statue finally came down with the help of some strong rope and armored vehicles, signifying the end to the regime of Saddam Hussein.
+<p>
+<p>The Bad: 
+<p>
+<p>"Challenger Explosion -- They Touched the Face of God"
+<br>President Ronald Reagan
+<br>January 28, 1986
+
+<p>Seventy-three seconds after the launch of the Space Shuttle Challenger, the seven member crew were killed and the shuttle destroyed by an explosion caused by a fatal design flaw in the shuttle's launch mechanism. Though it was to be the 25th shuttle launch since the beginning of the shuttle program, this was no ordinary flight. Christa McAullife was to be the first teacher to fly in space.  With her training complete and her school children eagerly anticipating her trip, there was a wide spread sense of excitement throughout the entire country. Because of the unique nature of this launch, everyone in the countryčincluding McAullife's school childrenčwere watching. What they saw was the unbelievable site of the shuttle bursting into flames and splitting apart in mid-flight. The last words of the crew, most likely of pilot Mike Smith, was a simple recognition that there was a serious problem: "Uh oh." Scheduled to give his State of the Union Speech that night, President Ronald Reagan decided to meet with the families of the astronauts instead.  In his televised address he attempted to comfort the shocked and grieving families and nation:
+<p>"There's a coincidence today. On this day 390 years ago, the great explorer Sir Francis Drake died aboard ship off the coast of Panama. In his lifetime the great frontiers were the oceans, and a historian later said, "He lived by the sea, died on it, and was buried in it." Well, today we can say of the Challenger crew: Their dedication was, like Drake's, complete.
+<p>The crew of the space shuttle Challenger honored us by the manner in which they lived their lives. We will never forget them, nor the last time we saw them, this morning, as they prepared for their journey and waved good-bye and ‘slipped the surly bonds of earth' to ‘touch the face of God.'"
+<p>
+<p>September 11th Terror Attacks
+<br>The People of NYC, Washington D.C., Pennsylvania
+<br>September 11th, 2001
+<p>
+<p>At 8:45 a.m., a hijacked passenger jet, American Airlines Flight 11, crashed into the north tower of the World Trade Center, tearing a gaping hole in the building and setting it afire. Soon after, at  9:03 a.m., a second airliner, United Airlines Flight 175, crashed into the south tower, making it clear to the world that the United States was under attack by terrorist organizations. At 9:43 a.m., a third hijacked airliner was crashed into the Pentagon.  Most Americans woke that morning to see picture of the burning towers and to hear the confused and false reports spread that the Mall was set ablaze and a bomb had been detonated at the State Department. President Bush was in Florida getting ready to read to a class of elementary school students when his Chief of Staff, Andrew Card, whispered into his ear that the nation was under attack.  Shortly after delivering a statement to the American people that we had suffered "an apparent terrorist attack," the president was evacuated on Air Force One to a secret location, escorted by military fighter jets. Further reports came in that additional hijacked airplanes were headed for separate attacks on an unknown location, prompting President Bush to order any hijacked plane shot down by military fighters, if necessary. It was not necessary.  Aboard the fourth hijacked airliner, United Airlines Flight 93, a brave group of passengers staged a coup to take the plane back from the terrorists or crash it in the process so that it could not reach its destination. Led by passengers Tom Burnett, Jeremy Glick, Mark Bingham, and Todd Beamer, on the order of "Let's roll," the 40 passengers of United 93 sacrificed their lives and saved the nation from further disaster by attacking the terrorists and forcing the plane to crash in a field in Pennsylvania.  Later that night, President Bush addressed the shocked nation: 
+<p>"Today, our nation saw evil, the very worst of human nature. And we responded with the best of America -- with the daring of our rescue workers, with the caring for strangers and neighbors who came to give blood and help in any way they could... The search is underway for those who are behind these evil acts...We will make no distinction between the terrorists who committed these acts and those who harbor them... America and our friends and allies join with all those who want peace and security in the world, and we stand together to win the war against terrorism. Tonight, I ask for your prayers for all those who grieve, for the children whose worlds have been shattered, for all whose sense of safety and security has been threatened. And I pray they will be comforted by a power greater than any of us, spoken through the ages in Psalm 23: "Even though I walk through the valley of the shadow of death, I fear no evil, for You are with me." 
+<p>This is a day when all Americans from every walk of life unite in our resolve for justice and peace. America has stood down enemies before, and we will do so this time. None of us will ever forget this day. Yet, we go forward to defend freedom and all that is good and just in our world."
+<p>
+<p>"Columbia Disaster -- In the Skies, Destruction and Tragedy"
+<br>President George W. Bush
+<br>February 1, 2003
+<p>
+<p>Like the Challenger's mission, the Space Shuttle Columbia's mission was to be a first and memorable one.  One of the seven astronauts was Colonel Ilan Ramon, the first Israeli to go into space. Ramon was the source of a strong sense of pride in a war-torn Israel. Not only was he the first Israeli to make a journey into space, but he dropped a bomb that destroyed a nuclear plant in Iraq in 1981, saving the world from nukes in the hands of Saddam Hussein. He had taken with him on his trip into space a drawing made by a 14-year-old boy who died in a concentration camp. The picture showed Earth as he imagined it would be seen from space.  After spending half a month in space, Columbia prepared to return to earth. 200,000 feet over Texas, Columbia broke apart in flames, killing all seven astronauts just minutes before they were to land in Florida. Much like former President Reagan, President George W. Bush was once again facing a nation in disbelief and sadness.
+<p>"My fellow Americans, this day has brought terrible news and great sadness to our country. At 9:00 a.m. this morning, Mission Control in Houston lost contact with our Space Shuttle Columbia. A short time later, debris was seen falling from the skies above Texas. The Columbia is lost; there are no survivors. 
+<p>The cause in which they died will continue. Mankind is led into the darkness beyond our world by the inspiration of discovery and the longing to understand. Our journey into space will go on. 
+<p>In the skies today we saw destruction and tragedy. Yet farther than we can see there is comfort and hope. In the words of the prophet Isaiah, "Lift your eyes and look to the heavens. Who created all these? He who brings out the starry hosts one by one and calls them each by name. Because of His great power and mighty strength, not one of them is missing."
+<p>The same Creator who names the stars also knows the names of the seven souls we mourn today. The crew of the shuttle Columbia did not return safely to Earth; yet we can pray that all are safely home."
+<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:27:27 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

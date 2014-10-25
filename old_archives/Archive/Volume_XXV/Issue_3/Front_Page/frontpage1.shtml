@@ -1,0 +1,246 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXV - Issue 3 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.shtml" onMouseOver="window.status='A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Note From Bob</font></a><br>
+
+<a href="../Best_Of_Web/index.shtml" onMouseOver="window.status='Best of the Web'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Best of the Web</font></a><br>
+
+<a href="../Election_Roundup/index.shtml" onMouseOver="window.status='Election Roundup'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Election Roundup</font></a><br>
+
+<a href="../Election/index.html" onMouseOver="window.status='Election'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Election</font></a><br>
+
+<a href="../Feature/index.html" onMouseOver="window.status='Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Feature</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="../Interview/index.html" onMouseOver="window.status='Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Interview</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.html" onMouseOver="window.status='Bob McGrew in A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='David Myszewski in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Election/election2.shtml" onMouseOver="window.status='Henry Towsner in Election'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Feature/index.html" onMouseOver="window.status='John McCarthy in Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>John McCarthy</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Kurt Berglund in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kurt Berglund</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Matthew Barrett in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="../Election/election1.shtml" onMouseOver="window.status='Scott Rasmussen in Election'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXV, Issue 3
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+November 6, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXV'; return true" onMouseOut="window.status=' '; return true">Volume XXV</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Front Page</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>Ralph Nader Criticizes "Corporate Control" In Stanford Speech</font><br>
+
+<b>by Matthew Barrett</b><br>
+Senior Staff Writer<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Issue_3/Front_Page/images/nader_sign.jpg" alt="Ralph Nader" width=190 height=230 align=left>
+	Ralph Nader condemned corporate control of the government and media in a campaign speech at Memorial Auditorium on October 22. Speaking to a near capacity crowd, he addressed issues ranging from sweatshop labor to space exploration.<p>
+
+	Stanford in Government, a nonpartisan campus group, organized the event. The purpose, according to a press release, was "to promote political awareness and involvement."  Despite a "votenader.org" banner gracing the podium on stage, Courtney Carter, public relations chair for SIG, insisted that the event was not designed to endorse Mr. Nader.<p>
+
+		Medea Benjamin, California's Green Party senate candidate, spoke before Mr. Nader. She set the tone for his anti-corporate rhetoric by attacking California senate incumbent Diane Feinstein. Benjamin pointed out that Mrs. Feinstein recently went to China for trade negotiations which involved Mrs. Feinstein's husband's company. <p>
+
+	"Hello!" quipped Benjamin, "You do not have to be a Stanford law professor to know that this is a conflict of interest." She later pointed out that Mrs. Feinstein's office is located on the premises of her husband's billion dollar investment firm and complained, "[The American political system] has lost its soul. It has become part of the corporate government, doing the bidding for the corporations. It is supposed to be a government of 'we the people' and not 'we the corporations'". <p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Issue_3/Front_Page/images/nader_front.jpg" width=130 height=175 align=left>
+	Mr. Nader, who polls around 5% in California, followed Ms. Benjamin and spoke for roughly 90 minutes. He began by describing the American political system as one that is dominated by corporate interests. Early on, he criticized Stanford for feeding into corporate culture. "We all grow up corporate É you're growing up corporate É [Stanford's curriculum] makes you think that a University is nothing more than a trade school with a very high tuition." <p>
+
+	He cited Stanford students as being not on a "ladder to success", but rather as being on an "escalator to success", and he suggested that too many students treat Stanford as a vocational institute. Specifically, he criticized computer scientists and engineers for caring primarily about stock options. He called his own alma mater, Harvard Law School, a "high priced tool factory." <p>
+
+	"It's amazing how people with your talents all over the country come with such low expectations of your life to make a systemic difference," he said. <p>
+
+	Mr. Nader referred to the "golden handcuffs" of the Stanford student that will prevent him or her from witnessing the problems that plague the disadvantaged sectors of society. He provided his own statistics, observing that one third of American workers do not make a living wage, that 20% of Americans live in abject poverty, that 46% are in near or deep poverty, and that 20 million Americans are too poor to have a checking account. He noted, "Congressman just voted to raise their pay again and forgot to raise the minimum wage." <p>
+
+	He then expanded his scope to include the entire American public, referring to "the great commonwealth of public assets that people own and don't have any control over". He said, "Every major religion warned society about giving too much power to commercial ventures." Mr. Nader spoke of Amercians who must submit to, and cannot participate in, the government structure. He also talked about the legal system. "If you're wrongfully injured, you will not have your full day in court."<p>
+
+	Furthermore, Mr. Nader said, citizens are victims of corporate abuse. He cited Americans who die of lead poisoning and who are in bad health because of environmental conditions caused by, Mr. Nader claims, corporate neglect. Mr. Nader suggested that the Department of Justice needs a "Ten Most Wanted Corporate Criminals" in addition to its usual list of violent criminals. <p>
+
+	Neither major party, according to Mr. Nader, can avoid these interests. He displayed a recent edition of Business Week with the question "Too Much Corporate Power?" on the cover, and he claimed that the magazine was more progressive than either the Democratic or Republican nominees. Mr. Nader claims that the major parties are basically the same, in that they are both fundamentally controlled by major corporations. He responds to the slogan, " A vote for Nader is a vote for Bush" by saying, "A vote for Gore is a vote for Bush."<p>
+
+	Mr. Nader criticized Bush and Gore equally. He asserted that Bush doesn't really understand the issues and he quipped, "The reason [Bush] is interested in education is because he needs so much of it." Mr. Nader said that Gore made too many unfulfilled promises. For instance, he says that Al Gore hasn't fulfilled any promises in his book on environmentalism, and that Gore hasn't advocated finding a reliable source of renewable energy in eight years. He also criticized Gore for attempting to advance the causes of the middle class while completely neglecting the working poor.<p>
+
+	He also broadened his criticism of government to include members of the Congress. He complained that not one congressman has his or her voting record cohesively presented on his or her website. He suggested that not one member of congress really understands the WTO, NAFTA, or GATT agreements because not one member of congress has even read them. <p>
+
+	Mr. Nader finished his speech with a commentary on "the late evening news", which he thinks is not news at all. Mr. Nader said that 18 years ago, 50 corporations controlled all of the news media, and that today that number has dwindled to seven.<p>
+
+	After his talk, he responded several student questions. Students addressed concerns such as sweatshop labor, Middle East peace, human population growth, and abortion. At the end, Mr. Nader emphasized his belief in the importance of citizen involvement in democracy. He said the only way to make citizens more powerful was through access to the media and through public funding of companies. He encouraged participation in politics by everyone and said, "I'd like to urge you over the next two weeks to put a moratorium on small talk and replace it with progressive political talk." <p>
+
+	Although an early show of hands indicated that the crowd consisted mostly of Democrats, the crowd was overwhelmingly supportive of Mr. Nader. They applauded often, and gave him a standing ovation at the end of his speech. One member of the audience seemed to capture the sentiment of the whole crowd in saying, "Nobody deserves to be president more than Ralph Nader." Still, not everyone was in favor of Mr. Nader's candidacy. In front of Memorial Auditorium, before the event began, a professor holding a "A Vote For Nader Is A Vote For Bush" sign became involved in a bitter argument with a student.<p>
+
+	This was Mr. Nader's last scheduled campaign stop in California.<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:53:52 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

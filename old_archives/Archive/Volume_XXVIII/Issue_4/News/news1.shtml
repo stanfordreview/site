@@ -1,0 +1,232 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVIII - Issue 4 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion4.shtml" onMouseOver="window.status='Alex Robbins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Henry Towsner in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Joe Fairbanks in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Fairbanks</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Chris Fish in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Fish</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Justin Diener in Front Page and News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Justin Diener</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Nels Hansen in Front Page and Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVIII, Issue 4
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+April 17, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVIII'; return true" onMouseOut="window.status=' '; return true">Volume XXVIII</a> - <a href="../index.html" onMouseOver="window.status='Issue 4'; return true" onMouseOut="window.status=' '; return true">Issue 4</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Stanford Environmental Law Society Hosts Conference on Natural Resource Disputes
+</font><br>
+
+<b>by Justin Diener</b><br>
+Staff Writer<p>
+
+On Saturday April 6, 2002 the Environmental Law Society hosted a conference focusing on specific conflicts in natural resource law which served as example of the larger issues faced in natural resource policy and law.  In two panels, one focusing on the Placer County planning process and the other focusing on the recent Klamath Water crisis, panelists from a variety of backgrounds shared their views on approaches to solve these environmental and natural resource problems.  The conference ended with dinner and a speech by the Speaker pro Tem of the California State Assembly, who discussed the issues and causes surrounding the recent energy crisis and the possible implications of the bankruptcy reorganization of PG&E on the operation of hydroelectric projects throughout the Sierra Nevada. 
+
+<p>
+
+In the first panel discussing issues related to the growth of subdivisions and urban sprawl in Placer County near the city of Sacramento, panelists presented their ideas and problems, which they tried to resolve through the development of a county plan.  Ed Pandolfino, a member of the Sierra Club, who represents environmental groups through the planning process saw his role in the plan development process as being a representative of the thousands of species affected by development, "Someone other than just humans needs to have a place at the table; open space is not just ball parks, golf courses, and vineyards; these options don't offer much to species other than humans."  The development of the Placer County General Plan is an attempt at preserving the natural and rural aspects of the county while making an effort to accommodate growth.  All the panelists agreed that the combination of well-planned growth within cities will allow for the preservation of open-space leading to higher property values in the long term once the communities are fully developed.  
+
+<p>
+
+The second panel focused on the issue of water diversions from the Klamath River in Northern California and Southern Oregon.  Panelists discussed the on-going legal and policy issues surrounding the irrigation diversions which were cut-off last year in order to provide water for two endangered species of fish in the Klamath River Basin.  Despite the wide variety of people represented by the four panelists including Zeke Grader of the Pacific Coast Federation of Fishermen’s Associations and David Haddock of the Pacific Legal Foundation, a public interest law firm promoting individual and economic freedoms which has worked on behalf of the Klamath farmers, the panelists agreed that action needs to be taken by the government to secure long-term water supplies for both fish, farmers, Indian tribes, and the environment. A prime topic of discussion was the pending suit against the government brought by farmers within the Klamath Basin claiming that their property, the right to water, had been taken by the government without compensation.  The opinion was mixed as to the legal basis and claim on which this lawsuit rests.  John Echeverria, Executive Director of the Georgetown Environmental Law and Policy Institute, believes that the recent finding by the National Academy of Sciences that the water can be delivered to farmers this year and that the government made a mistake in denying farmers water last year relieves the U.S. of any liability for a taking claim.  All the panelists agreed that they are interested in the outcome of this court action. 
+
+<p>
+
+The final event of the conference involved a speech given by Fred Keeley, the Speaker pro Tem of the California Assembly.  Mr. Keeley reflected on the recent energy crisis and its outcome and potential impacts on the environment.  He believes that one of the products of the energy crisis, the bankruptcy of PG&E poses significant threats to the environment in the fact that PG&E will likely sell off its hydroelectric production facilities in the Sierra Nevada to outside energy producers. Mr. Keeley worries that the same merchant electric generators who purchased the fossil fuel power plants in California and contributed to the energy crisis will purchase these facilities with the sole aim of maximizing their profits with little regard to the impacts upon the environment.  He believes that PG&E’s current environmental stewardship works well in the Sierra Nevada and any break up of the system under bankruptcy reorganization will lead to adverse environmental consequences.  In order to remedy this problem and address the legal maneuvering PG&E has been involved in, he believes that the State of California should buy PG&E out of bankruptcy, turning it into a state run utility.  While he admits that this maybe viewed by some as a controversial approach, he believes it is the best way to effectively remedy the situation.  
+
+<p>
+
+The Environmental Law Society's conference, though it was attended by only approximately 40 students, touched on several of the major issues in Environmental Law and Natural Resource Policy.
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:18:07 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

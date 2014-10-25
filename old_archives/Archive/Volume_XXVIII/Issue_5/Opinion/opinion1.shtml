@@ -1,0 +1,261 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVIII - Issue 5 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Harisson Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harisson Osaki</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Henry Towsner in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Hilary Connell in Front Page and News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Hilary Connell</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Joe Fairbanks in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Fairbanks</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Ming Zhu in Front Page and News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Nels Hansen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Sam Shapero in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVIII, Issue 5
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+May 1, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVIII'; return true" onMouseOut="window.status=' '; return true">Volume XXVIII</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Michael Moore Visits Stanford
+</font><br>
+
+<b>by Joe Fairbanks</b><br>
+Staff Writer<p>
+
+After an hour-long delay and major technical difficulties with the microphones last week, outspoken liberal filmmaker and author Michael Moore delivered an oration to a near-full Kresge auditorium of fans and fanatics.  The speech was Mr. Moore's latest stop on his cross-country tour promoting his new book, Stupid White Men. . . .and Other Sorry Excuses for The State of the Nation, a work of systematic and controversial attacks on President Bush and other government and business officials.
+
+<p>
+
+To fill the time of delays at the scheduled 8 O'Clock speech, Mr. Moore's managers and the ASSU Speakers Bureau showed a fake infomercial about guns and the gun owners, presumably produced by Mr. Moore.  Using a mascot named Pistol Pete, an anti-gun organization visited several places including Congress, public schools, guns shows, and the National Rifle Association's headquarters to educate people about gun violence.  After 45 minutes of delays and fake infomercials the Speakers Bureau chairman announced to the somewhat restless crowd that Mr. Moore was now on his way. 
+When Mr. Moore finally arrived he was greeted by applause and a partial standing ovation.  He explained he was delayed because of plane trouble in Champagne, IL and then he had to go to a bookstore in St. Louis for a book-signing where people had been waiting for three hours to see him.
+
+<p>
+
+Starting off his speech, he questioned the audience as to why Casey Jacobsen was leaving Stanford for the NBA and then, showing his Stanford trivia knowledge, pointed out that no athlete has ever left Stanford early for a professional league.  He knows much about Stanford because his brother-in-law attended Stanford several years ago, he said.  Mr. Moore admitted to feeling envy of college students sometimes because he never attended college himself, a decision he made in awkward fashion.  According to Mr. Moore, he dropped out of college on the first day because he couldn't find a parking spot.  He went home and told his parents, "Mom, dad, I dropped out of school."  "Why?," they asked.  "I couldn't find a parking spot."  "How different life would be if a Pinto or Vega had just pulled out at that second," Mr. Moore thought out loud reflectively.
+
+<p>
+
+Abruptly jumping from college to politics, Mr. Moore quieted the laughing audience with a dark, serious tone and began to speak about the PATRIOT Act passed by Congress late last year to give government authorities broad access to information about private citizens. Mr. Moore claimed that "now all you have to do is incite people against the government and Ashcroft will be at your door."  But that is all the audience would get on that subject as Mr. Moore was plagued with microphone problems.  First, one mic wasn't loud enough so he gathered all three (two from the aisles for audience questions) and placed them together.  That failed, making little noticeable difference in the volume.  Giving up, Mr. Moore started to resume his speech, but three seconds later the mic let out a deafening screech prompting Mr. Moore to jump back yelling "Fuck me!"  Finally the technicians were able to fix the problem and Mr. Moore resumed without much further difficulty.
+
+<p>
+
+Mr. Moore then went on to the topic the crowd was expecting most--President Bush.  Calling him the "dumbest guy to have ever sat in the Oval Office," Mr. Moore proceeded to lash out at Mr. Bush's handling of the war on terrorism.  First he clarified to a thunderous applause his feeling that "[this] is not a war on terrorism.  This is a war on us.  It's so [Republicans] can shred out Constitution, pass tax cuts for the rich, give defense contracts to Lockheed--it is part of their right wing agenda and it's up to us to stop them."
+
+<p>
+
+Moore then asked why we're bombing Afghanistan and not Saudi Arabia.  "It's a wasteland, nothing's there.  19 of the hijackers were from Saudi Arabia.  Why the hell did we bomb Afghanistan?  I know we're geographically challenged, did we just miss?" 
+
+<p>
+
+Keeping on the topic of the hijackers, Mr. Moore asked the audience if there was anyone in attendance who had the commitment to their ideals that they would fly an airplane into a building.  One person raised their hand.  He then stated the war has been a failure and will continue to be so.  Elaborating, he asked a rhetorical question: "if [the hijackers] have that level of commitment and you don't, who wins in the end?  Who wins?" One audience member yelled out, "The one who's not dead!"
+
+<p>
+
+This war has also been a failure because we haven't caught Mr. bin Laden, according to Mr. Moore.  "Mission failed! Mission failed!  He's still alive!  Just like daddy! Just like daddy!" Mr. Moore yelled.
+
+<p>
+
+Mr. Moore then questioned the Bush family's relationship to the bin Laden family, implying that Mr. Bush may have had an indirect role in the attacks.  Mr. Moore claimed his researchers had uncovered information linking a Bush company to bin Laden family financing. "It's just a coincidence that among 6 billion people on the planet, the Bushes know the bin Laden family!"  Several bin Laden family members now reside in the United States as private citizens and successful businessmen.  The very large bin Laden family has renounced ties to Mr. bin Laden. 
+
+<p>
+
+When the time for questions came, several people raised their hands to voice their opinion of Mr. Moore's speech--largely positive, as it was largely his liberal fan base.  One girl, however, stood up and chided Mr. Moore for not doing enough to advance his (the liberal) cause.  "It's great that you encourage people to act.  But I just don't think you're being very helpful and that you could do a lot more than tell people to write their Congressman.  They don't read those letters. So, please, offer more effective solutions and tactics," she said.  Mr. Moore responded saying he disagreed with her that writing your Congressman is ineffective. "They want to get re-elected.  They love their job.  They'll do anything to keep it," he said.  
+
+<p>
+
+The next comment came from an African-American woman who applauded Mr. Moore for doing what he was and "helping the black community."  Mr. Moore thanked her and, to prove he was in fact helping the African-American community, he pointed to the fact that he now refuses to hire white people for his projects.  "Sure, you'll find a white woman at the front desk as secretary when you enter the office, but when I go out to hire people for my next project I hire black people first," he said.  Continuing off that topic, he then explained he believed there was no such thing as reverse-racism or sexism. "A black man cannot be racist, he just can't.  And women cannot be sexist. It's just impossible"  A few in the audience obviously showed their disagreement with his statement through an eerie silence and shifting in their seats while looking at each other to confirm what they just heard.
+
+<p>
+
+Ending late, Mr. Moore cut-off the question and answer session so that he would have time to sign books. While he signed books, Mr. Moore allowed the audience a sneak-preview of his next documentary on gun violence featuring militia groups, troubled teenagers, and even James Nichols, once suspected of bombing the Oklahoma City Federal building and brother to convicted Oklahoma City bomber Terry Nichols.  The documentary comes out sometime late this year. 
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:19:32 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

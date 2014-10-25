@@ -1,0 +1,305 @@
+/**
+ * Table of contents
+ * 1. Repeatable patterns
+ * 2. Widgets
+ * 3. Comment
+ * 4. Content Dividers
+ * 5. Post Formats
+ * 6. Slider
+ * 7. Sticky menu
+ * 8. Back to top
+ * 9. Blogroll styles
+ */
+
+/* 1. Repeatable patterns */
+.widget img,
+.wp-caption {
+    max-width: 100%;
+}
+
+img.size-full,
+img.size-large,
+.wp-post-image,
+img[class*="align"],
+img[class*="wp-image-"],
+img[class*="attachment-"] {
+    height: auto;
+    max-width: 100%;
+}
+
+.wp-caption-text{}
+.sticky{}
+.gallery-caption{}
+.bypostauthor{}
+
+.alignleft {
+    float: left;
+}
+
+.alignright {
+    float: right;
+}
+
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.alignleft {
+    margin: 5px 20px 5px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 10px 5px 0;
+}
+
+img.alignright {
+    margin: 5px 0 5px 20px;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 5px 10px;
+}
+
+img.aligncenter {
+    margin: 5px auto;
+}
+
+img.alignnone {
+    margin: 5px 0;
+}
+
+embed,
+iframe,
+object,
+video {
+    max-width: 100%;
+}
+
+.list-container-1 .tabs-1 {
+    margin: 0;
+    padding: 0;
+}
+
+/* Table, unordered list, ordered list and definition list */
+.elements-box table {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.elements-box th {
+    text-align: left;
+    text-transform: uppercase;
+}
+.elements-box td {
+    border-top: 1px solid #ccc;
+    padding: 6px 10px 6px 0;
+}
+.elements-box dl {
+    margin: 0 20px;
+}
+.elements-box dd {
+    margin-bottom: 20px;
+}
+.elements-box ul,
+.elements-box ol {
+    margin: 16px 0;
+    padding: 0 0 0 40px;
+}
+.elements-box li ul,
+.elements-box li ol  {
+    margin: 10px 0 0 0;
+}
+.elements-box ol,
+.elements-box ol li {
+    list-style-type: decimal;
+}
+
+
+/* 2. Widgets */
+.kp-accordion-widget .entry-thumb,
+.related-article .entry-thumb {
+	max-width: 52px;
+}
+
+#main-content .widget_pages ul li,
+#bottom-sidebar .widget_pages ul li,
+#main-content .widget_meta ul li,
+#bottom-sidebar .widget_meta ul li,
+#main-content .widget_recent_comments ul li,
+#bottom-sidebar .widget_recent_comments ul li,
+#main-content .widget_recent_entries ul li,
+#bottom-sidebar .widget_recent_entries ul li,
+#main-content .widget_rss ul li,
+#bottom-sidebar .widget_rss ul li {
+    list-style: inside disc;
+    color: #999; 
+}
+#bottom-sidebar .widget {
+    margin-bottom: 15px;
+}
+.widget_categories .children,
+.widget_nav_menu li .sub-menu,
+.widget_pages li,
+.widget_pages .children,
+.widget_meta li,
+.widget_recent_comments li,
+.widget_recent_entries li,
+.widget_rss li {
+    border-top: 1px solid #e5e5e5;
+    margin: 0;
+}
+.widget_pages li:first-child,
+.widget_meta li:first-child,
+.widget_recent_comments li:first-child,
+.widget_recent_entries li:first-child,
+.widget_rss li:first-child {
+    border-top: none;
+}
+.widget_pages a,
+.widget_meta a,
+.widget_recent_comments a,
+.widget_recent_entries a,
+.widget_rss a {
+    color: #666;
+    padding: 7px 0;
+    display: inline-block;
+}
+.widget_pages li:first-child a,
+.widget_meta li:first-child a,
+.widget_recent_comments li:first-child a,
+.widget_recent_entries li:first-child a,
+.widget_rss li:first-child a {
+    padding-top: 5px;
+}
+
+/* Calendar widget */
+.widget_calendar table,
+.widget_archive select,
+.widget_categories select {
+    width: 100%;
+}
+.widget_calendar caption {
+    margin-bottom: 10px;
+}
+.widget_calendar td, th {
+    text-align: center;
+}
+
+/* Text widget */
+.textwidget * {
+    max-width: 100%;
+}
+
+/* 3. Comment */
+.comments-list .children .children .comment .comment-body {
+	width: 100%;
+}
+
+.comment-reply-title {
+	border-bottom: 1px solid #ccc;
+	text-transform: uppercase;
+	font-size: 12px;
+	margin: 0 0 10px;
+	padding-bottom: 5px;
+}
+
+.children #comments-form .comment-left,
+.children #comments-form .comment-right {
+	width: 100%;
+	margin-right: 0;
+}
+
+/* 4. Content Dividers */
+.kopa-one-two {
+    float:left;
+    margin-right:3%;
+    width:48%;
+}
+.kopa-one-third {
+    float:left;
+    margin-right:2%;
+    width:32%;
+}
+.kopa-two-third {
+    float:left;
+    margin-right:2%;
+    width:66%;
+}
+.kopa-one-fourth {
+    float:left;
+    margin-right:2%;
+    width:23.5%;
+}
+.kopa-three-fourth {
+    float:left;
+    margin-right:2%;
+    width:74.5%;
+}
+
+.kopa-one-two.last,
+.kopa-one-third.last,
+.kopa-two-third.last,
+.kopa-one-fourth.last,
+.kopa-three-fourth.last{
+    margin-right:0 !important;
+}
+
+.kopa-one-two,
+.kopa-one-third,
+.kopa-two-third,
+.kopa-one-fourth,
+.kopa-three-fourth {
+    margin-bottom: 15px;
+}
+
+/* 5. Post Formats */
+.entry-box .entry-thumb {
+    margin-bottom: 10px;
+}
+.wp-audio-shortcode {
+    margin-bottom: 15px;
+}
+.single-format-audio .entry-box .entry-thumb {
+    min-width: 300px;
+}
+.single-format-video .entry-box .entry-thumb,
+.single-format-gallery .entry-box .entry-thumb {
+    float: none;
+    margin: 0 0 15px 0;
+}
+
+/* 6. Slider */
+.flexslider.loading {
+    background: url("../images/slider/loading.gif") no-repeat scroll center center transparent;
+    min-height: 533px;
+}
+
+.flexslider ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* 7. Sticky menu */
+.logged-in .menu-bar.isStuck {
+    top: 28px !important;
+}
+
+/* 8. Back to top */
+#back-top {
+    display: none;
+}
+
+/* 9. Blogroll */
+.kp-search-list-widget ul li:first-child {
+    border-top: none;
+    padding-top: 0;
+}
+.kp-search-list-widget ul li .entry-thumb {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.woocommerce #payment ul.payment_methods li, .woocommerce-page #payment ul.payment_methods li{
+	list-style:none;
+}

@@ -1,0 +1,225 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVI - Issue 1 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Word From The Editor</font></a><br>
+
+<a href="../Book_Review/index.shtml" onMouseOver="window.status='Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Book Review</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Alex Robbins in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Christopher Fish in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Christopher Fish</font></a><br>
+
+<a href="../Book_Review/index.html" onMouseOver="window.status='Henry Towsner in Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Justin Diener in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Justin Diener</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.html" onMouseOver="window.status='Matthew Barrett in A Word From The Editor (also in Front Page)'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Scott Ramussen in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXVI, Issue 1
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+March 12, 2001
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVI'; return true" onMouseOut="window.status=' '; return true">Volume XXVI</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>News</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>Rhode Speaks On Women And Leadership</font><br>
+
+<b>by Christopher Fish</b><br>
+Contributing Writer<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVI/Issue_1/News/images/rhode.jpg" width=160 height=231 alt="Deborah Rhode" align=left>
+
+Deborah Rhode blamed unfair expectations, lack of opportunity, and lack of social support for women's inability to attain equality with men in the workplace. For most of recorded history, she said, women have been inferior to men. And, although traditional gender roles have changed in recent years, women are still far behind. <p>
+
+	Rhode cited many statistics. Though women account for half of corporate managerial positions, they account for only 4% of top corporate earners. Only 2 women hold the top job in Fortune 500 countries. Though 34% of lawyers are women, only 15% of federal judges are women, and only 10% of law school deans are women. Women of color, Rhode said further, are even worse off. They account for just 1% of corporate officers and law partners. "Women aspiring to leadership positions face a double standard in a double bind," said Rhode. <p>
+
+	Rhode, Ernest W. McFarland Professor of Law at Stanford, was speaking in the Cypress Room at Tressider on March 7 as part of  The 2001 Jing Lyman Lecture Series. The title of her lecture was 'The Difference  Difference Makes: Women and Leadership." She talked about women in law, politics, and business, speaking about the issues women face in these careers, including job advancement, competing with men, and raising children. <p>
+
+	"The central problem," she said, "is the lack of consensus that there is a serious problem. There is a widespread belief that full equality is just around the corner." Rhode said that the CEO of Hewlett Packard observed, when she was appointed to the position, that women everywhere were no longer facing a glass ceiling. Rhode disagreed, pointing out that the Hewlett Packard CEO was only on of two such women in her position in the entire industry. At the current rate at which women are gaining leadership jobs, Rhode said, it will be three centuries before women gain equal representation in Congress or achieve equal representation in corporations as men. <p>
+
+	She argued that women faced two basic problems: lack of opportunity and lack of social support. She quoted a prominent law partner who recently said, "Law is just no place for a woman with a child." She also alluded to the fact that women who must work long hours find it difficult to maintain a romantic relationship at all. Since they are then non-committed socially, they are expected to work even more. "Any reduction in hours would jeopardize them and put them out to pasture." Furthermore, she argued that men are not expected to share the burden of parenting a child with their wives. "It is okay for men to say they want to spend more time with their children," said Rhode, "but not okay for them to actually do it."<p>
+
+	Women who do gain opportunities in leadership careers seldom find a supportive network of colleagues. "It usually takes exceptional commitment," noted Rhode, "to take care of children and work in unsupported working environments . . . People understand the problem, but don't want to be actually involved." Thus, men remain better off. "Studies find significant disparities in advancement between men and women with similar qualifications. Men are two times as likely to advance."<p>
+
+	Women of color face even greater challenges, she said. She blamed the just-world bias. In the absence of special treatment, the corporate perception is that people get what they deserve and deserve what they get. Women of color are therefore seen as undeserving. But the outlook is not all bad. <p>
+
+	After Condoleeza Rice's ascension to the post of National Security Advisor, Rhode said, Mattel announced the release of an African-American Barbie Doll, running for president. The hair do on the doll looks conspicuously like that of Rice. For Mattel to suggest that a woman of color can be put in a position of such great power is very auspicious, said Rhode. <p>
+
+	When women do attain leadership positions, Rhode said further, they still have to deal with gender differences. She quoted Margaret Thatcher, saying, "Putting women in power is not the same as empowering women." Rhode also said, "There is not some single woman's point of view, but (rather) there are differences." Women are not considered just as effective as men. Evidence from lab studies and self-reports suggests that there are differences between genders. "But real world studies fail to reveal differences in effectiveness between men and women." <p>
+
+	Women do, however, sometimes have a different agenda than men. Rhode said, "Women enter law and politics with (greater) interest in social justice and social welfare." Rhode's lecture was co-sponsored by the Program in Feminist Studies, the Women's Center, and the Humanities Center. The next lecturer in the series will be Professor Joel Benin on  April 25.<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:57:35 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

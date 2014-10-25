@@ -1,0 +1,275 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 3 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Campus_Focus/index.shtml" onMouseOver="window.status='Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Campus Focus</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Petition/index.shtml" onMouseOver="window.status='Petition'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Petition</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Alex Robbins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="news8.shtml" onMouseOver="window.status='Andrew Wright in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Chris Desmond in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Desmond</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Chris Lin in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Lin</font></a><br>
+
+<a href="news6.shtml" onMouseOver="window.status='Dave Kim in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Kim</font></a><br>
+
+<a href="news9.shtml" onMouseOver="window.status='Dave Myszewski in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Myszewski</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='David Regele in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Regele</font></a><br>
+
+<a href="news7.shtml" onMouseOver="window.status='Henry Towsner in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Joe Lonsdale in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../Campus_Focus/index.html" onMouseOver="window.status='Joe Spieczny in Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Spieczny</font></a><br>
+
+<a href="news5.shtml" onMouseOver="window.status='Keun Lee in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Keun Lee</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Nels Hansen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Sam Shapero in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+<a href="../Editors_Note/index.html" onMouseOver="window.status='Scott Rasmussen in Editor's Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<a href="news9.shtml" onMouseOver="window.status='William Rothacker in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William Rothacker</font></a><br>
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 3
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+November 15, 2001</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Hoover Expert Discusses Airport  Security
+</font><br>
+
+<b>by Henry Towsner</b><br>
+Senior Staff Writer<p>
+
+	The <i>Review</i> spoke to Hoover Institution scholar Joseph McNamara, the former police chief of San Jose, California, and Kansas City, Missouri, regarding the aftermath of the September eleventh attacks.
+
+<p>
+
+	Mr. McNamara criticized the security measures implemented by airports around the country as ineffective.  He singled out the decision to have the National Guard patrol airports as "a pretense of doing something," emphasizing the importance of allowing the country to return to normal.  He argued that leaving the National Guard in place makes people nervous, which discourages them from flying, and that their presence has no real security benefit.  "I'm not attacking the National Guard, but this is not what they're trained for."
+
+<p>
+
+	He was even more skeptical of suggestions that baggage checkers should be federalized.  Unlike private security companies, once the U.S. government hires baggage checkers, it will continue to hire them no matter how badly it performs.  Even worse, he noted, unionized baggage checkers protected by civil-service laws will be almost impossible to fire.  On the other hand when a private security company fails, it can be replaced and held responsible for its failure.  In response to suggestions that low salaries were to blame for the poor quality of baggage checkers, he observed that a restaurant needs clean tables, but that doesn't mean paying bus boys thirty thousand dollars a year. Instead, all that is needed is good management to supervise them (which, he added, has been lacking in airport security).
+
+<p>
+
+	Mr. McNamara blamed the FAA for much of the security problem.  He noted that while he was the police chief of San Jose, he conducted a sting operation on the San Jose airport, with more than half of his officers getting through metal detectors carrying guns and knives.  When the FAA was notified, it threatened Mr. McNamara with prosecution for conspiracy to bring firearms through a security checkpoint.  Indeed, earlier this year the FAA blocked a planned sting by the Massachusetts State Police on Logan Airport, where two of the hijacked planes departed from.
+
+<p>
+
+	According to Mr. McNamara, defense is not enough: the only solution is "no terrorist, no terrorism."  He dismissed suggestions that Osama bin Ladin should be given a trial, stating that the events of September eleventh were "acts of war" and compared them (unfavorably) to the assault on Pearl Harbor.  Indeed, he compared the American position today to the British position during World War II.  Mr. McNamara expressed concern that the United States may try to pacify its enemies with concessions rather than risking an extended war, similar to British Prime Minister Neville Chamberlain's attempt to appease Hitler.  Further, "it would be remarkable if there are no more terrorist attacks."  Americans may have to withstand many more casualties before victory, but Mr. McNamara hopes that Americans will be able to stand together until victory.
+
+<p>
+
+	The greatest concern Mr. McNamara brought up, however, was the direction the federal government will go in as it tries to change internal policies.  He gave examples of dubious proposals coming from the White House or elsewhere in Washington; for instance, the recommendation that people contact 911 at the first sign of anything suspicious has led to a deluge of calls reporting sore throats and other trivialities.  Even serious incidents have been mishandled, including the exposure of two hundred FBI agents to anthrax after a letter originally sent to newscaster Tom Brokaw was left in an outbox from which, in the FBI's delicate phrasing, "it did not go out."
+
+<p>
+
+	An area of particular concern for Mr. McNamara is the communication between local police and the FBI.  He noted that, with fewer than twelve thousand FBI agents and more than six hundred thousand police officers nation wide, it is the local government which will have to handle any domestic attack.  Instead of supporting local law enforcement, however, President Bush has put them on a full time alert, which is draining them of funds.  While local police are almost entirely dependant on the FBI for the information they need to stop terrorist attacks, the FBI tends to be very close lipped about information.  While he was the police chief of Kansas City, Mr. McNamara's name appeared on a list of people a California cult planned to kill.  The FBI chose to hold the information for two weeks before notifying him, waiting until the day before he was visiting California for a conference of police chiefs.
+
+<p>
+
+	The flip side, however, is that local police often abuse the information they are given.  Mr. McNamara cited Governor Davis' recent decision to announce that Bay Area bridges had been threatened despite the fact that the threat was not considered credible.  He criticized the governor for putting politics ahead of good policy.  "One of the things the terrorists are trying to do is create panic."  He noted that even Mr. Davis appeared not to take the threat too seriously.  "If there's a real threat, you close the bridges."
+
+<p>
+
+	The thing Mr. McNamara pointed to as the most frustrating, though, is the continued, counter-productive investment in the so-called drug war.  He noted that in recent years the United States has largely ignored the threat of terrorism while pouring resources into trying to stop the flow of drugs.  In recent years the number of officers of the DEA has increased by 26%, while the FBI has increased by only 2%.  He criticized those who have tried to blame drug users for supporting the Taliban regime, including former Drug Czar Barry McCaffrey, for engaging in "sheer, ignorant demagoguery."  In fact, he suggests that if anything has propped up the Taliban, it is the drug war itself which has inflated the prices of illegal drugs, aiding nations like Afghanistan which produce them.
+
+<p>
+
+	Mr. McNamara also had a few suggestions for the direction American policy should take.  He noted that, in a country where ninety percent of the government is clustered in one small city, there "have to be plans for some kind of succession so we don't have some general taking over." As for the measures Congress has taken, "there's a grave danger at a time like this for legislation that takes away our civil liberties...we had enough government power on 9/11 to have prevented these attacks."  However, Mr. McNamara cautioned that "It seems like everyone's an expert on how to fight the war.  It reminds me of when I was a police chief and everyone knew how to do my job better than me."
+
+<p>
+
+	Instead, he recommended that people give the White House some leeway to direct the war, assuming that it has access to information which is not public.  In addition, he criticized those who have advocated an American propped up democracy in Afghanistan, observing that the United States cannot expect to impose a government on another country.  "Countries have their own culture, their own religions."  Rather than worrying about the internal affairs of other nations, he says that "Countries which support terrorist camps have to be more afraid of us then of the terrorists.  They don't have to like us."
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:12:44 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

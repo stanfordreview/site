@@ -1,0 +1,114 @@
+<title>The Stanford Review</title>
+<body bgcolor=#FFFFFF>
+<head>
+<script language="JavaScript">
+
+// pre-cache 'filename' button state images
+
+//Home
+if (document.images) {
+var NHome_up = new Image(130,45)
+NHome_up.src = "../../LatestIssue/NavbarGraphics/Home_up.gif"
+
+var NHome_over = new Image(130,45)
+NHome_over.src = "../../LatestIssue/NavbarGraphics/Home_over.gif"
+}
+
+//Front Page
+if (document.images) {
+var NFrontPage_up = new Image(130,45)
+NFrontPage_up.src = "../../LatestIssue/NavbarGraphics/FrontPage_up.gif"
+
+var NFrontPage_over = new Image(130,45)
+NFrontPage_over.src = "../../LatestIssue/NavbarGraphics/FrontPage_over.gif"
+}
+
+//News
+if (document.images) {
+var NNews_up = new Image(130,30)
+NNews_up.src = "../../LatestIssue/NavbarGraphics/News_up.gif"
+
+var NNews_over = new Image(130,30)
+NNews_over.src = "../../LatestIssue/NavbarGraphics/News_over.gif"
+}
+
+//Opinion
+if (document.images) {
+var NOpinion_up = new Image(130,30)
+NOpinion_up.src = "../../LatestIssue/NavbarGraphics/Opinion_up.gif"
+
+
+var NOpinion_over = new Image(130,30)
+NOpinion_over.src = "../../LatestIssue/NavbarGraphics/Opinion_over.gif"
+}
+
+//Smoke Signals
+if (document.images) {
+var NSmokeSignals_up = new Image(130,45)
+NSmokeSignals_up.src = "../../LatestIssue/NavbarGraphics/SmokeSignals_up.gif"
+
+var NSmokeSignals_over = new Image(130,45)
+NSmokeSignals_over.src = "../../LatestIssue/NavbarGraphics/SmokeSignals_over.gif"
+}
+
+//Cartoons
+if (document.images) {
+var NCartoons_up = new Image(130,30)
+NCartoons_up.src = "../../LatestIssue/NavbarGraphics/Cartoons_up.gif"
+
+var NCartoons_over = new Image(130,30)
+NCartoons_over.src = "../../LatestIssue/NavbarGraphics/Cartoons_over.gif"
+}
+
+//Corrections
+if (document.images) {
+var NCorrections_up = new Image(130,30)
+NCorrections_up.src = "../../LatestIssue/NavbarGraphics/Corrections_up.gif"
+
+var NCorrections_over = new Image(130,30)
+NCorrections_over.src = "../../LatestIssue/NavbarGraphics/Corrections_over.gif"
+}
+
+//Back Page
+if (document.images) {
+var NBackPage_up = new Image(130,30)
+NBackPage_up.src = "../../LatestIssue/NavbarGraphics/BackPage_up.gif"
+
+var NBackPage_over = new Image(130,30)
+NBackPage_over.src = "../../LatestIssue/NavbarGraphics/BackPage_over.gif"
+}
+
+// function that displays status bar message
+
+function dm(msgStr) {
+  document.returnValue = false;
+  if (document.images) { 
+     window.status = msgStr;
+     document.returnValue = true;
+  }
+}
+// functions that swap images
+
+function di(id,name){
+  if (document.images) document.images[id].src=eval(name+".src");
+}
+
+</script>
+</head>
+
+<body>
+<a href="http://www.stanfordreview.org/index.html" onMouseOver="di('NHome', 'NHome_over' ); dm('Go back to the Stanford Review\'s home page!'); return document.returnValue;" onMouseOut="di('NHome','NHome_up');dm(''); return document.returnValue;" target=_parent><img name="NHome" src="http://www.stanfordreview.org/LatestIssue/NavbarGraphics/Home_up.gif" width="130" height="45" border="0"></a><BR>
+
+<a href="frontpageframe.html" onMouseOver="di('NFrontPage', 'NFrontPage_over' ); dm('View the front page of the Stanford Review!'); return document.returnValue;" onMouseOut="di('NFrontPage','NFrontPage_up');dm(''); return document.returnValue;" target=_parent><img name="NFrontPage" src="http://www.stanfordreview.org/LatestIssue/NavbarGraphics/FrontPage_up.gif" width="130" height="45" border="0"></a><BR>
+
+<a href="http://www.stanfordreview.org/Archive/XXIIIno7/newsframe.html" onMouseOver="di('NNews', 'NNews_over' ); dm('View the news of the Stanford Review!'); return document.returnValue;" onMouseOut="di('NNews','NNews_up');dm(''); return document.returnValue;" target=_parent><img name="NNews" src="http://www.stanfordreview.org/LatestIssue/NavbarGraphics/News_up.gif" width="130" height="30" border="0"></a><BR>
+
+<a href="http://www.stanfordreview.org/Archive/XXIIIno7/opinionframe.html" onMouseOver="di('NOpinion', 'NOpinion_over' ); dm('View the opinions of the Stanford Review!'); return document.returnValue;" onMouseOut="di('NOpinion','NOpinion_up');dm(''); return document.returnValue;" target=_parent><img name="NOpinion" src="http://www.stanfordreview.org/LatestIssue/NavbarGraphics/Opinion_up.gif" width="130" height="30" border="0"></a><BR>
+
+<a href="http://www.stanfordreview.org/Archive/XXIIIno7/smokesignalsframe.html" onMouseOver="di('NSmokeSignals', 'NSmokeSignals_over' ); dm('View the smoke signals given by the Stanford Review!'); return document.returnValue;" onMouseOut="di('NSmokeSignals','NSmokeSignals_up');dm(''); return document.returnValue;"  target="_parent"><img name="NSmokeSignals" src="http://www.stanfordreview.org/LatestIssue/NavbarGraphics/SmokeSignals_up.gif" width="130" height="45" border="0"></a><br>
+
+<a href="http://www.stanfordreview.org/Archive/XXIIIno7/cartoonsframe.html" onMouseOver="di('NCartoons', 'NCartoons_over' ); dm('Political Cartoons!'); return document.returnValue;" onMouseOut="di('NCartoons','NCartoons_up');dm(''); return document.returnValue;"  target="_parent"><img name="NCartoons" src="http://www.stanfordreview.org/LatestIssue/NavbarGraphics/Cartoons_up.gif" width="130" height="30" border="0"></a><br>
+
+<a href="http://www.stanfordreview.org/Archive/XXIIIno7/correctionsframe.html" onMouseOver="di('NCorrections', 'NCorrections_over' ); dm('View corrections to our mistakes!'); return document.returnValue;" onMouseOut="di('NCorrections','NCorrections_up');dm(''); return document.returnValue;"  target="_parent"><img name="NCorrections" src="http://www.stanfordreview.org/LatestIssue/NavbarGraphics/Corrections_up.gif" width="130" height="30" border="0"></a><br>
+
+<a href="http://www.stanfordreview.org/Archive/XXIIIno7/backpageframe.html" onMouseOver="di('NBackPage', 'NBackPage_over' ); dm('View the back page of the Stanford Review!'); return document.returnValue;" onMouseOut="di('NBackPage','NBackPage_up');dm(''); return document.returnValue;" target=_parent><img name="NBackPage" src="http://www.stanfordreview.org/LatestIssue/NavbarGraphics/BackPage_up.gif" width="130" height="30" border="0"></a><P>

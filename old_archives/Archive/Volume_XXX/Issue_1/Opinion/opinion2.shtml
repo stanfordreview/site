@@ -1,0 +1,286 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 1 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Beinin_Watch/index.shtml" onMouseOver="window.status='Beinin Watch'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Beinin Watch</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Entertainment/index.shtml" onMouseOver="window.status='Entertainment'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Entertainment</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Bob Sensenbrenner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob Sensenbrenner</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Charles Hallford in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="opinion4.shtml" onMouseOver="window.status='Jeff Russell in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jeff Russell</font></a><br>
+
+<a href="opinion5.shtml" onMouseOver="window.status='Laura Billadello in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Laura Billadello</font></a><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Laura Surma in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Laura Surma</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Michael Hasper in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="../Entertainment/index.shtml" onMouseOver="window.status='Ming Zhu in Entertainment'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Piotr Kosicki in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr Kosicki</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Travis Menk in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Travis Menk</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='William E. Hudson in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William E. Hudson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 1
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 26, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Stanford Needs to Return ROTC
+</font><br>
+
+<b>by Travis Menk</b><br>
+News Staff<p>
+
+If Stanford wants to continue to emphasize the promotion of diversity on this campus, it must allow ROTC back on campus.  ROTC students are striving to receive a military education in addition to an academic education.  They are part of an organization just like any of us are able to become part of an organization such as BASES, Stanford Coalition for Peace and Justice, an athletic team, ATI, or the NAACP.  The problem is that they are not accepted on this campus.  
+
+<p>
+
+In addition, they are not allowed to participate in their activities on campus.  Where is the diversity?  Where is the tolerance on this campus?  
+
+<p>
+
+I'm fully aware that many people do not support military actions, but, at the same time, for example, I personally don't agree with Green Party politics, yet I recognize the party's right to exist on campus.  It is a primary goal of this university to protect minority rights and allow their voices to be heard.  The problem is that the rights of those in this minority, those in ROTC, are not being protected. They are not being allowed the freedom of expression to participate in their group at this campus.  
+
+<p>
+
+I recognize in speaking of diversity and tolerance that intolerance within the military for homosexuals immediately will be brought to the forefront by critics.   The critics are right.  The military is being intolerant. Homosexuals are allowed in the military, as long as they do not reveal their sexuality or engage in homosexual activities.  This is a violation of their freedom of expression.  
+
+<p>
+
+Many supporters state that the military is different from civilian life.  It is.  Living under conditions such as within barracks or aboard a ship for six months requires the temporary sacrifice of such rights as privacy.  In addition, flexibility is given up by those joining the military.  Whereas in civilian life, one may choose to change jobs or move, the military dictates this.  The military even controls the relationship aspect of one's life.  It discourages relationships within the military particularly in the cases of relationships between officers and enlisted personnel.  According to the uniform code of military justice, one may not commit adultery.  
+
+<p>
+
+There are stated reasons for this policy of limiting homosexuality in the military.  The military involves issues of life and death.  Distractions can lead to death on the battlefield when distractions during training lead to improper instruction in military technique or strategy usage.  If the military can minimize distractions, it can minimize unnecessary deaths on the battlefield.   It is a priority of the military to maintain discipline, order, and morale to ensure those risking their lives for us to have the best chance of returning alive.  
+
+<p>
+
+We live in a changing world and we are trying to build a country that does not allow discrimination on any count.  Universities such as Stanford, Harvard, Yale, and other Ivy League schools pride themselves on being the most tolerant schools in the nation towards homosexuals.  To change this policy, as has been the case of all other movements in history, it needs to be attacked from all angles, including from within the military.    If Stanford really wants to help the military change this policy, it should be encouraging people to join ROTC at Stanford so that more open-minded people can enter the military ranks and influence policy.
+
+<p>
+
+ROTC students should also receive credit for their classes.  Each of their classes is signed off by a Lieutenant Colonel in the military, providing the equivalent of a graduate degree.  The military wants its officers to receive the best training possible.  As food for thought, the United States Military Academy, The United States Naval Academy, and the United States Air Force Academy are typically ranked as the top institutions with academic rigor on par with places like Harvard, Stanford, and Yale.  The military wants there to be no weakness in the officers it produces, so we should consider the academic training of its officers at ROTC programs to be at the very least comparable to the academies.   
+
+<p>
+
+How about the courses that are offered in these ROTC programs?  For example, through Navy ROTC some of the classes available are Leadership and Management, Navigation and Naval Operations, Asymmetric Conflict:  Ethics of Guerilla Warfare and Terrorism, and the Evolution of Warfare.  In my opinion, these classes seem just from their subject matter to be worthy classes.  
+
+<p>
+
+Stanford claims it cannot award students credit for these classes because they do not fit into any degree-granting program.  How about classes in surgery, genetics, or health and research policy?  One cannot get a degree in any of these disciplines, but one can take classes in them.  Maybe some of the classes can be taken for credit towards other degrees,  but I'm making a bet there are some classes at Stanford that one can take that cannot count towards degrees.  Why can't Stanford create an ROTC department like athletics has a department where you can take classes for units but not get a degree in that discipline?
+
+<p>
+
+ROTC students are students  trying to find a means to pay for their college education in order that they might receive the best education they can and make the most of themselves.  Many choose to work while in college or take out loans that have to be repaid over many years. ROTC students allow the government to pay for their education in exchange for the student giving the military six years of service.  The government can tell them what job to take and where to move, and it can send them anywhere in the world to serve their country, while at the same time paying them military salaries.  Each individual's way of paying for his education is his or her decision.  At the same time, it is also his decision to determine whether ROTC stands for moral causes.  These men and women are fighting for the ideals of freedom and justice, against tyranny--very moral ideas in my book--but again it is their decision, not mine, and not Stanford's decision to make. 
+
+<p>
+
+Stanford is making it difficult for many students to receive an education.  It is also discouraging many students from attending Stanford because the only way some students can pay for their education is through ROTC, and many students do not want to go through the hassles into which  this university forces them to participate in ROTC.  Finally, Stanford prevents many other students from reaping many of the benefits that occur from participation in the ROTC program.
+Finally, from a legal perspective Stanford must allow ROTC back on campus.
+
+<p>
+
+The 1996 Solomon Amendment provides for the Secretary of Defense to deny federal funding to institutions of higher learning if they prohibit or prevent ROTC or military recruitment on campus.  
+
+<p>
+
+Now, I'm not a legal scholar but with the faculty senate preventing ROTC from "maintaining, establishing, and operating a unit . . . AT" Stanford, Stanford is recklessly jeopardizing not only 450 million dollars of research funding that helps make Stanford the best university in the world but also 60 million dollars in federal grants given in the form of financial aid that allows Stanford to attract the best minds from around the country and the world.  Stanford should comply with the laws of our country or be willing to face the consequences. 
+
+<p>
+
+Don't you want the best-trained, best-educated people in the nation--graduates of institutions like Harvard and Stanford-- leading your military?  I do.
+
+<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:21:16 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

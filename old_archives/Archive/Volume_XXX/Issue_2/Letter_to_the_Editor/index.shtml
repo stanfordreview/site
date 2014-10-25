@@ -1,0 +1,242 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 2 - Letter to the Editor</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Beinin_Watch/index.shtml" onMouseOver="window.status='Beinin Watch'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Beinin Watch</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Bob Sensenbrenner in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob Sensenbrenner</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Harrison Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Hillary Connell in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Hillary Connell</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Laura Billadello in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Laura Billadello</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Michael Hasper in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Piotr Kosicki in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr Kosicki</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Ryan J. Wisnesky in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan J. Wisnesky</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Travis Menk in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Travis Menk</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='William E. Hudson in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William E. Hudson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 2
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+March 6, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 2'; return true" onMouseOut="window.status=' '; return true">Issue 2</a> - Letter to the Editor
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Letters to the Editor
+</font><br>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>"Still Reading and Getting Pissed Off But Loving Every Minute"</font><br>
+
+To everyone affiliated with the <i>Review</i> in any way at all,    <br>
+   This is a delayed reaction letter. I just read the letters to the editor about Lonsdale's racist writing. Man you guys should get your heads out of your collective [expletive removed]. Lonsdale replies that he "thought [his offensive rant] was tongue-in-cheek," not racist. But at the start of the editorial in question, he jokes about how much his writing will offend people. As if the primary point were to rile people up, to get a reaction--not to say anything of actual meaning or merit. This is all well and good. Getting people riled up and offending them is good. It helps them clarify their own views. I also think it is ridiculous for people to get offended by some of the stuff you say. To me, that seems pointless at best, passive at worst. Instead of getting personally offended, just bypass that. Get angry. Get furious. React. <p>
+   You guys consistently employ flawed reasoning and lazy or non-existent fact-checking. Also, if you appreciate Stanford's diversity you appreciate the fruits of affirmative action. In 1967, there were only 150 black students on campus: 1% of the student body. Today, we enjoy a campus with an almost-10% black student body. It is not a coincidence that these numbers climbed with the institution of affirmative-action policies. The thing is, your whole position rides on the notion that a student actually earns their place at any university. That a certain amount of high-school action pushes them past some abstract point, and they then "deserve" admission. This is not the case. The school must actually let you in, admit you. It is a two-sided process. Merit is multi-faceted. It is not how just how hard you work, or what grades you pull. Even a good essay doesn't get you in of itself. It might get you in because it says something about your personality or the distinction of your character. What you can give to the school.<p>
+  Similarly, when a student has legacy or their parent gives money it makes sense that this helps them get in. All of us benefit from alumni donations--who are those libraries named after? The problem comes if you assume that those that are accepted because of the legacy or the donors or their ethnicity would not be otherwise qualified. That is where you fall into logical error. Hennessy and Casper before him have explicitly stated that these factors do not insert unqualified students into the pool. It is just that these individuals do possess something that might, in all probability, help create a richer (no pun intended) learning experience on whole for everyone. And now you guys are sitting around in your sweater-vests and Bush paraphernalia shaking your heads. But I've got you covered. I know your rebuttals because they are obscenely obvious.<p>
+   Race does shape our identities. So do socioeconomic backgrounds, religion, and any other aspect you point to. And if you had done your research, you would see that Michigan's 20-points-for-race also gives those same 20 points for applicants from struggling socio-economic backgrounds. But that's not really the issue here. The issue is that we live in America. This country's history has been marked, even scarred, by racial divisions. The Civil Rights Acts were passed only a single generation ago. It would be weird if race didn't shape our identities. Though in an ideal world, in a country whose history is not scarred by slavery and a subsequent second-class citizenship, maybe race wouldn't matter. But we don't live in that world, and we most certainly do not live in that country. <p>
+  If you consider that an entirely homogeneous campus would have a deleterious effect on your education, and you also recognize that having a diverse environment benefits the students, then you cannot deny that race should play some factor in admissions. <p>
+  You guys shouldn't really call yourself a newspaper. It is pretty dishonest when you think about it. I like reading your stuff and getting angry. It makes me think. But you are little more than a collection of opinion pieces--and some of them rougher than others. <p>
+  I think the <i>Review</i> should be posted on every wall of every dorm. If it upsets people, you should post more. You guys exist, you are part of the campus and people need to know that these views-- these upsetting views--are out there.<p> 
+  I honestly think I would punch your teeth out if you said to my face the things that you wrote or printed. But we would have a hearty and moving debate first. In closing: I am a liberal who is always ready to "rationalize" my views (though that word itself has negative connotations). Please, pick them apart. Be my guest. <p>
+	Still reading and getting pissed off,  <br>
+	But loving every minute of it.<br>
+            Joey Cohen<br>
+Undeclared '06
+
+<p>
+
+<hr align=center width=300>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Appreciation for Beinin Watch</font><br>
+
+	Thank you for your efforts to expose Professor Beinin.  I too am appalled by his behavior and lack of accountability.  I am a 1982 history grad, and currently practice neurology in Orlando.  While at Stanford I was active in Hillel and taught a class on Zionism. The <i>Stanford Daily</i> seems completely uninterested in the issue of antisemitism.  I recently wrote a letter complaining about the fawning spread on Mary Robinson, and that was published, but a subsequent letter mentioning Beinin's name and decrying academic and economic boycotts against Israelis, and decrying Arab antisemitism in media, was not approved for publication.  
+
+<p>
+
+Daniel Jacobs, MD<br>
+History Ô82<br>
+Clinical Associate Professor of Neurology<br>
+University of Florida
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:21:37 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

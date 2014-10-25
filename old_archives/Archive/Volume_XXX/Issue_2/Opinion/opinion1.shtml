@@ -1,0 +1,296 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 2 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Beinin_Watch/index.shtml" onMouseOver="window.status='Beinin Watch'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Beinin Watch</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Bob Sensenbrenner in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob Sensenbrenner</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Harrison Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Hillary Connell in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Hillary Connell</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Laura Billadello in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Laura Billadello</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Michael Hasper in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Piotr Kosicki in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr Kosicki</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Ryan J. Wisnesky in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan J. Wisnesky</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Travis Menk in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Travis Menk</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='William E. Hudson in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William E. Hudson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 2
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+March 6, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 2'; return true" onMouseOut="window.status=' '; return true">Issue 2</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Antisemitism vs. Anti-Israelism
+</font><br>
+
+<b>by William E. Hudson</b><br>
+Opinions Editor<p>
+
+<table align=Left width=240>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXX/Issue_1/Front_Page/images/sia.jpg" width=240 height=220 alt="SIA">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>An Israeli-American rally on April 19, 2002 celebrates the nations' cooperation.</i>
+        </td>
+    </tr>
+</table>
+
+Chances are, if you check your mail here even somewhat frequently, you've run into the Lyndon LaRouche crowd outside the post office, handing out helpful pamphlets decrying the American-Israeli conspiracy to destroy liberty and freedom in a whirlwind of racist violence and imperialist ambitions. This sort of blind anti-Semitism is nothing new to the radical left, but in both intensity and preponderance, the problem has become particularly acute during the international community's joint duties in the war against terrorism.
+
+<p>
+
+One of the common criticisms of these nutcases by the right is that these views are anti-Semitic -- which, in the form described above, they certainly are. However, for some of our conservative brethren, it has become both fashionable and acceptable to brand any statement critical of Israel as anti-Semitic; this is false and should be condemned as such by sensible conservatives.
+<p>
+
+Israel has never been particularly comfortable with its physical surroundings and place in the international community as a whole. Three times a victim of overt aggression from its Arab neighbors and more recently inundated with the costs and human horror of domestic political violence, Israel has had some difficulty defining itself since 1948 except as an antithesis to the region around it. The strategy is rife with factually correct examples: the Arab nations surrounding Israel fought aggressive wars of invasion while Israel defended itself to preserve its national sovereignty; the Arab dictatorships stand in stark contrast with Israeli parliamentary democracy.
+By forming its contemporary identity as the negation of something else, Israel unwittingly exacerbates an ethos of conflict and oppression. This is hardly the fault of the Israelis -- their history is rife with senseless prejudice and tremendous acts of evil perpetrated against Jews on account of their religion. An identity framed on victimization simply makes good practical and historical sense, if for no other reason than because it is true.
+
+<p>
+
+It should come as no surprise that the United States has been such a stalwart supporter of Israel. Long obsessed with the underdogs and especially the calculation that comparative victimhood translates into effective political power, Americans see in Israel the classic victim in its historical context. Only recent incursions by European media have altered this perception significantly in the United States, but even here at predominantly liberal Stanford, a petition supporting the continued and permanent existence of Israel attracted 1,500 signatures.
+
+<p>
+
+For most sensible Americans, then, it is relatively easy to see the situation in the Middle East for what it is; namely, a series of virulently anti-Semitic attacks by the Arab world against the state of Israel. American and Israeli presses, long blind to some of the encroachments of the Israeli government on political and civic freedoms, are correcting these previous wrongs in the search for the truth.
+
+<p>
+
+Constructively examining these criticisms, the Israeli government has continued to improve on its failings, and as a consequence has been steadily increasing the fairness of the fledgling democracy at a laudable rate. Israel's democratic roots make such criticisms based on the truth useful and are hardly hateful or based on anti-Jewish sentiments.
+For many on the radical left, however, this is hardly the case. Confusing Israel's religious role with its role more directly pertinent to the Arab-Israeli conflict, some liberals sadly tout virulently anti-Semitic arguments in their criticism of the state of Israel. 
+
+<p>
+
+Paul Berman, a liberal writer and frequent critic of Israel, has continually made his alarm for some public intellectuals to use stereotypes and double standards, saying it "is fairly amazing how many otherwise serious writers have ended up choosing the same tiny set of images to apply to the Jewish state."  We see it on all sides: the automatic description of Israel's actions in terms of "Holocaust" or "Nazism," and the sloganeering against Israeli policymakers as "murderers" or "racists."
+
+<p>
+
+Unaccompanied by a comparable level of scrutiny of Palestinian or Arab actions, such statements are unquestionably anti-Israeli and intellectually irresponsible; even accompanied by such criticism, comparisons of Israeli IDF maneuvers and the Holocaust are hardly historically responsible. These attacks, based more on rhetorical fire and brimstone than any serious analysis of the situation in the Middle East, are the sort argued by Mr. LaRouche's unintelligently anti-Semitic conspiracy theories, and should be the sort sensible conservatives abhor and with which we take issue.
+
+<p>
+
+However, while one can make a distinction between criticism of Israel and prejudice against the Jewish state, the distinction between anti-Israeli prejudice and anti-Semitism has become more difficult to identify because of an unfortunate fog that has settled over many Jews.
+
+<p>
+"The world hates us and always will. What more do you need than the Holocaust?" questions a neighbor of Israeli writer Yossi Klein Halevi. It is a sentiment gaining increasing support in the Judaic world. 
+
+<p>
+
+The notion that anti-Semitism is eternal and impregnable to any solution confounds both experience and reason. Believing such unnecessarily exacerbates an overdeveloped sense of victimization and self-ghettoization, which is especially senseless in the reasonable persons' long struggle against anti-Semitism. Furthermore, as longtime Northern Californian Jewish leader Earl Raab has noted, "belief that an immutable and universal anti-Semitism lies at the heart of anti-Israelism could reduce Israel's imperative to seek a constructive role in any possible peace process."
+
+<p>
+
+Successfully combating anti-Semitism therefore involves a necessarily strict recognition of anti-Israelism as distinct from anti-Semitism and a reasoned yet critical perspective of the Jewish state. Anti-Israelism is a myopic, stubbornly biased perspective that unfairly criticizes Israel simply on the basis that it is Israel. This is arguably the most common form of liberal blindness in the Middle East -- not based on any specific hatred of the Jews, anti-Israelism is an unbalanced way of looking at the problem for ideological or political reasons unconnected to the larger problem of historic anti-Semitism.
+
+<p>
+
+It would be fair to argue that anti-Israelism has at its roots an unacknowledged kernel of anti-Semitism, but it would be iniquitous to charge anti-Israelists with a prescribed hatred of the Jews; their problem is one more common to liberal ideologues -- namely, a hypocritical and relativistic way of looking at the world distinct from observed truth and fact. Anti-Semitism compounds this irrational myopia with engrained hatred; it is a far deeper problem with broader and more serious consequences. The best way to combat both positions is to maintain a fiercely consistent moral posture and never give in to the temptation of half-truths and political distortions. 
+
+<p>
+
+Which is why I gather I'm not the only one to read informed and well-reasoned criticisms of the Israeli government, just as I am when it comes to our own country. Governments are best able to improve, and citizens best able to actively support such improvement, when shortcomings and trespasses are aired publicly and responsibly. Criticism of Israeli policies is not anti-Semitic; in fact, it is arguably philo-Semitic, upholding Jewish traditions of self-examination and scrutiny.
+
+<p>
+
+The radical left would do well to cease its senseless confusion between anti-Israelism and anti-Semitism, and work especially diligently at rooting out anti-Semites, who have little place in the contemporary world. I gather removing anti-Israelism from the liberal platform is going to be slightly more difficult, as it is rooted in the liberal psychosis that genuinely fears truth if it conflicts with stated party doctrine.
+
+<p>
+
+Those of us on the right would similarly benefit from using the anti-Semitic label only when it genuinely applies, but remain equally adamant about exposing the hypocrisy of the left's anti-Israelism until it recognizes the validity and benefice of our primary ally in the Middle East as much as it does its blemishes. The conservative mantra is best expressed in the simple imperative to seek the truth -- a truth uncluttered by political proselytizing and biased distortions of international affairs. 
+
+<p>
+
+More than simply seeking the truth, however, defend it against those who try to defame it or see it desecrated completely. So the next time you see those LaRouche ideologues outside the post office, take some time and talk to them. Question them about their position with respect to Israel and the Middle East in general. Don't be afraid to be critical of Israel as you talk with them; if anything, by offering honest criticism of a country with its heart in the right place you help make it better. And that is something that goes far beyond victimization, comparative regional studies, and racial hatred -- it gets at the truth, which is a comforting place to be in this crazy world of ours.
+
+<p>
+
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:21:46 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

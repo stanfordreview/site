@@ -1,0 +1,291 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 5 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorial</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Aliyya Haque in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aliyya Haque</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Bob McGrew in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Dave Myszewski in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Myszewski</font></a><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial Board in Editorial'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Board</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Gary J. Raichart in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Gary J. Raichart</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Harrison Y. Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Y. Osaki</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Joe Lonsdale in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Shawn M. Sims in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Shawn M. Sims</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 5
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+November 13, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Cyberlibertarianism in the Silicon Valley
+</font><br>
+
+<b>by Dave Myszewski</b><br>
+News Staff Writer<p>
+
+<b><i>"If there is a default ideology in cyberspace, it is libertarianism."</i></b>
+
+<p>
+This statement, made by Salon.com's Gary Kamiya in 1997, still largely rings true today.  The philosophy of libertarianism, which was largely encouraged by the expectations that were fueled by the tremendous success of the Internet in the mid-1990's, is defended by many in the Silicon Valley an unlikely place for the adoption of a largely right-wing ideology.
+
+<p>
+In a 1997 paper, Langdon Winner was one of the first people to publish a paper using the term "cyberlibertarianism," which he called "a collection of ideas that links ecstatic enthusiasm for electronically mediated forms of living with radical, right wing libertarian ideas about the proper definition of freedom, social life, economics, and politics in the years to come."
+
+<p>
+Cyberlibertarians dream of a utopian world in which the Internet allows free market to thrive without any government intervention, communities are bound by common beliefs and values rather than geographical location, and the government holds little if any power over the people.
+
+<p>
+
+<b>The Californian Ideology</b>
+
+<p>
+
+Richard Barbrook and Andy Cameron, of the Hypermedia Research Centre at the University of Westminster in London, UK, wrote about the changes many in cyberspace were anticipating, in a widely discussed 1995 essay, The Californian Ideology.
+
+<p>
+"Information technologies, so the argument goes, empower the individual, enhance personal freedom, and radically reduce the power of the nation-state. Existing social, political and legal power structures will wither away to be replaced by unfettered interactions between autonomous individuals and their software."
+
+<p>
+Security and encryption technology provides the key to this reduction of power because it enables individuals to interact with each other without the possibility of others discovering anything about their communication beyond the simple fact that it occurred.  Cyberlibertarians idealize this technology as the capability that allows individuals to break free from government control.
+
+<p>
+In an October 31 talk for the Ethics and Society Program entitled Cyberlibertarianism in the Wake of the Dot-Com Collapse, computer science professor Eric Roberts said that in recent years there has been a shift in the focus of the Computer Professionals for Social Responsibility.  Originally created soon after the election of Ronald Reagan, the Computer Professionals for Social Responsibility was founded to examine the social and ethical issues surrounding the cold war, such as the role of computers in military and nuclear technology.  In the last seven or eight years, said Professor Roberts, the organization has become increasingly involved in security and encryption issues.  Encryption has become the new rallying cry for the cyberlibertarians.
+
+<p>
+The ability to keep government out of the Internet is not necessarily a good thing, according to critics of cyberlibertarian thought.  Lawrence Lessig, now a law professor at Stanford University, wrote an influential book, Code, that discussed the critical importance of governmental involvement in the Internet. "Liberty in cyberspace," he wrote, "will not come from the absence of the state.  Liberty there, as anywhere, will come from a state of a certain kind.  We build a world where freedom can flourish not by removing from society any self-conscious control; we build a world where freedom can flourish by setting it in a place where a particular kind of self-conscious control survives."
+
+<p>
+
+<b>Government and the free market</b>
+
+<p>
+
+Several critics have said that the rejection of any governmental role in the Internet is fundamentally flawed.  However, the government has a great historical significance in the creation of the Internet.  The ARPANET, the predecessor to the Internet that enabled the creation of technology now taken for granted, was a project funded by the Department of Defense.  The universities who have produced some of the most intelligent individuals in the computing community, such as Stanford and Berkeley, rely on the government for research grants.  The government has funded much of the technology that drives the Internet both directly or indirectly, and a significant portion of that has come from military-related expenditures.
+
+<p>
+The government has played such a pivotal role in the development of the Internet that Barbrook and Cameron quipped, "For those not blinded by Œfree market' dogmas, it was obvious that the Americans have always had state planning: only they call it the defense budget."
+
+<p>
+Yet the immensely important historical role the government has played in the development of computing has not been completely overlooked by the cyberlibertarians.  In fact, some argue that the government's involvement slowed economic development.
+
+<p>
+Louis Rossetto, one of the founders of Wired magazine, which many linked to Newt Gingrich believe is the voice of cyberlibertarian thought, makes this point emphatically.
+
+<p>
+"Far from building the Digital Revolution, the US Defense Department sucked up 6 to 7 percent of US GNP for 40 years and utilized up to 40 percent of all engineering talent, channeling these resources not into technological growth, but into tanks, bombs, and military adverturism. In point of fact, it was the cutback in American defense spending following the Vietnam War and the subsequent firing of thousands of California engineers which resulted in the creation of Silicon Valley and the personal computer revolution."
+
+<p>
+The government did not allow the Internet to be used for any commercial purposes, and it was only when commercial use of the Internet was allowed in the 1990's that the technology exploded.  Cyberlibertarians argue that unbridled competition within a completely free market would be certain to contribute even more to the economy.  Several critics declare that the combination of rejecting any governmental control and embracing all aspects of an unbridled free market system is not likely to produce good economic results.<p>
+In his October talk, Eric Roberts argued that one of the flaws of cyberlibertarian thought is the attachment to a philosophy "without an understanding of the nuance of their arguments.<p>
+"Markets don't always work.  They often work really, really well...but to say that government can never do anything right, and markets can never do anything wrong sets yourself up for failure."<p>
+
+<b>The Magna Carta</b><p>
+
+The Progress and Freedom Foundation published the document that is perhaps most central to cyberlibertarian thought, "Cyberspace and the American Dream: A Magna Carta for the Knowledge Age."<p>
+Their ideal is a world in which communities are not tied to political organization or geographic location, but by common interests that transcend conventional barriers.  Due to the Internet, everyone can find acceptance in a community.  Others are quick to point out that even if this ideal were realized, the creation of several fragmented, homogeneous communities would be antithetical to some of the fundamental benefits of a community, which provides the opportunity for people of a variety of backgrounds learn from each other and join in pursuit of common goals.<p>
+Richard Moore responded to the publication of this document in Cyberspace Inc and the Robber Baron Age, and analysis of PFF's ŒMagna Carta.'  One criticism points out the irony in the fact that the Magna Carta granted "powers and privileges exclusively to an elite aristocracy" and argued that this is precisely what could happen in the Internet: several of the communal goals are dependent upon everyone being able to use the Internet.<p>
+Several have argued that this ideal has not yet been realized, and will not for a time to come, because of a "Digital Divide" a rift between families of different races of income levels.<p>
+Two reports from the National Center for Educational Statistics released in October 2003 confirm that a Digital Divide exists today, though the gap between races and income levels is closing.  <p>
+According to one of the reports, "Internet Access in U.S. Public Schools and Classrooms: 1994-2002," 99% of schools have Internet access, compared to 35% in 1994.  At the home, however, it is different.  The other report, "Computer and Internet Use by Children and Adolescents in 2001," found that 45.3% of blacks and 37.2% of Hispanics use the Internet, compared to 66.7% and 64.6% for whites and Asians, respectively.<p>
+The differences stem primarily from economic and geographic factors those in the inner city and those whose families made less than $35,000 a year were less likely to have computers or use the Internet than those who live in other areas or make more money.
+The ubiquity of Internet access is one of the necessary conditions for creating the world that cyberlibertarians describe, but that condition has not yet come to pass.
+<p>
+<b>Why does cyberlibertarianism thrive in the Silicon Valley?</b><p>
+
+Perhaps one of the most perplexing issues to those who write about cyberlibertarianism is understanding how such libertarian ideals developed in the Bay Area that is largely dominated by the left.<p>
+Paulina Borsook was surprised at the juxtaposition of strongly liberal and conservative values.  She described her experience in the Silicon Valley in Cyberselfish, saying that "the technologists I encountered there were the liberals on social issues I would have expected (pro-choice, as far as abortion; pro-diversity, as far as domestic partner benefits; inclined to sanction the occasional use of recreational drugs), they were violently lacking in compassion, ravingly anti-government, and tremendously opposed to regulation."<p>
+Barbrook and Cameron believe that the anti-government stance is fundamental to reconciling these differences.<p>
+"By mixing New Left and New Right, the Californian Ideology provides a mystical resolution of the contradictory attitudes held by members of the Œvirtual class'. Crucially, anti-statism provides the means to reconcile radical and reactionary ideas about technological progress."<p>
+
+<b>Against corporations</b><p>
+In addition to the anti-government stance, many individuals especially college students rally against large corporations such as Microsoft or the music industry.  They exercise this belief by using programs to illegally download music, movies, and software.
+<p>Eric Roberts also believes that the cause of this is in part due to students taking cultural relativism too far, to the extent of ethical relativism.<p>
+The Business Software Alliance confirms the prevalence of these activities among college students.  "Only 24 percent of 1,000 college and university students surveyed consider it wrong to make unauthorized copies of software."  However, 93% said that "people who develop software deserve to be rewarded for their efforts," and 89% said that they had illegally downloaded software without paying for it.  <p>
+The BSA also found that software piracy cost $2 billion in 2002 and perhaps most importantly to college graduates cost 105,000 people their jobs because of the large financial losses.<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:26:29 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

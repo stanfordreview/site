@@ -1,0 +1,290 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 1 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorials/index.shtml" onMouseOver="window.status='Editorials'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorials</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Features'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Features</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../../../Volume_XXX/Issue_1/The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Front_Page/frontpage1.shtml" onMouseOver="window.status='Bob Sensenbrenner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob Sensenbrenner</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/News/news3.shtml" onMouseOver="window.status='Charles Hallford in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Opinion/opinion4.shtml" onMouseOver="window.status='Jeff Russell in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jeff Russell</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Opinion/opinion5.shtml" onMouseOver="window.status='Laura Billadello in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Laura Billadello</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Opinion/opinion3.shtml" onMouseOver="window.status='Laura Surma in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Laura Surma</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/News/news4.shtml" onMouseOver="window.status='Michael Hasper in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Entertainment/index.shtml" onMouseOver="window.status='Ming Zhu in Entertainment'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Editors_Note/index.shtml" onMouseOver="window.status='Piotr Kosicki in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr Kosicki</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/News/news1.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Opinion/opinion2.shtml" onMouseOver="window.status='Travis Menk in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Travis Menk</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Opinion/opinion1.shtml" onMouseOver="window.status='William E. Hudson in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William E. Hudson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 1
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+October 3, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - Features
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Features
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+McClintock Conservatism
+</font><br>
+
+<b>by Joseph Fairbanks</b><br>
+Senior News Editor
+<p>When the list of candidates to replace Governor Gray Davis was finalized no 
+  one predicted that such a great amount of the attention would focus on two Republicans 
+  vying for the party's backing. But as the frontrunners emerged, so did the divide 
+  in the Republican Party's support for its candidates. The party would be forced 
+  to choose between a tried and true conservative in Tom McClintock or a political, 
+  but very popular novice in Arnold Schwarzenneger.
+<p>Over the last few weeks before the Recall election, McClintock's support has 
+  steadily been rising as more Californians hear his message and approve of his 
+  performance in the debates. But even as his standing rises in the polls, so 
+  does that of his only viable Republican rival. With a surge in television and 
+  radio advertising, along with the attention that comes with the debates, McClintock 
+  has emerged as the true conservative choice, contrasting himself with Schwarzenneger 
+  on many issues. He prides himself on record, consistently voting pro-life, anti-tax, 
+  anti-big government, and pro-death penalty.</p>
+<p>McClintock's political record is an impressive one. </p>
+<p>He was first elected to the California legislature in 1982 at age 26one of 
+  the youngest state-wide office holders in the country and within two years became 
+  the Assembly Republican Whip, a top leadership position. </p>
+<p>In 1984, he was named one of five outstanding young Californians by the California 
+  Jaycees, and received the civilian Medal of Merit from the Ventura County Peace 
+  Officers Association for rescuing an elderly man from a condominium fire.</p>
+<p>During his tenure in the State Assembly he became a favorite of Republicans 
+  across the state when he authored the Mello-Condit-McClintock Tax Rebate Act, 
+  which returned $1.1 billion of tax over-collections to the taxpayers of California. 
+  Additionally, he was the author of California's current lethal injection death 
+  penalty law.</p>
+<p>After two failed attempts to be elected to higher office, McClintock was named 
+  Director of Economic and Regulatory Affairs for the Claremont Institute's Golden 
+  State Center for Policy Studies. In 1996 he opted to return to the State Assembly, 
+  easily winning his seat and holding it for two more terms before being elected 
+  to the State Senate in 2000. </p>
+<p>When he entered the Recall race, McClintock promised to draw upon his experience 
+  in the Assembly and the Senate to help clean up the corruption and government 
+  waste plaguing Sacramento under the leadership of Gray Davis and his Lieutenant 
+  Governor, Cruz Bustamante. He has pledged to stop the car tax&acirc;&euro;&#8221;a 
+  tax Governor Davis recently tripled by way of Executive Order, bypassing the 
+  State Legislature. The cost of Davis's tax increase is expected to raise the 
+  tax burden on the average family by $460 per year, according to McClintock. 
+</p>
+<p>&quot;The state's problems are not a shortage of revenue. After the car tax 
+  was reduced and after the dot-com collapse, and after the state's revenues plunged, 
+  we're still taking in 28 percent more revenue than four years ago while the 
+  population and inflation combined have grown only 21 percent, yet Davis has 
+  increased spending by 40%,&quot; says McClintock, as evidence that the tax increase 
+  is unnecessary.</p>
+<p>McClintock also wishes to void the energy contracts negotiated by Davis. Davis 
+  has been accused of costing Californians billions of dollars during the energy 
+  crisis by asking his chief negotiator to negotiate what many felt were massively 
+  overpriced energy contracts. Further controversy came when it was revealed that 
+  Davis's chief negotiator was a consultant for the energy industry, presenting 
+  a clear conflict of interest. According to his website, McClintock has pledged 
+  to &quot;immediately sign a stipulation for the court case seeking to void those 
+  contracts, admitting a conflict of interest, allowing the court to void those 
+  contracts and save the people of California a small fortune.&quot;</p>
+<p>McClintock has also pledged to ask legislature to pass bill similar to Arizona's 
+  worker's compensation law, slashing worker's comp costs by 2/3 and reversing 
+  the flow of jobs across the state line. If the legislature doesn't act, McClintock 
+  says, he will take the issue to a state-wide ballot.</p>
+<p>Trumpeting these messages, McClintock quickly has risen in the polls from the 
+  low single digits to an impressive double digit standing evidence of the peoples' 
+  positive reaction to his plans for reviving California's economy. His sudden 
+  surge in support also indicates an unwillingness for some Republican loyalists 
+  to trust an untested Schwarzenneger. </p>
+<p>As the election has draws closer, McClintock refuses to yield to the calls 
+  of his fellow Republicans to withdraw from the race, which would virtual guarantee 
+  a Republican victory. Some suggest McClintock's unwillingness to drop out is 
+  meant as a snub to the California Republican Party, which has been reluctant 
+  to come to his aid not only during the Recall, but also during his past Senatorial 
+  campaign. Its reluctance of the leadership to support him has not impaired his 
+  ability to become a political star, however. He has been described as an up-and-coming 
+  national figure and mentioned as a possible candidate to replace Senator Barbara 
+  Boxer.</p>
+<p></p>
+<p><em>More information on Senator McClintock's campaign can be found at his website, 
+  www.tommclintock.com</em></p>
+<p> 
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:24:36 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

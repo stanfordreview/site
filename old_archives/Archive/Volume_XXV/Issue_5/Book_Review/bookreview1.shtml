@@ -1,0 +1,223 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXV - Issue 5 - Book Review</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.shtml" onMouseOver="window.status='A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Note From Bob</font></a><br>
+
+<a href="../Best_Of_Web/index.shtml" onMouseOver="window.status='Best of the Web'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Best of the Web</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Book Review</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="../Interview/index.html" onMouseOver="window.status='Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Interview</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.html" onMouseOver="window.status='Bob McGrew in A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../Interview/index.html" onMouseOver="window.status='Brian Ball in Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brian Ball</font></a><br>
+
+<a href="../Opinion/index.html" onMouseOver="window.status='Henry Towsner in Opinion (also in Book Review)'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Jim Carlson in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jim Carlson</font></a><br>
+
+<a href="bookreview1.shtml" onMouseOver="window.status='John Gibbs in Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>John Gibbs</font></a><br>
+
+<a href="../The_Last_Page/index.html" onMouseOver="window.status='Johnny Openshaw in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Johnny Openshaw</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Justin Diener in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Justin Diener</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Scott Rasmussen in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXV, Issue 5
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+December 7, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXV'; return true" onMouseOut="window.status=' '; return true">Volume XXV</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - Book Review
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Book Review</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>Beware When Elites Control Education</font><br>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Issue_5/Book_Review/images/ravitch_book.jpg" width=156 height=237 alt="Ravitch's Book" align=left>
+	While we may think the debate on education is a recent occurrence, the current disputes trace their origin to a shift which occurred one hundred years ago.  In <i>Left Back: A Century of Failed School Reforms</i>, Diane Ravitch skillfully follows the progression of educational movements that have occurred throughout the past century. Ms. Ravitch argues that, starting early in the 20th century, control of educational content shifted from being localized in nature, with communities, school boards, and parents making most of the important decisions, to being centralized and bureaucratic, with newly made "educational experts" recommending esoteric, sweeping changes from the top down, with little input from those outside of the elite educational establishment. Ms. Ravitch argues that the result of this centralization is that the educational reforms that have occurred during this century have been surprisingly undemocratic, and that those who proposed reforms which resulted in degraded performance did not have to account for their miscalculations.  This centralization of the educational decision-making process into the hands of the few, whose resulting ideology is called in aggregate the "progressive education movement", is the focus of the work.<p>
+
+	Ms. Ravitch makes her case by describing in impressive detail the beliefs and contributions of each of the key players in the progressive education movement.  Starting in the 1890's, Ms. Ravitch shows that the structure of secondary education in America was primarily determined by local school boards, parents, and teachers.  Local authorities had a strong consensus that students should have a solid foundation in the basics: math, science, history, languages, and grammar, and this was reflected in the curriculum and courses available at that time.<p>
+
+	However, another voice started to emerge, primarily from the top academic institutions, which claimed that only those specially trained and with advanced degrees in the "educational sciences" should be able to design curriculum and subject matter, and that local authorities such as parents, teachers, and school boards probably didn't have the know-how to make such decisions.  These figures argued against the traditional curriculum based on the basics, and instead pushed for vocational education and social education, where instead of being taught the theoretical tools which would build their minds, students would be taught how to be accepted by their peers, or how to perform a particular trade to be used in industry.  They argued that schools should be used to change society and to provide industry with skilled workers, and that learning for the sake of intellectual development ultimately did not serve the needs of society.<p>
+
+		Gradually, the voices of progressive education increased in influence as teachers and administrators nationwide bought the books of progressive educators and attended their lectures on a massive scale, hoping to become more enlightened. <p>
+
+		But just what is so enlightening about learning bold, progressive theories from people who have never tried them in practice and would not have to bear the consequences of their failures?  This is the point which comes through so clearly as Ms. Ravitch details the declines which occurred after the enactment of such ideas.  As theory after theory was tried by the educational establishment, there were no admission of error, just more and more new proposals to take their place.<p>
+
+	One striking example can be seen in an experiment involving seventh graders and punctuation carried out at the Lincoln school, a special institution established for the sole purpose of testing novel new educational theories such as child-centered learning and "activity" learning.  The experiment concluded that students who were drilled in punctuation were three times as proficient in punctuation as students who had not been drilled. However, instead of concluding that students should be drilled in punctuation in order to acquire it, the progressive educators concluded that more drilling was not "either wise or desirable", since drilling was not a "natural experience" for children.  Such is the case for most of the theories originating from the educational experts; they flew in the face of logic and evidence, yet succeeded because of the clout and power of their proponents.<p>
+
+	Ms. Ravitch argues that a strong education in the basics, rather than a vocational education or an education centered around self-esteem and peer awareness, provides citizens with what is needed in order for a democratic society to flourish.  Anything other than this will result in a populace not informed about the nature and workings of self-government, without a historical understanding of their place in the world, and without the scientific ability to counter "the proliferation of irrational claims and antiscientific belief systems."<p>
+
+	Unlike the educational elite who argued that the traditional curriculum should be offered only to college bound students, Ms. Ravitch shows that all students need the intellectual development which comes only from a strong curriculum. Indeed, one of Ms. Ravitch's strongest points is that disadvantaged students, to a greater extent than others, need a traditional education if they are ever rise socially and economically.  A vocational education, or any other type of education not based on developing intellectual ability, will tend to lock disadvantaged children into their current state by not providing them with the intellectual foundation that would allow them to perform anything other than blue-collar work.
+	Unfortunately, while Ms. Ravitch points out the dangers in letting an "elite" make decisions in place of the local citizens and laymen who are affected by them, she does not offer readers an analysis of why parents and teachers were unable to keep control from shifting away.  Without that, we have no way to prevent it from happening in other areas.<p>
+
+<i>John Gibbs is a senior majoring in Computer Science. He thinks that the presidential dispute could be easily settled by making Harry Browne president.</i><p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:55:14 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

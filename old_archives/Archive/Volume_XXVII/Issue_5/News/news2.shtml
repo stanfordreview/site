@@ -1,0 +1,268 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 5 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word From The Editor</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Alex Robbins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../The_Last_Page/index.html" onMouseOver="window.status='Andrew Wright in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='David Myszewski in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Justin Diener in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Justin Diener</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Katie Kollitz in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Katie Kollitz</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Keun Lee in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Keun Lee</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Kevin McCaffrey in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kevin McCaffrey</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Nels Hansen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.html" onMouseOver="window.status='Scott Rasmussen in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 5
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+January 16, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Ken Starr Visits Stanford
+</font><br>
+
+<b>by Keun Lee</b><br>
+Senior Staff Writer<p>
+
+	Kenneth Starr, former Independent Counsel, discussed law and his career as a featured speaker at the Stanford Law School on Nov. 12, sponsored by the Stanford Federalist Society.  Taking questions from undergraduate as well as graduate law students, Mr. Starr discussed a range of topics ranging from school vouchers to Whitewater investigation.
+
+
+
+	Dubbing the Monica Lewinsky debacle as "the recent unpleasantness," Mr. Starr provided frank insights to how he managed the Whitewater investigation as an Independent Counsel.  Asked about the best and worst advice he received throughout the investigation, Mr. Starr said," the most important advice was to keep my portion of the investigation narrow and focused."
+
+<p>
+
+	Mr. Starr told of another good piece of advice, which he jokingly admitted as having had a particular practical value.  "When I first became the Independent Counsel, I expected the investigation to last six to eight months.  It was after all a failed land deal in Arkansas. And individually James McDougal had been charged and acquitted in charges in connection with the failure of Madison Guarantee Savings and Loan.  On the evening of August 9th 1994, I met with people who were already working in the investigation for the first time in my then brand new capacity.  They said 'move to Arkansas, you are gonna be here for a long time.'"
+
+<p>
+
+	One student asked Mr. Starr, "I'd like you to think retrospectively on your last public role (referring to the Lewinsky scandal), from a purely strategic stand, I wondered if you could talk to Ken Starr just before he got the phone call from the..."  At this point Mr. Starr interrupted the questioner, "No, I wouldn't!"  The audience burst out laughing.
+
+<p>
+
+	The student had a follow-up question, "How did you decided to do it, how to conduct the investigation, I mean it took a lot of twists and turns, I wonder taking on all that stress..."  Mr. Starr did not hesitate to interrupt him once more: "You put it extremely nicely. Do you have interest in diplomatic service?"  The audience, including the questioner, burst out with laughter again.
+
+<p>
+
+	On a more serious note, Mr. Starr confessed he had some regrets on the administrative aspects of the investigation, "In the light of what we all know now, it was better not to have expanded the investigation, with the attorney general's approbation, to include White House Travel Office, FBI files, and then most notably 'the recent unpleasantness.'  It would have been better if each matter was handled by different independent counsel."
+
+<p>
+
+	Students asked several questions regarding Mr. Starr's view on individually liberty, especially with respect to the measures that the Department of Justice has put in place to counter terrorist threats.  One questioner asked Starr how he would justify the "new policies and justice administration crackdown on individual liberty in the name of national security."
+
+<p>
+
+	"I would talk about the Fourth Amendment provision citing court judgment of reasonableness," said Mr. Starr.  "I think all members of the current court consistent with the original intent of the amendment believe that the Fourth Amendment in fact envisions a very self-conscious, overt process of balancing competing social interests against individual liberty."
+
+<p>
+
+	Mr. Starr also shared his views on the relationship between religion and law.  "I think for those who take faith seriously, and I do, I am unashamedly a Christian, that it is nonetheless our duty as professionals to strive to the utmost to follow the dictates of the law.  And thus let go ahead and just be very straightforward, Roe vs. Wade holds.  Doesn't mean I agree with it, but I accept it."
+
+<p>
+
+	Mr. Starr maintained that the American constitution recognizes and respects the importance of the role religion plays in society.  "To my mind the founding of the American republic really did contemplate a happy existence of religion in the community.  Matters of conscience, the Madisonian and Jeffersonian effort to protect social conscience eventually gained ascendancy, but in nowise was it suggested that religion and faith was somehow counter to the well being of the free people."
+
+<p>
+
+	Discussing school vouchers, Mr. Starr said, "I am a firm believer.  Point one, I think if you look at the data from Wisconsin, you see that it works and it has a very powerful generative effect, that if you allow choice, public school will become better.  Competition works!  Moreover, this truly individualized choice based on neutral individual parental choice is perfectly legal."
+
+<p>
+
+	Mr. Starr had a more reserved stance on the issue of death penalty.  "Morally, I am troubled by death penalty.  I do not have much enthusiasm for it, and yet I also don't have a good alternative to it when it comes to certain specific cases.  It's not a constitutional issue; the American constitution contemplates death penalty and allows it.  I suppose the congress can pass an amendment and do away with it, but in today's political context that will probably not happen."
+
+<p>
+
+	When asked about the nature of his present career and how his 'recent fame' has impacted it, Mr. Starr seemed contemplative, saying it was hard to assess the impact of his 'recent fame'  "I still do business as usual, and I love taking on good constitutional issues.  Right now, I'm doing a fair amount of intellectual property work.  Most recently I played a fairly active role representing the anti-Microsoft side of the anti-trust case, being counsel to Oracle and Sun Microsystems."
+
+<p>
+
+	"Notoriety holds no charms for me," Mr. Starr quoted General Grant.  "I can really relate to that because in this age of countless and trivial celebrities anonymity really is a form of freedom."
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:13:48 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

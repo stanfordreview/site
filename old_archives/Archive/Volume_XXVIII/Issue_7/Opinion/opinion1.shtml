@@ -1,0 +1,260 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVIII - Issue 7 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Alex Robbins in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Henry Towsner in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Hilary Connell in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Hilary Connell</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Joe Fairbanks in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Fairbanks</font></a><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Joe Lonsdale in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="opinion4.shtml" onMouseOver="window.status='Nels Hansen in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Sam Shapero in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Will Hudson in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Will Hudson</font></a><br>
+
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVIII, Issue 7
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+May 31, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVIII'; return true" onMouseOut="window.status=' '; return true">Volume XXVIII</a> - <a href="../index.html" onMouseOver="window.status='Issue 7'; return true" onMouseOut="window.status=' '; return true">Issue 7</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+The American Flag is 'a Symbol of this Nation's Creation and Composition'
+</font><br>
+
+<b>by Will Hudson</b><br>
+Staff Writer<p>
+
+We've all seen the American flag streaming in the wind outside the Bing Wing, or remember it dancing to middle-school marching bands at football games. I dare say that as close as we live to Berkeley, we've seen our fair share of flag burning, too. It's a heated topic that has many implications -- is flag burning an acceptable way in which to utilize free speech?  Or are the stars and stripes of this nation such an important symbol that they need stand above petty politics; is the flag of the United States of America so vitally connected to our identity as a great nation that desecrating it makes one a traitor the country and its basic values?
+
+<p>
+
+In answering that question, I think it's important to remember what the flag means, because it's not such a simple answer. While a glance at any government-printed guidebook will inform you that the white stands for valor, the blue for justice, and the red for perseverance, in the end the stitched stars and bars of the flag mean a lot more than an attractive trio of colors. For our soldiers who died with the flag stitched to their uniforms for political and economic interests that they may not have even understood, the flag meant more than abstract concepts invented by some Congressional subcommittee. What they did understand was freedom and righteousness, and that these are the values for which America fights.  The flag, as a symbol of this country, has all sorts of meaning that many of us, sitting comfortably in our Stanford dorms, can't easily understand or imagine. To many, the flag is a nice symbol that they put out on Flag Day and learned about in elementary school, but just like old standards of morality and a common respect for patriotism, this sentiment is getting lost by the increasing appeals of those that want to burn what has become, in many eyes, the most sacred symbol of this country.
+
+<p>
+
+The most common cry -- or really whine -- is that the flag is just like any other printed document and as such is an object of free expression; wrapped in this logic is the conclusion that the flag, as an ordinary vehicle of free speech, can be desecrated as a form of this free speech.
+
+<p>
+
+I'd like to refute this hogwash one step at a time.
+
+<p>
+
+The American flag is first and foremost a very unique creation in the history of political iconography. While most flags were formed for military reasons -- the troops in the field needed something identifiable around which to rally -- no other flag has achieved the level of civilian respect that the American flag enjoys. No other country has passed legislation that rivals its tax codes on the subject of flag culture. The Flag Code describes to unthinkable minutia how to display the flag in different situations and where the flag can be displayed. While it is federal law, there are no consequences for violations, but many states have incorporated the Flag Code into their state penal codes, lending greater import to the intent behind the initial legislation.
+
+<p>
+
+We sing songs to the flag. We compose poems and paint flags on our clothes. We decorate our cities with the powerful symbol, and we feel better because of it. Watching any political advertisement these days usually entails a flood of flag imagery. The national mood can be felt in a moment of crisis or horror when the flag stands at half mast. In short, the flag is a lot more than just some cloth rag that we throw up on a flagpole when it suits us -- it's a part of our national identity to an incredible level. Every country has its flag, and they all wave it a lot on certain occasions, but the American flag is fundamentally unique because we're the only ones that have come to worship the flag in the civil religion that predominates in this country. It's a healthy attitude that feeds patriotism and national self-reflection, and it provides us with a clear symbol of our unity and ideals in a society too concerned with segregating us into separate identities with affirmative action and other discriminatory attitudes. In a society that was created by and thrives through diversity, the American flag provides a common symbol and hope in a way that has been largely unnecessary for other relatively homogenous nations.
+
+<p>
+
+The flag is really a symbol of this nation's creation and composition -- of how we are committed to grand ideals of valor, perseverance, and justice, and how in the end we act as a unified nation and are not afraid to defend our country and its mission. That such unity can emerge from so many different racial and religious backgrounds and rally behind a single flag is an amazing testament both to the power of the flag as a symbol and the moral character of the American people.
+
+<p>
+
+And that's why those that complained about the so-called "excessive flag-waving" after September 11th strike me as tragically misinformed about what the flag and this country mean. To wave and show the flag was to provide a visual signal that you supported this country and recognized the sacrifices of those that had died for the flag -- both in the traditional textbook sense and the thousands that died that fateful day in September. The collected strength of these people's lives is difficult to comprehend and I dare say impossible; to comment on the life of one person to satisfactory detail would take years, and to do so for all of those Americans that have died for the flag over the years would be incredible. For all of the lives that come and go under its watchful gaze, Old Glory is a powerfully eternal symbol and memorial to these people that will never be forgotten. To wave the flag is to respect the individual sacrifices made by American citizens and to put them in the context of an equally rich national history.
+
+<p>
+
+Excessive flag waving is an insulting term because there can be nothing excessive about remembering and honoring the individuals that have graced this country's history. Those that selfishly complain about the preponderance of flags after 9/11 do so in flagrant disrespect to their fellow countrymen and belittle their own individual right to be remembered. Considering that most of the arguments for flag burning come from the more "free-thinking," individualist factions of society, their disrespect for fellow individuals and discrimination about who is to be remembered is strangely hypocritical and deeply troubling to a rational American.
+
+<p>
+
+Flag burning is incomparably worse than arrogantly chiding citizens for respecting their country and fellow countrymen -- it spits upon and attempts to destroy the memories of both. Arguing that the American flag is a symbol of oppression, tyranny, and corporate destruction of the Third World, flag burners were especially prevalent in the 1970s, a period also known for its drug use and questionable morality.  To protest the war, they burned the American flag to make a political statement, they argued. In effect, however, these protestors were destroying the symbol of the only country where such statements would be permitted. They were burning a symbol that represented the soul of every man and women who gave their life to create a place where their children could breathe free, and live in liberty and comfort in a world of tyranny and oppression.  In arguing for the flag's "tyrannical, oppressive symbolism," flag burners conveniently forgot the rich and long history of the flags carried by the troops that liberated Europe from Nazi genocide, or the defense of innocent South Koreans against one of the most dangerous human rights disasters in the modern world, North Korea. The American flag has been at the forefront of our efforts to free the world from tyranny and oppression; the Dutch, of all people, still celebrate July 4th in honor of what the Americans did to rescue their country from Hitler's clutches. Evidently the Dutch know something that some Americans have forgotten: America is a powerful country that resists oppression and encourages peace and prosperity. Rather than burn the flag, American protestors could learn from the Dutch and learn to respect their country for all of its incredible accomplishments.  Perhaps they could even get a job, and then learn to contribute to political discussion in a useful and intelligent manner.
+
+<p>
+
+The stars and bars is at the center of all this as the most prominent visual symbol of America. On September 11th, terrorists supported by evil states destroyed our buildings, killed our innocent civilians, and murdered a false sense of American safety from a world filled with hate, jealousy, and oppression. From the rubble, though, three firemen found and hoisted the American flag, and as it rose, so did Americans' ability to cope with the disaster and maintain their rightful faith in their country, even in its moment of supreme sacrifice.  Whatever evil and hardships we may face, the people of America will stand up tall fly Old Glory and what it stands for in the face of our troubles; it is for these men and women that I fly my flag proudly, and am morally opposed to those that would burn and cheapen the symbol of fellow citizens and their sacrifices.
+
+<p>
+
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:20:35 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

@@ -1,0 +1,426 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - February 28, 2008</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style1 {font-style: italic}
+.style3 {font-weight: bold}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XL, Issue 4 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">February 28, 2008 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">NEWS</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Muslim Student Group Launches &ldquo;Jihad&rdquo; of Mixed Messages</p>
+              <p class="byline">by Jonathan Gelbart</p>
+              <p class="byline"><em>Staff Writer</em></p>
+              <p class="style1"><img src="news1.jpg" width="300" height="266" border="0" align="right"></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>Mobs flock to the streets of Khartoum calling for the death of a British schoolteacher. A Saudi woman is sentenced to 200 lashes for being unaccompanied by a male family member while the men who raped her receive a mere slap on the wrist. Riots break out and embassies are burnt to the ground in response to a cartoon, and again in response to an offhanded statement by the Pope. Because of events like these, the Western perception of Islam is increasingly that it is a religion of hatred, misogyny, intolerance, and violence. Recently, however, growing numbers of Muslims have come out against such events, saying that they do not agree with the fundamentalist ideology which drives them. These incidents, they argue, are not representative of Islam. </p>
+              <p>Non-Muslims and Muslims alike agree that Islam is a religion in desperate need of reform, or serious reinterpretation at the very least.  In the spirit of this need for reform, the Muslim Student Awareness Network (MSAN), the Islamic Society of Stanford University, and the Office of Religious Life have partnered to put on this year&rsquo;s annual Islamic Awareness Series, entitled &ldquo;Our Jihad to Reform: The Struggle to Define Our Faith.&rdquo; In an Op-Ed to The Stanford Daily introducing the series, Zaid Adhami &lsquo;10, the vice president of MSAN, writes that the goal of the series is &ldquo;to create a dialogue that critically and honestly confronts important contemporary issues in the Muslim world. The series will focus on the struggle, literally the jihad, to define and understand Islam in a way that is true to its essence yet faces up to modern challenges and is compatible with contemporary realities.&rdquo; The Op-Ed does an excellent job describing the current challenges which both non-Muslims and Muslims face today, and presenting some purely Islamic ways to confront them. Overall, the stated goals for the speaker series are quite noble, and indeed a welcome change from typical Muslim silence on these issues. </p>
+              <p>Regrettably, however, the guest list did not match up to the purported goals of the series. Rather than true Islamic reformers or moderates like Dr. Zuhdi Jasser or Bassam Tibi, the series featured Islamic apologists, several of whom refused even to acknowledge any of the problems mentioned in Adhami&rsquo;s Op-Ed. </p>
+              <p>&nbsp;</p>
+              <p><strong>&ldquo;Intolerance&rdquo;</strong></p>
+              <p>Kicking off the speaker series was Dr. Khaled Abou el-Fadl, professor of law at UCLA, whom Middle East specialist Daniel Pipes has previously described as a &ldquo;stealth Islamist.&rdquo; Though he has been hailed as a voice of reason and moderation by countless news outlets, including The Boston Globe, Los Angeles Times, National Review, The New Republic, and even The Jerusalem Post, el-Fadl proved otherwise and justified Pipes&rsquo; moniker in his talk. Instead of focusing on extremists in the Islamic world who call for the death of those who &ldquo;blaspheme&rdquo; Islam and the worldwide implementation of shari&rsquo;ah (Islamic law), his talk, entitled &ldquo;Wrestling [sic] Islam from Intolerance,&rdquo; focused on American &ldquo;intolerance&rdquo; toward Islam in the form of a &ldquo;deluge of Islam-hating literature&rdquo; by respected authors like Robert Spencer and Mark Steyn. At one point, el-Fadl failed to remember the name of one of Robert Spencer&rsquo;s books but nevertheless denounced it as &ldquo;thoroughly intolerant.&rdquo; El-Fadl also claimed to have worked with &ldquo;radical secular humanists&rdquo; on the US Commission on International Religious Freedom who &ldquo;detested the existence of Muslims.&rdquo; El-Fadl asserted that, because of this, Americans have no right to demand tolerance from the Islamic world. Apparently, in the world of Khaled Abou El-Fadl, critical rhetoric is a much more egregious act of &ldquo;intolerance&rdquo; than murder and institutionalized hatred. </p>
+              <p>Spread throughout the talk, el-Fadl also managed to squeeze in several anti-Israel comments, decrying the &ldquo;starving of 1.5 million Palestinians in Gaza&rdquo; and denouncing the United States for not recognizing the democratically-elected government of the terrorist group Hamas. He failed to mention, however, the dozens of rockets from Gaza which deliberately target civilians and continue to fall on Israeli cities every day, as well as Hamas&rsquo; unbending refusal to recognize Israel&rsquo;s right to exist. El-Fadl then mocked the suggestion that the Palestinians must learn tolerance in order for peace to come to fruition, asking &ldquo;is resisting occupation tolerant or intolerant?&rdquo; </p>
+              <p>El-Fadl proceeded to slam Daniel Pipes and Ayaan Hirsi Ali as &ldquo;professional Islamophobes&rdquo; who &ldquo;know nothing about Islam.&rdquo; El-Fadl attacked Daniel Pipes an unnecessarily large number of times throughout his talk, appearing almost desperate to convince the audience that Pipes&rsquo; statements about Islam (and, by extension, el-Fadl himself) are wholly incorrect at best and dangerous at worst. In one memorable statement, el-Fadl proclaimed that &ldquo;if anyone epitomizes the issue of intolerance, it is the Islamophobes.&rdquo;</p>
+              <p>&nbsp;</p>
+              <p><strong>Vindicating Islam?</strong></p>
+              <p>One week after el-Fadl&rsquo;s lecture, Professor John Esposito of Georgetown University presented his own findings as the second speaker in MSAN&rsquo;s series. Esposito is well-known for Professor Martin Kramer&rsquo;s pronouncement that &ldquo;[Esposito] has never met an Islamist he didn&rsquo;t like,&rdquo; as well as his consistent insistence that terrorism is completely due to socioeconomic and political factors and has absolutely nothing to do with any interpretation of Islam. Though many people question the veracity of Esposito&rsquo;s views as well as his objectivity, his speech was at least much less inflammatory than el-Fadl&rsquo;s. </p>
+              <p>Rather than focusing entirely on American &ldquo;intolerance,&rdquo; as el-Fadl did (though Esposito engaged in this as well), Esposito decided to take the route of obfuscation. He devoted a substantial portion of his talk, entitled &ldquo;Dying for God? Suicide Terrorism and Militant Islam,&rdquo; to redefining jihad as a &ldquo;multilayered concept&rdquo; which &ldquo;[has] multiple meanings...In its primary meaning, it means a struggle for God, a struggle to follow God&rsquo;s will.&rdquo; While many people dispute the accuracy of this claim, the important thing is that it is largely irrelevant while countless thousands continue to die at the hands of those claiming jihad as their motivation. Statements like this thus come off as not just making excuses for the extremists, but a completely useless focus on semantics that only distracts from the current situation.</p>
+              <p>Another of Esposito&rsquo;s favorite techniques was to invoke the concept of moral equivalence. For every objection to Islam, Esposito cited a counterexample from Christianity or Judaism. Tell him Muhammad was a warrior, and he responds &ldquo;What about Joshua?&rdquo; Ask him if Islam is the reason why Christian areas of Iraq are being liquidated and churches are being destroyed, and he counters that this is like asking a Catholic if Catholicism teaches pedophilia. The list goes on and on. The absurdity of this argument should be self-evident, but suffice to say, there are no groups calling themselves the &ldquo;Army of Joshua&rdquo; who are systematically destroying mosques and killing innocent civilians around the world.</p>
+              <p>Esposito also could not resist joining in on the Daniel Pipes-bashing. He went so far as to call him one of &ldquo;the Darth Vaders of the world&rdquo; and an &ldquo;Islamophobe&rdquo; who makes it difficult for people to know what to think about Islam. This last complaint is no surprise since Pipes&rsquo;s arguments indeed make it more difficult for people to blindly accept the rosy version of Islam which Esposito chooses to promote. As was the case with el-Fadl, the Pipes obsession only served to substantiate his influence and raise questions about why exactly MSAN&rsquo;s speakers are so afraid of him. If they truly had nothing to hide, they would welcome the constructive criticism which Pipes provides. </p>
+              <p>&nbsp;</p>
+              <p><strong>Coexistence</strong></p>
+              <p>Professor Sherman Jackson of the University of Michigan proved to be the only speaker in the series who actually took MSAN&rsquo;s goals to heart and closely examined several controversial parts of Islam. Although he was not completely unbiased, he at least refrained from name-calling and knee-jerk &ldquo;blame America first&rdquo; generalities, which could not be said for el-Fadl or Esposito. He did not once blame American ignorance, intolerance, or imperialism for the current situation, and, perhaps most revealingly, he felt no need to attack Daniel Pipes at any point during his lecture. This focus on Islam and lack of blind vilification of the West helped lend a sense of legitimacy to the speaker series which had been previously lacking.</p>
+              <p>His talk, entitled &ldquo;Laying Down the Shari&rsquo;ah Law: Democracy or Theocracy?&rdquo; focused on Islam in the United States and how Muslims who are &ldquo;thoroughly committed to their religion, can, on a visceral and very natural level, come into a mindset where, as Muslims, they feel a sense of solidarity...belonging...[and] empathy with the people of the society in which they live.&rdquo;</p>
+              <p>Jackson sought to explain &ldquo;how Muslims and Islam can come to terms with the American project.&rdquo; Though it is encouraging to hear that integration between the two communities is entirely feasible, this wording&mdash;that Muslims &ldquo;can...come into a mindset&rdquo; and &ldquo;can come to terms with&rdquo;&mdash;implies that, though such acceptance of Western ideals is possible, it requires substantial effort on the part of the individual which has, for the most part, not yet been undertaken by the American Muslim community. It is comforting, at least, to know that Islam and the values of the Enlightenment are not entirely antithetical and can coexist without abandoning the basic precepts of Islamic doctrine.</p>
+              <p>Jackson then laid out several examples of Islamic fundamentalist teachings which ought to be re-interpreted in the context of the modern world. The most pressing of these teachings, in Jackson&rsquo;s opinion, is the concept of al-Hakimiyyah. This idea essentially states that &ldquo;if Muslims recognize man-made law and man-made polities, they are guilty of violating Islamic monotheism by attributing to someone other than God the right to make laws, confer rights, and impose obligations.&rdquo; Jackson responded by citing the historical precedent of Islamic rulers making laws and pointing out that such laws are necessary, since, for example, &ldquo;you&rsquo;re not going to find speed limits in the Qur&rsquo;an.&rdquo; Jackson went on to describe the problematic situation of fundamentalists opposing any government, Muslim or non-Muslim, which does not apply Islamic law. Jackson argued that this stance also simply does not hold up to historical precedent. Hearing this explicit rejection of extremist views was very refreshing after the vitriolic, counterproductive speeches of el-Fadl and Esposito.</p>
+              <p>Overall, the Islamic Awareness Series was, on its face, a bold attempt to begin to reconcile the perceived differences between the precepts of Islam and the accepted norms of the modern world. Unfortunately, the first two speakers in the series chose not to take part in this effort, preferring instead to spout overused anti-American platitudes and ignore the real issues. Fortunately, Professor Jackson was able to make up for man-y of their shortcomings and provide the truly honest discussion that, according to Adhami&rsquo;s Op-Ed, MSAN was looking for. Yet even Jackson&rsquo;s presentation was not enough to prevent the series from feeling somewhat one-sided and disingenuous. Whether this was MSAN&rsquo;s intention or not is up for debate. </p>
+              <p>The series will conclude with Hina Azam of the University of Texas at Austin, on February 24. Perhaps her talk will bring the series closer to neutrality.</p>
+              <p><br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

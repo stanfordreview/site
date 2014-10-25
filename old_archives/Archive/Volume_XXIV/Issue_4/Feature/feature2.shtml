@@ -1,0 +1,266 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIV - Issue 4 - Feature</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front page</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editor's Note</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Feature</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Letters/index.shtml" onMouseOver="window.status='Letters'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letters</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="feature2.shtml" onMouseOver="window.status='Bob McGrew in Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Brian Ball in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brian Ball</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Dr. Charles H. Kendall in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dr. Charles H. Kendall</font></a><br>
+
+<a href="../Front_Page/index.html" onMouseOver="window.status='David Myszewski in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Johnny Openshaw in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Johnny Openshaw</font></a><br>
+
+<a href="feature1.shtml" onMouseOver="window.status='Michael New in Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael New</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Ryan Parks in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Parks</font></a><br>
+
+<a href="../News/index.html" onMouseOver="window.status='Scott Rasmussen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+</font>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXIV, Issue 4
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+May 9, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIV'; return true" onMouseOut="window.status=' '; return true">Volume XXIV</a> - <a href="../index.html" onMouseOver="window.status='Issue 4'; return true" onMouseOut="window.status=' '; return true">Issue #4</a> - Feature
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Feature</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>"Break The Bank" And "Defund The Fund"<br></font>
+
+<b>by Bob McGrew</b><br>
+News Editor<br>
+<b>Photographs by Johnny Openshaw</b><p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIV/Issue_4/Feature/images/imf1.jpg" alternate="IMF protest picture #1" width=247 height=234 align=left>
+
+Conservatives have often had suspicions about the International Monetary Fund and the World Bank as taxpayer-funded institutions designed to tame global markets.  Libertarians like Nobel Prize-winning economist Milton Friedman have called for them to be abolished outright.  On April 16th and 17th, however, the sins of the IMF and World Bank became the target of massive protests in Washington D.C. by the same activists who shut down the WTO in Seattle last fall.  Activists organized counterparts to the "A16" march in cities around America, with the largest and most vibrant in San Francisco on April 17th.<p>
+
+	Twenty-odd Stanford students left from Columbae to join the San Francisco protests, a motley crowd from SEAS, Students for Environmental Action at Stanford, SLAC, the Stanford Labor Action Coalition, and a single activist from Amnesty International.<p>
+
+	After the protesters grabbed themselves an empty car on the Caltrain, a tall Indian named Mandeep Gill stood to speak. He had gone to the demonstrations in Seattle last fall against the WTO and, as a seasoned activist, even spent time in jail for civil disobedience.  Mr. Gill confessed that he didn't know that much about the IMF or the World Bank, because, after all, he was a busy physics student.  But he invited the students to tell what they knew.<p>
+
+	At first, one student read from a rather even-handed account of the history of the twin Bretton Woods institutions, and then a rather less even-handed indictment of their current policies.  The next students read flyers like "How IMF Policies Destroy Forests" and "False Profits: Who Wins, Who Loses When the IMF and World Bank Come to Town."<p>
+
+	Of course, the protesters didn't attack the IMF and the World Bank as the nemesis of global free markets, but rather for their distinctly capitalist structural adjustment policies, which require the government to cut spending, remove trade barriers, and increase exports in order to receive funds.  The brochures almost began to make the IMF look good.<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIV/Issue_4/Feature/images/imf2.jpg" alternate="IMF protest picture #2" width=181 height=243 align=right>
+
+ 	Unbeknownst to the protesters, as they traveled to the rally, the protests in Washington D.C. for which this was to be solidarity were vanishing fast under the influence of a cloudburst.  As it began to rain, the college students who went to D.C. to "Break the Bank!" and "De-fund the Fund" packed their bags and went home.  As there was no rain in San Francisco, however, the demonstrators stuck it out through warm, sunny weather and crystal-clear skies.<p>
+
+	The rally filled the center of Justin Herman plaza where Market ends in Embarcadero, though it was by no means packed.  The people there were a chaotic mix of college students carrying signs, elderly activists handing out the Socialist Worker newspaper, reporters followed by cameramen, and black-clad anarchists beating drums.<p>
+
+	The anarchists were everywhere.  Most wore black pants, a black shirt, and some added a black jacket with a hood.  They then covered their faces with bandanas so as to leave only the eyes showing.  Some had "Free Mumia" emblazoned on their shirts, a reference to Mumia Abu-Jamal, a one-time black journalist on death row after his conviction for shooting a Philadelphia police officer.<p>
+
+	Most of the protesters, however, eschewed black in favor of T-shirts with slogans.  While some were merely advertising radical groups, like "Earthfirst - No Compromise in the Defense of Mother Earth," others were more sinister.  "There's a sleeping cop in all of us," one T-shirt read.  "He must be killed."<p>
+
+	One person who did not look sinister was Brad Hinson, a cheerful-looking student from the College of the Redwoods in Ft. Bragg.  He was colorfully dressed, in contrast to the black-clad groups, and his dyed-red hair contrasted with the black flag he was carrying half-furled.<p>
+
+	"I'm here because I'm totally dissatisfied with the way the global economy is going right now," he said.  " I'm personally an anarchist and I feel that there's a pressing need to abolish currency and all forms of authoritarianism in economic relations in order for us to get ourselves off the track of environmental destruction and human exploitation and all those other things."<p>
+
+	Mr. Hinson had joined the Seattle protests against the WTO.  In fact, he talked knowledgeably about the roots of Seattle-style tactics as pioneered by Spanish anarchist groups during the Spanish Civil War.  But he opposed, as a matter of tactics, the kind of property damage and window-smashing that gave the so-called "black blocs" of anarchists a bad name in Seattle.<p>
+
+	"It's a very controversial tactic," said Mr. Hinson. "I think it can be very effective, but it can also alienate people.  I'm not one to denounce it, because plate glass is plate glass - you can melt some more sand and make more. With any construction project, you have to clear ground - you have to destroy in order to build.  I'm here to push the cause of worldwide anarchist revolution."<p>
+
+	As Mr. Hinson left, his pennant unfurled, revealing it to be pure black without design.  At that moment, however, a hush fell over the plaza as the speaker from the striking Bike Messengers Union declared "a moment of silence for the bike messengers and walking messengers who are no longer with us and all your friends whose lives have been tragically cut short by this evil corporatist system."<p>
+
+	Sometimes the rally seemed less about the IMF or the World Bank and more about getting rid of capitalism.  Some signs read "Human Need, Not Corporate Greed," while others railed against multinational businesses and the greedy businessmen who run them.<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIV/Issue_4/Feature/images/imf3.jpg" alternate="IMF protest picture #3" width=206 height=270 align=right>
+
+	Neither Dan Ruck, from the College of Marinn in San Raphael, or his friend Brianna Seth, however, seemed to be railing so much as listening.<p>
+
+	"I think that just by being at a protest - by having your body here - it shows that your consciousness is aware of everything that's going on," he said. "There's too many problems to solve just by showing up at a place and doing a few chants, but the fact that you're here demonstrates that you're aware. That's the first step in any revolution, isn't it?"<p>
+
+	When asked about the reasons they were against the IMF and the World Bank, it was Ms. Seth who laid out the charges.<p>
+
+	"That they enslave and kill people who are just trying to live their life and who don't have a choice.  And that they're destroying the environment."<p>
+
+	While that might seem a tall order for two institutions that do little but give away money, the two did manage, among other things, to unite a disparate crowd into a chanting, sign-waving mass.<p>
+
+	An island of peace, however, formed around two students sitting on the sidewalk chalking out an abstract figure.  As it turned out, Chad Cordell and Leah Bass, from the Art Institute in San Francisco, were listening as well as drawing.  Mr. Cordell had even been to the Seattle protests.  But the two of them, on the outskirts of the demonstration, turned out to be the most moderate ones to be found.<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIV/Issue_4/Feature/images/imf4.jpg" alternate="IMF protest picture #4" width=334 height=181 align=left>
+
+	"From what I've heard about it, [the IMF] is not the greatest thing.  I'm not necessarily in favor of shutting it down, because having funds available to the world is not a bad idea; it's all about how it's used. I'm kind of for reform of it, instead of funding things like pipelines through rainforests."<p>
+
+	From the 17th floor of the Hyatt hotel overlooking the plaza, the rally, overwhelming while in its midst, seemed but a small part of the pulsing life of San Francisco.  Indeed, the hotel itself is plush, clean, comfortable, and elegant - the essence of capitalist affluence.  Even as the demonstration turned itself into a giant march down Market, it could clearly be seen that the protesters who filled the street for a full city block, flanked by policemen, could not stop traffic or even the pedestrians shopping in Market's lavish stores.  San Francisco's life as a hub for trade across the Pacific continued, as the protests caused little more than an annoyance for motorists trying to get on with their life.<p>
+
+	In the windowed hallway looking onto Market stood two businessmen talking amiably, one American and one Japanese, both the kind of corporate executive against whom, as the supposed beneficiaries of the World Bank and the IMF, a large part of the protest was directed.  Looking down at the stream of activists protesting greedy businessmen, the IMF, and the World Bank, the American executive told his Japanese colleague, "Hell, I'd protest against the World Bank myself!" <p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:46:35 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

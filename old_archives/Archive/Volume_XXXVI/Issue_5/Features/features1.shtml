@@ -1,0 +1,737 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - April 7, 2006</title>
+<style type="text/css">
+<!--
+.editorspicture {
+	margin-right: 5px;
+}
+.style1 {
+	margin-right: 5px;
+}
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style3 {font-family: Tahoma; font-size: 12px; color: #000000; font-weight: normal; font-style: italic; }
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXVI, Issue 5 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">April 7, 2006</div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">FEATURES</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Make Sure Your Money Goes Where You Want It</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+              <p class="style1">The Stanford Review takes a close look at the budgets of student groups requesting Special Fees...</p>
+              <table width="485" border="0" align="center" cellpadding="2" cellspacing="2">
+                <tr bordercolor="0">
+                  <td width="113" height="123"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/SAIO.jpg" width="141" height="65"></td>
+                  <td width="311" align="center" valign="middle"><p align="left"><strong>Stanford American Indian Organization (SAIO) <br>
+                    $30,330 ($4.52/student)</strong></p>
+                    <p align="left">SAIO requested money for car/van rentals for a number of its activities and events. The group was also appropriated $2,100 for accommodations. Nearly 60% of SAIO&rsquo;s budget is for honoraria.</p></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="163"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/SASA.jpg" width="88" height="83"></td>
+                  <td align="center" valign="middle"><p align="left"><strong>Stanford African Student Association (SASA)<br>
+                      $8,286 ($1.24/student)</strong></p>
+                    <p align="left">SASA spends a fair amount of money on meeting food (ultimately, the organization will be balloted for $1,450 in meeting food). The Senate left a comment on their budget, &ldquo;the committee requests you advertise your meetings to the entire Stanford Community,&rdquo; which echoes an important concern: many groups like SASA aren&rsquo;t reaching or benefiting the average student.</p></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="148"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/AASA.jpg" width="123" height="36"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Asian American Student Association (AASA)<br>
+                        $32,565 ($4.86/student)</strong></p>
+                    <p>AASA seems to be good at finding good deals&mdash;they budget less than $1 per attendee for lunch at one of their events. Most of their honoraria fees are in the several-hundred-dollar-per-speaker range, with a max of $2,000. Their good money management is evident in the $33,752.23 the group maintains in reserves.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="147"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/ASB.jpg" width="113" height="89"></td>
+                  <td align="center" valign="middle"><p align="left"><strong>Alternative Spring Break (ASB)<br>
+                      $45,160 ($6.74/student)</strong></p>
+                    <p align="left">ASB requests that the student body funds air fare to its locations requiring air travel&mdash;including Hawaii, Louisiana, and a trip to a Navajo Nation. This totals to $22,400 (around one third of the group&rsquo;s total budget). The Senate recommended that Special Fees should only cover one third of the airfare cost&mdash;$7,242.67. But how does funding any of the airfare costs benefit the average Stanford student?</p></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/AxeCommittee.jpg" width="99" height="73"></td>
+                  <td align="center" valign="middle"><p align="left"><strong>Stanford Axe Committee<br>
+  $7,569 ($1.13/student)</strong></p>
+                    <p align="left">The Stanford Axe Committee spends $480 annually for security for the Stanford Axe. Although the current contract requires the organization to pay for security whether or not Stanford is in possession of the Axe, the committee should probably reconsider its agreement after the football team lost the last four Big Games.</p></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StanfordBand.gif" width="133" height="45"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford Band<br>
+                        $60,210 ($8.98/student)</strong></p>
+                    <p>The ASSU Senate Appropriations Committee has recommended that $1,000 be allotted for the Band&rsquo;s phone use. Also interesting: the Band stands to be granted $4,319 for &ldquo;security services.&rdquo; Is the Tree really that hard to protect?</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="168"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/BSU.jpg" width="87" height="89"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Black Student Union (BSU)<br>
+                      $32,099 ($4.79/student)</strong></p>
+                    <p>Though the BSU requested only about $3,000 more this year than last, the Senate appropriated over $8,000 more this year&mdash;an increase of 34%. The BSU received only $4,000 in outside money; Special Fees accounts for the other 88.9% of their revenue. Also, the BSU&rsquo;s largest area of spending was food&mdash;nearly double the amount they spent on the second largest category.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/CardinalBallet.gif" width="82" height="93"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Cardinal Ballet Company<br>
+                      $13,518 ($2.02/student)</strong></p>
+                    <p>Cardinal Ballet spends nearly $600 for a license to present the choreography of George Balanchine. Perhaps the company should find a cheaper routine. $900 for a professional to stage a dance for the group seems a bit excessive. Is &ldquo;ensur[ing] that [their] performance stays true to the classical style&rdquo; really worth that much?</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StanfordChappie.gif" width="116" height="47"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Chaparral<br>
+                      $18,450 ($2.75/student)</strong></p>
+                    <p>The Chappie is requesting over $2000 less than last year. All special fees money requested and appropriated is for printing, offsetting any need for student subscriptions.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/ClubSports.gif" width="114" height="90"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford Club Sports<br>
+                      $123,274 ($7.53/student)</strong></p>
+                    <p>Slightly less than 30% of the amount to be balloted this year will go to equipment purchases. Nearly all of the rest (67%) will go to &ldquo;Regular Staff,&rdquo; presumably coaches. Club Sports&rsquo; special fees request is somewhat smaller this year, down from $182,269.15 in 2005. The Senate approved $36,062 for equipment purchases, even though Club Sports requested no money for such expenditures. </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/ConcertNetwork.jpg" width="149" height="54"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford Concert Network (SCN)<br>
+                      $125,437.50 ($18.71/student)</strong></p>
+                    <p>There is a significant increase in the amount of money SCN is balloted for this year&mdash;over 65%. A lot of the newly requested funds are supposed to go towards &ldquo;co-sponsored&rdquo; events. If students approve the new amount, they should hold high expectations for the amount and quality of SCN events next year.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StanfordDaily.jpg" width="135" height="91"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>The Stanford Daily<br>
+                      $49,000 petitioned ($3.29/student)</strong></p>
+                    <p>The Daily requested $49,000 in &ldquo;Marketing Copies/Print Expenses.&rdquo; Its request was denied, but the paper successfully petitioned around the Senate&rsquo;s decision. The Daily makes $994,800 in revenue. <br>
+                        </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/DanceMarathon.gif" width="122" height="114"></td>
+                  <td align="center" valign="middle"><div align="left"><strong>Dance Marathon<br>
+                    $17,951 ($1.21/student)
+                  </strong>                      
+                      <p>The Appropriations Committee has recommended that $17,951 of Dance Marathon&rsquo;s requested $18,625 be placed on the ballot. The largest line item requests in DM&rsquo;s budget are labor costs and equipment rental (understandably) but also marketing. DM rationalizes the large marketing costs because the event is only in its second year, and because they &ldquo;are trying to establish Dance Marathon as a major event at Stanford.&rdquo; Dance Marathon requested that their entire budget of $18,625 be placed on the ballot in hopes that Special Fees would fund &ldquo;the logistics of Dance Marathon so all the money we raise can go directly to charity.&rdquo; A noble cause, but should the entire student body be paying for it? Shouldn&rsquo;t students have the freedom to decide how to invest their money in the charities of their own choice?<br>
+                        </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StFilmSociety.jpg" width="125" height="141"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford Film Society<br>
+                      $34,084.40 ($5.08/student) </strong></p>
+                    <p>The Film Society will use this money to finance 16 different film festivals, screenings, or workshops. Many of these events are very narrowly targeted. A prime example is the $2,840 approved to fund a Student Filmmaker&rsquo;s Workshop. $2500 of this amount is used to buy &ldquo;digital cameras, tripods, a dolly system, lighting kit, sound equipment, and a digital editing system&rdquo; and to &ldquo;constantly purchase new equipment to keep up with technological advances, as well as pay for repairs.&rdquo; Regardless of the size of the target audience, students interested in filmmaking and viewing independent films should pay to do so, not the entire student body. </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/Flicks.jpg" width="149" height="57"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Flicks<br>
+                      $79,000 ($5.31/student)</strong></p>
+                    <p>Flicks appears to have decided to convert from funding itself by user fees to funding itself by &ldquo;taxing&rdquo; the entire student body via appropriating special fees. This is a poor idea. It converts an activity subject to the market&rsquo;s discipline (enticing students to buy Flicks tickets because they like the movies offered enough to pay for them) to an activity sponsored by &ldquo;government&rdquo; and not accountable to the preferences of its consumers. The request should be denied. Taxes (student special fees) should not be levied on the entire student body in place of fees charged directly to the consumers of a specific product. <br>
+                        </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StanfordInGovernment.jpg" width="120" height="42"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford in Government (SIG)<br>
+                      $18,091.15 ($2.70/student)</strong></p>
+                    <p>$14,020.15 for honoraria, slightly off the requested $15,000. They have about $49,000 in cash reserves (raising the question why they could provide only an estimate). Other than that, the budget seems okay.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/ISIS.gif" width="152" height="66"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Innovative Student Information Services (ISIS)<br>
+                      $21,000 ($3.13/student)</strong></p>
+                    <p>ISIS is the group that maintains the flat screens with advertisements on events. Ambitiously, ISIS seeks to buy 15 more flat screens to place around the campus. The price tag, however, might be excessive considering the prolific use of flyers and e-mail lists by other groups and organizations on campus.<br>
+                        </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StJazzOrchestra.gif" width="122" height="129"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford Jazz Orchestra<br>
+                      $18,890 ($2.82/student)</strong></p>
+                    <p>The essence of Jazz Orchestra&rsquo;s Special Fee proposal is to tax the great majority of Stanford students who don&rsquo;t choose to attend jazz concerts in order to provide subsidized, cheap tickets for the few who do, and also in order to pay the expenses of the Stanford Jazz Orchestra. </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/JSA.gif" width="100" height="105"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Jewish Students Association (JSA)<br>
+                      $15,228.25 ($2.27/student)</strong></p>
+                    <p>Over half of JSA&rsquo;s budget is for food. The organization sponsors 10 bagel brunches, 15 Beit Midrash dinners ($8/meal for 20 attendees), and $400 for a Muslim/Jewish/Israeli/Arab dinner. Most of JSA&rsquo;s other budget items are fairly modest compared to other student groups.<br>
+                        </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/KZSU.gif" width="108" height="111" lowsrc="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/KZSU.gif"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>KZSU<br>
+                      $65,580 ($4.41/student)</strong></p>
+                    <p>KZSU was approved for $20,000 to cover equipment purchases&mdash;a rather hefty amount. The Senate also approved $6,000 budgeted for the printing of quarterly program guides. The Chief Engineer for KZSU makes $12,500 for his contribution, seconded by KZSU&rsquo;s PACC announcer, at $3000 per annum. KZSU makes nearly $16,000 from other revenue sources.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/LegalCounseling.jpg" width="101" height="90"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>ASSU Legal Counseling<br>
+                      $106,700 ($7.17/student)</strong></p>
+                    <p>ASSU Legal Counseling primarily serves graduate students. It lists &ldquo;landlord-tenant disputes, criminal and traffic citations, employment disputes, questions on contracts, family law issues, consumer problems and auto and bike accidents&rdquo; as &ldquo;typical matters&rdquo; in which the organization can assist students. The Review was disappointed to find-out that Legal Counseling does not offer assistance in litigation concerning the University.<br>
+                        </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/LosSalseros.jpg" width="150" height="60"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Los Salseros de Stanford<br>
+                      $10,326 ($1.54/student)</strong></p>
+                    <p>Los Salseros de Stanford is a salsa dancing group that consists of about 20 members, both undergrad and grad students. Their credibility is legit, having seen them dance before. They claim to want to hire outside choreographers to improve their dancing techniques, but nearly 30% of their funding goes to paying DJs and other honoraria needs besides that.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/ElMariachiCardenal.gif" width="41" height="108"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>El Mariachi Cardenal de Stanford<br>
+                      $12,619 ($1.88/student)</strong></p>
+                    <p>The budget for the Mariachis in the past year was over $23,000 dollars, but this year it appears that most of their expenses have been left out of the ASSU budget. The Mariachis receive almost $10,000 from the Stanford Fund.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StanfMartialArts.gif" width="119" height="117"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford Martial Arts Program (SMAP)<br>
+                      $31,221 ($4.66/student)</strong></p>
+                    <p>With the Martial Arts program being an umbrella group for multiple groups practicing various fighting styles (capoeira, ju-jitsu, etc.), their funding is bound to be large. SMAP only requests $31,000 from students for a budget of nearly $100,000. The program gets most of its funding from fees charged to participants.<br>
+                        </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/MEChA.jpg" width="127" height="109"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Moviemiento Estudiantil Chicano de Aztlan (MEChA)<br>
+                      $30,207.75 petitioned ($4.51/student)</strong></p>
+                    <p>MEChA successfully petitioned the student body for $27.98 in gasoline expenses, despite the Senate&rsquo;s disapproval. Presumably, the money is to be used to get Spanish-speaking students to small claims courts to serve as translators. Considering how much MEChA is requesting the student body pay for its food expenses, The Review regards the gas request with skepticism. They have already been approved for $107 for gas, as well as $180 in &ldquo;Car/Van Rental&rdquo; expenses. The reduction in meeting food money from 2005&mdash;a whopping $5,160!&mdash;seems to be an improvement. However, the improvement is a sham: this year&rsquo;s request allots $4,119 for &ldquo;Event Food.&rdquo; </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="211"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/MockTrial.jpg" width="127" height="125"></td>
+                  <td align="center" valign="middle"><p align="left"><strong>Stanford Mock Trial<br>
+                    $12,490 petitioned ($1.86/student)</strong></p>
+                    <p align="left">The ASSU Senate only approved funding for copies and facility usage. Mock Trial, however, petitioned for much more&mdash;with most of the funding going towards travel expenses. The only outreach program the organization sponsors is a high school symposium. There are no events directed towards the greater Stanford community. Mock Trial already receives $9,000 from The Stanford Fund. 92% of Stanford Mock Trial&rsquo;s budget is for travel. The group petitioned to include funding for competitive trips to Los Angeles, Arizona, Oregon, and Florida.</p></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StModelUnitedNations.jpg" width="128" height="107"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford Model United Nations<br>
+                        $505 ($0.08/student)</strong></p>
+                    <p>SMUN&rsquo;s previous budget was about $30K. Since they simulate the United Nations at various conferences around the country, their accommodations expenses can be somewhat large. They have budgeted $18,630 for travel and $10,533 for accommodations, but the Senate recommended and approved no money for both expenses.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/MSAN.jpg" width="106" height="92"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Muslim Student Awareness Network (MSAN)<br>
+                      $19,529.34 ($2.91/student)</strong></p>
+                    <p>Unlike most groups, MSAN only requested Special Fees to cover 37% of their budget. Food made up their second largest area of spending. The biggest category was for speakers, which included James Yee, a former Muslim Army chaplain who was arrested on charges of &ldquo;sedition, aiding the enemy, spying, espionage, and failure to obey general order.&rdquo; MSAN requested $2,515 for food, which it claims is only for dinners open to the entire student body. MSAN also spent $2,466 for speakers&rsquo; travel expenses. </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StProgressive.jpg" width="135" height="46"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>The Stanford Progressive<br>
+                      $11,550 ($1.72/student)</strong></p>
+                    <p>The entire budget for The Stanford Progressive goes towards printing costs. The magazine plans to publish 6 editions next year (4000 copies distributed for each issue). This seems optimistic considering the paper asked for the money to publish 8 issues during the course of this year, and the third issue was not released till February. Even 5 is probably optimistic.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/SCBN-TV.jpg" width="171" height="42"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>SCBN -TV<br>
+                      $19,154.00 ($2.86/student)</strong></p>
+                    <p>Apparently we have a channel that shows movies and runs a sports show for almost $20,000 dollars a year. About 75% of the requested budget goes toward paying royalties on the 12 DVD&rsquo;s shown per month. Incidentally, students can also rent free movies from Green, albeit slightly older ones. The remaining funds budgeted for SCBN-TV help buy new equipment available to budding student film directors. Funds from ASSU Special Fees cover virtually the entire budget for the TV station.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StanfordScientificReview.jpg" width="144" height="55"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford Scientific Review<br>
+                      $9,800 ($1.46/student)</strong></p>
+                    <p>All of the Special Fee funding goes towards printing costs. At a rate of $1.18 per issue, SSR seems to have found a good deal. They distribute 4500 copies twice a year. SSR does a good job, without money from Special Fees, at advertising the distribution of their issue and soliciting possible subscribers.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/SHPRC.jpg" width="150" height="55"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Sexual Health Peer Resource Center (SHPRC)<br>
+                      $13,130.50 ($1.46/student)</strong></p>
+                    <p>This SHPRC budget directly benefits campus through dorm outreach programs, hiring sex health counselors, campus wide parties, new supplies (free condoms), and giveaway events (presumably involving free condoms). They provide sorely needed sexual health information at Full Moon on the Quad. The biggest budget item for the SHPRC is supplies (condoms, lubricants, etc.) at over $6,000. The group makes $200 off extra supply sales.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StShakespeare.jpg" width="85" height="95"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford Shakespeare Society<br>
+                      $15,870.00 ($2.37/student)</strong></p>
+                    <p>Every dollar of the approved budget goes toward facility and equipment rental and transportation. The result is two free yearly shows open to the student body and the public. The only indirect benefit to the student body is the $1,500/year spent on honoraria fees for guest lecturers in the group&rsquo;s fall training session. <br>
+                        </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/SixDegrees.jpg" width="122" height="27" lowsrc="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/SixDegrees.jpg"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Six Degrees<br>
+                      $13,074 ($1.95/student)</strong></p>
+                    <p>They requested $13,110 and received $13,074. However, last year they requested $9,000 and were initially recommended zero&mdash;but ultimately were approved for $9,000. The committee, last year, also recommended zero for &ldquo;pizza for pre-distribution meetings,&rdquo; saying it was an inefficient use of funds, but ultimately approved the requested $180. They spend $12,990 (and were approved for $12,990) on issue printing this year.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/SolarCar.jpg" width="90" height="91"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford Solar Car Project<br>
+                      $25,200 ($3.76/student)</strong></p>
+                    <p>Last year, the ASSU Senate Funding Committee did not approve Solar Car for ballot placement (although the group successfully petitioned around the committee). This year, however, the committee recommended that the project received all the money they requested. The vast majority of the allotted money will go towards equipment purchase. Although the project has some outreach events, all of the Special Fee money is slated to cover construction and competition costs. </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/ASSUSpeakers.jpg" width="170" height="25"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>ASSU Speakers Bureau<br>
+                      $123,140 ($8.27/student)</strong></p>
+                    <p>$88,000 of the Speakers Bureau&rsquo;s budget is for honoraria. The bureau expects to hold six events, with the highest-paid speaker fetching $30,000. Apparently, the speakers require first class transportation, as $6,000 has been appropriated for two first class tickets from the east coast. The group also co-sponsors speakers that other student groups want to attract (appropriates $15,000 for this cause).</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StInitiatedCourses.jpg" width="159" height="82"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Student Initiated Courses (SIC)<br>
+                      $18,529 ($2.76/student)</strong></p>
+                    <p>They receive virtually everything they ask for. They requested $19,735 and received $18,529 this year total. Last year they requested $14,835 and received the full amount. They have $14,345.79 in reserves. Overall, seems like a good program.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StanfordNewsReadership.jpg" width="159" height="101"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford News Readership Program (SNRP)<br>
+                      $55,000 ($3.70/student)</strong></p>
+                    <p>SNRP distributed 800 copies of The New York Times and The San Jose Mercury News everyday. Over 98% of their budget is allocated for the purchase of the newspapers&mdash;they seem to be pretty efficient. </p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/SOCA.jpg" width="138" height="55"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford Organizing Committee for the Arts (SOCA)<br>
+                      $35,419 ($2,38/student)</strong></p>
+                    <p>87.5% of the balloted funding goes towards a day-long event, An Art Affair, held in April. Technical services and rental fees account for most of the money spent on the event. The money required for SOCA&rsquo;s other project is negligible in comparison.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/StUnderResJournal.jpg" width="188" height="62"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Stanford Undergraduate Research Journal (SURJ)<br>
+                      $7800 ($1.16/student)</strong></p>
+                    <p>SURJ&rsquo;s budget is pretty modest. The journal is only published once per year, at a cost of $2.50 per issue. Special Fees account for over 70% of SURJ&rsquo;s revenue.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/VILA.jpg" width="129" height="164"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Volunteers in Latin America (VILA)<br>
+                      $12,232 ($1.82/student)</strong></p>
+                    <p>VILA sponsors on-campus educational events to raise awareness about economic development and street children in Latin America. None of the budgeted money for these events was approved. The committee did, however, approve $12,232.00 in travel funds for 14 Stanford volunteers to go to Ecuador and live in children&rsquo;s shelters for two months. VILA suggests the benefit to the student body is the &ldquo;positive impact that the ten traveling members have on the rest of their peers.&rdquo; More specifically, it benefits the students traveling to Ecuador and a select group of street children in Quito.</p>
+                  </div></td>
+                </tr>
+                <tr bordercolor="0">
+                  <td height="157"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVI/Issue_5/Features/images/WindEnsemble.gif" width="131" height="130"></td>
+                  <td align="center" valign="middle"><div align="left">
+                    <p><strong>Wind Ensemble<br>
+                      $13,503 ($2.01/student)</strong></p>
+                    <p>Wind Ensemble hires two guest performers at $3000 each during the course of the year. Perhaps cheaper, or maybe even pro bono, performers could be found. The honoraria for these performers, the rental of Dinkelspiel Auditorium, and the purchase of a $3000 bassoon make-up almost the entire budget.<br>
+                        </p>
+                  </div></td>
+                </tr>
+              </table>
+              <p>&nbsp; </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

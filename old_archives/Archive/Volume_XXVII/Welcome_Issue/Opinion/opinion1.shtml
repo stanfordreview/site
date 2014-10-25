@@ -1,0 +1,238 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Welcome Issue 2001 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word From The Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Bob McGrew in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Henry Towsner in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Matthew Barrett in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.html" onMouseOver="window.status='Scott Rasmussen in A Word From The Editor and News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Welcome Issue 2001
+</font>
+</td>
+<td align=right>
+
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Welcome Issue 2001'; return true" onMouseOut="window.status=' '; return true">Welcome Issue 2001</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Politics Under Red-Tile Roofs
+</font><br>
+
+	It doesn't take long to discover the major political bias at Stanford. As at most universities and Californian institutions, the ideology is predominantly left of center. The rallies in white plaza, the petitions that sweep through the dorms, the proposals for boycotts, and the ubiquitous propaganda all assert liberal values. After a short time at Stanford, students realize that nobody is immune to campus political life. How the ASSU special fees are allocated, the results of each dorm's grape boycott, and the political leanings of the IHUM faculty affect engineers and political science majors, members of the Stanford Democrats and members of the rugby team, columnists for the <i>Daily</i> and poets for the literary magazine. As freshmen, you should embrace Stanford's political climate and understand how it affects you. 
+
+<p>
+
+	Perhaps the most visible politically active student group at Stanford is the Stanford Democrats.  They schedule speakers, host rallies during Presidential debates, and register voters. This last aspect was especially important for last year's presidential primaries and will no doubt be important again from now until November. While college students traditionally have very low turnout, it is important to vote in California because the state's legislation often sets trends, and the ballots include initiatives over controversial issues like juvenile crime, homosexual marriage, and illegal immigration.
+
+<p>
+
+	The Stanford Republicans also exist and help balance the spectrum.  In years past, Republicans have been represented by the College Republicans, an organization which gradually declined in size. Two years ago, however, a few students formed the Stanford Republicans, an explicitly moderate group, which soon picked up steam. In fact, the College Republicans merged with the Stanford Republicans last year, just in time to present a united front for the Bush campaign; Stanford students' Silicon Valley connections were instrumental to the Republican Party's first "e-campaign."
+
+<p>
+
+	The radical side of Stanford is found in SEAS, SLAC, RATS, and MEChA. SEAS stands for "Students for Environmental Action at Stanford". The group's credo asserts that the Social Justice Movement and the Environmental Action Movement are not two separate causes. For example, one of their major goal was to stop the Stanford Medical Center from depositing waste in East Oakland. The waste is deposited there, SEAS insists, because the area is inhabited by low-income people of color.
+
+<p>
+
+	RATS, the Redwood Action Team at Stanford, concerns itself mainly with straight environmental advocacy, while SLAC, the Stanford Labor Action Coalition, focuses on labor protests. These groups find many of their members in Synergy and Columbae, the respectively vegan and vegetarian co-ops at Stanford. Additionally, Stanford has a chapter of MEChA, Movimiento Estudiantil Chicano de Aztl‡n. Among other things, the group supports the grape boycott and tries to raise awareness of Chicano interests.
+
+<p>
+
+	Nearer to the center, SIG, or Stanford in Government, is a "non-partisan, student-run organization dedicated to raising political awareness at Stanford and in East Palo Alto." The group brings speakers, helps members locate Washington internships, and sponsors educational programs for East Palo Alto youth.
+
+<p>
+
+	Student publications also raise awareness of political issues. The most notable political publication at Stanford is in fact the <i>Stanford Review</i>, for it is the only publication with an explicit political bias. It does not, however, present exclusively conservative values. Mostly, the <i>Review</i> is a forum for political discussion from a minority point of view. Editorials and letters to the editor of the <i>Stanford Daily</i> sometimes address similar concerns. The other political publication which comes out only in the fall is the "Dis-Orientation Guide". Also known as the Dis-O guide, it seems not at all neutral. Last year's guide blasted the Stanford Administration for allegedly investing unethically, Stanford Dining Services for abusing its employees, and the Hoover Institution for merely existing. Academic and literary publications like the <i>Dualist</i> or the <i>Mind's Eye </i>abound but are often apolitical in nature.
+
+<p>
+
+	The final politically bent student group at Stanford is the Associated Students of Stanford University, or the ASSU. Though technically every student is a member, generally only those students who hold office are active. Offices include senators, the president and vice-president, and the treasurer. This year's president and vice-president are Matt Brewer and Christine Cordero, respectively. The ASSU also funds student groups. Each spring, Stanford students may witness politics first hand as the prospective senators and presidents vigorously campaign. 
+
+<p>
+
+	The Hoover Institution, not at all student run, is also an important part of political life at Stanford. The Hoover Institution is a think tank, dedicated to "scholarly endeavor and public policy research". In collecting knowledge and presenting opinions, the Institution covers topics like the role of law and property rights, redistribution of wealth, economic growth, and government accountability, often taking a conservative spin. George Schulz, Milton Friedman, and Newt Gingrich are among the many influential scholars associated with the Hoover Institution. Students can access the institution through the Hoover Archives and the Hoover Library. Additionally, the <i>Review</i> regularly hosts lunches with the fellows. 
+
+<p>
+
+	Whether or not you join these organizations, you can still contribute to them and benefit from them. March in a rally, sign a petition, read the <i>Review</i>. At Stanford, politics abounds, and, sooner or later, you will find yourself immersed in the political climate.<p>
+
+
+<i>Matt Barrett is a political science major and a registered member of the Green Party.</i><p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:15:48 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

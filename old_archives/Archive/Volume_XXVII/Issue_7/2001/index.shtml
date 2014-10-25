@@ -1,0 +1,397 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 7 - 2001</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../1987-1988/index.shtml" onMouseOver="window.status='1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1987-1988</font></a><br>
+
+<a href="../1991-1993/index.shtml" onMouseOver="window.status='1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1991-1993</font></a><br>
+
+<a href="../1994/index.shtml" onMouseOver="window.status='1994'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1994</font></a><br>
+
+<a href="../1995/index.shtml" onMouseOver="window.status='1995'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1995</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='2001'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>2001</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="index.shtml" onMouseOver="window.status='David Myszewski in 2001'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../1991-1993/1991-19932.shtml" onMouseOver="window.status='David Valle in 1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Valle</font></a><br>
+
+<a href="../1994/index.shtml" onMouseOver="window.status='Ed Malone in 1994'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ed Malone</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Henry Towsner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../1987-1988/1987-19882.shtml" onMouseOver="window.status='Jennifer Bryson in 1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jennifer Bryson</font></a><br>
+
+<a href="../1991-1993/1991-19931.shtml" onMouseOver="window.status='Rakesh R. Khanna in 1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Rakesh R. Khanna</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Scott Rasmussen in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<a href="../1987-1988/1987-19881.shtml" onMouseOver="window.status='Steve Hellman in 1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Steve Hellman</font></a><br>
+
+<a href="../1995/index.shtml" onMouseOver="window.status='Thorvin Anderson in 1995'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Thorvin Anderson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 7
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 7, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 7'; return true" onMouseOut="window.status=' '; return true">Issue 7</a> - 2001
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+2001
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Mr. Hoover Goes to Washington?
+</font><br>
+
+<b>by David Myszewski</b><br>
+Volume XXV, Issue 6:  January 2001<p>
+
+<table align=left>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/2001/images/frontpage_graphic.jpg" width=145 height=140 alt="Hoover and Washington">
+        </td>
+    </tr>
+    <tr>
+        <td>
+<i>A Closer look at<br>Capitol Hill</i>        
+</td>
+    </tr>
+</table>
+
+	More than two years ago, George W. Bush began compiling a policy team of political and academic masterminds to advise his campaign, many of then from Stanford's own Hoover Institute.  Now, while some of them may be heavily involved in the next presidential administration, many others have decided to sit on the sidelines in the first Republican administration in eight years.<p>
+
+	Members of the Hoover Institute first became involved in Bush's campaign more than two years ago, well before Bush had even decided that he was running.  As the Review reported in a previous volume, Hoover Fellow George Schultz hosted a meeting at his house which included Hoover Fellows and Stanford professors John Taylor, Michael Boskin, Martin Anderson, and Condoleezza Rice.<p>
+
+	Although many people from the Hoover Institute have advised George W. Bush--including some of the people closest to his campaign--surprisingly few will actually have jobs in his administration.
+	Perhaps the most notable person to leave Stanford for a job in the Bush administration is Condoleezza Rice, who was Stanford's provost for six years and a senior fellow at the Hoover Institution.  She will be serving as Bush's national security advisor.<p>
+
+<table align=left>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/2001/images/rice.jpg" width=129 height=188 alt="Condoleezza Rice">
+        </td>
+    </tr>
+    <tr>
+        <td>
+<i>Condoleezza Rice</i>        
+</td>
+    </tr>
+</table>
+
+	While Ms. Rice ultimately accepted a job as the national security advisor, many people who were closely involved with Bush's campaign do not wish to have a job in his administration.  One such example is John Cogan, a renowned economist and senior fellow at the Hoover Institute and who teaches public policy at Stanford.<p>
+
+	According to John Raisian, director of the Hoover Institute, "John Cogan was offered the position of the director of OMB (Office of Management and Budget) but declined because of family reasons."  Mr. Raisian cited the fact that Mr. Cogan has six children as one of the primary reasons why he did not want to accept the job.<p>
+
+<table align=right>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/2001/images/cogan.jpg" width=125 height=188 alt="John Cogan">
+        </td>
+    </tr>
+    <tr>
+        <td>
+<i>John Cogan</i>        
+</td>
+    </tr>
+</table>
+
+	Mr. Cogan is in charge of writing George W. Bush's budget, which he advised the President on during the campaign, even though he will serve no formal role in the actual administration.<p>
+
+	According to Mr. Lazear, an economist at Stanford's Graduate School of Business and advisor to Bush on labor policy, Mr. Cogan has been constantly working on the budget since December.<p>
+
+	 "He does it without getting credit for it," says Mr. Lazear, "I really believe he knows he's doing it for the country."<p>
+
+	Another person in Bush's administration who is affiliated with the Hoover Institute is Donald Rumsfeld.  Mr. Rumsfeld, who is on the executive committee of the board of overseers of the Hoover Institute, was Secretary of Defense for Ford and will hold the same post for Bush.  When he began serving under Ford, Mr. Rumsfeld was the youngest defense secretary in history.<p>
+
+<table align=left>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/2001/images/boskin.jpg" width=125 height=188 alt="Michael Boskin">
+        </td>
+    </tr>
+    <tr>
+        <td>
+<i>Michael Boskin</i>        
+</td>
+    </tr>
+</table>
+
+	Michael Boskin, an economics professor and senior fellow at the Hoover Institute, says that some people from the Hoover Institute may fill roles in the government later on.<p>
+
+	Not all the jobs in Washington have been filled, and people may resign from their posts in Washington a year or two from now.  Mr. Boskin said that there is a "reservoir of talent" at the Hoover Institute, and some of the people who were close advisors might be asked to fill high posts.<p>
+
+<b>Why choose Hoover?</b><p>
+
+	Although several people in the Hoover Institute have advised President Bush, presidential candidate Al Gore did not tap the wealth of talent in the Hoover Institute.<p>
+
+	Mr. Raisian sees two reasons for this.  First, George W. Bush has connections with people in the Hoover Institute.  For instance, Condoleezza Rice knew George W. Bush personally from working in his father's presidential administration.  In addition, Michael Boskin is a personal friend of George W. Bush.<p>
+
+	The second reason has to do with political ideology.  "One cultural aspect of the Hoover Institute is that we are suspicious of government solutions to problems.  It is fair to say that when you look at these two candidates, George W. Bush is more likely to share that outlook on society."<p>
+
+	It is entirely up to the candidates to ask people from the various political institutions if they want help.  According to Martin Anderson, an advisor to George W. Bush who has worked on ten different presidential campaigns, "Institutions never ask candidates.  Smart, intelligent candidates ask the institutions.  Nixon, Kennedy, Clinton, and Reagan all did it."<p>
+
+	"If you get a call from the President, they give advice.  If Democrats call, they get advice too."<p>
+
+<b>Short-term costs versus long-term gains</b><p>
+
+	As much as some advisors might want to work in Washington, there are always inherent costs when academics leave the university for government.<p>
+
+	One of the problems is simply that the advisor's colleagues at the Hoover Institute can no longer walk down the hall to ask his perspective on a pressing policy concern.<p>
+
+<table align=right>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/2001/images/lazear.jpg" width=125 height=188 alt="Edward Lazear">
+        </td>
+    </tr>
+    <tr>
+        <td>
+<i>Edward Lazear</i>        
+</td>
+    </tr>
+</table>
+
+	Mr. Lazear says that although "obviously you miss the guy when he's gone," one must realize that "those people are very capable and well-suited for the jobs for which they have been chosen."<p>
+
+	Mr. Raisian agrees that there is a cost of losing someone, but stressed the importance of the fact that Hoover fellows take with them the knowledge and experience that they have gained from the Hoover Institute.<p>
+
+	He also mentioned that the degree of the loss depends on the resources that they have in appointing someone else, although he said there is generally a wealth of talent in the Hoover Institute.<p>
+
+	According to Mr. Boskin, the individual taking the position often runs into financial difficulties due to moving expenses and other expenses coupled with a lower-paying job.  In addition, some acade<p>
+mics simply cannot afford to take time off when they are in important stages of their research.<p>
+
+	Anyone who goes to Washington also must complete an immense amount of work.  Mr. Boskin says that "even people who are workaholics--and I consider myself to be a workaholic--work longer hours with greater intensity."<p>
+
+	Also, they lose the flexibility in their job that they are used to.  While Mr. Boskin says that he is a big believer in public service, people should be mindful of the risks.<p>
+
+	Despite some of the short-term costs, the advisors have a generally positive outlook on being involved with a campaign or administration, especially in the long run.<p>
+
+<table align=left>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/2001/images/anderson.jpg" width=125 height=188 alt="Martin Anderson">
+        </td>
+    </tr>
+    <tr>
+        <td>
+<i>Martin Anderson</i>        
+</td>
+    </tr>
+</table>
+
+	Martin Anderson stressed the experience that people involved in politics gain.<p>
+
+	"Anyone who is in economics or political science that has been in government is much better qualified because they know what's going on.  People can get it wrong until they've been there.  Boskin and Taylor have both been in presidential administrations, and they are much better teachers and much better in the campaigns because of it."<p>
+
+	Mr. Boskin says that he learns from the experiences of others who have gone to Washington, such as Timothy Bresnahan, who worked with the Department of Justice in the Microsoft case.  In addition, his time in Washington helped him in his teaching.<p>
+
+	"I brought a perspective that was helpful for my students," he says.<p>
+
+	Mr. Lazear had similar experiences in a different geographic location.  About ten years ago, he worked with several Eastern European countries in formulating labor policy.  He said that for the next couple of years, he was much more valuable.  While the connections he made and the people he knew deteriorated with time, the experience, he says, "lasts a lifetime."<p>
+
+	Mr. Raisian had an idealistic outlook on how the Hoover Institute benefits when a Hoover fellow is involved in a presidential administration:  "There is good talent attacking important problems."
+	Despite the costs of Hoover fellows being involved in politics, does the Hoover Institute encourage its fellows to be involved in a presidential campaign or administration?<p>
+
+	"It's totally a personal choice," says Mr. Raisian, who says that he and others in the Hoover Institute are flattered when one of their colleagues is offered a high position in government.<p>
+
+	Michael Boskin concurs.  "It's primarily the person's choice."<p>
+
+	As for Stanford itself, Mr. Boskin says that in recent years in the university, there has increasingly been support of people who have gone into politics.  He also said that both John Hennessy and Gerhard Casper have had that point of view, although it isn't always the case in universities.<p>
+
+	Mr. Raisian says that he also supports Hoover fellows' involvement in politics, partially due to the chance to propagate ideas.  "We are in the business of generating ideas in public policy.  The opportunity to work with candidates is something I encourage in general."<p>
+
+	However, Mr. Boskin says that one's academic colleagues are not always as understanding.  Nevertheless, he encourages young faculty members to get involved in Washington and has learned from some of them, though he said the degree to which he benefited from others who went to Washington varied by what job they took and how much of the experience they shared.<p>
+
+
+<b>Academics in politics</b><p>
+
+	When academics get involved in politics, there exists a question of the extent to which academics involved in politics politicize their academic work.  Perhaps surprisingly to some, much of the work done by advisors has nothing to do with politics; it is purely academic.<p>
+
+	Edward Lazear was involved with some of the issues in the Florida recount.  At one point, when Mr. Bush was just 300 votes ahead of Al Gore before absentee ballots had been counted, Larry Katz from Harvard, Carroll from Hopkins, and Hansen from Wisconsin were all working in the Gore camp to see how many votes Mr. Gore might pick up.  Some of Bush's advisors were doing the same.<p>
+
+	The Bush camp estimated that Gore would pick up 500 votes, while the Gore camp estimated that Gore would pick up 480 -- twenty votes fewer than the Bush camp estimated.<p>
+
+	"This was science, not politics.  It was serious scholarship."<p>
+
+<b>The role of advisors</b><p>
+
+	Some people picture advisors much like the "wizard" in the Wizard of Oz - that the President is merely a figurehead, while it is the advisors behind the curtain who are pulling all the levers and pushing all the buttons.  Martin Anderson disagrees.<p>
+
+	"This may be heresy: advisors play a crucial role but not a huge role.  Advisors can make suggestions or arcane comments, but it's the president who must make all the decisions."<p>
+
+	He cited the example of George W. Bush.  Mr. Bush decided to make social security a big issue even many of his advisors and some in the media believed that it was a topic that he should stay away from.  Mr. Bush also made education and missile defense top priorities.<p>
+
+	"The concepts are driven by the president, but the advisors take care of the details."<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:14:55 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

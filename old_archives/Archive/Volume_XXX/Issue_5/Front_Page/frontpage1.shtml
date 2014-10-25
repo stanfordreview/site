@@ -1,0 +1,267 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 5 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Charles Hallford in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Editorial Staff in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Staff</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Michael Hasper in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Travis Menk in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Travis Menk</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='William E. Hudson in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William E. Hudson</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 5
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+April 24, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Can Stanford Handle Threats?
+</font><br>
+
+<b>by Michael Hasper</b><br>
+News Staff<p>
+
+In the face of the War on Terrorism, institutions of higher education have felt pressure to reevaluate their ability to respond to emergencies.  Stanford students may or may not be aware of their university's emergency-response plans, but Stanford appears to be among the nation's leaders in university preparation.
+
+<p>
+
+While the federal government has greatly increased its efforts to heighten homeland security, considerable responsibility in handling threats and devising preparedness plans falls on the local level.  Mr. Lawrence M. Gibbs, Associate Vice Provost of Stanford's Department of Environmental Health and Safety (EH&S), is currently in Washington, D.C. meeting with representatives of other academic institutions to help them design programs of emergency preparedness.  
+
+<p>
+
+Mr. Gibbs claims that Stanford's preparedness efforts are "at the forefront of [higher education] institutions.  For many years, Stanford University has developed and implemented an emergency protocol with significant coordination among departments and agencies both within the university and in the surrounding community." Mr. Gibbs reveals that part of the university's plan in responding to any major emergency on campus involves the "entire campus organization," in which all academic and administrative bodies from the President and Provost down would be involved. 
+
+<p>
+
+The official Campus Emergency Plan can be found online at <a href=http://www.stanford.edu/dept/EHS/prod/general/erprep/plans/index.html onMouseOver="window.status='Campus Emergency Plan'; return true" onMouseOut="window.status=' '; return true">http://www.stanford.edu/dept/EHS/prod/general/erprep/plans/index.html</a>, constituting a detailed dossier of the types of emergencies and the level of response that various occurrences would entail.  Emergencies are ranked on three levels of severity, with different response teams coordinated to handle situations.  These include an Emergency Management Team (EMT) that involves the University's highest administrative and academic elements, Building Assessment Teams, 26 Satellite Operations Centers that coordinate activities between the Emergency Operations Center and campus departments, and an Incident Command System model used by California governments.  
+
+<p>
+
+The Emergency Plan dictates that "all [university] students and employees have a personal responsibility for knowing what to do before, during, and after an emergency."  Mr. Gibbs believes that, should an act of terrorism occur, "the essence of good emergency planning is to ensure the entire organization is prepared to respond."  
+
+<p>
+
+The emergency mission deems that, in an emergency, the first priority is to "protect life safety." Vaden Health Center and Stanford Hospital and Clinics would coordinate resources in providing medical services to both students and campus employees and work with the School of Medicine and community medical providers as necessary to provide maximum medical attention.  
+
+<p>
+
+Vaden's director, Dr. Ira Friedman, would serve as Medical Incident Coordinator, with Vaden as the primary site for medical operations.  For students injured and unable to reach the site, the campus EOC would activate First Aid Stations at locations such as the Oval, the Science Quad, Roble Field, and White Plaza, with more seriously injured individuals receiving transportation to more advanced treatment facilities. <p> 
+With the potential of a large population adversely affected, the Emergency Plan outlines strategies to help ensure that manpower and supplies are adequate.  72-hour supply closets maintained at the University Medical Center, along with off-campus warehoused medical supplies that could be quickly transported to Stanford, are in place.  In Mr. Gibbs's estimation, "[the University] is fortunate to have such a large reserve of medical resources in our midst."  
+
+<p>
+
+Food and water maintained by Student Housing Services are in stock to last for several days and would be released at strategic locations around campus.  Emergency officials would designate up to five tents, and the potential use of appropriate gyms around campus as shelter for people on campus.  
+
+<p>
+
+The fact that Stanford is a private institution should not hamper the ability of law enforcement or outside agencies to assist in furnishing aid after an attack.  According to Mr. Gibbs, "Stanford would have access to the full range of outside agency assistance," and the university "regularly coordinates planning activities with these other agencies at the local and county levels." 
+
+<p>
+
+Post-disaster response should range from saving lives to securing critical infrastructure. An "Emergency Cost Recovery Work Group" would determine the nature and magnitude of the disaster, after which the University would contact funding sources such as the California Office of Emergency Services and the Federal Emergency Management Agency to help provide funds to rebuild.  The University's annual emergency exercise also involves solidifying resumption procedures that provide assignments for business recovery roles and strategies.  
+
+<p>
+
+Being alert to the danger of terrorism and making attempts to protect against an on-campus terrorist attack is a high, if secretive, priority.  When asked what types of counter-terrorism measures Stanford is currently undertaking to secure the campus, Mr. Gibbs responded, "one of the main precepts of counter-terrorism procedures is not to provide information or specifics about such preparations and precautions."  
+
+<p>
+
+As a research institution, some laboratories on campus work with chemicals dangerous to the general public.  Mr. Gibbs noted that some procedures are in place to minimize potential incidents involving these chemicals, including limiting access to some places "by key card or [monitoring] by video."  He also pointed out that "the materials available in the labs. . . .are not chemicals that [could be] used as WMDs."
+
+<p>
+
+In the case of a biological or radiological attack with widespread ramifications, the Santa Clara Public Health Department in coordination with the University, its emergency management team and Stanford Hospital and Clinic would administer appropriate medication.  Additionally, containing the spread of pathogens such as smallpox, according to Mr. Gibbs, could involve procedures such as quarantine, isolation, or vaccinations.  He points out that Stanford's contingency plan includes "sheltering and other emergency response capabilities."  
+
+<p>
+
+Because Stanford itself is a major resource to the surrounding community, county emergency planners could incorporate "the resources available at Stanford and Stanford Hospital and Clinics" as needed should an attack affect the community outside Stanford.  Nevertheless, Mr. Gibbs explains that if Stanford itself is affected, "Stanford. . . .would mobilize its resources to address University-based issues" first.    
+
+<p>
+
+Information from governmental agencies could perhaps pinpoint imminent terrorist acts before they occur.  In such a scenario, evacuating people away from the threat area and providing transportation to those who do not have cars seems pertinent.  However, Mr. Gibbs perceives that "it is most unlikely that any warning would precede an event," and as such "the most prevalent recommendations for now are to prepare for sheltering."  Nevertheless, mass movement of people if necessary "would be coordinated with the county and state emergency response services."  
+
+<p>
+
+Protections in response to a conventional nuclear attack no longer involve fallout shelters.  Explains Mr. Gibbs, "Stanford has no designated fallout shelters, and fallout shelters have not been used or maintained for over 20 years across the country."  Instead, the responses to such events "are also not necessarily to evacuate, depending upon the specific situation."  No further explication was given.  
+
+<p>
+
+Mr. Gibbs believes that students play an important role in mitigating terrorist threats, as "individual vigilance is the greatest deterrence to strangers."  EH&S asks that all students be aware of unknown persons who are in their area and contact campus police "if you are unsure of whether a person belongs in the area for any reason."
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:22:49 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

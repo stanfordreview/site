@@ -1,0 +1,226 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 7 - The Rawls Report</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorial</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letters/index.shtml" onMouseOver="window.status='Letters'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letters</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Odds_and_Ends/index.shtml" onMouseOver="window.status='Odds and Ends'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Odds and Ends</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Odds_and_Ends/index.shtml" onMouseOver="window.status='Gary Raichart
+ in Odds and Ends'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Gary Raichart
+</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Sam Shapero in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 7
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+May 22, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 7'; return true" onMouseOut="window.status=' '; return true">Issue 7</a> - The Rawls Report
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+The Rawls Report
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+The Trap of Partial Reason
+</font><br>
+
+<b>by Alec Rawls</b><br>
+Opinions Staff<p>
+
+  A fundamental liability of intelligence is that it is susceptible to partial rationality. Many people set their minds to the task, not of following reason and evidence, but of picking and choosing those bits of reason and evidence that seem to gravitate in favor of what they presume to be right or in their interest. <p>
+  This backwards thinking, starting with conclusions and making the best case for those who practice it, divorces its practioners from reality. As a result, their assumptions about what is right or in their interest are inevitably wrong. This phenomenon accounts for anti-Americanism and anti-Zionism. <p>
+  Consider a typical example, from a lead editorial in last week's San Jose Mercury News (May 15, 2003). Readers of the editorial learned that Islamic radicalism is so widespread that Islamist terrorists are being recruited even from the English countryside. The Mercury's response to this fact? It is America's fault. <p>
+  America's policies, "from a unilateral war in Iraq to an unbalanced approach to the Israeli-Palestinian conflict," have brought this on us. Because we haven't acceded to French and German demands that we cease defending ourselves against those who plot mass murder of Americans, and because we haven't abandoned Israel to those who have been trying to murder Israelis for 50-plus years, WE are to blame. <p>
+  No possible logic leads to this patently anti-American conclusion, yet it comes from an American newspaper and expresses the prevailing view of one of our major political parties. The only way to understand this oddity is in terms of the thought process that generates it. <p>
+  For a clue, notice the peculiar locution: "unilateral war."  Of course we SHOULD be prepared to act unilaterally in national self-defense, but the only thing unilateral about THIS war is that the fifty nations that backed us did not include those nations who hate us. That shortfall might well be seen as a bad thing by newspaper editors who, for whatever reason, also hate America, but it does not make the war "unilateral." This usage is the kind of unconscious falsehood engaged by people who do not pay attention to truth or falsehood, but are guided rather only by the apparent utility of what they presume to be correct.<p>
+  If the war was unilateral (presumed by the editors to be bad), that would support the view that the war was bad (also a presumption of the editors). Therefore, the war was unilateral. 
+  It might be overgenerous to describe this behavior as "picking and choosing" from reason and evidence. Pure fabrication also plays a role. But the difference is really semantic.  Once someone loses touch with reality, all becomes fabrication. Whether fabrication is out of whole cloth or out of half-truths doesn't much matter.<p>
+  Thinking forwards, following reason and evidence, one must see that the English problem exists in this country too. The D.C. snipers are American-grown Islamic radicals. So is Jose Padilla, the would-be dirty bomber. Ditto for the Buffalo, New York terrorist cell of six Yemeni immigrants. The explanation is also known.<p>
+  The Saudis financed the Madrassas in Pakistan and Afghanistan that bred the Taliban. For years, nobody paid any attention while the Saudis used their oil money to spread radical Islamist fascism to every corner of the globe. Yet now that this perfidy has become widely known, there are those who want to pretend that WE did it, or that we deserve it. <p>
+  What a bizarre reaction to the revelation of a vast, well financed and explicitly orchestrated conspiracy. But it is only bizarre to those who think frontward. If you follow reason and evidence wherever it leads, and in that way stay in touch with reality, obliviousness to reality in others is striking. But backward thinkers really are oblivious. They have no idea how bizarre they are. The editorialists at the Mercury are probably only thinking about political advantage for the Democratic Party. By attacking Bush, they think they are making political hay.<p>
+  To the extent they are able to bring people into their culture of backward thinking, they ARE making political hay. California is remarkably in the grip of the backward thinking culture of lies. <p>
+  It is a mild form of the criminal pathology. Who can stop you from cheating in your own mind? Those who are tempted in that direction cheat themselves as well as others. Instead of becoming scientists, they become ideologues. Thinking backwards from their presumptions, their human potential is wasted on whatever the solipsistic tumor in which they happen to land. But then because our intellectual capacities are strong, these twisted fans of partial rationality are still able to grow strong. They find bloodstreams to tap into, crimes to consummate. They find how to become cancer.<p>
+  There is cancer in the English countryside. There is cancer at the Mercury News. There is cancer at Stanford. The great change today is that the cancers of partial rationality are all jumping out at once now to reveal themselves, as if they recognize each other as kindred types with a common enemy: these honest people, these straight thinkers, these liberty-loving warriors. <p>
+  When the tumorous ones stand up to fight, they reveal their grotesqueness. Their world is divorced from reality. It is a fantasy world where they construct their visage according to their imagination. When they try to come out into the real world, the juxtaposition to reality reveals and destroys them, like water on the Wicked Witch of the West. <p>
+  Our job now is to throw that water of reality, both on the military battlefield and into public and private debate. Even with the illiberals in charge of the media, the universities and the Democratic Party, 70% of Americans are still squarely on the liberty-loving side. 
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:24:06 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

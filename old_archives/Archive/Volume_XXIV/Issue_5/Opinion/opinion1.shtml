@@ -1,0 +1,227 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIV - Issue 5 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front page</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editor's Note</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Ethics_And_The_Academy/index.shtml" onMouseOver="window.status='Ethics and the Academy'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ethics and the Academy</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Last_Page/index.shtml#1" onMouseOver="window.status='Alec Rawls in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Bob McGrew in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../Ethics_And_The_Academy/ethicsandtheacademy3.shtml" onMouseOver="window.status='David Myszewski in Ethics and the Academy'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='John Gibbs in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>John Gibbs</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Johnny Openshaw in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Johnny Openshaw</font></a><br>
+
+<a href="../Ethics_And_The_Academy/ethicsandtheacademy2.shtml" onMouseOver="window.status='Henry Towsner in Ethics and the Academy'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Kimberly Torrence in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kimberly Torrence</font></a><br>
+
+<a href="../The_Last_Page/index.shtml#2" onMouseOver="window.status='Ryan Parks in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Parks</font></a><br>
+
+<a href="../News/index.html" onMouseOver="window.status='Scott Rasmussen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+</font>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXIV, Issue 5
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+June 5, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIV'; return true" onMouseOut="window.status=' '; return true">Volume XXIV</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue #5</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Opinion</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>Reasons to Dismantle Social Security</font><br>
+
+Each year, nearly 43 million Americans pay 12.4% of their income to the government system of social security.  The Health Allies Corporation states that in the year 2034, this system, as it currently functions, will no longer provide for the citizens who are currently depositing money. What was once insurance for a comfortable lifestyle after retirement is now seen as a burdensome tax that we will never regain in its entirety. The United States government must either make some drastic changes in the near future or completely dismantle the current system.  Hard-working Americans are currently throwing their money into this hopeless pit.<p>
+
+	Many argue that, without Social Security, retired senior citizens who fail to save their money throughout the earlier part of their lives would be left on the streets, hungry, with no practical way of supporting themselves. If, instead, the government completely terminates Social Security, it could require each citizen to have an individual "Retire with Wealth" account.  If people set aside their own money, they will be free to invest, loan, and save portions of it.  Thus they will make more money than they will in the current state of the Social Security system.  The government could regulate these accounts, making sure every working individual maintains one so that no working person will suffer from poverty after retirement.<p>
+
+	So why not attempt to reform the current system?  The current system is well past the state of reform. Inflation, government borrowing, increased life expectancy, and the Baby Boom era have left holes in the idea of monetary insurance that we will never be able to successfully patch up.<p>
+
+	Given inflation, the money that we deposited years ago will not be worth nearly as much at retirement.  The government does not invest this money in stocks but rather borrows the money and calls these loans "government bonds" which it promises to pay back with interest.  By putting a label on this system of borrowing, they do not have to add the borrowed money onto the already extraordinary tab of the national debt.  We must then wonder whether the government ever plans on paying back the American people and, if so, where they plan on obtaining this money. The only way that the government could ever pay back the borrowed money would be by increasing taxes, cutting other types of spending, or running a deficit.<p>
+
+	Another occurrence that has had a large impact on the downfall of Social Security is the growth in life expectancy.  In 1930, the average person was expected to live approximately 60 years.  After advancements in technology and medicine, life expectancy rose to 77.3 years in 1997.  People are living longer and, therefore, are going to rely on collection money from Social Security for a longer period of time.  In an attempt to limit the time people can collect Social Security, a 1983 legislation which took effect in January 2000 raised the age for collecting full benefits from sixty-five to sixty-seven.  Americans now have to work much later on in their lives.  This is not a suitable solution to the problem.<p>
+
+	To add to this dilemma, the Baby Boom generation is approaching retirement.  It has not been decided how this situation will be resolved.  Not only is the sheer number of Baby Boomers a problem, but these Baby Boomers produced fewer children, leaving no one to support those who are approaching retirement.  This specific case demonstrates how the pay-as-you-go system of social security fails.  Although each generation must support the previous generation as it reaches retirement, generational fluctuations in population stop this system from being successful.<p>
+
+	Not only does the United States government need to make the decision to dismantle Social Security, it also needs to formulate an idea on how to disassemble this system so that citizens who have long invested into it will not lose money.  This can be done in a variety of ways.
+	The most appealing way would be to use the current budget surplus to continue paying those citizens who have bought into the system.  The government could then discontinue the process of collecting money from rising generations.  The proposed budget surplus has been a hot issue of debate in the current 2000 presidential election, and this would be an appropriate use of this money.<p>
+
+	Another practical approach would be to wean working Americans off of the system.  By slowly decreasing Social Security payments, incoming and outgoing, we can eventually eliminate the system entirely without upsetting any one generation.  Getting rid of Social Security is not a hard task.  The hard task lies in persuading the government to destroy this unworkable system of support.<p>
+
+	In a poll conducted by the Washington Post, Social Security reform is a bipartisan issue.  In President Clinton's 1998 State of the Union address, he demanded a budget surplus in hopes of pursuing his motto of "save social security first."  The question is not whether we need change, but what kind of change we need.  Privatization is our best solution.<p>
+
+	Social Security is on the path to destruction, and something must be done to correct it or, preferably, to replace it.  Every man should be responsible for his own investments and savings.  This will allow the individual to be assured his share of money, and, at the same time, invest his money to earn a profit.  There are still some issues that have not been completely resolved in the privatization solution.  Lower-income households, which rely on social security the most, will have the worst time building up a "Retire with Wealth" account.  Their wages are significantly less, and, therefore, after deducting the amount of their income they will need to spend on living expenses, they will not be able to save as much money.  While this system, left up to the people, will be a better and more stable outcome in future years it still has some unanswered questions which must be worked out.  It is not until then that the problem of Social Security will be solved.<p>
+
+<i>By Kimberly Torrence</i><p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:47:20 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

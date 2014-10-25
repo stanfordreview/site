@@ -1,0 +1,233 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 3 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorial</font></a><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Features'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Features</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Aliyya Haque in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aliyya Haque</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Chris Fish in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Fish</font></a><br>
+
+<a href="../Editorial/editorial1.shtml" onMouseOver="window.status='Editorial Board in Editorial'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Board</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Harrison Y. Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Y. Osaki</font></a><br>
+
+<a href="../Letter_to_the_Editor/lettertotheeditor1.shtml" onMouseOver="window.status='Jennifer Yoon in Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jennifer Yoon</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Michael Hasper in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Michael J. New in Features'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael J. New</font></a><br>
+
+<a href="../Letter_to_the_Editor/lettertotheeditor2.shtml" onMouseOver="window.status='Milton Solorzano in Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Milton Solorzano</font></a><br>
+
+<a href=http://www.stanfordreview.org/Archive/Volume_XXXI/Issue_3/Letter_to_the_Editor/lettertotheeditor3.shtml onMouseOver="window.status='Patricia Alarcon in Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Patricia Alarcon</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Chris Fish in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Stephen A. Cohen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 3
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+October 23, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+New Alcohol Policy May Harm Students
+</font><br>
+
+<b>by Chris Fish</b><br>
+News Staff Writer<p>
+
+Stanford's new alcohol policy, effective this fall quarter, has been the subject of quite a bit of controversy on campus. The policy stipulates, "No alcoholic beverages may be served at all-freshman house events in common area spaces (e.g. lounges, hallways, patios/outdoor areas)." As a result, police have seen an increase of incidents requiring their attention.<p>
+The intent of this policy is to reduce the consumption of alcohol on campus, particularly among students under the age of 21. Yet, many believe that the new rules are ineffective and counterproductive. Arguing that the absence of alcohol in freshmen dormitories during parties will not dissuade freshmen from drinking in other forums, many students feel that freshmen will resort to consuming alcohol in the seclusion of their rooms. Such behavior could increase the risk of alcohol poisoning and other ailments that could be more easily addressed if the drinking occurred in a more public setting, they say.<p>
+The administration's actions in recent years indicate their desire to rectify a perception of lax awareness to alcohol problems and tighten Stanford's alcohol policy. In the past two years alone, several fraternities and the Stanford Band have been placed on alcohol probation. The university has also required an increase in security at parties, often times mandating a police presence.<p>
+This new aggressive stance toward alcohol is not limited to administration officials, as the Stanford Police Department has now become emboldened in curbing student drinking. For the first time since most students can remember, Stanford Police have begun randomly "breathalizing" students outside of campus parties and subsequently issuing citations to those drunk in public and underage. In fact, in the last two years, the Stanford Police department has issued over 100 alcohol-related citations to Stanford students.
+While the police may believe their heightened activity has had a positive effect on campus, many students disagree, citing feelings of increased rebelliousness.<p>
+"The new alcohol policy has forced many freshmen to swarm fraternity parties when they want to drink," Stanford Junior Eric Woersching says. "This has caused numerous safety and security problems that make Greeks prefer to throw less all-campus events and more invite-only parties instead of putting themselves at risk of university sanctions."<p>
+This new surge of freshmen in search of alcohol, coupled with Stanford's increased scrutiny of Greek groups, has caused many fraternities to take a more defensive posture towards all-campus parties, further restricting freshmen's drinking options to their own rooms.<p>
+At times, such enforcement has reached overzealous levels, students feel. Sophomore Evan Raff recounts an incident in which a friend of his was stopped by police.<p>
+"He was frivolously pulled over on the Row on a Saturday night because he didn't have a license plate light on his car and two of the passengers in the back seat weren't wearing their seat belts," he says.
+Although many Stanford students view this new alcohol policy as repressive, some outside the Stanford community have a different opinion. In a recent news article "Stanford Drinking Crackdown" featured in the San Jose Mercury News, Stanford is criticized for being "lax about underage drinking." The article portrays Stanford's underage drinking enforcement as slack and in need of strong reforms.<p>
+Recent events have further fueled suspicion that Stanford's alcohol policies are counterproductive. While thousands of Stanford students enjoyed Full Moon on the Quad, the event was characterized by a ban of alcohol consumption. This presence included 3 deputy officers and 6 security officers. This policy left most students who desired to become intoxicated to drink large amounts of alcohol in their dorms before attending. Four students were shuttled off to the hospital for alcohol related reasons.<p>
+The administration places the blame for the hospitalizations largely on the students. In a Stanford Daily article entitled "Full Moon's Future Cloudy," Nanci Howe, Assistant Dean of Student Activities, voiced concern about Full Moon on the Quad and stated that she had serious reservations about holding the event again next year. In addition, the Stanford Daily quoted Howe as saying, "We can't have this event if it continues like that. But it is really up to the students to decide with their actions."<p>
+Although the administration views the student body as the root of the problem, many students feel the hospitalizations that resulted from Full Moon were not caused by irresponsible drinking but by an overly repressive alcohol policy that promotes binge drinking.<p>
+"With Stanford increasingly clamping down on alcohol on campus, the drinking culture has simply moved behind closed doors. Full Moon on the Quad is a perfect example of the consequences of freshmen and others who want to get 'drunk enough,' being forced to binge drink in the seclusion of their dorms," says Sophomore Aditya Berlia. Viewing the new aggressive alcohol policy as the source of the problem, many in the student body vouch for liberalization of the alcohol policy as the best way to insure student safety. They believe that by stepping into the students' shoes, the administration will be able to deal with the alcohol problem in a more realistic and effective manner.<p>
+<i>More information about the alcohol policy can be found at http://osa.stanford.edu/</i><p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:25:36 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

@@ -1,0 +1,248 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXV - Issue 2 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.shtml" onMouseOver="window.status='A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Note From Bob</font></a><br>
+
+<a href="../Best_Of_Web/index.shtml" onMouseOver="window.status='Best of the Web'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Best of the Web</font></a><br>
+
+<a href="../Book_Review/index.shtml" onMouseOver="window.status='Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Book Review</font></a><br>
+
+<a href="../Election_Roundup/index.shtml" onMouseOver="window.status='Election Roundup'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Election Roundup</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.html" onMouseOver="window.status='Bob McGrew in A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../The_Last_Page/index.html" onMouseOver="window.status='Brooke Brody-Waite in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brooke Brody-Waite</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Henry Towsner in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Jim Carlson in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jim Carlson</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Keun Lee in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Keun Lee</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Kurt Berglund in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kurt Berglund</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Matt Barrett in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matt Barrett</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Michael R. Fainelli in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael R. Fainelli</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Ricardo Tigueros in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ricardo Tigueros</font></a><br>
+
+<a href="../Book_Review/index.shtml" onMouseOver="window.status='Scott Rasmussen in Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXV, Issue 2
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+October 26, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXV'; return true" onMouseOut="window.status=' '; return true">Volume XXV</a> - <a href="../index.html" onMouseOver="window.status='Issue 2'; return true" onMouseOut="window.status=' '; return true">Issue 2</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Front Page</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>The Farm's Political Cash Cows</font><br>
+
+<b>by Michael R. Fainelli</b><br>
+Staff Writer<p>
+
+<img src="images/money.jpg" width=218 height=140 alt="Cash Cows" align=left>
+	Each election sees campaign collecting and spending climb to ever higher peaks, and the year 2000 will be no exception.  At Stanford and nationwide an outpouring of gifts has fattened campaign bank accounts to record girth.  As of October 1, the residents of the 94305 zip code have donated about $313,000 to various political causes, a figure that surpasses the same area's total giving in the 1996 presidential season by twofold and will continue to swell through Election Day.<p>
+
+	The 177 checks which comprise the total figure were written by professors, university staff, and the family members of both. Students chose to save, at least this election year. The recipients can be broken up into three main categories: candidates, parties, and Political Action Committees. Gifts totaling less than $200 are omitted since the Federal Elections Commission keeps no records on them.<p>
+
+	The presidential candidates received about $58,000 in direct contributions from the residents of the Stanford zip code. Senator Bill Bradley raked in the largest share with $36,300 followed by Governor George W. Bush with $16,900 and lastly Vice-President Al Gore with $4,195. Former New York Knick Bill Bradley benefited from something of a home court advantage in the fundraising game, having served as visiting professor at Stanford in the year before the primary.<p>
+
+	Also riding high on his Stanford connections is Professor of Law and senatorial candidate Tom Campbell, who leads his rival Diane Feinstein $7250 to $1750, though he is far behind in total donations state-wide.  Among Political Action Committees, Emily's List, which assists pro-choice Democratic women, received more assistance from Stanford donors than any other PAC in the field. The organization, also the richest PAC nationwide, collected $4450, including donations of $1000 from Barbara Babcock, a Professor of Law, and $500 from Herbert Abrams, a Professor of Radiology. Among the 100 Stanford donors, the top five bankrolled more than two thirds of the combined contributions. Even after stuffing the hats of political candidates to the legal limit, these wealthy patrons can make unlimited donations to the party in the form of soft money.<p>
+
+	The laws governing individual contributions set a maximum of $2,000 on direct giving to candidates: $1,000 in the primaries and another $1,000 in the general elections. In addition, an individual may donate up to $5,000 to a PAC and up to $20,000 to a national party that deposits funds in a federal account. However, a loophole allows state branches of the parties to open non-federal accounts through which they may receive boundless donations, commonly referred to as soft money. Technically, money in the non-federal accounts cannot be spent directly on congressional or presidential elections, but the publicity generated by soft money expenditures inevitably spills over to benefit federal candidates.<p>
+
+	At the Farm, tens of thousands of dollars have poured in as soft money from the hands of wealthy donors such as Melody McDonald, an executive at RCM Capital Management, an investment firm in San Francisco. Last October, the Stanford alum gave a hefty $80,000 in "soft money" to the RNC National State Elections committee, the largest single contribution from the Stanford zip this campaign season. Two days later, she made party leaders even happier with a $20,000 gift to the Republican National Committee.<p>
+
+	That kind of generosity places Ms. McDonald in the big leagues of party giving.  Last April, she attended "Gala 2000" at the Washington D.C. Armory, where the Republican party's all-star donors gathered to dine on horseradish fillets of red snapper and goat cheese medallions and to bank $21 million for the Bush campaign, a record for a single event. The evening's program recognized Ms. McDonald as a member of the "Gala Dinner Committee," a group of donors who have pledged to raise $15,000 for the Bush Campaign. Though she gave as an individual, Ms. McDonald declined to comment for this article, citing her company's policy against talking to the press.<p>
+
+	The second place Stanford donor is Susan Orr, daughter and heir of David Packard, the Hewlett-Packard co-founder. Ms. Orr sits on the Stanford Board of Trustees and chairs one of country's wealthiest philanthropic organizations, the Lucille and David Packard Foundation, which owns assets worth about $17 billion. She also shares her largesse with the Democrats and, teaming up with her husband, Franklin Orr, a Professor of Petroleum Engineering, has spread a total of $76,000 across 17 different Democratic causes. Notably she has given $2000 to Hillary Clinton's New York Senate campaign and $25,000 in soft money to the Democratic party.<p>
+
+	Business school Lecturer Joel Hyatt may have lost his bid for U.S. Senate in 1994, the same Ohio seat his father used to occupy, but his $30,250 in political contributions will help other Democrats win elections this season. The Atherton resident made his fortune by founding Hyatt Legal Plans, a law firm that has served over two million middle and lower class clients.<p>
+
+	John Koza, a professor of computer science, ranks fourth among Stanford's generous givers. Before switching careers to genetic programming research at Stanford, he struck gold as founder and CEO of Scientific Games, whose technologies allowed states to issue the now ubiquitous scratch-and-win lotto tickets in the 1970s. Mr. Koza, who was appointed to the electoral college by Diane Feinstein in 1992, gave $25,000 in soft money to the Democrats. As CEO of the Stanford Management Company, Michael McCaffery manages Stanford's $4.7 billion endowment. The former investment banker has also invested $10,000 of his own money in the Democratic National Party.<p>
+
+	Stanford's position as the academy of Silicon Valley has placed the Farm in the midst of a battle between presidential candidates for the political favor of New Economy set. Among the first politicians to harvest the fruits of IPO wealth was Bill Bradley, who sojourned to Stanford as a Payne Distinguished Professor during the 1997-1998 academic year. The appointment gave him time to distance himself from Washington politics, craft a policy agenda, and establish a network of donors. Even while promoting his liberal social programs he reaped millions in contributions from the up and up of Wall Street and Silicon Valley. Even Republican standbys like Rupert Murdoch admired Bradley's reputation as man of honor—enough to rip out $1000 checks for his campaign.<p>
+
+	"He met a lot of leaders in Silicon Valley," says Political Science Professor Daniel Okimoto, recalling Bradley's stay at Stanford.  Many of those leaders were first time donors on the verge of a political coming of age. Bradley suspected they might serve as a mighty counterweight to the traditional sources of Democratic funding: trial lawyers, and unions. 	"Obviously the incumbent Vice-President, with the assistance of the President locked up those sources of funding," says Mr. Okimoto, who roomed with Bradley at Princeton and actively campaigned for him. "Bradley understood early on that he would have to find alternative sources of funding."<p>
+
+	In April of 1999, Mr. Bradley collected over $1 million at fundraising dinner in San Francisco, packed to the doors with the nouveau rich and even a speckling of Stanford professors, according to Mr. Okimoto. The event made headlines and marked the start of a donation bonanza for the Bradley campaign, which ended 1999 richer than the Gore camp.<p>
+
+		The former New Jersey Senator also did a fair share of palm pressing here on campus, convincing many of the university's bigwigs to write checks to his campaign. Dean of the Law School Kathleen Sullivan, former Stanford President Donald Kennedy, and former Dean of the Business School A. Michael Spence forked over $1000 each. Other noteworthy contributions include $1000 from Chemistry Professor Carl Djerassi, inventor of the birth control pill, and $500 from Management Science and Engineering Professor William Perry, a former Secretary of Defense in the Clinton administration.	"He had strong supporters who were actively fundraising for him on campus. I was among those," says Mr. Okimoto, who roomed with Bradley their senior year at Princeton. "We sent out letters to our colleagues, encouraging them to contribute."<p>
+
+	Mr. Bush has also pulled in money through Stanford ties. Many of the professors who have donated to his campaign also serve on his team of advisors: Michael Boskin, John Taylor, and George Shultz.<p>
+
+	Mr. Bush stays connected to his network of high-tech supporters via campaign offices in Redwood City and San Jose. The Governor has toured through Silicon Valley about 6 times in the course of the campaign. On September 28th he spoke at a fundraising dinner hosted by Carol Bartz, CEO and founder of Autodesk who lent her private Atherton home for the event. He appeals to this and other high-tech audiences, by championing the spirit of entrepreneurship and drawing a link between breathtaking innovation of the Internet age and the virtues of a small government, whose bureaucrats lack the power to tamper with the New Economy's stellar growth. 	"Silicon Valley has been successful based on being left alone," says Tom Riley, the Silicon Valley co-chair of the Bush campaign and member of the Stanford class of 1972.<p>
+
+	By advocating tort reform and tax cuts, Mr. Bush markets himself as a friend to business and the message has helped him win the fundraising game among the high-tech crowd. In the larger San Jose metro area, Mr. Bush has collected $598,977, a figure which surpasses Mr. Bradley's total by more than a third according to opensecrets.org, which posts FEC fundraising data. Mr. Gore places a distant third with $351,505.<p>
+
+	Mr. Riley says Mr. Bush has not made any campaign stops at Stanford, not recently anyway. The two became friends at Harvard Business school and in 1977, Mr. Bush flew out from Texas to attend Mr. Riley's wedding ceremony in Memorial Church.<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:53:09 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

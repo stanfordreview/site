@@ -1,0 +1,217 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVI - Issue 1 - A Word From The Editor</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Word From The Editor</font></a><br>
+
+<a href="../Book_Review/index.shtml" onMouseOver="window.status='Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Book Review</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Alex Robbins in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Christopher Fish in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Christopher Fish</font></a><br>
+
+<a href="../Book_Review/index.html" onMouseOver="window.status='Henry Towsner in Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Justin Diener in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Justin Diener</font></a><br>
+
+<a href="index.html" onMouseOver="window.status='Matthew Barrett in A Word From The Editor (also in Front Page)'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Scott Ramussen in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXVI, Issue 1
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+March 12, 2001
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVI'; return true" onMouseOut="window.status=' '; return true">Volume XXVI</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - A Word From The Editor
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>A Word From The Editor</font><br>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVI/Issue_1/A_Word_From_The_Editor/images/matt.jpg" width=157 height=207 alt="Matthew Barrett" align=left>
+
+
+"In Moulmein, I was hated by large numbers of people--the only time in my life that I have been important enough for this to happen to me." So George Orwell begins his classic essay, <i>Shooting An Elephant</i>. Until recently, I never thought I would empathize with Mr. Orwell. Then I became the editor of <i>The Stanford Review</i>.<p>
+
+	When I came to Stanford, I didn't expect a conservative atmosphere. I didn't expect that the Stanford Republicans would be the most active group on campus, or that  many professors would express dissatisfaction with California's liberal political atmosphere. I was not surprised to learn that Jesse Jackson has a much broader base of support among Stanford students than does Ronald Reagan, and it doesn't shock me to hear students say that the Hoover Institution should be thrown off campus.<p>
+
+	However, I didn't realize just how unpopular it is to be conservative at Stanford until I took over this paper. Some students are politically active and some students are politically ambivalent. Some care to discuss pertinent issues all the time and some care never to discuss them. But for the most part, who a student works for and who a student can have a fair conversation with seem to have nothing to do with each other. <i>The Review</i> is unique. When I tell people of my association with the <i>Review</i>, they respond sometimes violently. "YOU work for <i>The Stanford Review</i>!?" these people ask me in disbelief. The subtext, of course, is, "I thought you were a normal, rational person." Some of my acquaintances walk away feeling wholly disappointed, and even deceived, that they did not know this earlier in our relationship. So it goes.  <p>
+
+	In dealing with such adverse reactions, I have learned two important truths. First, it is very hard for people to disassociate your personality from your political beliefs. Second, it is not necessary for anyone at Stanford to have actually read the <i>Review</i> for that person to vehemently oppose it.  Before you make the first judgement, please watch Mary Matalin and James Carville on Meet the Press. Matalin led Bush's campaign in 1992, while Carville led Clinton's campaign. Now they're married, and they appear regularly with Tim Russert to bicker endlessly about partisan politics. Even at Stanford, conservative students and liberal students can actually be friends. Most recently, <i>The Stanford Daily</i> allowed one of our former editors, Mike Toth, to write a column. (More than once, <i>The Daily</i> has explicitly criticized <i>The Review</i>.) Moreover, we boast a staff member in the department of Earth Systems, which is quite possibly the department with the greatest number of liberal students on campus. Furthermore, it is important to note that <i>The Review</i> itself maintains a politically diverse staff, including democrats, libertarians, and even a green. Politics is just politics, even when you write for <i>The Stanford Review</i>. <p>
+
+	The second of these truths, though, is more much distressing to me. One of the reasons that I value the <i>Review</i> so highly is that there is no comparable publication anywhere else on campus. As odd as it may seem, the conservative student newspaper here at Stanford truly is "The Other Voice." Even as editor, it is not necessary for me to agree with every position that appears in this paper. Indeed I do not. But I do value every position that appears in this paper, because this paper is one of the very few avenues at Stanford through which conservative students can express their political beliefs and promote dialogue. <i>The Stanford Review</i> reacts to popular sentiment at Stanford, and attempts to approach situations and ideas from a new angle. Nobody here at the <i>Review</i> is so naive as to think we are going to cause a fundamental shift in the political climate at Stanford. In fact, we may well cause some students to move even further left, in reaction to us. That's okay. But, please, if you're going to criticize the <i>Review</i>, read it first.<p>
+
+	For many years, students have suggested alternatives to reading our paper. Some say it would be best to burn it. They have given a variety of reasons, none of which have been very clear. Other students have suggested that we use our paper as wadded up balls of newspaper to throw over the balcony during flicks in Memorial Auditorium. While distributing the paper in my freshman dorm, I heard at least one student say, "I don't read that trash." This last statement seems especially peculiar to us here at <i>The Review</i>. We never like to address any issue, whether news or opinion, without understanding the opposition stance on that issue. Thus, we can't understand how students can continue to discuss political issues without acknowledging the <i>Review</i> 's stance.<p>
+
+	Finally, the <i>Review</i> mostly reacts to the political climate at Stanford. If this publication is very, very conservative, it means that the rest of campus is very, very liberal. The day when there is no very good use for <i>The Review</i> beyond burning it or wadding it up for use at flicks will be the day that Stanford is so conservative that the Review isn't the other voice any longer. Most members of the Stanford community fear that day. They should  embrace <i>The Stanford Review</i>, and be glad that it still needs to exist. <p>
+
+	Thus, read on, and discover our stance on several issues. Most immediately, you'll notice that we have chosen Associate Dean of Students and Multicultural Educator Tommy Lee Woon as our man of the year, for promoting education on one very political issue, the grape boycott. Recently, Justin Deiner attended a conference at Stanford on Instant Runoff Voting, and he heard what a libertarian had to say about electoral reform in California. Alex Robbins heard photojournalist David Bacon argue that NAFTA has harmed the rights of Mexican workers. Henry Towsner has reviewed John Leo's newsest book, and Scott Rasmussen gives us his opinion on the state of social security in the United States, fearing the day he retires. Alec Rawls returns from a one volume hiatus to share with us his opinion on open space policy at Stanford and beyond, criticizing Clinton's midnight legislation. Clayton Brown appears with <i>The Review</i> for the very first time. He has compiled news briefs. On the back page, you'll notice a short photographic history of the the grape boycott at Stanford. This academic year is the last year that Stanford will witness such a boycott, and so you shouldn't expect to witness these scenes again anytime soon. Enjoy the issue.<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:57:21 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

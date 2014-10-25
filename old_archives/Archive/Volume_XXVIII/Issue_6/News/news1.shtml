@@ -1,0 +1,277 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVIII - Issue 6 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Gary Raichart in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Gary Raichart</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Harrison Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Henry Towsner in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Hilary Connell in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Hilary Connell</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Joe Fairbanks in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Fairbanks</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Joe Londsdale in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Londsdale</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Ming Zhu in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Sam Shapero in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Will Hudson in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Will Hudson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVIII, Issue 6
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+May 16, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVIII'; return true" onMouseOut="window.status=' '; return true">Volume XXVIII</a> - <a href="../index.html" onMouseOver="window.status='Issue 6'; return true" onMouseOut="window.status=' '; return true">Issue 6</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+News Briefs
+</font><p>
+
+<b>Compiled by Gary Raichart</b><p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>ASSU Election Scandal</font><br>
+	The controversies surrounding the recent ASSU elections continue to build.  The <i>Review</i>'s Editor-In-Chief, Henry Towsner, exposed a serious hole in the security of the online balloting process.  A week before the election began, Mr. Towsner notified Elections Commissioner Gedioen Aloula that anyone with access to the ASSU computing system could improperly access and alter restricted information.  Subsequently, Mr. Towsner, the former Chair of the ASSU Nominations Commission went on-line and accessed the total number of voting students, although log records indicate that he did not tamper with the results nor view the number of students voting for any particular candidate.
+
+<p>
+
+	This breach of security was not the only problem with the election.  Three Special Fee groups were left off of the ballot for several hours.  Although one, the ASSU Online Course Guide, was passed anyway, the other two, SCBN, Stanford's student run television station, and Stanford Mock Trial, both failed.  Both groups were eventually funded out of a special fund reserved for that purpose.
+
+<p>
+
+	The other challenge to the election, Senior Patrick Crosetto's claim that the "instant runoff" voting used during the Presidential election has been dropped.  Mr. Crosetto has claimed that the Elections Commission took too long to respond, making his threatened court case moot, while the Elections Commission states that it responded as quickly as was reasonable.
+
+<p>
+
+<hr align=center width=300>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>International Student Concerns</font><br>
+	The September 11 attacks resulted in a change in US policy concerning student visas that leaves some international students concerned over their ability to study in America.
+
+<p>
+
+	While in the past acceptance into a major university such as Stanford would almost guarantee the acquisition a student visa, many are less enthusiastic about their chances given current Bush Administration policy.  International students comprise around five percent of the undergraduate student body.
+
+<p>
+
+	The Bush administration has stated that the new policies are an attempt to balance the vitality and quality international students bring to universities with the danger posed by students (or people posing as students) who might abuse their access.
+
+<p>
+
+	Specifically, the bill passed by Congress places much more stringent requirements on students from North Korea, Iraq, Iran, Libya, Sudan, Syria, and Cuba, and requires much more in depth investigation of students before a visa is granted and a monitoring system once they are in the States.
+
+<p>
+
+<hr align=center width=300>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Rogue States</font><br>
+	Thomas Henriksen, associate director for program development and a senior fellow of the Hoover Institute delivered a lecture concerning "American Foreign Policy and Rogue States."  The lecture was part of a student initiated course, IR 192: Global Hot Spots, and was open to the public.  Dr. Henriksen began by claiming that Nazi Germany and Soviet Russia were the two most rogue states of the 20th Century.  Rogue states were defined as nations that repress their own people, promote international terrorism, seek weapons of mass destruction, and stand outside the global community.  Most of the rogue states in existence today, such as North Korea, Cuba, Libya, Syria, Egypt, Iraq, and Iran came to be rogue states because of the Cold War.  The vacuum of power left after the collapse of the USSR left many nations searching for identity and many leaders grasping for power.  Nations like North Korea and Cuba were left without the support of the powerhouse they had thrown their lot in with.  The world of international politics changed so dramatically that some rogue states committed atrocities merely to get the attention of the US so they could receive aid or agreements.
+
+<p>
+
+	Ultimately, though, Dr. Henriksen argued that rogues states cannot exist without the support of some power.  He supported this with the evidence of Chinese support of North Korea in retaliation for US support of Taiwan and with the supply of weapons to Iran and Iraq by Russia.  Additionally, he argued that rogue states band together even if they fundamentally disagree ideologically.  Consequently, the US must adopt a new ideology in combating rogue states.  First, while the US must invade and destroy terrorist groups, the battle will not be won through military means alone.  Therefore, the US must be willing to act as a patient police force, though help from the British would be desirable because they are better at it.  Next, the US must engage in state building to prevent a new rogue government from forming.  Finally, the US must use public diplomacy to get the American message out to the uninformed citizens of countries with censored media.  Ultimately, it will be a long-term and difficult process to resolve the problem of rogue states.
+
+<p>
+
+<hr align=center width=300>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Stanford Holds Annual Powwow</font><br>
+	Stanford held its thirty-first annual powwow, which brought more than five hundred dancers and tens of thousands of spectators to campus.  This year's theme is "We Dance With Peace in Our Hearts, Fire in Our Eyes, and Rage in Our Feet!"
+
+<p>
+
+	The event, which includes dancing, drumming, and more than one hundred arts, crafts, and food booths, would also commemorate the thirtieth anniversary of the replacement of the "Indian" as Stanford's mascot.
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:19:55 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

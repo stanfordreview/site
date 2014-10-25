@@ -1,0 +1,273 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXV - Issue 3 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.shtml" onMouseOver="window.status='A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Note From Bob</font></a><br>
+
+<a href="../Best_Of_Web/index.shtml" onMouseOver="window.status='Best of the Web'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Best of the Web</font></a><br>
+
+<a href="../Election_Roundup/index.shtml" onMouseOver="window.status='Election Roundup'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Election Roundup</font></a><br>
+
+<a href="../Election/index.html" onMouseOver="window.status='Election'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Election</font></a><br>
+
+<a href="../Feature/index.html" onMouseOver="window.status='Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Feature</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="../Interview/index.html" onMouseOver="window.status='Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Interview</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.html" onMouseOver="window.status='Bob McGrew in A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='David Myszewski in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Election/election2.shtml" onMouseOver="window.status='Henry Towsner in Election'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Feature/index.html" onMouseOver="window.status='John McCarthy in Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>John McCarthy</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Kurt Berglund in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kurt Berglund</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Matthew Barrett in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="../Election/election1.shtml" onMouseOver="window.status='Scott Rasmussen in Election'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXV, Issue 3
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+November 6, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXV'; return true" onMouseOut="window.status=' '; return true">Volume XXV</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+"History Will Judge": Rice, Glenn, And Kennedy Speak
+</font><br>
+
+<b>by David Myszewski</b><br>
+Senior Staff Writer<p>
+
+	In the 1960's there was a sense of dedication to public service that some believe is difficult to find today.  An all-star panel assembled during the alumni weekend, including Mercury astronaut and Senator John Glenn and former Stanford University provost Condoleezza Rice, sought to answer some of the difficult public service and leadership questions that face America.<p>
+
+	The panel discussion, entitled "History Will Judge: Politicians, Public Service, and Leadership Today," was moderated on October 21 by Charles Ogletree, a Harvard University Professor of Law who earned an MA and BA (with distinction) in political science from Stanford University.<p>
+
+	The discussion began with the relationship between public service and private morality.  John Glenn argued that Americans approve of President Clinton's policies and separate the policies from Clinton's private life.  He maintained that in a nation with a 50% divorce rate, there is a different emphasis on one's private misconduct than there otherwise would be.<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Issue_3/News/images/rice.jpg" alt="Condoleezza Rice" width=130 height=175 align=left>
+	Condoleezza Rice discussed the impact that the media's involvement in the private life of public servants may have.  "No one will run for office if they can't have a private life."<p>
+
+	Ms. Rice said that the loss the public's trust in Mr. Clinton which resulted from the Lewinsky scandal was perhaps the worst impact.  She linked that lack of trust with President Clinton's decision to take the possibility of ground troops in Kosovo off the table early on in the mission, saying that he didn't have the requisite trust of the people needed to justify sending in American ground troops into a combat situation.<p>
+
+	Mr. Ogletree noticed an apparent change in press' and Americans' focus from the Kennedy era to the present.  He asked what was it about that era that kept the focus off of the private life of politicians, asking if it was due in part to difference in the roles journalists play.<p>
+
+	Otis Chandler, former publisher and editor of the  Los Angeles Times, pointed to the vast differences between the way in which information was disseminated in the 1960's versus the present.  He claimed that the press had a "good old boys" relationship between politicians.<p>
+
+	In addition, there were no shows such as Entertainment Tonight, whereas now, he said that people get their news from talk shows.  "I worry about the excesses of the press today."<p>
+
+	Mr. Glenn said that interpretive journalism has been carried too far.  He complained that it is very rare that there is a news column that has not been interpreted.  "I don't like 'gotcha' journalism."  <p>
+
+	Felicity Barringer, press correspondent for the New York Times, stated that the Watergate scandal changed the role of journalists because of the vital role which the press played in exposing it.<p>
+
+	Philip Taubman, assistant editorial page editor of the New York Times, said that although many blame the press for its influence over politics, the press does not have as much sway as some say it has.  He argued that the election process itself is flawed, partly due to the predominance of special interest groups.<p>
+
+	Mr. Taubman gave three reasons why accomplished people do not run for office: the lack of money required to run an effective campaign, the abuse that politicians have to survive from others and their own overly busy campaign schedule, and the lack of privacy that one has after entering the public sphere.<p>
+
+	Condoleezza Rice agreed that there are factors which discourage good people from running for office.  "I'd be surprised if every election had sterling people."<p>
+
+	Leslie Hatamiya, former deputy campaign manager of Bill Bradley, said that the perception of politics is ugly.  She said that she was frustrated working on the Bradley campaign because Bradley wanted to talk to the issues but it seemed as though no one else did.<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Issue_3/News/images/kennedy.jpg" alt="David Kennedy" width=138 height=170 align=left>
+	David Kennedy, a Pulitzer Prize-winning Stanford Professor of history, looked at the disinterest of the American people from a historical standpoint.  In the 1950's, he stated, there was apathy about public service, something that was described as the "bland leading the bland."<p>
+
+	"In the spring of 1960 John F. Kennedy gave a stump speech about the Constitution and its importance in the United States."  That message, David Kennedy said, was carried through for the next few years, invigorating an entire generation to engage in politics.<p>
+
+	Mr. Taubman suggested that we may look at this election as a turning point in politics because there has been little attention given to the private lives of the candidate.  George W. Bush made an early stand against it, and that struck a chord in the press.<p>
+
+	Chandler stated that one of the difficulties in the elections in this information age is the instant analysis.  The press does not even give people time to think about the debate.  The press's job is to report, but he stated that the analysis which occurs immediately after the debate--before the people at home even have time to think about it--can be harmful.<p>
+
+	Cory Booker, central ward councilman and highly acclaimed community activist, said that one of the fixes for apathy is for politicians to speak about issues that are important to their constituents.  He said the reason why Messrs. McCain and Ventura were so popular was that they spoke about the issues that everyday citizens care about, and they spoke about the issues in a way to which people could relate.<p>
+
+	Mrs. Hatamiya said that the key is campaign finance reform.  She said the politicians "spend more time raising money than speaking to the issues."<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Issue_3/News/images/glenn.jpg" alt="John Glenn" width=160 height=201 align=left>
+	Mr. Glenn spoke briefly about one solution of campaign finance reform, state financing of campaigns.  This would help people who are less well off get involved in politics because after the primaries there would not be a need to raise more money.<p>
+
+	He later proposed an idea to get citizens more involved in politics.  Mr. Glenn suggested that the government give every American a sum of money that they could give to any political candidate.  Then the American people would have more of a stake in the election.<p>
+
+	When the floor was opened to audience questions, one audience member wanted to know if the panelists thought George W. Bush has been treated gently about exaggerating.<p>
+
+	The only panelist who had a chance to reply given the time constraints was Condoleezza Rice, who is one of Mr. Bush's top advisors.  She said that while some believe the description of his record to be one-sided, on the other side of the aisle, "The New York Times has not come out with anything they like about Bush."<p>
+
+	In his closing statements, Mr. Kennedy said that "A politician tells people what they want to hear."  He stressed the importance of leadership, saying that one characteristic of leadership is educating people, and the candidates should be helping to educate Americans on the issues.<p>
+
+	Mrs. Hatamiya gave three reasons why she thought people should get involved in politics: politics matters, it is noble and honorable, and as participants in a democracy, politics is our responsibility.<p>
+
+	Mr. Glenn gave the final remarks, saying that freedom is about being able to decide one's own future.  "Cicero said, 'Freedom is participation in power.'"<p>
+
+	If Americans are not participating in politics, he argued, they are placing their own power in the hands of politicians.<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:54:12 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

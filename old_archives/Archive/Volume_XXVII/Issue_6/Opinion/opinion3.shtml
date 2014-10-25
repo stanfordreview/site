@@ -1,0 +1,271 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 6 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Heard_Around_Stanford/index.shtml" onMouseOver="window.status='Heard Around Stanford'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Heard Around Stanford</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Alex Robbins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Andrew Wright in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Harrison Osaki in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Henry Towsner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Joe Lonsdale in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Nels Hansen in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Sam Shapero in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Scott Rasmussen in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 6
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+January 30, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 6'; return true" onMouseOut="window.status=' '; return true">Issue 6</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Sometimes the Cure is Worse than the Disease
+</font><br>
+
+<b>by Alex Robbins</b><br>
+Senior Editor<p>
+
+I remember telling a Green friend of mine once that I happen to agree with quite a few of Nader's complaints about our society.  The trouble is that his solutions are preposterous.  I mention this now because a cursory reading of the New York Times this afternoon showed me that the issue of campaign finance reform, that war cry of Keating Fiver-cum-Crusader John McCain, is back, and that it still suffers from the same sort of trouble as the Green party: the diagnosis is decent, but the prescription terrible.
+
+<p>
+
+Like the Green party's complaints about the bureaucratization of everyday life by mammoth corporations, the rationale behind campaign finance reform seems to be well founded.  After all, who wouldn't agree that our elected officials nowadays are overly beholden to special interests and big money, not to mention the occasional nubile intern?  As far as I'm concerned, the simple fact that Senators Boxer and Feinstein refuse to take even my most politely offered advice bespeaks a serious flaw in judgment--if they're not listening to me, someone out there must be unfairly and iniquitously monopolizing their attentions.
+
+<p>
+
+And to an extent this is true.  Not only should Boxer and Feinstein be willing to take my patently correct advice, but their attentions, as well as the attentions of their fellow senators, are often dominated by a multiplicity of special interest groups.
+We say "special interest" like it's a bad thing.  Is this necessarily true?  After all, special interest groups wouldn't be special interest groups if they weren't somehow representing the interests of a small segment of the population over the interests of society at large.  If the latter were true they'd be the majority, and I doubt many people would complain--unless, of course, those people disagreed with the majority, which I suppose would make them the special interest.
+
+<p>
+
+After all, most of us have places in which we're the minority, in some form or another.  Here at Stanford, conservatives are a special interest.  Student groups are special interests.  In Washington, the Sierra Club is a special interest, as is the ACLU, the People for the American Way, the NRA, the Christian Coalition, the Ford Motor Company, and the AFL-CIO.  These groups, like the individuals comprised in our nation, represent a spectrum of diverse interests, and as Madison predicted over two hundred years ago they tend to engage in a perpetual struggle for transitory dominance of the issue of the day.  In this sense, special interest groups are one of the most powerful vehicles available for preserving the rights of minorities on any given issue.  A slight majority of Americans might arguably be in favor of gun control, but the NRA screams more loudly and has millions of members willing to vote on the single issue of gun control and spend money to forward their views.  A better example, for you liberals out there: the vast majority of this country is in favor of outlawing flag burning and of making English the national language (though I still have yet to discover exactly what this would entail), and, according to a recent poll I saw reported on CNN, a substantial percentage of Americans would like to set up special detainment camps for Arabs and Muslims (the fact that _ of the Arabs in this country are Christian still has yet to effectively divorce these two identifiers from each other).  
+
+
+
+There are two main reasons that these issues sink--that, in effect, democracy in a literal sense is thwarted.  The first is thanks to our liberal, constitutional system of government, which makes it very difficult for the government to outright pick on certain minority segments of the population.  The second is that, even absent constitutional protections, minority interests tend to be composed of tendentious followers, whereas only a fraction of the 80%-90% of Americans who want to make English the national language are willing to actually front any cash for the effort or use that issue as their primary voting criterion.  Keep in mind that the constitution didn't just materialize out of thin air: it was created and has been maintained by Americans over the course of generations, and continues to hold the loyalties of a vast majority of the population, despite the fact that it likely frustrates many policies that this majority would vote for.  
+
+<p>
+
+So what exactly is wrong with special interest groups?  They're willing to spend money, make telephone calls, and fight hard for their particular issue or interest; why shouldn't they exert that much more influence?
+
+<p>
+
+Except for those rather confused leftists who somehow fail to grasp that pure democracy would utterly obliterate their political views, values, and aims--who seem immune to the notion that they are, in fact, a ridiculously tiny elite themselves--most of us would probably accept the existence of a variety of special interest and issue groups.  Unlike those cynical revolutionary types who spend years living in the Stanford bubble thinking that the NRA, the Christian Coalition, and the Republican (and, for that matter, Democratic) Party only exist because a sinister elite has fooled millions into supporting them, most of us would probably acknowledge that however deleterious our own most-hated interest group might be, it does legitimately represent a group of people who share some common opinion.  The AFL-CIO might contribute to higher prices at home and poverty abroad by using the power of government to rip off consumers and Third World workers alike, but that doesn't mean that they don't represent a large and legitimately committed interest.  
+
+<p>
+
+So if the problem isn't these interest groups per se, then what is it?  The most common answer tends towards that inveterate American prejudice against filthy lucre.  The interest groups might be tolerable, but their money is not.  
+
+<p>
+
+As a general gripe against the state of things, this is a very tenable argument.  I'm much more impressed with anyone who runs a marathon to save the one-and-a-half legged striped cheetah than a rich person who gives money to Senator Big Spender, however good a guy he may be, and however useless of an animal that type of cheetah is.  Even so, I really fail to see how our current conception of campaign finance reform serves as any sort of remedy to the problem.
+To return to Nader: the Greens say that government is too incestuously entwined with big business.  Ergo they conclude that the government needs to regulate business more--to consecrate the relationship, I suppose, though this seems to me the most inappropriate response imaginable.  The more government regulates business, the more money leaves the private sector and shows up in Congress.  Why are we surprised by the fact that money shows up in politics when we have small House committees making multi-billion dollar decisions?  We can historically trace the deluge of money in politics to the entrance of the federal government into the sphere of big business (as opposed to the other way around). I say this not to advocate abandoning all forms of regulation, though I'm sure many of my more libertarian friends would, but only to point out a necessary and rather obvious cost to governmental regulation.  Businesses are supposed to be motivated by profit.  The government is not, and so when the two mingle it would be unreasonable to expect that the government will be uncorrupted.  I suppose if we push the Green ideology far enough, the government can become big business, and we all live in a happily nationalized state where the bureaucracy and corruption remain but competition and the right of the consumer to buy from someone else don't.
+So what are we supposed to do about money in politics?  
+
+<p>
+
+Well, besides making sure the government only makes multi-billion decisions when truly necessary, one thing we definitely ought not do is monopolize the source of this money.   At least while every corporation, union, and rich person gives money to both parties there is some sort of Madisonian balance achieved.  Yet currently we restrict donations to PACs, increasing the power of large organizations like unions and corporations who can form PACs at the expense of smaller groups that lack the wherewithal.  We restrict direct donations to candidates, effectively converting them into "soft-money" donations to political parties, thus increasing the power of the parties.  Before the first Campaign Finance Reform bill in the late seventies was found largely unconstitutional, it set up committees in Congress responsible for divvying up campaign funds for the candidates.  Who do you think was the new most powerful man on the block?  I know that if I were in Congress, the head of my party's committee would be the last man on earth I'd want to offend. 
+
+<p>
+
+If money in politics is the problem, why should we hand control of that money to a government agency, big corporations, or unions, organizations unscrupulous enough and powerful enough to violate the law?  If we're serious about letting democratic opinion determine who gets into office, why should it matter if such-and-such official is supported by the Coca-Cola company, so long as everyone knows about it?  
+
+<p>
+
+Requiring full financial disclosure is an enforceable, realistic, and principled alternative to trying to dam up a river flowing from over-regulation.  Especially when the dam would divert all that filthy lucre into the hands of those lucky few who now get to dole it out.
+
+<p>
+
+<i>Alex Robbins thinks he should be in charge of who gets campaign money.</i>
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:14:28 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

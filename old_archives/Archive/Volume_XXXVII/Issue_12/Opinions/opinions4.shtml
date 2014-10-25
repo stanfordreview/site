@@ -1,0 +1,450 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - February 9, 2007</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXVII, Issue 12 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">February 9, 2007 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">OPINIONS</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Online Exclusive: Letter to the Editor </p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;</p>
+			 <p><em>Below are two responses to an article published exclusively online in Issue 11, entitled, <a href="../../Issue_11/Opinions/opinions4.shtml">&quot;Israel's Defeat on Campus.&quot;</a> An abridged version of the response to the article will appear in the next print edition of The Review. </em></p>
+			 <p>&nbsp;</p>
+			 <p><strong>Back to Reality: Israel, Hillel,  and Jewish Life at Stanford </strong><br>
+			   <br>
+One  would think from Daniel Kaganovich&rsquo;s and Jeremy England&rsquo;s article (<em>Stanford Review, </em>Online Edition, &ldquo;Israel&rsquo;s Defeat  on Campus,&rdquo; January 26, 2007) that the Jewish campus community, student  leadership and Hillel professional staff are part of some twisted  conspiracy.&nbsp; The article seems to  repeatedly use the classic method of simplifying and then demonizing a group to  galvanize antipathy towards that group.&nbsp;  Fortunately, nothing could be further from the truth, and we are  disappointed that these two students have chosen to place themselves outside  the wide and diverse tent of our community, and attack it, rather than join us  within it.</p>
+			 <p>The  programming policy of Hillel and its affiliated student groups reflects our  commitment to a flourishing Jewish and democratic State of Israel within  internationally recognized secure borders.&nbsp;  Hillel does not promote views outside of that framework.&nbsp; Hillel does support students&rsquo; exploration of  wide-ranging education and debate within that broad framework.&nbsp; Many of us who are actively engaged in the  campus Jewish community hold divergent views on key issues relating to Israel &ndash; a reflection not only of the American  Jewish community, but also of the diverse views within Israel itself.&nbsp; Our pro-Israel program &ndash; which we organize  regardless of the level of anti-Israel sentiment on campus at any given time &ndash;  includes educational, advocacy and cultural events.&nbsp; A small sampling of last quarter&rsquo;s speaker  program included David Horowitz, Editor of the <em>Jerusalem Post, </em>Shavit Matias, Deputy Attorney General of Israel,  and historian Michael Oren.&nbsp; Cultural  events included our Israeli <em>Beit Caf&eacute;</em> and an Israeli film night.&nbsp; Our  Hamagshimim student group and AIPAC student liaisons hold regular discussions  and advocacy trainings.&nbsp; And, some of us  have traveled with Hillel to Israel  either for first-time Taglit-birthright Israel experience or we&rsquo;ve returned to Israel  for leadership missions.</p>
+			 <p>Unfortunately,  the authors of the article have chosen to exclude themselves from the debate  and discussion within our community and, instead, attack us from the outside.&nbsp; Ironically, their fallacious diatribe against  Hillel and against our rich and diverse campus Jewish community was unleashed  precisely at the time our Jewish community has become more unified than ever as  we have come together to effectively combat anti-Israel sentiment.&nbsp; Students from our numerous Israel groups  have come together, along with many students who are usually less active but  were angered by SCAI into action.&nbsp;  Together, we have implemented a number of strategies and activities to  combat the erroneous, simplistic views that SCAI has attempted to bring to  Stanford &ndash; a campus usually known for its quality discourse on complex  issues.&nbsp; We have protested SCAI&rsquo;s  activities and launched a campaign to educate the wider campus community about  the evils of divestment; we have met with campus administrators as well as the  leaders of SCAI to express our disappointment at this campaign that not only is  grossly offensive and inaccurate, but also erodes the usually elevated level of  discourse that we have come to expect on Stanford&rsquo;s campus; we have created a  strong pro-Israel presence in the pages of the Stanford Daily; we have gone  door-to-door with our petition, and created an online signup option at <a href="http://peaceinisrael.iringweb.com/">http://peaceinisrael.iringweb.com/</a>,  to gather signatures and combat SCAI&rsquo;s campaign with a pro-Israel, pro-peace  declaration.&nbsp; And, of course, we are  continuing, with Hillel&rsquo;s guidance and support, to plan Israel education and advocacy  events as we usually do.&nbsp; </p>
+			 <p>It  is truly a pity, and perhaps the most disheartening of all, to see two members  of the Jewish community unleash their frustration at the larger Jewish community  at this critical time.&nbsp; It is a shame  that we must now divert our energies away from combating anti-Israel activity  on campus, as we deal with this internecine battle.&nbsp; </p>
+			 <p>While  Kaganovich&rsquo;s and England&rsquo;s  article is filled with too many inaccuracies to address each, we do wish to  take issue here with the authors&rsquo; claim that, &ldquo;Coming to Israel&rsquo;s defense is a daunting task  for even the most determined student.&rdquo;&nbsp;  It is true that many students find Israel issues on campus complex and  challenging.&nbsp; Often, many students would  rather simply focus on their schoolwork.&nbsp;  And, in times of quiet on campus, many of our peers are not as active as  those of us writing this article would like them to be.&nbsp; But now, more than ever, Stanford students  are both defending Israel  and actively promoting it.&nbsp; And, frankly,  we do not feel daunted.&nbsp; Perhaps it is  much less daunting at Stanford than it would be at another campus &ndash; as our  Jewish community is supported by a Hillel with one of the most dedicated and  talented staffs in the country. </p>
+			 <p>Finally,  if these students wish to participate in Jewish campus life, rather than  criticize from afar, we simply suggest they check the Hillel website.&nbsp; On it, aside from our social justice  programming for which our Hillel has been nationally acclaimed, they will find  a weekly <em>Beit Midrash</em> (traditional-style learning) program, with two levels of Talmud study taught on  Wednesday nights, each taught by observant Talmud scholars.&nbsp; They will find four additional weekly classes  on topics ranging from the weekly Torah portion to Maimonides to Hebrew study  taught by Hillel&rsquo;s full-time Reconstructionist rabbi and two Orthodox rabbis  who are engaged by Hillel to ensure a broad spectrum of Jewish learning and  role modeling.&nbsp; They will see the  opportunity to participate in Shabbat services that range from Reform to  Orthodox, followed on Friday nights by Shabbat dinner for all.&nbsp; And, had they checked the website last  Simchat Torah, they would have seen that our Hillel joined with Chabad in  celebration of this holiday.&nbsp; In fact,  Stanford boasts one of the most positive Hillel&ndash;Chabad relationships in the  country.&nbsp; While each organization is  distinct and holds many programs of their own, these organizations come  together periodically for joint celebrations and programs, and the staffs of  Chabad at Stanford and Hillel at Stanford model true &ldquo;<em>derech eretz</em>&rdquo; (a Hebrew phrase generally understood to mean  &ldquo;respect&rdquo;) that is evident by the way the Chabad rabbi, Hillel rabbi and Hillel  director interact &ndash; which, itself, is a blessing to our community and something  we hope these students will learn to emulate. &nbsp;We hope they will choose to join us as we work  to maximize support for a Jewish and democratic state of Israel that enjoys safe and secure  borders.</p>
+			 <p><em>Mishan  Araujo, Stanford University  &rsquo;08, President, Stanford Israel  Alliance</em></p>
+			 <p><em>David  Cohen, Stanford University  &rsquo;07, Vice President, Stanford Israel  Alliance</em></p>
+			 <p><em>Marissa  Cramer, Stanford University  &rsquo;08, Vice President, Stanford Israel  Alliance</em></p>
+			 <p><em>Carrie  Mlynarczyk&nbsp;, Stanford University  &rsquo;09, Israel  Chair, Jewish Students Association</em></p>
+			 <p><em>Cheryl  Pruce, Stanford University &rsquo;08, President, Jewish  Students Association </em></p>
+			 <p>&nbsp;</p>
+			 <p>&nbsp;</p>
+			 <p><strong><u>In response to the article &lsquo;Israel&rsquo;s Defeat on Campus&rsquo;,  OneVoice answers Back </u></strong></p>
+			 <p>&nbsp;</p>
+			 <p>Daniel Kaganovich and Jeremy  England recently wrote a cutting piece about Hillel hosting the OneVoice  Movement at Stanford. Shame on them.</p>
+              <p>When I first came to Stanford  I walked into a room with lead representatives of Stanford&rsquo;s most prominent  Israeli, Muslim, Jewish, and Palestinian groups. The first thing that struck me  was that they didn&rsquo;t know each others names.</p>
+              <p>I was accompanied by a  Palestinian and an Israeli who volunteer with OneVoice in the Middle East and  were spending just one week speaking on campuses across California. </p>
+              <p>The event was convened by the  Dean of Student Affairs and a couple of Stanford&rsquo;s finest professors and  experts on the subject of conflict resolution. They were worried about the  growing animosity at Stanford between these Israeli/Jewish and Arab/Muslim  groups - that the conflict in the Middle East  was dividing their local community as it has so many others. The group came,  listened, aired grievances and when my colleagues and I had to get up to rush  to Berkeley for  another event, they barely noticed us leave. They remained behind to debate and  plan &ndash; to understand one another and to do better. A year later, the seeds sown  in that meeting helped us bring more Israeli and Palestinian activists to  Stanford before a much bigger audience hosted jointly by the major Palestinian  and Jewish groups.&nbsp; This program exists  to isolate those who want to divide communities and to have futile debates  about historical rights; instead, we engage those with more imagination in  thinking about what they can do to actually help those in the Region.</p>
+              <p>OneVoice&rsquo;s core work happens  out of offices in Ramallah, Tel Aviv and Gaza.  Its mission is to enable the people of the Region to play a role in resolving  the Israeli-Palestinian conflict. Nothing would be better for both peoples than  our achievement of this goal. But what can we do? We have seen negotiations  stall and fail; we&rsquo;ve seen wars and <em>Intifadas</em>.  There is massive animosity and mistrust between the populations today,  increasing involvement from outside groups who exploit this conflict and the  practical problem of actually finding answers to difficult questions &ndash;  refugees, Jerusalem, holy sites, borders, water and so on.</p>
+              <p>At OneVoice we attempt to do  three things:</p>
+              <p>Firstly, we attempt to  redefine this conflict.&nbsp; It is not a  conflict of Jews and Muslims, East and West, though many would use this as an  excuse to continue to wage war. It is a conflict fought for the sake of the  realization of the national necessities of each people. I use the word  &lsquo;necessities&rsquo; rather than implausible &lsquo;ideals&rsquo; because the situation today is  not, for the majority of the populations, a question of &lsquo;Greater Israel&rsquo; vs.  pre-1948 Palestine.  On the contrary, the vast majority of Israelis and Palestinians (76% according  to our polls, 60-85% according to most mainstream polls) are not working toward  these goals at all. Rather, they have accepted that they have to compromise and  &ndash; for the sake of their children &ndash; are desperate to do so. It is a conflict  where each side is vying for their part of a two-state solution. </p>
+              <p>Therefore, it is not a black  and white conflict, Israelis vs. Palestinians, but one of those who want to  compromise against those who hold absolutist visions. <em>This</em> is a conflict that is yet to be fought, but fight it we must.</p>
+              <p>Second, we at OneVoice  attempt to build internal coalitions to bolster our external goal.</p>
+              <p>To support compromise is not  to abandon our convictions in support of the other side. It is not to admit  that their cause is better or more just than your own and it is not to like the  other side. It is to find answers to a problem that haunts your life &ndash; takes  away your security, your freedom, your independence, your right to life.</p>
+              <p>The relatively right wing  Israeli Likud party today supports a two-state solution &ndash; its leaders and  members have joined OneVoice as board members and activists. MK Yoel Hasson was  the leader of the youth wing of Likud and has stayed involved with OneVoice  since taking office as a Kadima candidate, having been one of our first  graduating volunteer youth leaders. Obviously Mr. Hasson MK, is just not quite  as patriotic an Israeli as Jeremy England, even if he did sit in the office  next door to Prime Minister Sharon during two years of <em>Intifada</em>.</p>
+              <p>A range of Palestinians  throughout the West Bank and Gaza have joined OneVoice&rsquo;s leadership program and  are actively promoting non-violence and compromise in their communities with  great success.</p>
+              <p>What is needed is an umbrella  that will set parameters &ndash; non-violence, anti-extremism, two-state solution &ndash;  and within those parameters bring together the widest possible coalition of  people. OneVoice does this.</p>
+              <p>Thirdly, we give ownership to  the people. The people never felt the benefits of Oslo,  they never felt connected to Camp David and  they were isolated from the Geneva Accords. People do not like to be told that  they must sacrifice this or that &ndash; that they will be moved here or there,  especially when they would only be prepared to do so out of necessity rather  than ideals. At OneVoice we are about driving a process to engage the  grassroots populations in seeing how much they agree on potential resolutions  and giving their feedback to each other and to the leadership. Most Israelis  and most Palestinians do not realize that people in their own societies agree  with them, let alone across the divide. In the re-defined conflict of  absolutists vs. those who want to compromise, we have to organize and  coordinate jointly better than before. </p>
+              <p>Our citizen negotiations  platform and the focus groups that go on around it are at the heart of this  process &ndash; over 250,000 Israelis and Palestinians have taken part at some level  and the results are startling. Consensus, consensus, consensus &ndash; not on exact  answers, but on the willingness to compromise, to find answers. In doing this  we are not trying to craft a peace agreement. Too many of them exist already  and all are useless in today&rsquo;s political climate. What we need is a process to  push leaders to take steps toward conflict resolution and to empower them to do  so by amplifying the voice of their millions of constituents. In doing so, we  isolate those who do not want to see compromise and stand directly against  those who would use violence to push toward their absolutist visions. </p>
+              <p>Until now, those who do not  want to compromise have organized better than us, and the small sub-group  within them who want to use violence to derail this process, better than  anyone.</p>
+              <p>Last month, Israeli Foreign  Minister Tzipi Livni and Palestinian President Abbas shared a stage at the  World Economic Forum for the first time to talk about what they could do for  the peace process. They were brought together by hundreds of young Israelis and  Palestinians who allied through independent OneVoice demonstrations in  Ramallah, Tel Aviv and Jerusalem  to take their message to the leaders. What an incredible piece of diplomacy &ndash;  so called &lsquo;enemy&rsquo; populations, bringing together their leaders to push them to  find answers and to vow to support them through the difficult process of  finding those answers.</p>
+              <p>This is bravery and  imagination. This is civil society and inspiration. This is OneVoice. Will we  succeed? Maybe not, as the factors working against us are great. But we have no  option but to try.</p>
+              <p>OneVoice activists came to  Stanford to ask all those who care about the fates of the Israeli and  Palestinian people to support their work. The response has been fantastic &ndash;  Palestinians and Israelis, Muslims and Christians and Jews standing with us&mdash;and  we applaud Stanford Hillel for this and other initiatives. Kaganovich, who  wrote to my colleague that &ldquo;I am opposed to dialogue with Palestinian Arab  organizations in general, as I would be opposed to dialogue with the SS,&rdquo;<strong> </strong>is  not only out of step with members of his own community, like Stanford Israel  Alliance Amie Barron who brought OneVoice to campus with the conviction that &ldquo;to  affect change on a broad scale, we must first be able to combat intolerance and  injustice, and increase understanding, locally.&rdquo; He also fails to represent  those in the Region who recognize the need to propel their leaders towards  conflict resolution.&nbsp; </p>
+              <p>Shame on these angry children  who would tell Israelis from Likud, Mafdal, Shas, Kadima and Shinui who support  OneVoice that they are not passionate enough about Israel because they want to find a  practical way out of the conflict. Shame on them for bringing up and belittling  the Holocaust at every possible opportunity to try to give weight to their weak  arguments. Shame on them for that.</p>
+              <p>This is not about demonizing  one &lsquo;side,&rsquo; it&rsquo;s about the fact that the situation in the Middle   East is hideous. Here, Israeli and Palestinian people are  desperately trying to guide themselves out of this intertwined misery. Their  fates are shared for better or worse &ndash; both will have peace or both will have  war.</p>
+              <p>And what do we do? Do we go  back to the same old game, of supporting one side by attacking the other, of  hate literature, of divestment? We can, but the world will move backwards, not  forwards, if we do. We are asking all of those who care about the fates of the  Israeli and Palestinian people to dedicate their energy to improving those  fates lest we condemn those we claim to care about to an eternity of misery. We  came to Stanford to say exactly that and the response on the whole has been  fantastic &ndash; Palestinians and Israelis, Muslims and Jews standing with us. Thank  you, Stanford and please don&rsquo;t lose sight of the fact that you have a role to  play, but it is in helping those people in the Middle East, not wasting your  time on those unworthy of it on your campus, as I have had to do here.</p>
+              <p>They say if you can&rsquo;t write  something on the back of a napkin it&rsquo;s not worth writing at all. In half as  many words as Danny and Jeremy used in their article, I hope I have explained a  bit more about what we stand for and why we stand for it, and if I haven&rsquo;t  already, let me do so here, as though on the back of a napkin:</p>
+              <p>Hillel is right to work with  others, so long as the aspirations of partner groups are not a threat to Israel or  Jews.&nbsp; OneVoice is a pioneer of such  aspirations, not a threat to them, just as it is a pioneer of Palestinian  aspirations for a permanent, viable, independent state alongside Israel. The  vast majority of those who live with the consequences of an expanding,  deepening conflict understand that &ndash; let us support them however we can.</p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.onevoicemovement.org/">www.OneVoiceMovement.org</a>; <a href="mailto:Jake@OneVoiceMovement.org">Jake@OneVoiceMovement.org</a>; </p>
+              <p><strong>Jake   Hayman</strong> is the  International Coordinator for the OneVoice Movement. He has spoken at over 50  campuses and communities worldwide about their work after spending time in both  2005 and 2006 with the OneVoice offices in Ramallah and Tel Aviv.</p>
+              <p><br>
+              </p>
+              <p><br>
+                <br>
+                <br>
+                <br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

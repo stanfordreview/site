@@ -1,0 +1,227 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIV - Issue 5 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front page</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editor's Note</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Ethics_And_The_Academy/index.shtml" onMouseOver="window.status='Ethics and the Academy'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ethics and the Academy</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Last_Page/index.shtml#1" onMouseOver="window.status='Alec Rawls in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Bob McGrew in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../Ethics_And_The_Academy/ethicsandtheacademy3.shtml" onMouseOver="window.status='David Myszewski in Ethics and the Academy'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='John Gibbs in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>John Gibbs</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Johnny Openshaw in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Johnny Openshaw</font></a><br>
+
+<a href="../Ethics_And_The_Academy/ethicsandtheacademy2.shtml" onMouseOver="window.status='Henry Towsner in Ethics and the Academy'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Kimberly Torrence in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kimberly Torrence</font></a><br>
+
+<a href="../The_Last_Page/index.shtml#2" onMouseOver="window.status='Ryan Parks in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Parks</font></a><br>
+
+<a href="../News/index.html" onMouseOver="window.status='Scott Rasmussen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+</font>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXIV, Issue 5
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+June 5, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIV'; return true" onMouseOut="window.status=' '; return true">Volume XXIV</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue #5</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Opinion</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>eBay Meets Mayfield: A Market-Oriented Draw</font><br>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIV/Issue_5/Opinion/images/mayfield.jpg" alternate="Mayfield Ave." width=230 height=260 align=left>
+Everyone can finally breathe a sigh of relief about the Draw.  Now that everyone except the unassigned knows where they are going to live and the uncertainty is ended.  Of course, the complaining has only barely begun.  In truth, the Draw seems like an awfully poor way to allocate housing - we only use it because no one has found a better way.<p>
+
+	The Draw has two major problems - it's unpredictable and it's unfair.  In few other areas of life are we as vulnerable to the whims of a random number generator as in housing.  Normally, we can plan out our lives in advance, making choices based on what we can afford in order to ensure that we get most of what we want.  Thanks to the Draw, however, a student has exactly one choice to make in finding a room: preferred or unpreferred.   To ameliorate the harshness of that choice, there grew up a complicated system of priorities to allow an escape for the few: for those into art or Asian studies, public policy or Slavic issues, the Draw may be less painful.  But for engineers or draw groups interested in many things,  the choice is stark: preferred or unpreferred.<p>
+
+	Even more important than planning out who to live with and near, however, is planning how to pay for housing - and the differences between houses can amount to thousands of dollars.  A student stuck with a bad draw number is de facto stuck with a university-run dorm - with the most expensive housing and board bill.  The difference between Stern and Synergy is $2115 - and 2000 draw numbers for women.  While unpredictability in location is only unfortunate, unpredictability in price can mean a great deal more - and two thousand dollars is a great deal.<p>
+
+	The Draw can also be unfair.  Consider the fabled "6000 Club."  All it takes a senior to get in are draw numbers totaling over six thousand - such as getting two 1750s and a 2500 - and each year about thirty seniors join.  While some groups end up with very low draw numbers every preferred year, most people would prefer the certainty of having at least some good housing to the chance of living in Bob two years of three.  After all, the odds for that are about 400 to 1.<p>
+
+	The pitfalls of the Draw, however, are not intrinsic to the process of allocating rooms.  After all, in the real world, people don't draw straws or cast lots for housing - they buy it on the free market.  Stanford can do the same thing by granting each student housing points, and then auctioning off rooms on Stanford's own version of eBay.  People would be able to plan their lives and finances in advance and ensure that they won't have to live in Stern all three years.  Most of the miserable uncertainty associated with the Draw would disappear, replaced with the work of figuring out how much a particular room is worth, given the future trade-offs of spending points now.<p>
+
+	In the past, it would have been prohibitively complicated to allow students to bid for housing.  This no doubt explains why colleges that provide housing have almost universally decided upon the draw system.  But thanks to the miracles of electronic commerce, it's finally possible to allocate rooms efficiently and fairly.<p>
+
+	In a nutshell, the plan is this: each upperclassman would get 5000 points to be distributed as he chose over his three years of guaranteed housing.  He and his roommate could bid together for any kind of room in any dormitory.  After all, a single in Lantana might cost more than a one-room triple in Bob depending on people's preferences.  Draw groups would have an almost unlimited ability to split up or stay together as they please, depending on how much each is willing to pay for their rooms.  RA's, RCC's, and other staff would continue to get housing, leaving them free to pay for better housing the other two years.  Priorities could be reformulated as discounts.<p>
+
+	Instead of leaving things up to chance, students would be able to trade off a worse room now for a better room later or vice versa.  Alternatively, one could choose to live in a place like Yost all three years.  Obviously, even though every student would have the freedom of choice in rooms, no one could choose to live wherever he wants all the time.  But that's the way the real world works.  Contrary to the assertions of some on the Left, it takes, among other things, planning and self-discipline to get ahead - unlike the Draw, real housing doesn't fall like manna from heaven.<p>
+
+	Is a market-oriented approach too complicated for Stanford students?  Certainly, it is more complicated than the Draw.  But it need be little more complicated than eBay - which even Berkeley students can use.  Besides, figuring out how much something is worth is one of the basic skills of American life.  A market-oriented Draw would remind everyone that all real choices are between satisfaction now and satisfaction later.  That trade-off is inherent in life.  But, subject to that trade-off, markets allow people to choose what they most desire.<p>
+
+	And that's a lesson worth learning.<p>
+
+<i>Bob McGrew is a sophomore majoring in Computer Science.  He wishes a little more of that manna from heaven had come his way.</i><p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:47:21 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

@@ -1,0 +1,263 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 5 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word From The Editor</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Alex Robbins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../The_Last_Page/index.html" onMouseOver="window.status='Andrew Wright in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='David Myszewski in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Justin Diener in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Justin Diener</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Katie Kollitz in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Katie Kollitz</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Keun Lee in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Keun Lee</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Kevin McCaffrey in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kevin McCaffrey</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Nels Hansen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.html" onMouseOver="window.status='Scott Rasmussen in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 5
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+January 16, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Exorcism: Treat Extremist Idiocy as Idiocy
+</font><br>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_5/Opinion/images/alex.jpg" width=171 height=197 align=Left>
+
+	In honor of the holiday season and the New Year, I've decided I want to write about a subject very near and dear to my heart.  That's right: exorcism.
+
+<p>
+
+	Not necessarily head-spinning, vomiting-on-a-priest exorcism (although if you can find one to oblige you, by all means don't let me interfere. . . .).  I want to suggest to all of you who consider yourself on the political "left" that you ought to exorcise some of your compatriots, ASAP.
+
+<p>
+
+	In exchange I'll make a confession: at times The <i>Review</i> merely preaches to the choir.  We find evidence of extreme left-wing absurdities, we write about them, and then we read our own writing and shake our heads at the stupidity of those damn liberals.  I realize this because I know plenty of people who do the exact same thing in reverse, finding that there is no dearth of absurdities on the right, either.  When we on the right or left read these attacks--if we bother to read them at all--we usually just dismiss whatever deeds or words the other side is complaining about by attributing them to "just a bunch of extremists."  That's all well and good, and usually it's true.  What concerns me here is how we treat those extremists.  So let's try to get beyond the pro forma pot shots and actually talk a bit here, especially if you consider yourself a liberal, leftist, Democrat, etc.
+
+<p>
+
+	Does it bother you that there is one public place left in the country, besides Bob Jones University, where it is still socially acceptable to be sanctimonious, humorless, book-burning, racist, totalitarian, and just generally virulent and engorged on hatred (okay, so we all have our sanctimonious and humorless moments, but I'm sure we work on avoiding the other blemishes)?  I'm sure you can guess where that place is.  What I want to get at is why assuming the mantle of left-wing campus politics is such a good excuse for all of the above.
+
+<p>
+
+	Vaclav Havel once described hatred as stemming from a sort of frustrated failure to achieve something transcendent, which, as I understand his Great Gatsby and To The Lighthouse-esque twentieth century intellectual angst references, means something roughly equivalent to my being pissed off when it rains.  Or when my car won't start.  Or when my loved ones don't treat me the way I want them to.  Or when life fails to live up to my hopes for it.  Most of us go through life with this sense that things aren't perfect--which is true--but some of us also think that if we want to perfect them we just need to obtain or accomplish X--which is not.
+
+<p>
+
+	Everyone I've known or heard of has reacted in some way to this spiritual insatiability.  C.S. Lewis saw it as evidence of a transcendent God and became a Christian.  Jorge Luis Borges decided to play a grand game of Twister with other peoples' minds.  Adolph Hitler murdered people.  Many, many people in this country--the silent majority seldom seen at Stanford--direct a casual and vague sort of hostility towards things they consider alien or out of the ordinary: from intellectuals to foreigners to minorities to big words.  
+
+<p>
+
+	The trouble comes with the latter two: when people start sublimating their own dissatisfactions into something pernicious to others.  Jerry Falwell blamed the September 11 attacks on his particular list of hated leftists; the radical left has blamed them on its own favorite scapegoats, converting anti-IMF and WTO protests into anti-war protests in a heartbeat.  Lately I've seen an infuriating amount of those "cynical, revolutionary types from the good homes" to whom Bono referred at the San Jose U2 concert.  The only difference I can see between some of them and fans of "Protocols of the Learned Elders of Zion" is that the former are, for some reason, found socially acceptable around here.
+
+<p>
+
+	Why? I want to know why "an opened mind is sacred" but burning a conservative periodical is okay.  Or why we'd all think less of someone who oppose interracial dating on the grounds that those damn (insert appropriate epithet here) don't know their place, but labeling it exploitation or fetishism is an acceptable blanket denunciation.  I wonder at the fact that when I attended the "Students Against Military Madness" candlelight vigil on September 11, whoever shouted out "what we saw today was a cry for help, a cry for social justice from the third world" wasn't shouted down or at least rebuffed as quickly as some crackpot who described the Holocaust as a cry for justice from the people of Germany.  I'm also amused by such people who write that "the aftermath of 9/11 fits too clearly the agenda of transnational corporations (whose ruthless pursuit of profit includes terrorizing populations, waging war, pillaging the Earth's resources, oblivious to the suffering and damage to humanity and the biosphere upon which all Life depends)," but I have to ask why no one on their rather substantial email list (SCPJ) laughs at them and why conventional wisdom doesn't included them in the ignominious ranks of flat-earthers, U.N.-black-helicopter-UFO right wing conspiracy theorists, and people who think the Communists are behind fluoridated water.
+
+<p>
+
+	The lunacy of the extreme left can certainly be amusing--believe me I wouldn't listen to nearly so much of their tripe otherwise.  I'll even concede you that in contemporary American society it's probably less dangerous than the analogue from the right: there is very little danger, after all, of a radical and violent student revolution, or that white people will ever be oppressed or subject to Jim Crow.  In what is fundamentally a conservative society--and I mean conservative in the classic sense, as opposed to right-wing--radicalism is less dangerous than ubiquitous and unthinking prejudice.   As "The Onion" wrote, The Man may be grievously offended by everyone who thoughtlessly dumps on him whenever they're upset about something, but he's not going anywhere.
+
+<p>
+
+	Nonetheless, I would suggest that hatred in any form has deleterious effects, and even leaving the effects aside it is still wrong per se.  Whatever else you say about the Republican leadership, it made a profoundly admirable move about twenty years ago when it excommunicated the David Duke crowd.  Sure, we conservatives might fear to lose their support on certain issues (white supremacists and libertarians alike are opposed to affirmative action, just for different reasons), but personally I don't have the patience to pretend to accept them.  It's a good thing, too: there are still plenty of racists on the right, but thankfully nowadays they're usually too embarrassed to spout their crap in public where the rest of us have to pretend that it's somehow acceptable.
+
+<p>
+
+	All I'm suggesting is that those of you who consider yourself "progressives" or "liberals" or "politically on the left" take a shot at doing the same thing: tell the Emperor he has no clothes, especially when someone is sullying a legitimate point or position which you hold dear by virtue of his idiocy (as when people decry the U.S.'s accidentally blowing up the Red Cross in Kabul on the grounds that it was part of an elaborate IMF plot to further impoverish Afghanistan).  See what happens.  I'm convinced that quite a few students only find themselves draw to left-wing racism, violence, and hatred because it's the prevailing socially acceptable outlet for the fact that they're pissed off and that like Mussolini they'd be on the other side in a heartbeat in different circumstances.  
+
+<p>
+
+	So let's all treat idiocy as idiocy, racism as racism, and hatred as hatred, and not just use them as ammunition in some sort of left-wing/right-wing battle.  History has shown us all too recently the crime of standing silent while letting the extremists run amuck unchallenged.
+
+<p>
+
+<i>Alex Robbins is a sophomore who thinks that extreme leftism provides the best ammunition imaginable for  some of the lunatics we conservatives have to deal with in our own ranks.</i>
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:13:54 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

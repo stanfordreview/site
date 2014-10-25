@@ -1,0 +1,259 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 7 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Features'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Features</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Aliyya Haque in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aliyya Haque</font></a><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Ben Guthrie in Features'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ben Guthrie</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='David Stat in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Stat</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Gary J. Raichart in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Gary J. Raichart</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='NO_AUTH in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>NO_AUTH</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Shawn M. Sims in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Shawn M. Sims</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Chris Fish in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Stephen Cohen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 7
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+December 5, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 7'; return true" onMouseOut="window.status=' '; return true">Issue 7</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+The News In Brief
+</font><br>
+
+<b>by Shawn M. Sims</b><br>
+News Staff Writer<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Emergency Simulation Refines Plans for Medical Disaster</font><br>
+On Wednesday November 12th, Stanford Environmental Health and Safety staged a three hour mock outbreak of pneumonic plague among students and staff. After four months of planning with Regina Phelps, a consultant on emergency management, the scenario showed that numerous complications could arise in the response effort. There was an initial report at Vaden Health Center of six deaths and 62 sick, who would then have to be treated with antibiotics within 24 hours in order to have any chance at survival. In this case, or if Stanford had an outbreak of SARS or aerosolized bacteria was released into a crowd, the turnaround time would be near this brief period. Transporting the sick to Vaden proved tough with no available ambulances, and a borrowed Marguerite bus was the proposed alternative.
+
+<p>
+
+To recreate exterior complications a team of 30 simulators in Stanford Stadium flooded emergency personnel across campus with calls from parents, students, media, FBI, and even Condoleeza Rice. Staff at the Emergency Operations Center, located in the Faculty Club, tracked the hypothetical sick and dead students and found all their recent contacts. Many issues regarding the University's temporary status arose: the possible cancellation of classes, funding sources for plague supplies, the overcrowding of Vaden, and the rejection of campus visitors. Conclusions from this activity were helpful; specific areas of response need improvement. Dr. Robyn Tepper, Vaden chief physician, calls for improved communication with the Emergency Operations Center. In general, the sprawl of campus provided difficulties for the Satellite Operations Centers, and the goal for EH&S is now to make all communication more efficient. A similar simulation conducted last year provided school officials with data on the speed of business resumption for Stanford in the case of an earthquake, whereas, with changing national concerns, this year's operation was focused on health.
+
+<p>
+
+<hr align=center width=300>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Research Suggests Possible Ways to Reverse Vision Loss</font><br>
+Stanford researchers from many backgrounds are collaborating to produce a prosthesis device that could restore vision specifically to those with age-related macular degeneration and possibly other types of vision loss. Harvey Fishman, the Director of Stanford's Ophthalmic Tissue Engineering Laboratory, presented a prototype of the vision-restoring chip to the American Academy of Ophthalmology on Saturday. Stacey Bent, Associate Professor of Chemical Engineering, works with Fishman to co-chair the research and supervises Ph.D. students studying the chemistry of semiconductors. Graduate students Christina Lee and Neville Mehenti, working with the Bent Research Group on campus, also presented the creation this week at the meeting of the American Institute of Chemical Engineers.
+
+<p>
+
+In a patient with macular degeneration, the layer of tissue that covers the retina and acts as a barrier for the selective passage of nutrients and waste degrades over time. When there are still some retinal cells living, the sheath can be reconstructed using cells from a membrane that covers the lens and from the iris. Iris cells are particularly versatile and have potential to form different functions. Bent and her students use computer chip technology to determine how to place the cells so they perform all the biological functions of the old tissue. When no light-detecting retinal cells remain, researchers are trying to replace them not with metal electrodes, as have been used in the past, but by the release of neurotransmitters. Pending additional funding from the National Institutes of Health, the research will continue. Bio-X and VISX Inc., a laser-corretion company, also fund the research.
+
+<p>
+
+<hr align=center width=300>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Funding Granted in Research on Hydrogen as a Possible Fuel Source</font><br>
+The Global Climate and Energy Project, based at Stanford and working with private industry funds, recently announced the four research teams who will receive a total of $5.1 million to investigate all aspects of eventually replacing carbon-based fuels with hydrogen. Over the next ten years, GCEP's four sponsors have agreed to donate $225 million. ExxonMobil will supply most of the funding, as well as General Electric, Schlumberger (global technology), and Toyota. Several other research institutions will eventually join the project, and many departments at Stanford are participating: the Environmental Initiative, the Center for Environmental Science Policy, the Center for Conservation Biology, the Program on Energy and Sustainable Development, and the Interdisciplinary Graduate Program in Environment and Resources.
+
+<p>
+Hydrogen's only byproduct when combusted is water, but on a large scale there would be indirect problems, around which most current debate is centered. The research projects chosen for funding are: "Nanoengineering of Hybrid Carbon Nanotube - Metal Nanocluster Composite Materials for Hydrogen Storage;" "Hydrogen Effects on Climate, Stratospheric Ozone and Air Pollution;" "Solid State NMR Studies of Oxide Ion Conducting Ceramics for Enhanced Fuel Cell Performance;" and "Nanostructured Photovoltaic Cells."
+
+<p>
+
+<hr align=center width=300>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Inauguration of Stanford's New Islamic Studies Program</font><br>
+On November 17, John Esposito from Georgetown's Center for Muslim-Christian Understanding spoke on the immediate goals for the Muslim community within the global community and how Stanford's new program in Islamic Studies will address that shift in mind set. Amidst post-September 11 global events, many Stanford students and faculty have shown heightened interest in Islamic issues, to which former Oracle Corp. executive Sohaib Abbasi responded with a $2.5 million donation to start a Stanford Islamic Studies program. The William and Flora Hewlett Foundation matched this and an alumna donation from Lysbeth Warren, and the program is now underway, with a faculty position to be filled soon.
+
+<p>
+
+Esposito emphasized that Muslims need to make for themselves the distinction between expressions of a "religion of reform" and those interpretations of the religion that promote violence and hatred. Esperito also stated that while peaceful Muslims are struggling with their identification with terrorists and attempting to prove misconceptions as wrong, American ideals of tolerance should extend a helping hand. The inauguration of the program will launch a forum for much of the debate about Islam that has been occurring on campus.
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:27:12 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

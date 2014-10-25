@@ -1,0 +1,452 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXV - Frosh Issue 2000 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editor's Note</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Editors_Note/index.html" onMouseOver="window.status='Bob McGrew in Editor\'s Note (also in News)'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Chris Desmond in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Desmond</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Daniel Maeng in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Daniel Maeng</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Henry Towsner in News (also another News article)'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Matthew Barrett in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+</font>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXV
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+Frosh Issue 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXV'; return true" onMouseOut="window.status=' '; return true">Volume XXV</a> - <a href="../index.html" onMouseOver="window.status='Frosh Issue 2000'; return true" onMouseOut="window.status=' '; return true">Frosh Issue</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>News</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>Bush Finds Core Advisors at Hoover</font><br>
+<b>by Robert McGrew and Henry Towsner</b><br>
+Staff Writers<p>
+
+	<i>
+Dateline: October 29, 1999<br>
+This article was written in the middle of
+Autumn Quarter, soon after Gov. Bush declared that he
+would run for President. In the year since, his
+connection to the Hoover fellows has only grown
+closer.  Condoleeza Rice, formerly Stanford's Provost,
+spoke at the Republican Convention and is considered a
+likely choice for National Security Advisor should
+Bush win.  The others helped draft his daring policies
+on Social Security, education, and Medicare.  In this
+article, the <i> Review</i> brought a story
+to campus that most students were little aware of.
+</i><p>
+
+
+Starting from nothing, George W. Bush has assembled
+largest policy machine ever seen for a presidential
+candidate, staffed in large part by Stanford's own
+Hoover Institution. <p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Frosh_Issue/News/images/bush.jpg" width=200 height=280 alt="George Bush" align=left>Over a hundred advisors from everywhere in America are
+struggling to give shape and form to Gov. Bush's
+proposals, still a full year before the election. No
+one has seen anything of this scope before at this
+stage of a candidacy. And Mr. Bush will need all the
+advice he can get in order to shape his proposals
+before this year's front-loaded primaries. <p>
+
+"What he's done in selecting people is unique," says
+John Cogan, who advises Mr. Bush's team on the budget.
+"I don't believe there is any other presidential
+candidate except possibly Ronald Reagan who has ever
+done something like that." <p>
+
+Eight of his core advisors are from Hoover, but the
+vast majority comes from elsewhere - no one
+institution could possibly muster the raw numbers
+needed to staff his policy apparatus. Mr. Bush's
+advisors in Austin and Stanford suggested the rest. 
+But the network of advisors in national in scope. <p>
+
+"There's no Texas mafia running this thing," says
+Edward Lazear, Mr. Bush's chief advisor on labor
+issues. <p>
+
+This hive of activity contrasts sharply with the
+policy machines run by the other candidates. Mr. Gore
+will inherit many of President Clinton's advisors, but
+the Republican challengers to Mr. Bush seem afraid to
+ask for help. Steve Forbes's campaign has racked up
+few advisors compared to Mr. Bush's. The joke runs
+that Pat Buchanan's only advisor is his sister Bay. <p>
+
+"Over the years, we've invited most candidates from
+both parties," says Martin Anderson, a Hoover fellow
+advising Mr. Bush. "When they come, they don't ask for
+advice." <p>
+
+This all began in April 1998, when Mr. Bush spent the
+afternoon discussing issues at George Schultz's house
+with about ten Hoover fellows including Michael
+Boskin, John Taylor, Martin Anderson, and Condoleeza
+Rice. This star-studded cast had quite a bit of
+experience in Washington: Mr. Schultz as Ronald
+Reagan's Secretary of State, Mr. Anderson as policy
+advisor to Presidents Reagan and Nixon, Mr. Taylor and
+Ms. Rice as advisors to President Bush. Mr. Boskin was
+chairman of President Bush's Council of Economic
+Advisors and is an old friend of George W. Bush - the
+two once shared a cottage at President Bush's home in
+Kennebunkport. <p>
+
+"We all said 'This guy is terrific. He's really smart
+and sharp and quick, and he's Governor of Texas,' "
+says Mr. Anderson. <p>
+
+Then, in July 1998, Mr. Bush invited Ms. Rice, Mr.
+Boskin, Mr. Schultz, and Mr. Anderson to Austin. He
+explained that he still could not be sure if he was
+going to run for President, but, if he did, he needed
+advice. <p>
+
+"So, on an as-if basis, we agreed to set up a policy
+shop," says Mr. Anderson. <p>
+
+The sequence of events, in fact, eerily parallels
+President Reagan's recruitment of his own brain trust
+for his 1980 campaign, which too began with a
+wide-ranging discussion at Mr. Schultz's house. That
+1979 dinner party included Michael Boskin and Martin
+Anderson and left the Hoover fellows in the thrall of
+the then-Governor. By election time, Reagan's policy
+staff had grown to hundreds, with 74 economists
+working on his tax policy alone. <p>
+
+Bush's policy meetings continued throughout '98 and
+'99, growing from a core of advisors in Austin and at
+Hoover to the hundreds now scattered across the
+country. So many commuted to advise Mr. Bush that the
+San Francisco-Austin flight became known around Hoover
+as the "Austin shuttle." During these early meetings,
+Mr. Bush would invite half a dozen academics and
+think-tankers to his home in Austin, where he spent a
+whole day in give-and-take with them. Discussion would
+begin at breakfast, move into a seminar room, move
+back for lunch, and often continue till dinner.
+Despite the many small things a Governor must deal
+with each day, Mr. Bush made sure that nothing
+interrupted his policy briefings. <p>
+
+"He was not just a passive observer," says Williamson
+Evers, a Hoover fellow and an advisor to Mr. Bush on
+education since January. "He ran the meeting himself.
+He knew about the topic." <p>
+
+These early meetings were a chance for Mr. Bush to
+find specifics on the kinds of issues he had never had
+to deal with as a Governor: problems of international
+affairs, monetary policy, or social security. v
+
+"He tends to be a big picture guy," says Mr. Boskin.
+"He gets the details as much as he needs them." <p>
+
+But his advisors emphasize again and again Mr. Bush's
+ability to impress intellectually. They repeat that he
+knows where he is going, even if his path is still
+vague. In contrast, Mr. Bush's public image reflects
+his personal charisma more than any particular
+knowledge about issues.<p>
+
+ "This may be heresy, but one of the things people
+were surprised at was how much he knew," says Mr.
+Anderson.  "Reagan was very much the same way. He came
+in with a bunch of ideas on what he wanted to do." <p>
+
+Mr. Bush slowly built and organized his intellectual
+army. He appointed Ms. Rice, still a professor of
+political science after stepping down as Stanford's
+provost, to be czar over international issues. He
+appointed Stephen Goldsmith, the mayor of
+Indianapolis, to head all domestic policy and
+appointed Lawrence Lindsey, a former member of the
+Federal Reserve Board, to oversee macroeconomic
+policy. <p>
+
+Yet the people who staff his campaign are the same
+people who helped elect him Governor of Texas. Very
+few of his top advisors worked for his father as
+President, especially surprising considering that Mr.
+Bush has had to accumulate his staff over the short
+time he's been in political life. Indeed, Mr. Bush
+inspires comparison with Reagan more than with his own
+father, though those who know him best refuse to
+compare him with anyone at all. <p>
+
+Mr. Bush made no effort to conceal the meetings in
+Austin, but somehow, even in the midst of speculation
+about his presidential candidacy, the national press
+never noticed until last March [1999]. Then stories
+began running in the <i> New York
+Times</i>, the <i> San Francisco
+Chronicle</i>, and the <i> Washington
+Post</i>. Suddenly the Hoover Institution became
+big news. <p>
+
+But the policy briefings were changing as well. From a
+close-knit strike force that briefed Governor Bush
+face-to-face, his advisors evolved into a full-blown
+intellectual army, some of whose officers have never
+seen their candidate. In this, the story of Edward
+Lazear is perhaps typical. <p>
+
+Mr. Lazear, an award-winning economist at the Graduate
+School of Business, chairs Mr. Bush's committee on
+labor policy. Mayor Goldsmith recruited him in June to
+head the labor subcommittee, one of sixteen under
+Goldsmith's main domestic policy unit. Despite having
+worked on two significant proposals for the campaign,
+he will only have his first meeting with Mr. Bush in a
+few weeks. He doesn't want a job with Mr. Bush and
+describes himself as quite happy within the academy. <p>
+
+"I have no aspirations of going to Washington," he
+says. "The only reason I'm doing it is to help
+formulate policy." <p>
+
+Mr. Lazear works on the Bush campaign for a half-day a
+week, in addition to his regular duties as a teacher
+and a Hoover fellow. Of the six or seven people he
+works with, he selected about half, with Mr. Goldsmith
+choosing the others. Aside from brainstorming
+conversations about policy at lunch, he primarily
+works with people outside the Hoover Institution. He
+does it, he says, for the intellectual excitement of
+the work. <p>
+
+"It's certainly not onerous," he says. "I find it
+quite intellectually stimulating." <p>
+
+Is the typical advisor like Mr. Lazear, working merely
+for the chance to see his efforts enacted into law if
+George W. Bush wins? Certainly that must be a large
+part of the benefits package for anyone who counsels a
+presidential candidate. None of the multitudes who
+work part-time advising Mr. Bush get paid. Many also
+surely hope to work in Washington if Mr. Bush is
+elected, and then have an even greater impact. <p>
+
+That so many of those advisors are the best and
+brightest from Stanford raises the possibility of a
+mass exodus from Stanford. John Taylor disappointed
+hundreds of students who hoped to take Econ 1 from him
+when he took a sabbatical this year [1999.  Mr. Taylor
+will be returning to teach Econ 1 again this year.],
+surely to advise Governor Bush. Michael Boskin, who
+taught Econ 1 most recently in the spring of 1998, is
+one of Mr. Bush's closest advisors. And both names
+have been bandied about as Alan Greenspan's
+replacement as Federal Reserve Chief. Will Stanford
+lose all its Econ 1 teachers? <p>
+
+"I don't think the place will be totally denuded, but
+I think we will temporarily lose a couple of people to
+pretty high positions," says Mr. Boskin. "And I think
+that's a good thing. A Presidency is more than just a
+President: it's also the people he brings to the
+administration." <p>
+
+In fact, by losing now, Stanford may stand to gain
+later. When senior policy advisors return from
+Washington, they often do not return alone. After all,
+sunny California is a great place to take a break from
+Washington. And, before they return, the opportunities
+for high-level speakers and internships are boundless.<p>
+
+But a job in Washington cannot completely answer the
+question of motivation. Many of the most senior
+advisors, like George Schultz and Martin Anderson, had
+worked extensively in Washington more than twenty
+years ago. Mr. Boskin dismisses the idea that anyone
+is interested in much beyond getting Mr. Bush elected.
+Mr. Cogan suggests that many will not be looking
+forward to going back to the rat race of politics. <p>
+
+"I don't think any of us are angling for an
+appointment," he says. <p>
+
+Indeed, the first few Hoover fellows joined at a time
+when Mr. Bush was not even sure he was running, much
+less intimidating others in the polls. If Washington
+was on their minds, it would be a gamble two long
+years away. What tipped the balance in favor of
+Governor Bush for so many people? <p>
+
+"He's got a secret weapon," says Mr. Anderson. "It's
+the same one Eisenhower had. Clinton's got it. Even
+when they disagreed with his policies, they still like
+him."<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:52:11 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

@@ -1,0 +1,278 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 7 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Features'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Features</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Aliyya Haque in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aliyya Haque</font></a><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Ben Guthrie in Features'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ben Guthrie</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='David Stat in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Stat</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Gary J. Raichart in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Gary J. Raichart</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='NO_AUTH in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>NO_AUTH</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Shawn M. Sims in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Shawn M. Sims</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Chris Fish in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Stephen Cohen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 7
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+December 5, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 7'; return true" onMouseOut="window.status=' '; return true">Issue 7</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+US-Iranian Relations and the Prospect of Democracy
+</font><br>
+
+<b>by Gary J. Raichart</b><br>
+Editor-in-Chief<p>
+
+Will Iran be able to transition to a democratic government without violence? The current state of US-Iranian relations, internal Iranian domestic problems, and the grassroots democratic movement seemingly leave Iran on the brink of change, though what form that change may take, if indeed there is any change at all, is yet to be seen.
+
+<p>
+
+Dr. Abbas Milani, a research fellow at the Hoover Institution and visiting professor of political science at Stanford, spoke on "US-Iranian Relations and the Prospect of Democracy in Iran" to a crowd of about 75 in the Lou Henry Hoover Room in Hoover Tower on Wednesday, December 3.
+
+<p>
+
+Mr. Milani served on the board of directors of Tehran University's Center for International Studies from 1977-1987, during which he was an assistant professor of law and political science.
+
+<p>
+
+Mr. Milani believes that Iran is currently beset by both political and economic crises. On the political side, most of the power is in the hands of the spiritual leader. While the president and parliament are democratically elected, they actually have very little power. This system leads to two incompatibilities: the despotic power of the spiritual leader and the democratic non-power of the president. Mr. Milani said the best description of Iran is "an apartheid of clergy."
+
+<p>
+
+Indeed, while the Iranian government under the Shah was far from democratic, according to Mr. Milani, "the Shah never had the absolute power that the spiritual leader has today."
+Yet, there are signs that this absolute power is beginning to wane. Despite the support of the spiritual leader, the establishment's candidate Ali Akbar Nateq-Noori lost the 1997 presidential election in a landslide to Mohammad Khatami, who stood for political reform and against censorship. President Khatami went on to win re-election with a staggering 77% of the vote. Indeed, even approximately 70% of members of the Revolutionary Guards, which was created by the Ayatollah Khomeini after the Revolution of 1979, voted for Khatami.
+
+<p>
+
+However, while the political crisis is dire, Mr. Milani believes that, "in the long run, (the economic crisis) is the problem that is probably going to kill this regime."
+
+<p>
+
+Mr. Milani said that from 1965-1979 Iran was competing for economic dominance of the Middle East. Today, however, Iran has an unemployment rate above 20%, which is worse than Great Depression levels in the US. Iran has one-third of the income today as in 1979 with twice as many mouths to feed.
+"The reason for economic failure is more or less simple," said Mr. Milani. "(Iran) has failed to produce industry." In fact, many of the most successful Iranians have left Iran for countries such as the United States and pursued quite prosperous endeavors. The situation leaves Iran dependent almost entirely upon oil revenue, which is also suffering because of the real-dollar drop in value per barrel since 1979.
+
+<p>
+
+To make matters worse, Iran is plagued by corruption. "There was corruption in the Shah's regime, but compared to what is going on today it was Sunday school," said Mr. Milani. Indeed, most business is "run in true mafia fashion." Mr. Milani said that the current regime only survives because of its viciousness and the lack of any alternative.
+
+<p>
+
+Europe, Mr. Milani contends, must bear much of the responsibility for the survival of the regime. "The survival of the Islamic Republic is the result of Europe's support of the Islamic Republic," said Mr. Milani. He believes that if Europe had joined the embargo of Iran with the United States, the current regime would no longer be in power.
+
+<p>
+
+However, this European base of support began to erode when reports of Iran's nuclear weapons program came out. Mr. Milani believes Iran is pursuing nuclear weapons because it prefers the treatment of fellow axis of evil member North Korea to that of Iraq, which they attribute to North Korea's stated possession of nuclear arms, especially with 250,000 American troops surrounding Iran.
+
+<p>
+
+All of these circumstances leave Iran in a precarious position, which is fostering the democratic movement. Mr. Milani contends that Iran's democratic movement is unparalleled in any other Islamic Middle Eastern country. While over 30,000 Iranians have been executed for rising up against the regime and at one time over 100,000 were imprisoned, Mr. Milani believes that eventually the enforcers of the Iranians intolerance will eventually realize they are on the wrong side, which will be another step toward the downfall of the regime. Moreover, the success of democracy in Iran will have a positive influence on the rest of the Middle East.
+
+<p>
+
+"A democratic movement in Iran will become very much a model for the Middle East," said Mr. Milani. "If Iran goes democratic, I think the Middle East will go much easier towards democracy."
+
+<p>
+
+In addition to having a unique democratic movement in the Middle East, there is also a uniquely favorable opinion of the United States among Iranian citizens, despite propaganda attempts of the regime to the contrary. Mr. Milani believes this is due in part to the United States standing up against the current regime, which leaves Iranians liking the US under the premise that "my enemy's enemy is my friend."
+
+<p>
+
+Mr. Milani feels that one thing that could kill the democratic movement in Iran is if the Iranian people perceive that the US has sold out by making a deal with the current regime. He believes Iran is currently leveraging the US by claiming the spiritual leaders in Iran can silence Shiite dissent in Iraq, which is of obvious import to the US right now. However, Mr. Milani is highly skeptical of this claim and opposes any identification of support for the current regime.
+
+<p>
+
+Mr. Milani does not consider raising the embargo on Iran to be such a sign of a "deal" between the US and the current regime. Since Europe refuses to join the boycott, he believes it does nothing but hurt US business and make a few merchants with monopolistic control of markets extremely rich. Hence, the US could lift the embargo.
+
+<p>
+
+Most important of all, however, is for the US to stand for democracy in Iran. Whenever the US has stood for democracy in the past, both Iran and the US have benefited. However, according to Mr. Milani, "Whenever the US stood against democracy, both Iran and the United States have paid a heavy price."
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:27:05 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

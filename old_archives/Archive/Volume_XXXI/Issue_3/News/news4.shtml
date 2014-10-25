@@ -1,0 +1,232 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 3 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorial</font></a><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Features'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Features</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Aliyya Haque in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aliyya Haque</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Chris Fish in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Fish</font></a><br>
+
+<a href="../Editorial/editorial1.shtml" onMouseOver="window.status='Editorial Board in Editorial'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Board</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Harrison Y. Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Y. Osaki</font></a><br>
+
+<a href="../Letter_to_the_Editor/lettertotheeditor1.shtml" onMouseOver="window.status='Jennifer Yoon in Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jennifer Yoon</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Michael Hasper in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Michael J. New in Features'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael J. New</font></a><br>
+
+<a href="../Letter_to_the_Editor/lettertotheeditor2.shtml" onMouseOver="window.status='Milton Solorzano in Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Milton Solorzano</font></a><br>
+
+<a href=http://www.stanfordreview.org/Archive/Volume_XXXI/Issue_3/Letter_to_the_Editor/lettertotheeditor3.shtml onMouseOver="window.status='Patricia Alarcon in Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Patricia Alarcon</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Chris Fish in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Stephen A. Cohen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 3
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+October 23, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Ronald Reagan Redefined in Letters
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+1>
+Hoover Fellows Provide a New Look at the Life of our 40th President Through His Own Letters
+</font><br>
+
+<b>by Aliyya Haque</b><br>
+News Staff Writer<p>
+
+<i>Reagan: A Life in Letters</i>, the recently published book by Stanford University's own Hoover Institution fellows Kiron Skinner, Martin Anderson, and Annelise Anderson, not only provides a detailed glimpse into the life of Ronald Reagan, but in fact demolishes previously held theories on the very actions and character of the man.<p>
+On Wednesday, October 15th, the Andersons presented their book, <i>Reagan: A Life In Letters</i>, in the Stanford Bookstore and stayed afterwards for a signing. Fellow editor Kiron Skinner unfortunately could not attend Wednesday night's event. <i>Reagan: A Life in Letters</i> has been gaining increased media attention ever since its publication in September, mainly because of its portrayal of Reagan as a "take charge" president and rebuttals of allegations that Reagan's staff and wife, Nancy, called the shots during his presidency.<p>
+All three Hoover fellows have been with the Institution for a many years and have varied backgrounds and expertise in a broad range of fields. Martin Anderson has specialized in topics such as economic policy analysis and national defense, and most recently has worked as a historian. Both Annelise Anderson and Kiron Skinner have expertise in the fields of American domestic and foreign policy. Together, it was through their research at the Institution that the book came into being.<p>
+<i>Reagan: A Life in Letters</i> was precipitated in large part due to an accidental find. This discovery took place approximately four years ago, when Hoover fellow Kiron Skinner began researching the role of Reagan at the end of the Cold War. Ms. Skinnner came across handwritten essays and letters by Reagan, written on pages of yellow legal pads. These pages led to a box of about 50-100 more letters and papers, and both Martin and Annelise Anderson became more involved in the process. "A light went on inside my head," reflects Martin Anderson.<p>
+The discoveries in the Hoover Institution began a period of extensive research and the collection of many letters, which led to the publication of an earlier book on Reagan's works, Reagan in His Own Hand. Afterwards, the Andersons and Skinner continued their search for Reagan's letters by vis-iting numerous presidential and university libraries, and even procuring several letters from former British Prime Minister Margaret Thatcher. Together they amassed thousands of letters, judging that Reagan had written upwards of ten thousand letters. "Very few people knew he was writing all these private letters and so many of them," remarks Annelise Anderson.<p>
+With thousands to choose from, the Andersons and Skinner had to go through an extensive screening process of Reagan's letters. They divided all the letters into three main categories: a great letter that had to be included, one that maybe might fit in, and a letter that would not be included. The Andersons and Skinner only included the letters on which all three jointly agreed. At the end of the screening 1100 letters were put into the book, the majority being handwritten drafts by Reagan himself as opposed to dictated letters or from second-hand sources.<p>
+As the title suggests, the letters span Reagan's life, beginning with the earliest written at the age of eleven to the most recent written in 1994-1995. The letters are arranged not only by time period but by subject matter as well. Annelise Anderson said, "They [the letters] are about growing up and getting a first job. They outline his career first as a sportscaster, then in Hollywood and with the Screen Actors' Guild, and finally in politics. We're looking back in retrospective." The remaining thousands of letters, after being processed, will be opened up to the public, if they are not already located in one of many libraries around the country.<p>
+The Andersons and Skinner found that most of Reagan's letters were personal responses to people. Reagan would personally answer letters from both political leaders, such as Thatcher and former Soviet President Leonid Brezhnev, to the common American citizen. The letters were often entertaining and insightful, providing little lessons and stories. Andersons and Skinner found through the letters that Reagan had been corresponding with Richard Nixon since the late 50's, and had also engaged in personal negotiations with the Soviet leaders of the time, again through handwritten letters. "The letters came as a big surprise to even those who worked with Rea-gan and knew him well," comments Martin Anderson.<p>
+A close examination of the letters shows that Reagan was indeed a take-charge president who made his own decisions, set his own tone, and did things his own way. Extensive hand-written drafts of various speeches, written by Reagan in a relatively short period, show how Reagan was not only a hard worker, but knew exactly what he was talking about. These characteristics of Reagan shatter stereotypes of him sitting back during his presidency and letting his staffers and wife do all the work. "Reagan liked being under-estimated," says Martin Anderson. "He would listen to the advice of his staffers and Nancy [Reagan], but would only take the advice if he himself agreed with it." In the end, Reagan's actions can best be summarized by the motto in which he believed, "There is no limit to what man can do, if he doesn't care who gets the credit."<p>
+<i>Reagan: A Life in Letters</i> is enjoying great success in the media, having spent time in the top ten on both the NY and LA Times bestseller lists, while ABC has bought the television rights to the book. The Andersons and Skinner have also promoted the book on national talk and radio shows and in bookstores across the country. In fact, <i>Reagan: A Life in Letters</i> has just graced the cover of Time Magazine, with a ten-page article devoted to it.<p>
+<i>Reagan: A Life in Letters</i> clearly changes many views and perspectives of Reagan long-held by countless people. "Although this wasn't his intention, through the letters, it was as if Ronald Reagan had written his own biography," says Anderson. And even to this day letters of Reagan are still being found and shared.<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:25:39 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

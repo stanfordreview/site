@@ -1,0 +1,240 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 2 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorial</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Bob McGrew in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Christine Boehm in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Christine Boehm</font></a><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial Board in Editorial'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Board</font></a><br>
+
+<a href="news5.shtml" onMouseOver="window.status='Gary J. Raichart in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Gary J. Raichart</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Michael Hasper in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Shawn M. Sims in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Shawn M. Sims</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 2
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+October 15, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 2'; return true" onMouseOut="window.status=' '; return true">Issue 2</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sansserif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sansserif" size=+2>
+An Investigation of Racism within MEChA
+</font><br>
+
+<b>by Christine Boehm</b><br>
+News Staff Writer<p>
+
+They've been called racist and worse. They claim to be a social justice group.<p>
+You fund them. They are the Movimiento Estudiantil Chicano de Aztlán, or Stanford MEChA.<p>
+Cochair Laura Godinez-Aviña agreed to an interview with the <i>Review</i> last Monday in El Centro Chicano to allow elucidation of their guiding principles. Unfortunately, 20 minutes after the scheduled interview time, Godinez-Aviña went back on her word, stating that the request would in fact not be honored. The leadership of MEChA, she and other Co-Chair Francisco Cendejas, decided not to give an interview, even in light of our recommendation that an interview would help present their group in a fair and balanced way. However, an emailed general position statement from Cendejas is all that was allowed.<p>
+In lieu of this barrier to information, the Review attended last Tuesday's weekly MEChA meeting to gain more insight into this organization. Cendejas claims that "each chapter [of MEChA] is completely autonomous." The leadership at the meeting stressed that Stanford MEChA does not necessarily uphold the central canon of the national network.<p>
+However, the preamble of the National Constitution dictates a centralized structure which makes "every mechista accountable to its chapter, every chapter accountable to its centralŠand every state accountable to the national."<p>
+Article III, section 24, part A of the Constitution requires all members of MEChA to be versed in "historical documents of our Movimiento including: El Plan Espiritual de Santa Barbara, El Plan Espiritual de Aztlán, and the MEChA Position Papers of Philosophy, Constitutions, Relationship to Outside Organizations, and Goals & Objectives."<p>
+A senior in MEChA said that prior to her freshman year, Stanford MEChA did not participate in national MEChA activities, but that during her time at Stanford, MEChA has had relations with the national structure, but does not have voting rights.<p>
+As much as Stanford MEChA wishes to distance itself from the body of literature mentioned in its constitution and from other branches where convenient, its own guiding document prohibits it from doing so. MEChA is inherently the sum of the whole of MEChA nationwide.<p>
+<b>El Plan Espiritual de Santa Barbara</b><p>
+The Stanford MEChA website contains El Plan Espiritual de Santa Barbara, effectively endorsing it. The Plan degrades those who identify as MexicanAmerican or Hispanic, defining either as "a person who lacks selfrespect and pride in one's ethnic and cultural background."<p>
+It also declares that Chicano student groups should all share the same name "to characterize the common struggle of La Raza de Aztlán [the race of Aztlán]."<p>
+Stanford MEChA echoes this sentiment of unity. External Representative Diego Martín notes that the group is the "largest Chicano organization in the nation," and that the Stanford group continues to be affiliated because of the "resources, networking, and connections," that the national structure offers.<p>
+The Plan links capitalism and nonHispanics and rejects both "the ethic of profit and competition, of greed which the Anglo society offers must be replaced by our ancestral communalism and love for beauty and justice."<p>
+The Plan condemns blending of cultures because it claims society attempts "to dilute varied cultures into a gray upon gray pseudoculture of technology and materialism."<p>
+Laying out expectations of discrimination, The Plan states that, "one can always expect some retribution or retaliation for gains made by the Chicano, be it in the form of legal cations [sic] or merely economic sanction on campus."<p>
+It also advocates its own speech to the extent that university presses "be forced to accept barrio works for publication."<p>
+<b>El Plan de Aztlán</b><p>
+Stanford MEChA denies being influenced by El Plan Espiritual de Aztlán. Cendejas called it "a document of purely historical and academic value." However, its constitution requires members to learn about it  and many other chapters of MEChA, including Cal's, have the document on their website.<p>
+El Plan de Aztlán is infamous for the italicized line "Por La Raza todo. Fuera de La Raza nada." The standard translation is "For the race, everything. For those outside the race, nothing."<p>
+Godinez-Aviña, in response to recent media comparisons of MEChA to Nazis, said, "Basically, we're not a Nazi organization."<p>
+Nevertheless, other rhetoric in the document is reminiscent of racial supremacist groups, including the proclamation that "we are a bronze people with a bronze culture--before all our brothers in the bronze continent, we are a nation--we are Aztlán."<p>
+With a focus on nationalism that borders on lawlessness, especially regarding the involvement of minors, El Plan states that "for the very young there will no longer be acts of juvenile delinquency, but revolutionary acts." Integrated within a total "revolutionary culture." In doing so, "where we are a majority, we will control," as "La Familia de La Raza [family of the race]."<p>
+Ultimately, it declares separatism a goal of "a nation autonomous and free - culturally, socially, economically, and politically."<p>
+<b>Philosophy of MEChA</b><p>
+The Philosophy of MEChA, last revised in 1999, echoes and reaffirms the separatist sentiments of El Plan Espiritual de Aztlán and El Plan Espiritual de Santa Barbara as "fundamental to the MEChA Philosophy." It notes that "Aztlán belongs to indigenous people, who are sovereign and not subject to a foreign culture--we are a union of free pueblos forming a bronze (Chicana/Chicano) Nation."<p>
+The Philosophy mentions claims of "indigenous unity" with the people of Ixachitzlan, which it defines as "Alaska to Tierra del Fuego." The document also adopts a revolutionary tone, promising "a spirit of unity by comradismo/carnalismo," and exclaiming "Tierra y Libertad [Land and Liberty!]."<p>
+Despite the litany of disturbing governing doctrines, MEChA touts certain accomplishments. Cendejas declares, "Our [MEChA's] mission is found in our work." He lists recent accomplishments as "lobbying for the extension of health benefits to agricultural workers of Webb Ranch," supporting the antiwar effort in Iraq on campus, and assisting with a Cesar Chavez Commemoration event and the Raza [Race] Day Youth Educational Conference.<p>
+MEChA also provides an alternative to Columbus Day. Godinez-Aviña announced at the general meeting that "we celebrate indigenous people's day to counter that wack ass holiday." They have plans to meet with other indigenous groups in the early morning hours to perform indigenous rituals.<p>
+The ASSU funds this organization, providing an influx of tuition dollars. Treasurer Susana Esparza told MEChA members "we have a pretty big budget with the university."<p>
+According to the ASSU fee refund form, every undergraduate contributes $2.27 per quarter to MEChA in special fees. Other sources of funding are unclear. Dean of El Centro Chicano Frances Morales would not comment as to the financial nature of the relationship between El Centro Chicano and MEChA except to say that MEChA uses ASSU student fees to help with some programs.<p>
+According to Morales, El Centro Chicano does provide "[a] mailbox, access to computer cluster and copier, [and] meeting space" to MEChA.<p>
+MEChA's symbol is an Eagle with a macahuittle, a weapon used by the indigenous people in Mexico against the conquistadors, in one talon and a lighted stick of dynamite in the other, with the fuse in its beak.
+MEChA's motto is "La union hace la fuerza [in unity, strength]." It's time for Stanford MEChA to rethink with whom it wants to unite.<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:25:01 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

@@ -1,0 +1,221 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 4 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorial</font></a><br>
+
+<a href="../Letters_to_the_Editor/index.shtml" onMouseOver="window.status='Letters to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letters to the Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Aliyya Haque in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aliyya Haque</font></a><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial Board in Editorial'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Board</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Eric L. Frantz in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Eric L. Frantz</font></a><br>
+
+<a href="../Letters_to_the_Editor/index.shtml" onMouseOver="window.status='Gabriela Rico in Letters to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Gabriela Rico</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Shawn M. Sims in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Shawn M. Sims</font></a><br>
+
+<a href="news5.shtml" onMouseOver="window.status='Kanishka Shrivastava in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kanishka Shrivastava</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="news6.shtml" onMouseOver="window.status='Sam Shapero in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 4
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+October 30, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 4'; return true" onMouseOut="window.status=' '; return true">Issue 4</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Sociopolitical Activism in the Office for Religious Life
+</font><br>
+
+<b>by Eric L. Frantz</b><br>
+News Staff Writer<p>
+
+Despite the fact that Stanford’s Office for Religious Life (ORL) is supposed to meet the spiritual needs of all Stanford students, an investigation into its practices reveals politicized messages from the pulpit and preferential treatment for leftist causes.
+<p>The student body at Stanford University is extremely vibrant and diverse in the area of religious belief and practice. The university estimates that approximately 80 percent of Stanford students identify with some form of religion.  Roughly 2,000 students attend weekly religious services held by over 40 recognized religious associations on campus, while hundreds more journey off campus to various congregations in the local community.  Many students who do not regularly participate in organized religious activities often still perceive themselves as spiritual or searching.  The ORL is charged with ministering to the wide-ranging spiritual needs of all students of all faiths, creeds, and backgrounds.
+<p>The ORL has a fairly broad mission statement in keeping with its overarching responsibility to encourage and support all students in their spiritual explorations.  According to its website, “The Office for Religious Life provides leadership for and nurtures spiritual, religious and ethical life for the Stanford University community and beyond.”  Three members of the Stanford faculty manage ORL programs, coordinate campus religious activities, and preside over services in Memorial Church.  They are Reverend Scotty McLennan, Dean for Religious Life and Unitarian Universalist minister; Rabbi Patricia Karlin-Neumann, Senior Associate Dean for Religious Life and Jewish rabbi; and Reverend Joanne Sanders, Associate Dean for Religious Life and Episcopalian priest.
+<p>In their welcome message to students, the three deans underscore their conviction that “maintaining and nurturing your spiritual life during college and graduate school is one of the best ways to keep perspective on your studies and to avoid the isolation that is too often a part of scholarly pursuits.”  To help counteract the “Stanford Bubble syndrome,” the ORL promotes a manifold array of religious gatherings and events on campus.  Some examples include the Multifaith Baccalaureate Celebration, Islam Awareness Week,  the “What Matters to Me and Why” seminar series, the “Exploring Religious Boundaries and Conflicts” conference, and Grief and Bereavement Workshops designed for students coping with emotional loss.  The ORL also  assists in organizing activities related to particular faiths, such as the Jewish High Holidays services,  All-Campus Christian Praise, daily Islamic prayers, and the Hindu Festival of Lights. Finally throughout 2003, the ORL has been conducting centennial celebrations commemorating the 100th anniversary of Memorial Church, which was completed in 1903.    
+<p>More recently, however, the ORL has introduced a number of controversial ideas and programs that are contrary to the spirit of its mission statement and the best interests of the Stanford community.  One of these activities is the “Sport and Spirituality Continuing Studies” class that took place this last Friday on October 24.  The primer for the class stated that participants “will explore the transcendent nature of authentic spiritual experience and the conditions under which sport might constitute spiritual practice.”  
+<p>Potentially more divisive is the ORL’s new “Sexuality and Spirituality” dinner and discussion series.  The October 15 seminar examined “the variance of perspectives in specifically Christian communities concerning scriptural texts and homosexuality.”  Next year, the March 18 colloquium will ask, “What’s Spiritual about Sex and Sexual Identity?  How do we reconcile our sexual orientations, desires and practices with the spiritual traditions in which we were brought up?  What if those traditions explicitly condemn aspects of our sexualities?”  These discussions are coordinated by Rev. Joanne Sanders, who is a faculty staff member for the Lesbian Gay Bisexual Transgender Community Resource Center (LGBT CRC).  The “Sexuality and Spirituality” program is listed under “LGBT organizations” on the LGBT CRC website.  
+<p>On February 26 of this year, the Queer-Straight Social and Political Alliance (QSSPA) held “Stanford Freedom to Marry Day” in White Plaza.  Representing the ORL, Rabbi Patricia Karlin-Neumann performed four fake weddings/same-sex unions.  ORL staff has also routinely carried out commitment ceremonies for gay and lesbian partners in Memorial Church despite the fact that same-sex unions conflict with the beliefs of the majority of adherents to the world’s great faiths, not to mention those of many Stanford students.
+<p>Social and political ideology has also become increasingly manifest in Sunday morning sermons in Memorial Church.  In an interview published in the Stanford Parents’ Newsletter in Autumn 2001, newly instated Dean of Religious Life Rev. Scotty McLennan declared, “There is a preaching role with not only a pulpit, but a bully pulpit in a great university like Stanford.  There is a teaching role.  There is a prophetic role as someone who challenges the status quo in the name of higher ideals.”  That attitude apparently translates into politicized sermons.  In his October 12 sermon a little over two weeks ago, McLennan claimed that the “tax cut championed by President Bush will average less than $100 a year for the bottom 60% of taxpayers, while the tax cut will average over $100,000 for the richest 1%.  This, while welfare programs for the poor are being cut back.”  
+<p>Such overtly political statements are neither isolated nor infrequent in MemChu addresses.  On August 17, decrying the beginning of the California recall election cycle, the Rev. Joanne Sanders observed, “I do not wish to make light of the serious economic and political condition our glorious state faces, but I think more than likely I am not the only person here this morning who finds the whole debacle of the recall unbelievable, if not demoralizing. And on some level, it even feels offensive.”
+<p>Later, on October 5, Rev. Sanders quipped, “And the rest of us have other things on our mind.  Like taking ourselves to the polls on Tuesday and voting in a most absurd recall campaign.  Or watching our government plunge us further into debt to hunt Iraq arms and clean up the mess we have made in that country and Afghanistan.”  
+<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:26:08 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

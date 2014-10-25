@@ -1,0 +1,276 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIX - Issue 4 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_from_the_Editor/index.shtml" onMouseOver="window.status='A Word from the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word from the Editor</font></a><br>
+
+<a href="../Entertainment/index.shtml" onMouseOver="window.status='Entertainment'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Entertainment</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Notices/index.shtml" onMouseOver="window.status='Notices'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Notices</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Aaron Master in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aaron Master</font></a><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Charles Hallford in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Harrison Osaki in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="../A_Word_from_the_Editor/index.shtml" onMouseOver="window.status='Chris Fish in A Word from the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Fish</font></a><br>
+
+<a href="../Entertainment/index.shtml" onMouseOver="window.status='Ming Zhu and Hilary Connell in Entertainment'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu and Hilary Connell</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Piotr H. Kosicki in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr H. Kosicki</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXIX, Issue 4
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+December 12, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIX'; return true" onMouseOut="window.status=' '; return true">Volume XXIX</a> - <a href="../index.html" onMouseOver="window.status='Issue 4'; return true" onMouseOut="window.status=' '; return true">Issue 4</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Dukakis Speaks at Law-School
+</font><br>
+
+<b>by Piotr H. Kosicki</b><br>
+Staff Writer<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIX/Issue_4/Opinion/images/dukakis_speech.jpg" width=240 height=178 alt="Dukakis in the Law School" align=left>
+
+"There are forces out there we have to deal with."
+
+<p>
+
+Michael Dukakis, ex-governor of Massachusetts, and 1988 Democratic Presidential Candidate, used these words to end his opening remarks in a talk given at the Stanford Law School on Friday, November 22.  To whom was Mr. Dukakis referring?  Osama Bin-Laden?  Saddam Hussein?  Domestic criminals?  
+
+<p>
+The answer--none of the above.  The "forces" cited by Mr. Dukakis include almost every reader of this article: simply put, anyone who lives outside the bubble of ultraliberal ideologues.  Even before Mr. Dukakis came up to the microphone, the talk took on the atmosphere of a party rally when Jeremiah Frei-Pearson, a law student from the American Constitutional Society, introduced Dukakis as "a link to what the Democratic Party was and should be again."  This introduction set individuals throughout the audience rising to their feet and cheering.
+
+<p>
+
+The talk itself consisted of about 15 minutes of remarks followed by 16 questions from the audience.  At each stage of the talk, Mr. Dukakis took care to generate a homey feel for his ideological partners in the audience at the expense of everyone else.  Mr. Dukakis structured his talk entirely by "us" vs. "them" analysis, implying that anyone not directly in line with his views is, in his estimate, an enemy to American interests.
+
+<p>
+
+The great irony of Mr. Dukakis's tactic of alienating others is that he employed it at the same time as he attempted to boost his moral credibility by talking about the success of liberal activism in helping to eradicate racial segregation.  He devoted the first ten minutes of his talk to nostalgic anecdotes about his activist days in the 1950s, when he became "campus barber" at Swarthmore for black students prevented from having their hair cut by barbers catering only to white students.  The ex-governor's attempt to tap into the moral credibility of liberal activism's work against racial otherization only served to make the ideological otherization he perpetuated in his talk of "them" more obvious.
+
+<p>
+
+Mr. Dukakis's definition of "them" even transcended partisan lines.  Although he spoke about the need to strengthen the Democratic Party, his analysis was full of disdain for Democrats who have supported the administration on foreign policy.  He placed particular emphasis on former House of Representatives Speaker Dick Gephardt's "fatally flawed attempts to marry Bush on Iraq."  
+
+<p>
+
+Although Mr. Dukakis was not always so scathing toward Democrats who diverge from his ultraliberal vision of the world, his attempts to explain the "very troubling" Republican victories of "that first Tuesday in November" led him to point a finger at centrists in his own party.  Admitting that his party lacked a concrete agenda in mid-term Congressional elections, Mr. Dukakis explained that "progressive, decent human beings in the American Congress" had inexplicably allowed themselves to fall under the sway of President Bush's foreign-policy agenda.  His juxtaposition of the adjectives "progressive" and "decent" to describe Democrats, in his view, suckered into supporting the administration goes beyond otherization to verge on being offensive.  
+
+<p>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIX/Issue_4/Opinion/images/dukakis_campaign.jpg" width=240 height=208 alt="Dukakis campaign" align=right>
+
+While lamenting his party's shift away from being the "party of Paul Wellstone and Bobby Kennedy," Governor Dukakis was drawn by Q&A into examining his party's future prospects.  Although Mr. Dukakis proclaimed unequivocal support for John Kerry to be the 2004 Democratic Presidential Candidate, he expressed qualified support for former Vice President Al Gore's recent statements against the war on Iraq.  
+
+<p>
+
+Mr. Dukakis was unable to suggest just how Democrats can "take on the administration on these basic foreign-policy issues." He attempted to give his ideological cohorts in the audience some solace, suggesting that, "every time a Republican is elected [President], we have a recession."
+Q&A also forced Mr. Dukakis to address current political issues more explicitly.  Focusing on foreign policy because of its status as "their issue" that "we need to take back," Mr. Dukakis suggested that an attack on Iraq is "nuts."  Although he stopped short of blaming the administration for the conflict in Afghanistan ("Afghanistan is not the President's fault--don't get me wrong"), he suggested that President Bush's foreign-policy priorities are incorrect.  
+
+<p>
+
+In Mr. Dukakis's view, the Israeli-Palestinian conflict should exclusively complement a war on Al-Qaeda, leaving no room for concern with Iraqi weapons of mass destruction.  He suggested that the international community should force an "imposed settlement" on Israelis and Palestinians, to be enforced by a NATO security force "for many years."  Offering his personal insight as to why the administration may be instead prioritizing Iraq, Mr. Dukakis explained, "this is the same crowd that has supported this bum for ten years."
+
+<p>
+
+Throughout his talk, Michael Dukakis attempted to lighten the mood for colleagues and adversaries alike by incessantly making fun of himself.  However, repeated self-deprecatory jibes--generally based on calling himself a "Presidential loser" and on wishing that Ross Perot had run for President in 1988--only further weakened the credibility of his "us" vs. "them" analysis.
+
+<p>
+
+The bottom line of his talk, as with most ideological rallies, was recruitment: "We need good people to stand up."  Pinning his hopes for the future of the Democratic Party on the activism of budding ultraliberal ideologues in his Stanford audience, Mr. Dukakis closed by pitching the rewards of involvement in public life.  
+
+<p>
+
+The resurfacing of the term "good people," however, once again gives pause.  Like his earlier reference to "progressive, decent" Congressmen, was the term "good people" limited to leftist ideologues?  How reliable is a definition of a "good person" that most Review readers would fail to meet just because of ideology?
+
+<p>
+
+These questions reinforce the notion that Mr. Dukakis meant to treat his talk simply as an ideological rally.  Without offering a big-picture program, however, Mr. Dukakis managed to generate potentially offensive classifications of people aimed to stir the ultraliberals in the audience. As freshman Bob Sensenbrenner stated, "At Stanford, we appreciate a variety of opinions, so I don't think we should host speakers who impugn the beliefs of other without presenting their own constructive plan."  
+
+<p>
+
+One bit of good news from the talk is that Mr. Dukakis's political career is over.  At his wife's insistence, Mr. Dukakis has decided never again to run for political office: "If I tried to, I'd probably end up in divorce courts."  Thus, Mr. Dukakis's divisive discourse will be restricted to his work as a lobbyist for Amtrak reform.  With Amtrak already in an abominable state, he will hopefully be kept from doing further damage even in that position. 
+
+<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:51:08 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

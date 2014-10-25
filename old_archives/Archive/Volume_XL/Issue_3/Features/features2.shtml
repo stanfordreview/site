@@ -1,0 +1,432 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - February 8, 2008</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style1 {font-style: italic}
+.style3 {font-weight: bold}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XL, Issue 3 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">February 8, 2008 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">FEATURES</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Interview with Jay Richards</p>
+              <p class="byline">by <a href="http://www.stanfordreview.org/About/Staff/ckelm.shtml">Carl Kelm</a> and John Komkov</p>
+              <p class="byline"><em>Executive Editor and Staff Writer</em></p>
+              <p class="style1"><img src="http://www.stanfordreview.org/Archive/Volume_XL/Issue_3/Features/features2.jpg" width="300" height="323" border="0" align="right"></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p><em>The Stanford Review</em> recently sat down with Dr. Jay Wesley Richards, the pro-God advocate in our recent debate, &ldquo;Atheism vs. Theism and the Scientific Evidence of Intelligent Design.&rdquo;</p>
+              <p><strong>The Stanford Review:</strong> You&rsquo;re a member of both the Acton Institute and the Discovery Institute, correct?</p>
+              <p>Dr. Jay Wesley Richards: I&rsquo;m a fellow. I was on staff full-time at the Discovery Institute from 1998-2005. I continue as a fellow there. My full-time employer is the Acton Institute in Grand Rapids where I am both a fellow and one of the directors.</p>
+              <p><strong>TSR:</strong> What exactly are the missions of these organizations?</p>
+              <p>JWR: The Discovery Institute is basically a nonpartisan public policy think-tank that does a number of things, actually. When I was there, I was working for the Center for Science and Culture both as a fellow and one of the directors that oversaw the research on the question of intelligent design, so we funded conferences and research by philosophers and scientists who were interested in the question of intelligent design.</p>
+              <p>Acton Institute is another educational think-tank&mdash;again, a nonpartisan policy organization. The focus is on the intersection of theology and economics&mdash;so, the sort of twin strands of the Judeo-Christian moral tradition and free-market economics. It was started eighteen years ago essentially to teach current and future religious leaders how to think clearly about economics.</p>
+              <p><strong>TSR:</strong> In 2006, you wrote <em>The Privileged Planet </em>with astronomer Guillermo Gonzalez. What case did that book make?</p>
+              <p><strong>JWR:</strong> The case that the book &ldquo;The Privileged Planet&rdquo; made is that if you look at all the things you need to build a habitable planet&mdash;that is to say, the right kind of atmosphere, the right size planet, around the right kind of stars, all those things&mdash;it turns out that when you get a planet that&rsquo;s hospitable to life, you also get the best overall set of conditions for doing science. So in other words, life will find itself in the universe in those places where it can best discover the universe around it. And that pattern, that overlap of those things&mdash;life and discovery&mdash;suggests not just merely that that the universe was designed but that is was designed for the purpose of doing science, being able to read the book of nature.</p>
+              <p><strong>TSR:</strong> How was &ldquo;The Priviliged Planet&rdquo; received? </p>
+              <p><strong>JWR:</strong> We have actually been surprised by how it&rsquo;s been received, at least in respectable journals. Scientists from the SETI Institute reviewed it in Nature Magazine. SETI you would expect to be hostile to our position because the implication of our argument is that life is probably fairly rare in the galaxy. Nevertheless, it was a perfectly reasonable review, a respectful review. We&rsquo;ve had reviews in several astronomy journals&mdash;some favorably, some critically&mdash;but in almost every case, respectable. I wouldn&rsquo;t say that, for instance, about the blogosphere, but they tended to be non-intellectual arguments. And we actually made it easy on our critics and actually said how to falsify our argument at the end of the book, we said here&rsquo;s how you falsify it, and I&rsquo;m pleased to report that since it was published, we haven&rsquo;t had the argument falsified.</p>
+              <p><strong>TSR:</strong> Was that the kind of reaction you expected?</p>
+              <p><strong>JWR:</strong> We really didn&rsquo;t know because we had very positive endorsements on the back of the book: you&rsquo;ve got Owen Gingerich from the Harvard-Smithsonian Center for Astrophysics, Simon Conway Morris from Cambridge, very serious endorsements of the book on the cover. So we were really open-minded about what was going to happen. We did expect and, unfortunately received, a great deal of vitriolic attack from people who are really hostile to the idea of purpose and design. Guillermo, in particular, has suffered the consequences more than me. I&rsquo;m in the think tank world, so I&rsquo;m, in a sense, safe academically. Guillermo, on the other hand, despite a stellar publishing record, scientific record as a junior scientist, is in a wicked tenure battle at Iowa State University precisely because of the book published by us. I actually joked about it beforehand, I said, &ldquo;Maybe we should have written this book after you got tenure,&rdquo; but he said, &ldquo;Well, we thought of it when we thought of it. Let&rsquo;s see what happens.&rdquo;</p>
+              <p><strong>TSR:</strong> You&rsquo;ve written several books, correct? Four, I think?</p>
+              <p><strong>JWR:</strong> Yeah, let&rsquo;s see, on different subjects&mdash;I call myself a shameless generalist. I did a book on apologetics with Bill Dembski. I did a book with George Gilder on artificial intelligence. I&rsquo;ve done a work of philosophical theology, called &ldquo;The Untamed God,&rdquo; which was very technical, academic philosophy. And &ldquo;The Privileged Planet.&rdquo; And then I just finished the manuscript for a book called &ldquo;The Christian Case for Capitalism.&rdquo; So, the pattern there is that I like to write about a lot of different things.</p>
+              <p><strong>TSR:</strong> Of the books you have written, which one was the most rewarding?</p>
+              <p><strong>JWR: </strong>In some ways, intellectually, &ldquo;The Untamed God&rdquo; I feel is my greatest intellectual achievement simply because it was the most difficult. I had to master modal logic, I had to study philosophy, some really hard stuff. And, frankly, sometimes I think I barely got out alive. &ldquo;The Priviliged Planet&rdquo; has sort of a luminous quality because over time, Guillermo and I figured out and developed a unique argument. It was of course a type of design argument, which is a perrenial argument in the West, but it was design with a twist: not only was the universe designed, but it was designed for discovery. So, in some ways I felt priviliged to be at the right time and place to really have been able to put together this constellation of evidence&mdash;a lot of which was just ten or fifteen years old&mdash;into a new design argument. Part of this was just being in the right time and the right place.</p>
+              <p><strong>TSR:</strong> You were Executive Producer of the documentary, &ldquo;The Call of the Entrepreneur,&rdquo; correct? How did you get involved with that project and, as a theologian, do you have any special insight into the nature of entrepreneurship? </p>
+              <p><strong>JWR: </strong>Absolutely. <em>The Call of the Entrepreneur</em> is directly related to the mission of the Acton Institute, which is in part to explain the moral prerequisites and the inherent virtues of the free-market economic system against what I would think are mostly benighted attacks on its morality. Especially with religious folks, there&rsquo;s an assumption that capitalism and the free market are fundamentally based on greed. And even champions of capitalism like Ayn Rand have said this. But if you look at what entrepreneurs actually do, they pursue risks, they pursue visions. They try to meet the needs and the desires of customers better than their competition. They have to be thinking about others. They put their own wealth at risk, so they&rsquo;re not greedy misers. Yeah, they hope for some kind of profit in the end, but they first have to be willing to take that risk. Those are virtues. And a healthy economic system&mdash;a vibrant, capitalist economic system&mdash;is going to be one that rewards this kind of entrepreneurial activity. And so the documentary was really a theological and moral defense of entrepreneurs centered around the stories of three very different entrepreneurs. So that&rsquo;s how I ended up in it.</p>
+              <p>I actually got interested in documentaries when I was at the Discovery Institute through our work on &ldquo;Unlocking the Mystery of Life&rdquo; and then the documentary &ldquo;The Privileged Planet,&rdquo; based on Guillermo&rsquo;s and my book. I was convinced that documentaries are a very important and accessibly way of reaching a large audience. I came to the Acton Institute in part to start a media division that does things like documentaries to translate academic work into the visual medium. And &ldquo;The Call of the Entrepreneur&rdquo; is just about to start its broadcast schedule and we just completed the second film, called &ldquo;The Birth of Freedom,&rdquo; which is essentially a description and an explanation of where we get the idea of human equality, individual rights, limited government&mdash;all those things we prize in the West&mdash;we argue is actually an inheritance of the Judeo-Christian moral tradition and not Greece or Rome or the Enlightenment.</p>
+              <p><strong>TSR:</strong> Given your intellectual views, do you ever feel belittled or dismissed by your colleagues? </p>
+              <p><strong>JWR:</strong> I guess it depends on who your colleagues are. I certainly have friends. Anyone, especially in intellectual battles, is going to have to have people that think more or less like they do. But the truth of the matter is, especially on this topic, if you&rsquo;re talking about the existence of God on a university campus, though I think belief in god is still very much a majority belief&mdash;most people give intellectual assent to the existence of God&mdash;it&rsquo;s usually a controversial thing to talk about, especially on major university campuses. And then when you talk about scientific evidence that might bear on the question of the existence of God, it&rsquo;s sort of a perfect storm of controversy.</p>
+              <p><strong>TSR:</strong> Did you see a difference between, for example, you&rsquo;rer time at Acton versus Princeton Theological Seminary?</p>
+              <p><strong>JWR: </strong>Well, I&rsquo;ve certainly had to deal with a lot of the same intellectual issues. In fact, I met Bill Dembski when I was at Princeton and we started a journal called the Princeton Theological Review;, we did apologetics seminars for students. We were threatened with lawsuits twice by faculty for doing things like that. In some ways I guess I forged the willingness to have serious intellectual debate when I was at Princeton, but it&rsquo;s a lot of the same kind of constellation of issues. Behind all this is my conviction that the question we&rsquo;re talking about today is about the most important question you can discuss. And it&rsquo;s much better to be able to argue intellectually about these things then go to blows or simply to try to ignore it or suppress it. So I think it&rsquo;s healthy to be able to have debates like this.</p>
+              <p><strong>TSR:</strong> How would you describe the state of intellectual freedom today? </p>
+              <p><strong>JWR:</strong> I don&rsquo;t think it&rsquo;s especially good. I think we give intellectual assent to it. But I think for instance this documentary, &ldquo;Expelled,&rdquo; coming out with Ben Stein, is going to show that there is a profound suppression of free speech and the free flow of ideas around certain kinds of questions. So you challenge almost anything. You can challenge the existence of fundamental moral truths that almost everyone knows perfectly well are true; you can challenge any particular moral convention. But if you try to defend something that seems to be a traditional belief, whether it&rsquo;s the idea that there&rsquo;s evidence of purpose in the universe or the idea that there&rsquo;s a God and that there&rsquo;s actually evidence for a God, you can get in serious trouble. It&rsquo;s fine if people want to have some kind of private religious opinion, but the idea that there might be public evidence for the existence of God&mdash;and it points in that direction&mdash;is something that seems to offend a lot of people, because suddenly it comes out of that privatized location that people are comfortable with and into the public realm. </p>
+              <p><strong>TSR:</strong> In terms of the work the design community is doing, have you seen an impact yet or do you think in the coming years that design is going to be more socially accepted within the scientific world? What do you see for the near-term future?</p>
+              <p><strong>JWR:</strong> I think questions about design continue to be very controversial in biology, especially when you&rsquo;re dealing with Darwin&rsquo;s theory. And part of that is just in the United States, we have this history, the kind of Scopes Monkey Trial stereotype. It&rsquo;s like a complex: we have a very difficult time keeping separate issues separate. You can almost have polite conversation if you&rsquo;re in cosmology or physics. Owen Gingerich, the Harvard astronomer, wrote a book recently in which he advocated design as the rational explanation of origin of the universe and the fine-tuning of the laws of physics, something I&rsquo;m going to talk about this afternoon. You can almost have a polite conversation about that, but if you want to talk about design, say in biology, that seems to be a little too close to home and frankly I think it&rsquo;s one of the simply forbidden subjects in most academic jurisdictions at the moment.</p>
+              <p><br>
+                <br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

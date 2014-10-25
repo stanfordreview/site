@@ -1,0 +1,290 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 6 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorial</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Question_of_the_Week/index.shtml" onMouseOver="window.status='Question of the Week'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Question of the Week</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial Staff in Editorial'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Staff</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Gary Raichart in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Gary Raichart</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Harrison Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Ryan J. Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan J. Wisnesky</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Sam Shapero in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Travis Menk in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Travis Menk</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 6
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+May 8, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 6'; return true" onMouseOut="window.status=' '; return true">Issue 6</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Former NSA Talks US-China Relations
+</font><br>
+
+<b>by Sam Shapero</b><br>
+News Editor<p>
+
+Dr. Zbigniew Brzezinski, former National Security Advisor to President Carter, spoke at Stanford on Tuesday, April 29, on the present and future of Sino-American relations. Talking for about an hour at Stanford's Memorial Auditorium, Mr. Brzezinski described the warming in relations between China and the United States since September 11th and the increasing liberalization of Chinese society.
+
+<p>
+
+The Tuesday speech was the keynote address for On Common Ground, a weeklong conference run by the Forum for American/Chinese Exchange at Stanford (FACES). The conference brought together Chinese and American student delegates who attended seminars and simulated a US-China Presidential summit.
+
+<p>
+
+Mr. Brzezinski began by remarking on how the People's Republic of China has progressed since the Carter Administration established formal diplomatic ties with it 25 years ago. Offering an example based on a comparison of Chinese personal dress noticed in a recent visit to the unisex Chinese uniforms of the 1970's, Mr. Brzezinski noted that now "the difference [between the sexes] is apparent to the detached, academic eye."
+
+<p>
+
+Mr. Brzezinski said that the rapprochement between China and the US was more than ideological. Since 9/11, few Americans have considered China to be a primary threat to American national security. At the same time, Chinese opinion has shifted away from considering America a hegemonic, aggressive power.
+
+<p>
+
+"Now they view our presence as historical, and even desirable," said Mr. Brzezinski. He pointed to nominal Chinese aid in the War on Terrorism as evidence of a new spirit of cooperation.
+
+<p>
+
+Mr. Brzezinski noted that the main Chinese foreign-policy concerns were no longer ideological but rather nationalistic in nature. He recited a list of Chinese-American conflicts drawn up by a Chinese communist official, and the first item was Chinese sovereignty over Taiwan and Tibet.
+
+<p>
+
+The Sino-American debate over Taiwan's fate was an important part of Mr. Brzezinski's speech. Mr. Brzezinski repeated America's dedication to the "One China" policy, a diplomatic stance that he helped develop as National Security Advisor.  By this policy, the United States recognizes Taiwan and the People's Republic of China as one country, but will not allow unification by force.
+
+<p>
+
+Mr. Brzezinski compared America's plan to one presented to him by China's Deng Xiaoping, a policy of "one country, two systems" for reunification. By making a Taiwanese annexation more similar to the takeover of Hong Kong, the Chinese would hope to make reunification more palatable to the United States.
+
+<p>
+
+Mr. Brzezinski said that the Chinese are currently in no position to attempt such a maneuver. He quoted a Chinese politician, saying that the actual strength of China's national defense is too weak, but if they were even to approach America's military capability they would not need to resort to force to achieve reunification.
+
+<p>
+
+Mr. Brzezinski discussed in great detail the evolving positions of the United States and China on the world stage. He was sure that, in 25 years, America would still be the dominant player on the world stage, economically, technologically, culturally, and militarily. "The US will still be the number one power, the only superpower," said Mr. Brzezinski.
+
+<p>
+
+He discussed briefly the world's other major powers--Europe, Russia, Japan, and India--and told the audience why he thought they would not become as powerful as America. Europe he described as weak militarily, and, like Japan, graying and decaying demographically. Mr. Brzezinski said that Russia's population drop is even more striking, and Russia is losing its central Asian areas of influence to China. 
+
+<p>
+
+India suffers from a different problem, however. "India has major international ambitions," said Mr. Brzezinski, "but it suffers from an Achilles heal . . . .that will arise from normal evolution. He claimed that "growing strains between Moslems and Hindus" as well as rampant illiteracy would hamper India well into the 21st century.
+
+<p>
+
+"China will be a significant regional power, but not a global power," said Mr. Brzezinski. "Chinese influence is spreading westward, and Russian influence is receding."
+
+<p>
+
+Mr. Brzezinski predicted that, despite its growing economy, China will still be beset by backwardness in twenty years. Despite its recent rapid development, China will have to deal with a very low per capita income, and will continue to be plagued by the authoritarian nature of the ruling Communist party.
+
+<p>
+
+"The most serious domestic problem of China is the gap between socioeconomic and political development," said Mr. Brzezinski. "The ruling party will have to come to terms with Tiananmen Square [. . . .] and personal corruption, not excluding the highest echelons of society."
+
+<p>
+
+Mr. Brzezinski said that the Chinese government seemed to fear any change that might bring disunity. He said that the SARS epidemic is an important test for the Chinese leadership to adapt to a new world. Mr. Brzezinski also warned that the Chinese government must take a more involved role in the situation with North Korea:
+
+<p>
+
+"The meeting hosted by China cannot be merely a trilateral umbrella as a cover for bilateral trading of insults between American and North Korean officials."
+
+<p>
+
+After his address, Mr. Brzezinski answered written questions from the audience. Several questions inquired into his tenure as National Security Advisor. 
+
+<p>
+
+"Being hardnosed is compatible with dedication to moral principles, including human rights," said Mr. Brzezinski. Born in Poland in the thirties, he was widely seen as a hardnosed anti-Communist and anti-Soviet.
+
+<p>
+
+"How do you balance the two? We were able to do it with the Soviet Union," he continued, commenting on his own role in isolating the Soviet Union. Mr. Brzezinski was pivotal in the Carter administration's official recognition of China, and approved CIA activity that helped provoke the Soviet invasion of Afghanistan during the 1980's. He believes that the resulting quagmire there was one of the main causes of the fall of the Soviet Union. He said that the Soviets were to blame for the devastation of Afghanistan, and the subsequent rise of the Taliban and Al-Qaeda there.
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:23:32 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

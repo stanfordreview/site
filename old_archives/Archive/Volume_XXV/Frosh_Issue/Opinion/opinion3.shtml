@@ -1,0 +1,348 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXV - Frosh Issue 2000 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editor's Note</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Editors_Note/index.html" onMouseOver="window.status='Bob McGrew in Editor\'s Note (also in News)'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Chris Desmond in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Desmond</font></a><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Daniel Maeng in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Daniel Maeng</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Henry Towsner in News (also another News article)'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Matthew Barrett in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+</font>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXV
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+Frosh Issue 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXV'; return true" onMouseOut="window.status=' '; return true">Volume XXV</a> - <a href="../index.html" onMouseOver="window.status='Frosh Issue 2000'; return true" onMouseOut="window.status=' '; return true">Frosh Issue</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Opinion</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>What Student Union?</font><br>
+
+	<i>
+Dateline: January 17th, 2000<br>
+
+This article was written soon after
+Tresidder's hours were extended past midnight last
+Winter Quarter.  Little has changed at Tresidder
+since.  Aside from politics, the Review is a voice for
+the students when it comes to improving life on
+campus.  Unlike the Stanford Report, which is wholly
+owned by the university, or the Daily, which rarely
+steps outside the bounds of university press releases,
+the Review has never hesitated to make its position
+known when student interests were on the line.  The
+next time you notice that the administration has
+dropped the ball on cheap food or campus parties, you
+can be sure the Review will be there to pick it up.
+</i><p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Frosh_Issue/Opinion/images/tressider.jpg" width=290 height=218 alt="Tressider" align=left>Tresidder Memorial Union, Stanford's only student
+union, currently contains Jamba Juice, Tresidder
+Express, Pulse, Fitness Center, three restaurants, and
+two banks. Some students consider it indispensable for
+those otherwise forced to use off-campus facilities
+and face the inflated prices of the Bay Area. Compared
+to the student unions at other universities, however,
+which often serve as student social centers,
+late-night hangouts, and favorite lunch and dinner
+destinations, Tresidder seems far less valuable. <p>
+
+"Tresidder? Tresidder has served three basic functions
+for me: one, as a landmark to navigate by, two, a
+place to pay my Stanford bill, and three, a place that
+has a Wells Fargo bank. Other than that, neither the
+presence or absence of Tresidder makes much of an
+impact on my life," said David Lee, a senior majoring
+in Biology, pointing out the conspicuous lack of
+facilities such as a pool hall, arcade, or bowling
+alley, in Tresidder when compared to its counterparts
+in other universities. <p>
+
+The ongoing dissatisfaction with Tresidder Union
+remains because Tresidder hardly qualifies as a
+student union, in the sense that it offers few places
+where students can socialize and entertain themselves
+without having to leave campus. As a result, few
+Stanford students consider Tresidder as their hangout
+place on weekends. <p>
+
+Dean of Students Marc Wais was quick to point out that
+such a reaction from the students should come as no
+surprise. <p>
+
+"One must remember that Tresidder is not a 'student
+union' in the sense that we often think of," said Mr.
+Wais. "The reality is that Tresidder is a 'community
+union,' and was designed to support Stanford's
+decision long ago to base a lot of its social and
+intellectual activity around our very strong
+residential house system. Therefore, Tresidder was not
+designed and does not serve as the singular hub of
+student activity on campus." <p>
+
+Mr. Wais added that Tresidder does not have the
+physical size to house many services such as a campus
+bookstore, food court, movie theater, student
+organization offices, etc., that are often found at
+other student unions. "I think this aspect has a
+tendency to frustrate some students - especially if
+they have visited their friends on campuses that have
+huge student unions." <p>
+
+To be sure, the idea of making Tresidder a more
+"hang-out friendly" place is hardly novel. According
+to Mr. Wais, Tresidder at one time contained a small
+bowling alley, located where the present day Tresidder
+Fitness Center and Treehouse stand. The back dining
+area of the Treehouse, formerly Pollo Rey, was the
+wood floor of the original bowling alley. The site of
+what is now Pulse once contained an arcade and pool
+room. This arcade/pool room was vacated about three
+years ago due to low use. <p>
+
+"I believe Tresidder has improved dramatically in the
+last three years in terms of its appearance,
+occupancy, and overall student utilization," continued
+Mr. Wais. "When I arrived at Stanford in 1995, almost
+one-half of the first floor was vacant, due to the
+reluctance of businesses to invest in Tresidder. They
+simply thought the facility looked dreadful and did
+not generate enough student traffic to present even a
+break-even business proposition. Now when vacancies
+develop, we generate much greater interest from
+businesses interested in coming to Tresidder." <p>
+
+Mr. Wais's account of the history and mission of
+Tresidder raises an interesting point: if there was
+once a bowling alley and an arcade/pool hall in
+Tresidder Union, it indicates that students initially
+demanded these facilities and that the administration
+considered establishing and maintaining such
+facilities within the spirit of Tresidder's mission as
+the 'community union.' What merits our attention is
+that, for some reason, the demand for these facilities
+dwindled until they became an unprofitable business. <p>
+
+Why would a business that began in order to satisfy
+clearly existing demand become gradually unprofitable?
+Mr. Wais cited the increased popularity of home
+computers and video games as one reason for the
+reduced demand for the arcade hall. There is, however,
+a much more fundamental and obvious cause for the
+disappearance of the bowling alley and the arcade/pool
+hall in Tresidder: that they were owned and operated
+by the University whose profit-seeking motivation
+would have been much weaker than that of a private
+provider of those services. <p>
+
+Just as public monopolies have little incentive to
+respond to market change, the University-operated
+bowling alleys, arcade, and pool halls probably had
+little incentive to make the prompt adjustments
+necessary to remain profitable. My guess is that in
+the absence of a profit incentive, the same old Pac
+Man probably remained for months in the Tresidder
+arcade even though no one was playing it; the pool
+tables and cues abused by quasi-sharks were left
+uncared for; and the bowling balls, pins, and alley
+were all probably left in shambles after a few months
+of profitable operation. A profit-seeking private
+provider would have never run its business in such a
+shameful manner. As a result, gradually, students
+stopped using the facilities in Tresidder and began
+looking for off-campus alternatives. Once it started
+losing money, the University, without realizing the
+fundamental flaws of its management, probably
+suspended the operation of those facilities without
+much hesitation, blaming it on declining demand
+without bothering to know why. <p>
+
+If the above hypothesis is correct, then the
+administration is out of excuses for not reviving the
+bowling alley and the arcade/pool hall in Tresidder.
+Only this time, the University should leave the
+management of the facilities to private contractors
+and let them profit from Tresidder. So far, in its
+recent attempts to revive Tresidder, the University
+has done the right thing by leasing out the spaces to
+private companies, and not surprisingly, as Mr. Wais
+admitted, they have served the students well. Let us
+give the arcade and bowling alley one more chance at
+Tresidder, but this time, let us do it right. <p>
+
+<i>Daniel Maeng graduated last year with a
+degree in economics. He probably would have made
+frequent trips to the Tresidder arcade and spent his
+entire salary from the </i>Review <i>on
+Pac Man. </i><p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:52:15 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

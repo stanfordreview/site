@@ -1,0 +1,467 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - January 18, 2008</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style1 {font-style: italic}
+.style2 {font-weight: bold}
+.style3 {font-weight: bold}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XL, Issue 1 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">January 18, 2008 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">NEWS</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">The Feminist and the Pope</p>
+              <p class="byline">by <a href="http://www.stanfordreview.org/About/Staff/tabbey.shtml">Tristan Abbey</a></p>
+              <p class="byline"><em>Editor at Large</em></p>
+              <p class="style1"><img src="news1.jpg" width="300" height="289" border="0" align="right"></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>The wind of freedom blows, our university motto declares, but perhaps only until someone gets offended.</p>
+              <p>A three-month investigation by the <em>Stanford Review</em> has discovered that university organizations declined to invite two high-profile intellectuals&mdash;Ayaan Hirsi Ali and Cardinal Joseph Ratzinger, before his inauguration as Pope Benedict XVI&mdash;after consultation with faculty and students who objected to their views.</p>
+              <p>The thinkBIG Conference considered inviting Hirsi Ali, the Somali-born Dutch feminist critic of Islam, to speak on the subject of &ldquo;Violence Against Women.&rdquo; Conference organizers sought the advice of the Muslim Student Awareness Network (MSAN), which advised against the invitation. The conference nixed the invite shortly thereafter.</p>
+              <p>A conference representative confirmed off the record that thinkBIG was trying to avoid &ldquo;controversy&rdquo; by not inviting Hirsi Ali. On the record, thinkBIG denied that pressure from MSAN killed the idea.</p>
+              <p>This is the second time in as many years that an invitation to Hirsi Ali has been nixed. The Abbasi Program in Islamic Studies considered inviting her in 2006, but decided against it, citing security and speaker costs.</p>
+              <p>During 2000-01, the head of the Stanford Presidential Lectures on the Humanities and Arts suggested inviting Cardinal Ratzinger. Opposition arose from &ldquo;liberal Catholic quarters,&rdquo; according to one senior faculty member, and the idea was dropped.</p>
+              <p>Speaking on the condition of anonymity, the professor said that these were examples &ldquo;of a speaker who counts as &lsquo;conservative&rsquo; whose invitation was aborted.&quot;</p>
+              <p>&nbsp;</p>
+              <p><strong>Deferring to MSAN?</strong></p>
+              <p>The most recent case concerns Ayaan Hirsi Ali, an internationally-recognized feminist whose honors include the International Sisterhood Award from the Congress on Racial Equality. To escape from a forced marriage, Hirsi Ali fled from Africa to the Netherlands in 1992 and became a women&rsquo;s rights activist. In 2004, a Muslim extremist assassinated one of her colleagues, leaving behind a note labeling Hirsi Ali &ldquo;a soldier of evil.&rdquo; She is now a fellow at the American Enterprise Institute.</p>
+              <p>In February, Stanford will host the highly-anticipated thinkBIG Conference on International Women&rsquo;s Health and Human Rights. Given Hirsi Ali&rsquo;s opposition to female circumcision, wife-beating, and honor killings, she would seem a perfect fit.</p>
+              <p>Conference organizers contacted the dean for religious life, Rev. Scotty McLennan. According to McLennan, &ldquo;it seemed clear she would be considered biased by a number of Muslims at Stanford.&rdquo; He referred thinkBIG to the Islamic Society at Stanford University.</p>
+              <p>A senior conference organizer confirmed that she contacted ISSU and the Muslim Student Awareness Network. In October, she told the <em>Review</em> that &ldquo;after discussing the matter in great detail with many people on campus,&rdquo; the conference decided to pursue other speakers. This decision was &ldquo;due to the possible controversy regarding her visit here, as we are not interested in inciting any sort of unreasonable and foreseeable controversy.&rdquo;</p>
+              <p>The thinkBIG Conference then instituted a press embargo for five weeks and refused to answer follow-up questions.</p>
+              <p>In the interim, Fatima Hassan, president of MSAN, confirmed that thinkBIG consulted her about Hirsi Ali. According to Hassan, Hirsi Ali would have detracted from the conference.</p>
+              <p>&ldquo;You don&rsquo;t want to lose the focus of the conference by inviting a controversial and distracting speaker with, frankly, little authority or formal education and significant work in the area,&rdquo; Hassan argued. &ldquo;Rather, there are many women with similar backgrounds&hellip;who have made outstanding contributions and research into human rights and gender equality. They deserve to be highlighted for their achievements.&rdquo;</p>
+              <p>Hassan was quick to say that MSAN was merely &ldquo;suggesting alternatives,&rdquo; not trying to &ldquo;infringe&rdquo; on thinkBIG&rsquo;s freedom.</p>
+              <p>Ayaan Hirsi Ali earned a master&rsquo;s degree in political science from Lieden University and held a fellowship at the left-leaning Wiardi Beckman Foundation in the Netherlands.</p>
+              <p>&nbsp;</p>
+              <p><strong>Double standards</strong></p>
+              <p>The thinkBIG Conference&rsquo;s story evolved from October to December, when the press embargo was lifted.</p>
+              <p>&ldquo;None of our decision was based on what either of these student organizations advised,&rdquo; Laura Carwile, thinkBIG&rsquo;s program director, said. &ldquo;We simply wanted a more knowledgeable input regarding Ms. Hirsi Ali&rsquo;s work, and so we sought out students who knew more about her than we did.&rdquo;</p>
+              <p>The thinkBIG spokeswoman described MSAN as &ldquo;very helpful,&rdquo; explaining that &ldquo;they let us know that they were absolutely fine with whoever we chose to invite, and they were grateful that we had spoken with them regarding potential speakers.&rdquo;</p>
+              <p>According to Carwile, &ldquo;We spoke about many other possible speakers as well, not just Ms. Hirsi Ali.&rdquo;</p>
+              <p>Fatima Hassan, however, denied that thinkBIG contacted her organization about any other speakers.</p>
+              <p>The contradiction raises an important issue: who gets consulted?</p>
+              <p>According to thinkBIG, because Hirsi Ali was deemed &ldquo;controversial,&rdquo;they sought out the advice of those most likely to be offended. But other conference speakers will be addressing controversial issues. Stanford Students for Life was not contacted by thinkBIG organizers to see if pro-lifers would be offended by pro-choice speakers and leaders of the Catholic Community at Stanford confirm their input was not sought on issues of birth control.</p>
+              <p>In the end, the thinkBIG conference chose to invite Esta Soler, the president of the Family Violence Prevention Fund, as the keynote speaker on &ldquo;Violence Against Women.&rdquo;<br>
+                Hirsi Ali declined to comment on this story.</p>
+              <p>&nbsp;</p>
+              <p><strong>Nixed earlier</strong></p>
+              <p>This was not the first time an invitation to Hirsi Ali was aborted. The Abbasi Program in Islamic Studies at Stanford considered inviting her in the summer of 2006. According to Prof. Robert Gregg, &ldquo;her speaking fee and security costs [were] beyond our budget allocation.&rdquo; Gregg is a former dean for religious life (Scotty McLennan&rsquo;s predecessor) and an emeritus professor in religious studies.</p>
+              <p>&ldquo;If security concerns blocked the Hirsi Ali invitation, that means putative threats of disruptive violence are already limiting open debate at Stanford,&rdquo; said the anonymous senior faculty member. &ldquo;It is equally plausible that her criticisms of Islam in her recent book made her too controversial.&rdquo;</p>
+              <p>In Infidel, published in September 2006, Hirsi Ali argues that oppression of women in Islam &ldquo;generates more backwardness with every generation.&rdquo;</p>
+              <p>&nbsp;</p>
+              <p><strong>Vatican event scrubbed</strong></p>
+              <p>Rewind to 2000-01. Prof. Hans Ulrich Gumbrecht of the Comparative Literature Department led the Stanford Presidential Lectures in the Humanities and Arts, which has brought to campus speakers like Isabel Allende and Jacques Derrida.</p>
+              <p>Gumbrecht described Ratzinger to the <em>Review</em> as a &ldquo;first-rate intellectual.&rdquo; To mark the end of the first 20 presidential lectures, he proposed to invite representatives from the great monotheistic religions: Islam, Judaism, and Christianity. He suggested Ratzinger to represent the latter.</p>
+              <p>According to Gumbrecht, the event would have been &ldquo;the most fascinating thing for undergraduates.&rdquo; Top-notch thinkers from each of the three traditions would have ensured the theme was &ldquo;intellectual with a religious articulation.&rdquo;</p>
+              <p>University officials communicated to Gumbrecht that Stanford could not extend its official invitation to Cardinal Ratzinger, but he should feel free to do so on his own.</p>
+              <p>Without the university&rsquo;s &ldquo;symbolic backing,&rdquo; Gumbrecht said, it would have been pointless to continue. Gumbrecht likened it to inviting a head of state to Stanford and joked that he would have had to send a graduate student to escort Ratzinger across campus.</p>
+              <p>&nbsp;</p>
+              <p><strong>Invitation opposition</strong></p>
+              <p>It is not altogether clear why Stanford refused to back the Ratzinger invite. According to Jeff Wachtel, secretary of the Board of Trustees, faculty pressure had nothing to do with the decision not to back the invitation. President Hennessy, provost at the time, recalled no details. Prof. Gerhard Casper, then president, stated: &ldquo;The Cardinal was never invited and I certainly was under no pressure from anybody.&rdquo; </p>
+              <p>For his part, Gumbrecht is a self-described &ldquo;ex-Catholic.&rdquo; He told the <em>Review</em> that it was made plain to him that opposition from practicing Catholics, who disliked Ratzinger, outweighed his support.</p>
+              <p>Other faculty members&mdash;speaking off the record&mdash;noted that there were &ldquo;various people&rdquo; at Stanford with whom Ratzinger&rsquo;s views &ldquo;did not resonate&rdquo; and suggested there was resistance from &ldquo;liberal Catholic quarters.&rdquo;</p>
+              <p>Gumbrecht had discussed the invitation with the head of the Catholic Community at Stanford, Fr. Patrick LaBelle.</p>
+              <p>Fr. LaBelle expressed concern that the security costs for hosting Ratzinger, who he described as &ldquo;the brightest guy we&rsquo;ve had in the papacy for generations,&rdquo; would have been enormous. He also doubted the cardinal would have agreed, given his busy schedule.</p>
+              <p>Gumbrecht admitted to the <em>Review</em> that the event would have been difficult to organize, but the challenge made it worthwhile. &ldquo;Stanford wouldn&rsquo;t exist&rdquo; if people had surrendered in the face of obstacles, he said. &ldquo;If you don&rsquo;t think big, nothing big will happen.&rdquo;</p>
+              <p>&nbsp;</p>
+              <p><strong>Liberal Catholicism</strong></p>
+              <p>A vocal body of liberal Catholics and anti-Papists call Stanford home. </p>
+              <p>In a 2000 essay entitled &ldquo;Fortress Vaticana,&rdquo; religious studies professor Thomas Sheehan wrote derisively of Cardinal Ratzinger, suggesting his work was &ldquo;third-rate,&rdquo; &ldquo;sloppy,&rdquo; and theologically &ldquo;vulgar.&rdquo;</p>
+              <p>English professor Tobias Wolff has blamed the Church&rsquo;s problems on its pursuit of &ldquo;visions of cohesion and power.&rdquo;</p>
+              <p>Both Sheehan and Wolff denied involvement in the decision not to invite Ratzinger, but Prof. Elizabeth Bernhardt, director of the Stanford Language Center, recalled voicing her concerns. In the event an official invitation had been extended, she said, &ldquo;I would just have smoke coming out of my ears.&rdquo; She also said she would have protested, but added that academic freedom is &ldquo;a really important thing we all have to hold.&rdquo;</p>
+              <p>Having taught a course on resistance to the Nazi regime, Bernhardt said she could not as a &ldquo;matter of conscience&rdquo; have condoned a visit by someone who joined the Nazi war machine. During World War II, such participation was mandatory.</p>
+              <p>Bernhardt said she opposed Ratzinger&rsquo;s &ldquo;ridiculous stances&rdquo; on birth control and the ordination of female priests. Furthermore, Ratzinger&rsquo;s title&mdash;Prefect of the Congregation for the Doctrine of Faith and Morals&mdash;was a legacy from the Inquisition.</p>
+              <p>She also suspected that the event&rsquo;s intent was to &ldquo;embarrass&rdquo; the Catholic Community. Fr. LaBelle agreed, saying that the event&mdash;far from an &ldquo;open forum&rdquo;&mdash;would have been designed to stir controversy in a kind of &ldquo;staged argument.&rdquo;</p>
+              <p>&nbsp;</p>
+              <p><strong>The Problem</strong></p>
+              <p>Pope Benedict and Ayaan Hirsi Ali sit in vastly different political universes. One speaks for God, the other doesn&rsquo;t believe in God. One calls for a dialogue with Islam, the other calls Islam &ldquo;backward.&rdquo; One stands against abortion, the other stands up for it. Both have criticized the war in Iraq. Both are regarded as &ldquo;conservatives&rdquo; because of their stances on specific policy issues and are not welcome at Stanford.</p>
+              <p>&ldquo;Political discussion on campus tilts heavily to the left, and the consistent exclusion of allegedly conservative speakers is part of the problem,&rdquo; the anonymous professor said.<br>
+                <br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

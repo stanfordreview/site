@@ -1,0 +1,274 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 1 - Campus Focus</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Word From The Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Campus Focus</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="../Letters_to_the_Editor/index.shtml" onMouseOver="window.status='Letters to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letters to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Petition/index.shtml" onMouseOver="window.status='Petition'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Petition</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/index.html" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Alex Robbins in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Bry Martin in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bry Martin</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='David Myszewski in Front_Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="index.html" onMouseOver="window.status='Elita Cheung in Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Elita Cheung</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Henry Towsner in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Justin Diener in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Justin Diener</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.html" onMouseOver="window.status='Scott Rasmussen in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXVII, Issue 1
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+October 11, 2001
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - Campus Focus
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Campus Focus
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Stanford Society of Women Engineers: "We're #1!"
+</font><br>
+
+<b>by Elita Cheung</b><br>
+President, Stanford SWE<p>
+
+	Stanford SWE is the best in the nation. Stanford SWE is also the only section to win the SWE Best National Student Section award two years in a row: 2000 and 2001.  We also have been recognized for our outreach events and service to the community by Stanford's Dean of Students Outstanding Achievement Award.  Mr. Wais comments, "Stanford Society of Women Engineers has had a tremendous impact on enhancing the quality of life at Stanford. I sincerely appreciate all of Stanford SWE's great work and effort in enhancing the quality of campus life."
+
+<p>
+
+<b>Industry Connection Accomplishments:</b><br>
+	Last year, our annual Evening With Industry Banquet was held at the Stanford Faculty Club in the fall, and drew over 100 students and 25 company representatives. Over dinner, students have the opportunity to talk to the company representatives and learn about industry job opportunities and new technologies, and what a typical day is like for recent graduates.
+
+<p>
+
+	In the winter quarter, we work with other engineering societies to coordinate the Stanford School of Engineering Opportunity Job Fair. The largest engineering job fair on campus, it attracted more than 140 companies and 1400 students. Not only did our SWE members come to the job fair, but over 40 volunteers helped make this event happen.
+
+<p>
+
+<b>Tutoring and Community Accomplishments:</b><br>
+	One of our core goals is to support women interested in science and engineering. In response to the demand for study groups and tutoring, SWE started a tutoring program held at the Stanford Women's Center a few years ago. This past year, the tutoring program was very successful and more engineering, math, and science classes were covered than ever. Not only do SWE members drop in for the tutoring sessions, a few members were the tutors themselves. 
+
+<p>
+
+	In addition to supporting women in engineering at Stanford, we also have outreach programs to reach out to students in elementary through high school and get them interested in science and math at an early age. In the spring quarter, we held our annual Exploring New Worlds event in which over 200 fourth and fifth graders come on Stanford campus for a day of fun science workshops led by Stanford faculty and an afternoon of design competition. The event brings together faculty and over 50 Stanford student volunteers every year. This past year, we have also started volunteering at Intel Clubhouse in East Palo Alto's Boys and Girls Club where we work with elementary school students from underrepresented socio-economic groups. In the fall quarter, we hosted JETS Day 2001 and attracted over 100 top high school students from all over Northern California. The students competed for regional, state, and national honors in the TEAMS competition, a test of math, science and engineering skills.
+
+<p>
+
+<b>Upcoming Events</b><br>
+	Stanford SWE has weekly meetings every Wednesday at noon in Terman Building, Rm 556. Our weekly lunch meetings feature a range of speakers and discussion panels broadly covering student, engineering, career and women's issues. This year, we will have the events described above, as well as a few new ones.
+
+<p>
+
+	One of the upcoming events is our Evening With Industry, held on November 6th at Stanford's Faculty club. If you are a student, we would love for you to attend this event where you have the opportunity to wine and dine with companies recruiting Stanford students for internships and jobs. If you are an alumnus, if would be great if you can help us bring more companies to this event. 
+
+<p>
+
+	Stanford SWE would like to create even more events to support and encourage girls and women to pursue engineering and science. This year, we will be starting a Middle School outreach program, along with more informal events for freshmen to find out more about the different engineering majors and opportunities available for women in engineering. 
+
+<p>
+
+<b>How to Become Involved </b><br>
+	As a student, please come to our meetings and let others know about SWE and all the activities we do. The best way to become involved is to come to our meetings and events, join our mailing list to find out what events we have planned (email <a href=mailto:majordomo@lists.stanford.edu onMouseOver="window.status='Get on the SWE mailing list'; return true" onMouseOut="window.status=' '; return true">majordomo@lists.stanford.edu</a> and type "subscribe swe" in the body of your email message), and check our website <a href=http://swe.stanford.edu onMouseOver="window.status='Visit the SWE web site'; return true" onMouseOut="window.status=' '; return true">http://swe.stanford.edu</a> for upcoming events.
+
+<p>
+
+	As an Alumnus or friend, we would love your help and support. From helping us get in touch with companies interested in supporting our organization, to financial support and volunteering for our many outreach programs, we would love your help. Please contact Elita Cheung (<a href=mailto:elitach@stanford.edu onMouseOver="window.status='E-mail Elita Cheung'; return true" onMouseOut="window.status=' '; return true">elitach@stanford.edu</a>) or any of the officers listed on our website.<p>
+
+Stanford Society of Women Engineers (SWE) is part of the National Society of Women Engineers, a non-profit organization whose mission is to:<br>
+<ul>
+<li>Stimulate women to achieve full potential in careers as engineers and leaders.</li>
+<li>Expand the image of the engineering profession as a positive force in improving the quality of life.</li>
+<li>Demonstrate the value of diversity.</li>
+</ul>
+<br>
+
+As well as promoting the objectives of National SWE, Stanford SWE strives to:<br>
+<ul>
+<li>Build programs based on women's issues in engineering from professional, personal and social perspectives.</li>
+<li>Promote corporate involvement by encouraging recruitment and participation in weekly meetings and events.</li>
+<li>Spark interest in engineering and science at the pre-college level by creating programs and projects that allow students to explore engineering careers.</li>
+<li>Create a friendly, interactive atmosphere within Stanford SWE and in the Stanford engineering community. </li>
+</ul><br>
+
+
+<i>This article is the first in a series highlighting student groups making a positive impact on the Stanford community.</i><p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:04:54 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

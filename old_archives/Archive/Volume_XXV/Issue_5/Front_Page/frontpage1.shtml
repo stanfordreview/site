@@ -1,0 +1,264 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXV - Issue 5 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.shtml" onMouseOver="window.status='A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Note From Bob</font></a><br>
+
+<a href="../Best_Of_Web/index.shtml" onMouseOver="window.status='Best of the Web'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Best of the Web</font></a><br>
+
+<a href="../Book_Review/index.shtml" onMouseOver="window.status='Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Book Review</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="../Interview/index.html" onMouseOver="window.status='Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Interview</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.html" onMouseOver="window.status='Bob McGrew in A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../Interview/index.html" onMouseOver="window.status='Brian Ball in Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brian Ball</font></a><br>
+
+<a href="../Opinion/index.html" onMouseOver="window.status='Henry Towsner in Opinion (also in Book Review)'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Jim Carlson in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jim Carlson</font></a><br>
+
+<a href="../Book_Review/bookreview1.shtml" onMouseOver="window.status='John Gibbs in Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>John Gibbs</font></a><br>
+
+<a href="../The_Last_Page/index.html" onMouseOver="window.status='Johnny Openshaw in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Johnny Openshaw</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Justin Diener in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Justin Diener</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Scott Rasmussen in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXV, Issue 5
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+December 7, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXV'; return true" onMouseOut="window.status=' '; return true">Volume XXV</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Front Page</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>Gaieties Bows To Political Correctness</font><br>
+
+<b>by Jim Carlson</b><br>
+Staff Writer<p>
+
+<table width=202  align=left>
+<tr>
+<td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Issue_5/Front_Page/images/gaieties_cast.jpg" width=200 height=125 alt="Gaieties cast">
+</td>
+</tr>
+<tr>
+<td align=center>
+The Gaieties Cast: Racists?
+</td>
+</tr>
+</table>
+	This year's Big Game Gaieties spawned a controversy that pitted sensitivity to minority cultures against a tradition of off-color comedy.  In the performance, a brief portrayal of a Native American character prompted outrage among the Native American community on campus, ultimately resulting in the dismissal of the show's producer and the removal of the offending character from the final performance.<p>
+
+	The first two shows, on Wednesday and Thursday night, included a scene in White Plaza where student actors portrayed six campus organizations: the Powwow, the Stanford Sheriffs, the Capital Improvement Plan, ROTC, the Harley Club, and the Viennese Ball.  These characters pitched their respective causes and eventually formed a chorus line clearly reminiscent of the Village People.<p>
+
+	The depiction of the Native American in this scene drew sharp criticism.  Shortly after the Thursday performance, junior Travis Helms sent an email to several campus mailing lists in which he described the actor as a "blonde, white female," who "pantomimed 'Indian sign language,' the Sacred Pipe traditions, 'war whoops,' and pranced around the booth."  He condemned the "blatant racism" implicit in this portrayal and argued that "because of their desire to have the 'Village People' in the production, they have mocked us, our traditions, our beliefs."<p>
+
+	He also expressed concern that the degrading portrayal of Native Americans would prompt audience members to think twice about contributing to the annual Stanford Powwow.<p>
+
+	Mr. Helms' complaint fueled outrage among Native Americans and other minority groups on campus.  By the time Gaieties producer Patrick Crosetto returned to his room late Thursday night, he was already inundated with email messages from friends and new-found foes.<p>
+
+	Mr. Crosetto quickly responded to Mr. Helms, apologizing for "any offense you were given by this year's Gaieties," but insisting that, "[a]s producer, I will not apologize for intentionally slandering any race, [neither] I nor is anyone on my staff racist."  Mr. Crosetto refused to consider removing the scene from the third and final performance, but offered to meet with Mr. Helms in order to answer any questions.<p>
+
+	By this point, however, the producer had already lost control of the situation as well as his production.  The Ram's Head Theatrical Society board of directors arranged a conciliatory meeting the next day at the Native American Cultural Center.  About 35 people attended, including Native American representatives, several members of the University administration, the directors of the LGBCC and El Centro Chicano, ASSU Vice President Malia Villegas, the director of Gaieties and the leaders of Ram's Head.  Mr. Crosetto was not invited to the meeting as the board felt his presence might aggravate an already delicate situation.   Indeed, Mr. Helms had already leveled a personal attack against Mr. Crosetto, citing his "ignorant, but racist views," and requesting his removal from the Gaieties staff.<p>
+
+	At this meeting, Ram's Head board members immediately agreed to remove the Native American character from Friday's performance and publish an apology in the Daily.  They also promised to strongly consider allowing the directors of each community center to review future Gaieties scripts, in order to point out possible "trouble areas."<p>
+
+	Mr. Crosetto was officially relieved of his duties later that Friday.  However, according to the board this decision was reached at an open meeting before the Native American issue arose.  Mr. Crosetto disagrees:
+	"I'm a scapegoat.  They're trying to cover their tracks, because the real reason they fired me had nothing to do with my job as a producer, but a disagreement over politics."<p>
+
+	Several administration figures played background roles in the controversy.  The four administrators who participated in Gaieties - Dean of Students Marc Wais, University President John Hennessy, Dean of Admissions and Financial Aid Robin Mamlet, and Vice Provost for Student Affairs James Montoya - reportedly considered pulling out of the Friday performance due to the complaints.<p>
+
+	Winona Simms, Assistant Dean of Students and Director of the American Indian, Alaska Native and Native Hawaiian Program (AIANNHP), weighed in on the side of the Native Americans.  Arguing that, "[t]hough not intended, 'innocent ignorance' is one of the greatest barriers to understanding between cultures and people," Ms. Simms cited a long history of insensitivity towards Native cultures at Stanford, beginning in the days of the Indian mascot.<p>
+
+	Mr. Crosetto, concerned that he was being unjustly characterized as a racist, "institutional" or otherwise, tried to arrange a dialogue with Winona Simms and Malia Villegas, but was rebuffed.  In Ms. Simms' words, "I do not expect you to change your opinions, nor is it still an issue.  In the same light, it is not necessary that you understand the Native point of view."<p>
+
+	Meanwhile, questions remain as to the accuracy of Travis Helms' original accusations.  According to Mr. Helms, the "Pow-wow booth was the only 'cultural' related issue in the play not represented by the respected cultural group.  Native Americans were the only grouped mocked."<p>
+
+	Yet while the actor who portrayed the Native American, senior Anne Terry, reportedly has Indian heritage, many other cultural groups were represented by actors of different descent and subjected to unflattering stereotypes of their own.  For example:<p>
+
+<ul><li>Two Italian characters, Spaghetti and Meatballs, described themselves as "meatheads."</li>
+<li>Korean character Kim Chee, played by a Hawaiian, was a cellular phone-using, grade-obsessed nerd.</li>
+<li>Members of the "Lederhosen Brigade" praised German beer by singing, "besides starting World Wars, it's what we Germans do best!"</li></ul><p>
+
+	Religion was also satirized, as Gaieties depicted the Christian a cappella group Testimony as a na•ve bunch of compulsively praying fanatics.<p>
+
+	Such undiscriminating insensitivity is a traditional feature of Gaieties, and a point of pride among the staff.  Sophomore Abby Phelps, press relations manager for Gaieties, made this clear in her response to Helms' original complaint.<p>
+
+	"Gaieties has always systematically mocked groups of all sorts: no one in particular is singled out, but by the same token, no one is left out.  Furthermore, all Gaieties jokes are sufficiently absurd that they intentionally undermine their own legitimacy," she wrote.<p>
+
+	Mr. Crosetto has similar views on the nature of the Gaieties.  Stressing the fact that no one is forced to go see the show, he describes it as "an entertainment event that makes fun of everyone."  For Mr. Crosetto, the possibility of allowing minority groups to review future scripts raises serious concerns.<p>
+
+	"I think this just might have been the last real Gaieties, because anyone can find any humor offensive."
+	On the other hand, the Ram's Head board of directors doesn't see the removal of offensive elements as such a troublesome possibility.<p>
+
+	"Gaieties will always be poking fun at Stanford; that's it's purpose.  But the  insulting of specific groups need not be so pronounced for the overall production to be funny."<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:55:23 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

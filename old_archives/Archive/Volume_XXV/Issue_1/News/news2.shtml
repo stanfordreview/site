@@ -1,0 +1,246 @@
+<HTML>
+<HEAD><META NAME="ROBOTS" CONTENT="NOARCHIVE">
+<title>Stanford Review [v2.0] - Archive - Volume XXV - Issue 1 - News</title>
+</HEAD>
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.shtml" onMouseOver="window.status='A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Note From Bob</font></a><br>
+
+<a href="../Best_Of_Web/index.shtml" onMouseOver="window.status='Best of the Web'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Best of the Web</font></a><br>
+
+<a href="../Book_Review/index.shtml" onMouseOver="window.status='Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Book Review</font></a><br>
+
+<a href="../Election_Roundup/index.shtml" onMouseOver="window.status='Election Roundup'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Election Roundup</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="../Interview/index.shtml" onMouseOver="window.status='Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Interview</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Last_Page/index.html" onMouseOver="window.status='Alex Robbins in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../A_Note_From_Bob/index.html" onMouseOver="window.status='Bob McGrew in A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Chris Desmond in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Desmond</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Christopher Fish in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Christopher Fish</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Dave Myszewski in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Myszewski</font></a><br>
+
+<a href="../Book_Review/index.html" onMouseOver="window.status='Henry Towsner in Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Mike Neruda in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mike Neruda</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Scott Rasmussen in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+</font>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXV, Issue 1
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+October 13, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXV'; return true" onMouseOut="window.status=' '; return true">Volume XXV</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Stanford's Very Own Confederate Flag: The Xanadukes of Hazzard
+</font><br>
+
+<b>by Christopher Fish</b><br>
+Senior Staff Writer<p>
+
+Undoubtedly, it seemed like a good idea at the time.<p>
+
+	Resident assistants (RA's) traditionally prepare dorms for new residents by, among other things, marking every door with its future residents' names and by putting a sign near the entrance with the dorm's name.  According to a silly and generally harmless tradition, these name tags and the dorm sign must be jazzed up in some cheesy way to present a coherent dorm decoration theme.  For this year, Xanadu chose to include the confederate flag in their theme.<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Issue_1/News/images/confederate_flag.jpg" width=290 height=250 alt="Confederate Flag" align=left>
+	The Xanadu theme is based on "Dukes of Hazzard", a television show about the escapades of the Duke family of Hazzard County, in which they outwit and outdrive the clumsy, crooked county officials.  Each resident's name is printed on a sheet alongside "General Lee," an orange car with a Confederate flag on its roof, and the central figure of "Dukes of Hazzard."  The staff hung an orange banner with the "Xanadukes of Hazzard" outside the house.  The controversy arose from the 'X' of "Xanadukes" - navy with white stars, like the cross of the Confederate flag.  <p>
+
+	After noticing the banner, ASSU Undergraduate Senator Edjah Nduom complained about it in an email sent to the Senate.  The email and much of the Senate email about the issue was sent to a list which automatically posts to the newsgroup su.org.assu; the result is that any Stanford community member may follow the story.  Mr. Nduom explained that the banner represents a Confederate flag and as the Confederate flag is immediately associated with racism and slavery, the banner should be removed.  "A lot of us have said that we feel that diversity is important and I hope that this means that we will not sit idly by and allow the confederate flag be displayed on our campus."  The reaction of the other Senate members was immediate and mirrored Mr. Nduom's outrage.<p>
+
+	From the onset, the Senate decided to keep the matter quiet while working as quickly as possible to have the banner taken down.  Mr. Nduom said that his "my goal is not to make an issue of this.  The reason I came to the senate is because I value efficiency.  I want the banner down, and quite frankly I want it down now."  The Senate Chair Serge Kassardjian would explain later that "We didn't want people getting hurt by the banner."  <p>
+
+	Mr. Nduom promptly went to Andrew Papson, the Xanadu house manager.  While Mr. Papson and the rest of the house staff have refused to comment on the banner, Mr. Nduom reports that "he [the manager] responded by saying that it was not their intention to offend anybody, that they hadn't thought of it in that context, that they picked the theme because the Xanadukes of Hazzard has a nice ring to it, etc." As to taking the banner down, the manager wanted the house and staff to decide for itself.  It was a question of "autonomy" - the house could decide to keep the banner if it chose to.<p>
+
+	Mr. Nduom's responded that "the banner  [being] outside in a very high traffic area means it affects more than just the house members, affecting the climate on campus as a whole, and so that autonomy is less valid."  The manager agreed to arrange a staff meeting during which Mr. Nduom and other senators could also express their views.<p>
+
+	Meamwhile, the discussion about the banner continued among the senators.  The senators repeatedly dismissed the importance of house staff's intentions, seemingly accepting the fact that the staff had no malicious intentions.  In a reply to ASSU vice-president Malia Villegas' question about the staff's intentions, Mr. Nduom said, "I am actually fairly certain that the staff did not intend to make black people uncomfortable by choosing that theme - but they have...the motive is somewhat irrelevant."  <p>
+
+	Added senator Chrystallyn McCloud, "I am sick and tired of ignorance being some sort of excuse, because it is not.  People seem to have the attitude that we are being overly sensitive, but you all don't have any idea what it means to live with constant reminders of racism lurking around you.  Are we supposed to be comfortable in a campus where a Dukes of Hazard [sic] theme is considered acceptable?"<p>
+
+	Senator Alana Aldag was the first to bring up the issue of free speech: "Unfortunately, diversity must allow for elements people like as well as dislike (as long as the disliked elements are acting lawfully).  If the Xanadu banner is not unlawful (and, while it is distasteful, it does not sound like it is unlawful) then people allowing for diversity will have to accommodate it and hope that the majority rejects it for what it is."  <p>
+
+	This was a point with which the senators who responded disagreed.  The central issue was interpretation: whatever the staff had in mind, people might take offense.  "I think that it is important to note the difference between 'distasteful' and 'ignorant'". While it may very well seem relative, it is pretty evident." said senator Anna Otieno.  Ms. Aldag later clarified her position, saying, "I was never not in support of taking the banner down."<p>
+
+	Graduate student Joseph Bay sarcastically suggested being very "even-handed" about banning offensive material: clockwise Swastikas of Hindus and Buddhists should be banned as well as the counterclockwise ones of the Nazis; the Jewish Magen David for the sake of displaced Palestinians; even the Union Jack for the sake of those who suffered under colonialism.  <p>
+
+	By Thursday the 28th, Mr. Nduom had written prepared a letter explaining why the banner should be removed and had obtained endorsements from most of the senators.  But the letter was never sent to the staff and the banner never removed.  <p>
+
+	The Xanadu residents had taken a vote by secret ballot, the final tally of which the staff will not release.  But the banner was changed so that the 'X' is know a plain blue.  As one resident explained, "They [the staff] decided to reach a compromise since they had worked hard on [the banner]." Another resident said "[The staff] hadn't found the sign to be offensive, but if other people had, then something should have been done."  Once the flag was covered, discussion by the Senate drew to a rapid close.<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:52:45 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

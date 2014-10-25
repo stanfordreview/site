@@ -1,0 +1,451 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - January 26, 2007</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style1 {font-weight: bold}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXVII, Issue 11 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">January 26, 2007 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">THE NINETIES </div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Woman of the Year: Condoleezza Rice </p>
+              <p class="byline">by David Stoffel</p>
+              <p class="byline"><em>Jan 1994, Vol. 12, No. 1, pg. 1</em></p>
+              <p class="style1"><img src="nineties2.jpg" width="300" height="195" border="0" align="right"></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>On Thursday, January 6, Stanford University Provost Condoleezza Rice met with The Stanford Review in her office to discuss the state of the University, her experiences as Provost, and her reactions to being named the Review&rsquo;s &ldquo;Woman of the Year.&rdquo;  Rice, who is the University&rsquo;s ninth Provost, began her duties as the University&rsquo;s chief financial and academic officer in September of 1993.  Rice received her bachelor&rsquo;s degree from the University of Denver, where she graduated Phi Beta Kappa.  She then received her master&rsquo;s degree from Notre Dame and her doctorate from the University of Denver Graduate School of International Studies.  Rice first came to Stanford in 1981 as an assistant professor of political science.  From 1989-1991 Rice took a leave of absence from the University to work in the White House as special assistant to the President for national security affairs.  At 38, Rice is the youngest Provost in the University&rsquo;s history.</p>
+              <p><strong><em>The Stanford Review</em>:</strong> Last fall, former Provost Lieberman projected a deficit of about eleven million dollars.  Now we&rsquo;re projecting a deficit of about twenty million dollars.  Is this a product of bad bookkeeping?</p>
+              <p><strong>Condoleezza Rice:</strong> Actually, what happened was the ten or so million dollars that Provost Lieberman talked about is the basic budget deficit, but we had a few unexpected problems come up.  First of all, we had not had a chance to understand the impact of the changes in the US government cost accounting methods, called A21, which sets the rules for what we can and cannot charge to the government.  So the impact of that could be in the range of five to eight million dollars.<br>
+                Then there was a deferred maintenance study done that suggested we have a more serious maintenance problem here at Stanford than we had thought we had.  So, we had to borrow money to do the deferred maintenance which also added to the deficit problem.  So the capital plant problems plus the changes in the A21 added to the expected ten million dollar deficit.</p>
+              <p><strong>S.R.:</strong> There are a lot of students who are worried that programs that are dear to them, like foreign language and ethnic programs, are going to be substantially cut. Are these fears justified?</p>
+              <p><strong>CR:</strong> Well, everybody is under the microscope. No one is exempt from this process of examining how we are going to live within our means. The one mini-exemption is the development office which has already gone through a reorganization and is a sort of lifeline for us, and is one of the few areas that we can actually increase revenue.</p>
+              <p>Aside from that and some fixed costs the university has to pay for environmental health and safety improvements, everything has to be examined. President Casper and I are committed to culture and cultural studies, but we are asking every program to organize task forces because anything we do we have to do efficiently and well, we don&rsquo;t have room for mediocrity.</p>
+              <p><strong>SR:</strong> What is the university doing to increase alumni support?</p>
+              <p><strong>CR:</strong> There are a couple things going on.  We are interested in and troubled by the small percentage of alumni that contribute to the annual fund. We average around the 23% giving range compared to the 50% of our peer institutions. Stanford has a diffuse identity. We don&rsquo;t have a college, which is one problem. Everyone identifies with their row house or public service center or organization and it seems that people have trouble identifying with Stanford. I think we need to have a much stronger Stanford identity.</p>
+              <p>Secondly, we need to communicate that being accepted and going through Stanford creates an obligation to the university so that it is possible for others to follow you. It isn&rsquo;t just &ldquo;what can I get out of Stanford and then go on with my life?&rdquo;, but we really have a responsibility to return some of what we get back to the University. Tuition dollars pay for maybe 45% of an education; the rest has to come from other sources. And finally we just need to reach out more to the alumni and to tell them that we are the guardians of Stanford and that we are spending people&rsquo;s money wisely.</p>
+              <p><strong>SR:</strong> Recently, Stanford named Charles Schwab and Rebecca Morgan to the Board of Trustees. Do you find it significant that they are both outspoken conservatives?</p>
+              <p><strong>CR:</strong> I don&rsquo;t want to characterize how they would characterize themselves. I have known both for a long time and being conservative didn&rsquo;t have anything to do with being named to be trustees. They were chosen because they are people of integrity and are people of broad experience in a variety of issues that are affecting the university. Their selection was really about the individual, not their ideologies.</p>
+              <p>That&rsquo;s how I would like to think about everything; people will have different views. Anybody who tells you they don&rsquo;t have views is either lying or apathetic, two qualities that you don&rsquo;t want on the Board of Trustees. The key is the individual and the strengths that they bring, and both of these people bring integrity and strength that the board can benefit from.</p>
+              <p><strong>SR:</strong> Their is a lot of confusion in the Stanford community about apparent chain of command in the University; for example, the many levels of decision-making from the faculty senate to the President to the Board of Trustees. What do you see as the role of the Board of Trustees?</p>
+              <p><strong>CR: </strong>That&rsquo;s a good question, because it can get confusing. The Board of Trustees has overall fiduciary responsibility for the University. They are the guardians of its future and integrity as an institution. They are people who have a stake in the university and can oversee it. The management of the University resides somewhat more diffusely than in almost any other type of institution. Yes, there is a President and a Provost, but they are not really all that powerful because so much of the governance is really faculty governance. [President] Gerhard [Casper] and I cannot make a single faculty appointment. It just isn&rsquo;t in the governance structure.</p>
+              <p><strong>SR:</strong> From your perspective as a faculty member, what recommendations would you like to see the Commission on Undergraduate Education make in their final report?</p>
+              <p><strong>CR: </strong>I think rather than focus on what I would hope comes out of the Commission, let me say that I hope that there are some issues they will address. I am talking about what the undergraduate education of 2000 would look like, not in 1993. It&rsquo;s important they have a forward looking dimension in addressing these consents.</p>
+              <p>Everybody remembers their undergraduate education through rose colored glasses or completely dark glasses and the tendency is le say &ldquo;well when I was an undergraduate we did...&rdquo; What everyone has to remember is that they were undergraduates twenty-five years ago and the world has changed a lot in those twenty-five years. The faculty has to keep pressing themselves into pushing forward.</p>
+              <p>I also hope that they address the coherence of our undergraduate experience&mdash;its rigor&mdash;and question whether we really challenge and push our undergraduates. We get extremely capable students. You don&rsquo;t get into Stanford unless you are very capable and accomplished. Do we then make it hard enough so students can challenge themselves and feel that they were really achieving here at Stanford? I hope that they will address challenge and coherence. <br>
+                I am concerned that we have an awful lot of majors. It is entirely possible that you could randomly pick five Stanford students, and they wouldn&rsquo;t have anything in common about their academic experiences. I think that&rsquo;s a mistake. I hope they address skills. People talk about writing and being able to manipulate the English language, but people should be able to do that orally also. People in their professional lives will make more arguments orally than in writing, and we don&rsquo;t provide Stanford students with the training to mobilize evidence on behalf of an argument and-sustain if in the face of criticism. We have to provide more opportunities such as that for our students.</p>
+              <p>And finally we really have to address, in the more cosmic sense of it, how does the college experience differ in a research oriented university than from a liberal arts college. There are some disadvantages to going to a research university, but there are many, many more advantages if we could mobilize them. And that means more research opportunities, more small classes and more one-on-one interaction between faculty and students.</p>
+              <p>There is a lot of talk as to whether faculty at research universities teach, and the answer is yes. It&rsquo;s a lot harder to teach a graduate student to teach. So we have to focus on small group interaction and what&rsquo;s special about being in a research university like Stanford.</p>
+              <p><strong>SR: </strong>&ldquo;The Winds of Freedom&rdquo; is an organization of students, faculty, and alumni set up by the Review to try to restore a liberal arts education to what is seen as a politicized curriculum. How do you feel about the formation of this group?</p>
+              <p><strong>CR:</strong> I have no objection to the formation of this group. Anyone who wants to address the character of their education is a welcome thing. I would warn against jumping prematurely to what the character of a liberal arts education ought to be. And I&rsquo;m a little concerned with language like &ldquo;traditional&rdquo; or &ldquo;restore.&rdquo; The world has come a long way in a short period of time. The liberal education of	1995 or 2000 isn&rsquo;t going to look like the liberal arts education of 1950. There is a stronger sense of the interaction of cultures, the growth in the U.S. of a more diverse populations and how human beings relate to technology all are different than what was seen in 1950.</p>
+              <p>I&rsquo;m a traditionalist in a lot of ways.  There is great benefit in understanding the past and languages and so forth.  The modern day liberal arts education is going to look different simply because the world looks different.  I would hope whatever group wants to address undergraduate education will be forward, not backward looking.  That would be my only warning.</p>
+              <p><strong>S.R.: </strong>You have witnessed firsthand the inner workings of the Casper Administration.  How does the current president differ in terms of vision, style, and leadership with the much maligned former President Donald Kennedy?</p>
+              <p><strong>CR: </strong>I didn&rsquo;t work in the Kennedy administration, but have great respect for Don Kennedy. He was president when I came (to Stanford) as an Assistant Professor in 1981. I think that he and President Casper share an interest in emphasizing undergraduate education. It is Don who worked hard to establish tenure standards that took seriously the person&rsquo;s ability to teach undergraduates.</p>
+              <p>I can tell you when I first came to Stanford that professors used to tell new assistants that research, and not teaching, was the key to tenure. I won the Gores award for teaching in 1984, and there were senior faculty who took me aside and said to watch out because winners of the Gores award don&rsquo;t get tenured. There was an element at Stanford that solely emphasized research, and Don went a long way in restoring the proper balance between the two. We are trying to build on what he started.</p>
+              <p>On leadership Don was a little more flamboyant, while Gerhard is less so, but they have similar senses of humor. And I think that after the ten years of the Kennedy administration, Stanford was in better shape than before his arrival in many ways. We went through some difficult times, but those difficulties were not unique to Stanford. And while Stanford was at the leading edge, if you talk now to people at Yale and Columbia, they are experiencing similar difficulties.</p>
+              <p>The thing I like about Gerhard is the depth of his dedication to scholarship and the academy.  The first time I talked to him I came away saying that this is someone who cares deeply about education and teaching.</p>
+              <p><strong>S.R.:</strong> What do you see as your most important achievement as Provost so far?</p>
+              <p><strong>C.R.:</strong> I&rsquo;m still here (laughter).  I can tell you what my most important task is this year.  We have simply got to get the university back into financial health, where we are living within our means and not trying to close deficits year after year after year.  What we have to do is restructure ourselves so that we can plan for the future.  You don&rsquo;t build an academic program one year at a time, and we are in that type of situation right now.</p>
+              <p>I find my most important task working on that budgetary task and then thinking where we need to make strategic investments.  The whole area of technology, academic computing and the technological level of our classrooms is an area that Stanford will be very badly served if we don&rsquo;t pay attention to it very soon, and yet we don&rsquo;t have the resources to do that just yet.  We need to cut the budget to gain a flexibility that we now don&rsquo;t possess.</p>
+              <p><strong>S.R.:</strong> In a recent interview with President Gerhard Casper, we found out that in all the letters he gets, the criticized topic is the failure of the University to return to its former mascot, the Stanford Indian. Is there a chance of Stanford returning to the Indian?</p>
+              <p><strong>CR: </strong>I don&rsquo;t think we&rsquo;ll spend that much time worrying about it. I like the tree, more some years that others.  And I think it&rsquo;s basically unimportant. What is interesting to me is that Stanford, through its athletic programs also achieved a great deal. We have athletes we can truly call scholar-athletes and they perform well.  I don&rsquo;t care much what the mascot is; I think the Cardinal is fine.</p>
+              <p><strong>SR: </strong>Why do you suppose the alumni care?</p>
+              <p><strong>CR: </strong>You&rsquo;re always a captive of your experience, and you always think that what your experience was is what the University should always be. The University of Denver had the Pioneer; I guess I would be upset if that was taken away, but I wouldn&rsquo;t spend much time thinking about it. We have twenty years of Cardinal students, and it&rsquo;s doing just fine.</p>
+              <p><strong>SR:</strong> To the extent that many alumni cite the Stanford Indian as a reason for not donating to the University, don&rsquo;t you see any correlation with that on the macro level?</p>
+              <p><strong>CR:</strong> On a macro level, yes. The Indian is representative in many alumni&rsquo;s minds of something.  The real issue lies behind what the Indian symbolizes to the  alumni. But it goes to the point I was making before, universities have to look forward. They have to be institutions that can cope with the character of the modern world while keeping at their core a set of scholarly issues. Maybe talking to alums about our commitment to those values instead of our external manifestations that people may read as a rejection of those values.</p>
+              <p>Those values are simply freedom of thought and expression. If you cannot freely express your opinion, hopefully in a civil way, then you have lost what makes universities important and with it to allow people to say and do what they think. I studied a country (the former Soviet Union) that thought that everyone would be better off if it controlled what people said and thought, and that nation just committed suicide.</p>
+              <p>And that&rsquo;s at the core of the university, the commitment to the search for an objective standard of truth. I think if we could keep focused on that, alumni will concentrate less on whether we are the Indians or the Cardinal.</p>
+              <p><strong>S.R.:</strong> What are your thoughts on the University&rsquo;s speech code?</p>
+              <p><strong>C.R.:</strong> I don&rsquo;t know what we should do about it.  I wasn&rsquo;t here when it was instituted and I haven&rsquo;t spent that much time thinking about it.  It attempts to protect free speech and yet still make this a civilized place to be.  That is the goal of the code.  We have to protect free speech but we have to be civil to one another.  And walking up and engaging in hate speech is not appropriate in a community.  Restrictions on free speech can poison the atmosphere so that people cannot engage intellectual discourse.</p>
+              <p>If you push me, I will defend the right of people to have free speech.  As a black woman, it is uncomfortable for me to be in an environment where people are saying hateful things.  But if I cut that person off, I have eliminated my ability to engage that person and have damaged the community as a whole.  So people should know better, but there is a tension that isn&rsquo;t helpful when you&rsquo;re trying to create a community and environment of intellectual discourse.<br>
+                S.R.: What is your reaction to having been named our Woman of the Year 1993?</p>
+              <p><strong>C.R.:</strong> I think it&rsquo;s delightful.  I hope you still think so a year from now.  But I do want to say that universities are impervious to the impact of a single person, however.  And I hope that everyone realized the impact of the faculty, because that is really what this institution is about.</p>
+              <p><br>
+                <br>
+                <br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

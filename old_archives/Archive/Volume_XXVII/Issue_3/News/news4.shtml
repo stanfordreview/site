@@ -1,0 +1,313 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 3 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Campus_Focus/index.shtml" onMouseOver="window.status='Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Campus Focus</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Petition/index.shtml" onMouseOver="window.status='Petition'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Petition</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Alex Robbins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="news8.shtml" onMouseOver="window.status='Andrew Wright in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Chris Desmond in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Desmond</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Chris Lin in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Lin</font></a><br>
+
+<a href="news6.shtml" onMouseOver="window.status='Dave Kim in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Kim</font></a><br>
+
+<a href="news9.shtml" onMouseOver="window.status='Dave Myszewski in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Myszewski</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='David Regele in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Regele</font></a><br>
+
+<a href="news7.shtml" onMouseOver="window.status='Henry Towsner in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Joe Lonsdale in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../Campus_Focus/index.html" onMouseOver="window.status='Joe Spieczny in Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Spieczny</font></a><br>
+
+<a href="news5.shtml" onMouseOver="window.status='Keun Lee in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Keun Lee</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Nels Hansen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Sam Shapero in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+<a href="../Editors_Note/index.html" onMouseOver="window.status='Scott Rasmussen in Editor's Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<a href="news9.shtml" onMouseOver="window.status='William Rothacker in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William Rothacker</font></a><br>
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 3
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+November 15, 2001</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Honor Society Underrepresents Minorities
+</font><br>
+
+<b>by Ryan Wisnesky</b>, Staff Writer<br>
+<b>with Chris Lin
+and Mark Zavislak</b>,
+Contributing Writers
+
+<p>
+
+<i>Editor's Note: This report is a follow-up of Aman Verjee's study of Phi Beta Kappa performance by race and gender, which was first printed in the November 7, 1994 Stanford Review.  The purpose is not to create or reinforce stereotypes, but to provide objective data for the campus dialogue on affirmative action.</i>
+
+<p>
+
+The Stanford community generally takes pride in both its academic excellence and its diversity.  According to <i>Stanford Review</i> investigation, however, this diversity does not yet extend to all reaches of the Stanford community.
+
+<p>
+
+Stanford's racial diversity in particular is not fully evident in all segments of the student body. Using Phi Beta Kappa as an indicator for academic success, The <i>Review</i> found a significant discrepancy between the racial makeup of the PBK class of 2001 and that of the overall class of 2001.
+Phi Beta Kappa (PBK) is a nation-wide honor society comprising approximately 10% of Stanford's graduating seniors.  To secure admission, a student has to meet the following criteria, as listed in the Stanford Bulletin:
+
+<p>
+
+- Take at least three courses in the following areas: Humanities; Science, Engineering & Mathematics; and Social Sciences.  IHUM courses do not count toward this total.<br>
+- Achieve both breadth and distinction in classes taken.  Ô+' and ÔCR' are not taken as signs of distinction.
+
+<p>
+
+During the review process, all identifying information is removed from the application.  Students are considered for admission in an automatic process.  PBK admission is based solely on grades earned and classes taken.  It does not consider any other factors.
+
+<p>
+
+Because PBK judges applicants according to objective and well-defined criteria, we considered it to have a reasonably good correlation to academic achievement in general.  With 179 total members from the Class of 2001, PBK also is large enough that the study could avoid the effects of random distribution on a small sample.  If the university's stated goals of diversity have been successfully realized, PBK should represent a cross section of the students on campus that succeed academically.  However, because Phi Beta Kappa does not collect statistics about the ethnicity of its classes, the Review collected its own using a 1997 facebook.  From the 70% of PBK members identifiable in the book, several trends began to emerge:	
+
+<p>
+
+- The percentage of whites in PBK and in the entering 1997 Freshman class is virtually identical.<br>
+- The percentage of Asians in PBK is greater than in the entering 1997 Freshman class.<br>
+- The percentage of foreign students in PBK is substantially greater than in the entering Frosh class.<br>
+- The percentage of Hispanics / Latinos in PBK is less than in the entering Frosh Class.<br>
+- At least among those identifiable from the facebook, there was not a single black in PBK.
+
+<p>
+
+The slight discrepancy between male/female ratios in the entering frosh class and PBK is perhaps totally due to statistical anomaly; the 45% to 55% ratio is not statistically significant in a class with equal numbers of men and women.  Equally likely, however, would be a 45% to 55% M/F ratio in PBK from a frosh class that is 60% female.  Robin Mamlet, Dean of Undergraduate Admissions and Financial Aid, says that Stanford does not strive for a balance between men and women, and the applicant pool for frosh is roughly 50%/50% M/F.
+
+<p>
+
+Given the prominence of Stanford's Engineering departments, which in general have much larger percentages of male students than female students, and that engineering students find it much more difficult to meet PBK's tough liberal arts requirements, a shift in PBK towards females is certainly plausible absent any actual difference in academic achievement within department.  On the other hand, according to numerous "College Board" surveys, female high school GPAs are markedly higher nationwide, which would indicate that the slightly disproportionate PBK representation is due to a higher degree of achievement that carries over from high school into college. 
+
+<p>
+
+The racial statistical discrepancies, however, are much larger, and presumably these somewhat lopsided results are not in accordance with Stanford's goal of trying to foster diversity throughout student life.  There are numerous possibilities that can account for the discrepancies between ethnicity of incoming frosh and members of PBK:
+
+<p>
+
+First are errors in data collection.  70% of PBK members were identifiable, and it is certainly statistically possible that the discrepancies stemmed as a result of this uncertainty.  Of course, the Review would not need to make classifications based on photographs if the University released official data regarding race, gender, and academic achievement, which it has not done to date.
+
+<p>
+
+A second possible explanation is that PBK discriminates in admissions.  This is very unlikely though, as all identifying characteristics are removed from each application prior to evaluation.
+
+<p>
+
+A third is that Stanford professors systematically give lower grades to black and Hispanic students.  Although possible, this is unlikely because individual tests are often graded by separate professors and TA's that have no knowledge of a student's ethnicity based solely on that student's name.
+
+<p>
+
+A fourth is that black and Hispanic students tend not to take the wide breadth of courses required for PBK admission.
+
+<p>
+
+A fifth is that Stanford has different admissions criteria for students of different races.  This explanation, however, assumes that high school "achievement" directly correlates not just to college achievement but specifically to PBK admissions.  According to Ms. Mamlet, "I don't think many people at Stanford would buy into the notion that those with the best grades are necessarily those who should be admitted."
+
+<p>
+
+Stanford University does use race as an admissions factor.  When asked about this use of race as a factor, Ms. Mamlet stated that "race is a complicated issue" and "Stanford does not discriminate in the admission process on the basis of either race or gender."   However, at the same time, she states that, "Stanford also believes. . . . race is one of the factors that is permissible to take into account in building a student body that is diverse along many dimensions."
+
+<p>
+
+According to The Stanford Daily, "the current diversity in our student body is due in part to affirmative action and admissions programs. . . . As a private institution Stanford was able to avoid the legal restrictions of prop 209, a referendum banning the use of affirmative action admissions policies" (Editorial, 11/6/01).  
+
+<p>
+
+This explanation, that the discrepancies between percentage of PBK membership and percentage of the class as a whole can be attributed to lopsided admissions policies, is in fact confirmed by the data received on the foreign students.  Because Stanford does not admit foreign students on a "need blind" admissions program, a great many foreign students are explicitly handicapped in the process and are held to a higher standard than their American counterparts.  As a result of this policy they fare much better in PBK admissions.  According to this model, the abnormally high PBK membership of a group can be attributed to an unfavorably discriminatory admissions policy.  Presumably the converse would be true as well, reinforcing the theory that explains the PBK/class percentage discrepancies by attributing them to discriminatory admissions policies.
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:12:43 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

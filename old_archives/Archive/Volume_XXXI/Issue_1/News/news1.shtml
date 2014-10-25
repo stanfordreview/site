@@ -1,0 +1,305 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 1 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorials/index.shtml" onMouseOver="window.status='Editorials'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorials</font></a><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Features'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Features</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../../../Volume_XXX/Issue_1/The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Front_Page/frontpage1.shtml" onMouseOver="window.status='Bob Sensenbrenner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob Sensenbrenner</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/News/news3.shtml" onMouseOver="window.status='Charles Hallford in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Opinion/opinion4.shtml" onMouseOver="window.status='Jeff Russell in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jeff Russell</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Opinion/opinion5.shtml" onMouseOver="window.status='Laura Billadello in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Laura Billadello</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Opinion/opinion3.shtml" onMouseOver="window.status='Laura Surma in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Laura Surma</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/News/news4.shtml" onMouseOver="window.status='Michael Hasper in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Entertainment/index.shtml" onMouseOver="window.status='Ming Zhu in Entertainment'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Editors_Note/index.shtml" onMouseOver="window.status='Piotr Kosicki in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr Kosicki</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/News/news1.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Opinion/opinion2.shtml" onMouseOver="window.status='Travis Menk in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Travis Menk</font></a><br>
+
+<a href="../../../Volume_XXX/Issue_1/Opinion/opinion1.shtml" onMouseOver="window.status='William E. Hudson in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William E. Hudson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 1
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+October 3, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Professors, Community Leaders Discuss Recall
+</font><br>
+
+<b>by Harrison Y. Osaki</b><br>
+News Events Editor<p>
+
+Stanford In Government (SIG), a student group that promotes political involvement 
+on campus, held an informational panel of Stanford professors and Hoover fellows 
+on the California Recall on Monday, September 29th. The panel, which was entitled 
+&quot;Recall-ifornia,&quot; was designed to inform students about the recall and 
+to allow students to question their professors on what consequences the recall 
+has for California and democracy in general. In general, the professors expressed 
+a common belief that the recall is symptomatic of an overall problem with the 
+political system, but expressed optimism for the theory behind the recall.
+<p>Five of the six advertised panelists were in attendance- David Brady of the 
+  Public Policy Program and a Hoover Fellow; Shanto Iyengar of the Department 
+  of Communication; Roger Noll of the Public Policy Program; Tom McEnery, former 
+  Mayor of San Jose for twelve years; and Quentin Kopp, a California Superior 
+  Court Judge. Morris Fiorina of the Political Science Department did not make 
+  the event. Roughly twenty to thirty people attended the panel, which was held 
+  in the Cypress Room in Tresidder. </p>
+<p>The moderator Neil King, a Hoover Media Fellow, opened the panel by asking 
+  the professors whether they felt the recall was a &quot;bold new democratic 
+  experiment&quot; for California. Professor Brady began the responses with the 
+  statement that the recall was neither a &quot;right-wing conspiracy&quot;, nor 
+  &quot;bold&quot;, nor an &quot;experiment&quot;; instead, Brady said, the true 
+  results of the recall would have to be seen in hindsight, after the completion 
+  of the election. Former Mayor McEnery followed up Brady's statements with a 
+  brief explanation of the history of the recall and its roots in the Progressive 
+  Movement and Hiram Johnson in the early 1900's. McEnery characterized this recall 
+  as a &quot;grassroots revolt,&quot; and pointed out that a great number of common 
+  people were participating in the recall election, which was unusual for California. 
+  For that reason, McEnery felt that the recall was an experiment.</p>
+<p>Professor Noll opened his comments with the statement that individual voters 
+  do not usually waste their time on learning issues because their votes are, 
+  compared to the overall total, worthless. He felt that the central problem of 
+  California's economic situation part of the impetus behind the recall was created 
+  in part by voters, who are contradictory in that they like both tax cuts and 
+  spending money on initiatives. According to Noll, when Proposition 53 passes, 
+  90% of the California budget will be determined by interest on debt, spending 
+  on initiatives, or federal mandates. Noll also cited the California energy crisis 
+  and worker's compensation issues as issues behind the recall, but unlike McEnery, 
+  Noll felt that the people behind the recall were &quot;taking advantage of voters' 
+  ignorance.&quot; Professor Iyengar, who followed Noll, questioned whether Arnold 
+  Schwarzenegger could win a normal primary if he had to run for governor in a 
+  typical election.</p>
+<p>Former Mayor McEnery, in conjunction with Judge Kopp, expressed the belief 
+  that the problems with the government in California began at the top. McEnery 
+  said that people such as the Fiduciary Committee have betrayed their constituents, 
+  and cited several examples where the Republican and Democratic parties have 
+  actively stopped initiatives using money that would be baneful for both parties. 
+  Kopp talked about his own experience in creating a bill to prevent over-collecting 
+  of money for political campaigns, and the problems he faced in doing so.</p>
+<p>The panel then took questions from the audience. The first question asked how 
+  the recall would change the political system, to which the panel members generally 
+  said that it would not result in significant change. In general, the panel agreed 
+  that the governorship of California is a fairly weak position. Noll commented 
+  that the governor gets some control over monetary funds, but has little political 
+  power. Kopp disagreed with the rest of the panel, however, in that he believed 
+  that the governor has power through leadership, which he felt Gray Davis has 
+  not provided. Kopp pointed out several instances where he felt Gray Davis had 
+  demonstrated leadership, such as in 1999 where Davis made clear that he expected 
+  judges to work with him, and also pointed out that the governor has power over 
+  redistricting. </p>
+<p>Noll and McEnery then had a discussion on who was responsible for the current 
+  budget crisis, with Noll expressing his belief that the current system was hopeless 
+  because the legislation, backed by special interests, has been primarily responsible 
+  for the budget crisis. McEnery did not think the system was hopeless, although 
+  it did required repair.</p>
+<p>The topic of the conversation then turned to Arnold Schwarzenegger, as an audience 
+  member asked whether or not Schwarzenegger would have the ability to effectively 
+  govern, and whether the structural problems that Gray Davis was being blamed 
+  for were his own fault or the fault of his predecessors. The professors were 
+  generally in agreement that the success of the new governor would be to some 
+  degree out of his control.</p>
+<p>The next question concerned the consequences of having recalls of weak governmental 
+  officials, on which the professors generally replied in concurrence that the 
+  political consulting business over-benefited from recalls and the initiative 
+  system. While mostly in agreement (to varying degrees) that the initiative system 
+  was beneficial for democracy and California in general, McEnery's statement 
+  that the &quot;incestuous relationship&quot; between political consultants, 
+  politicians, and special interests was responsible for many of California's 
+  problems was characteristic of the group. In particular. McEnery cited the relationship 
+  between Cruz Bustamante, Indian Casino groups, and a particular consultant that 
+  he (McEnery) had worked with.</p>
+<p>The professors were also asked what the consequences would be on a national 
+  stage. Noll commented that California, due to low voter turnouts, was a fairly 
+  easy target for recalls and thus did not have anything necessarily to do with 
+  national politics or conspiracies.</p>
+<p>Noll ended the session by castigating the state assembly for being out of touch 
+  with the populace. He commented that there was &quot;bipartisan chaos&quot; 
+  in the assembly, and that the lack of institutional memory meant that few reforms 
+  or bills helpful to California would get past career bureaucrats. <br>
+</p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:24:46 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

@@ -1,0 +1,225 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 2 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorial</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Bob McGrew in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Christine Boehm in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Christine Boehm</font></a><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial Board in Editorial'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Board</font></a><br>
+
+<a href="../News/news5.shtml" onMouseOver="window.status='Gary J. Raichart in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Gary J. Raichart</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Michael Hasper in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Shawn M. Sims in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Shawn M. Sims</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 2
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+October 15, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 2'; return true" onMouseOut="window.status=' '; return true">Issue 2</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sansserif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sansserif" size=+2>
+Universities Selling Out to the Marketplace?
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sansserif" size=+1>
+Review of "Universities in the Marketplace" and "The Future of the Public University in America"
+</font><br>
+
+<b>by Bob McGrew</b><br>
+Editor <i>Emeritus</i><p>
+
+Every day, hundreds of students attend class in the Hewlett-Packard auditorium, then walk across the hall to use the computer cluster in the Mitsubishi Electric Corporation classroom. Upstairs in the Bill Gates building, their professors supplement their salaries by consulting for corporations on Fridays or sell the results of their publiclyfunded research to investors in an IPO. Thanks to Nike's lucrative sponsorship, studentathletes wear the swoosh on their uniforms; their exertions on the playing fields netting the university around $50 million in revenues. Critics say the desert bazaar is replacing the ivory tower: everything is available for a price.<p>
+Yet if the university has intruded into the marketplace, it is clear that the marketplace has also intruded on the university. Universities are ranked like sports cars by US News, while forprofit universities and distancelearning centers force universities to compete for students in ways that they never did before. Student activists deride the university as a corporate behemoth that exploits its workers, while presidents ache for the direct control that a CEO has over his employees.<p>
+The two scenarios spin different tales of the future of the university. In one, money and advertising corrupt the university into losing its focus on teaching and research. In the other, market forces compel the university to become nimbler and more responsive to society. They erase the anachronistic constraints that have prevented it from focusing strategically on its core markets.<p>
+Two recently published books each explore one of these possible futures. Universities in the Marketplace, by Derek Bok, the former president of Harvard, argues that commercialization threatens the values of higher education and provides an agenda to contain it. The Future of the Public University in America, by James Duderstadt and Farris Womack, respectively president and CFO of the University of Michigan, argues that the forces of the market are challenging presidents to transform their universities to better fulfill their values.<p>
+Both books are written by a president of a university who, unlike a CEO, is as much a facilitator as a leader. A president cannot act without first building consensus for the change from the faculty, the trustees, and even alumni. It is a characteristic of the job, then, that university presidents are charged with making statesmanlike pronouncements that necessarily have little content. Unfortunately, these college presidents have, true to form, written books that, while readable and useful, lack the boldness that would make them interesting.<p>
+In Universities in the Marketplace, Derek Bok surveys the landscape of commercial activities in universities, from corporatefunded research to joint ventures with Internet distancelearning companies to advertising in the classroom and intercollegiate athletics. One of his best chapters is about the pitfalls for universities with bigtime athletics and the compromises they will make with athletes' educations to keep the teams winning. Given that most athletes will make their living after college by their degrees rather than by their sport, it is in the interests of the students for the university to prevent athletics from destroying their coursework. Certainly, it's possible for varsity athletes to graduate with honors, but the more serious the athlete, the more likely he will graduate with a halfhearted degree in Communications and four quarters of EDGE.<p>
+Yet except for a few bright spots, Universities in the Marketplace is a case study in how a lucid and readable book can fail to be engaging. Bok strives to be evenhanded throughout, almost to the point of shtick: companies do X, critics say Y, and the best policy lies somewhere in the middle. His agenda lacks the kind of boldness that justifies writing a book, and he hesitates to condemn any activities he was a part of at Harvard, reserving his boldest attacks for programs like athletics, in which Harvard is a bit player. And Bok is oddly repetitive in such a small book (233 pages), repeating his favorite examples in chapter after chapter. Universities in the Marketplace repays reading for college presidents, but Bok fails to convince the reader that the commercialization of universities is worth worrying about for anyone else.
+In contrast, Duderstadt and Womack do not strive to be so evenhanded - they even call for a "transformation" of the university in order to meet the pressures of market forces, declining public support, and rising competition for faculty. The book is packed with lessons about university governance, power struggles between administrators and faculty, sunshine laws, and competition among universities. In a book that seems partly written during the Internet bubble, they predict that distance education and lifelong learning will soon fundamentally reshape the university. While they occasionally pine for a return to generous state funding, they often hardheadedly extol the inevitability that market forces will force universities to adapt to a changing world.<p>
+Yet their agenda for transformation is surprisingly vague, dealing mostly with a call for leadership and a set of reforms to strengthen the college president against the faculty and the board of trustees. The two clearly wish that presidents had the kind of power over their institutions that CEOs have. It would be much easier for a president to issue orders rather than make changes through the kind of consensusbuilding and bribery that happens now. It's too bad that the book (also short at 236 pages) devotes so much time to vague calls for change and less time to practical examples of their time at Michigan. The few nuggets of experience they offer are always illuminating, even if one doesn't agree with their goals or methods.
+So, to return to the scenarios posed at the beginning, does commercialization threaten the integrity of the university? Can market forces make the university run like a lean, nimble corporation? Would that be a good thing? Well, probably not. No university, especially Stanford, will turn into a money-making factory - universities simply are not that kind of thing. Advertising and corporate sponsorships will lurk at the edges of the universities, but it's hard to argue that they do any serious harm to the integrity of teaching or research that can't be fixed with a few obvious safeguards. And while college presidents may wish they were CEOs instead, the interlocking processes of shared faculty and administrative governance will keep change slow and incremental, as it ought to be.<p>
+After all, despite rhetoric of "today's changing world," the university is an ancient institution with traditions that have developed over decades to safeguard its unique values, such as academic freedom. Topdown governance could lead to the hiring of underqualified candidates to fit political goals or force faculty members to pursue new knowledge only in politically popular fields.<p>
+If anything, the sheer modesty of the two books' recommendations argues for a lack of either concern or excitement about market forces in the university. Sometimes hidebound tradition mixed with a little pragmatism works - and if it works, don't fix it.<p>
+<i>Bob McGrew is a second-year Ph.D. student in computer science and a strong believer in hidebound tradition. More frequent commentary can be found at cardinalcollective.blogspot.com.</i><p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:25:10 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

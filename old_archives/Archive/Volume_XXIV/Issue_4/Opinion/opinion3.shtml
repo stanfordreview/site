@@ -1,0 +1,231 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIV - Issue 4 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front page</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editor's Note</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Feature/index.shtml" onMouseOver="window.status='Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Feature</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Letters/index.shtml" onMouseOver="window.status='Letters'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letters</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Feature/feature2.shtml" onMouseOver="window.status='Bob McGrew in Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Brian Ball in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brian Ball</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Dr. Charles H. Kendall in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dr. Charles H. Kendall</font></a><br>
+
+<a href="../Front_Page/index.html" onMouseOver="window.status='David Myszewski in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Johnny Openshaw in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Johnny Openshaw</font></a><br>
+
+<a href="../Feature/feature1.shtml" onMouseOver="window.status='Michael New in Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael New</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Ryan Parks in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Parks</font></a><br>
+
+<a href="../News/index.html" onMouseOver="window.status='Scott Rasmussen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+</font>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXIV, Issue 4
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+May 9, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIV'; return true" onMouseOut="window.status=' '; return true">Volume XXIV</a> - <a href="../index.html" onMouseOver="window.status='Issue 4'; return true" onMouseOut="window.status=' '; return true">Issue #4</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Opinion</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>Our Generation's Civil War</font><br>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIV/Issue_4/Opinion/images/lincoln.jpg" alternate="Abraham Lincoln" width=184 height=254 align=left>
+
+Six score and nineteen years ago, the northern states, led by President Lincoln, sacrificed one principle of liberty--the right to secede--to secure another: the right of individuals to be free. At horrible cost to both sides, the North not only freed southern blacks, but saved the entire South from proceeding down a path every bit as illiberal as the socialist totalitarianisms of the last century. Now today it is the North that is carrying the entire nation down a path of profound and pervasive illiberalism while the South is doing a great deal to try to stem this betrayal of founding principles. This is our generation's civil war, and like the last time, liberty must win.<p>
+
+	Lincoln is not the only president who stood above the Constitution, but where Lincoln subverted the constitutional acceptance of slavery in order to further the founding principle of liberty, Franklin Roosevelt, an aristocratic New Yorker, purged the constitutional principle of limited enumerated government powers because he did not believe in liberty. He believed that the Great Depression showed, as the Marxists claimed, that Capitalism (our system of economic liberty) is fatally flawed, and that if a society is to be prosperous and just, vast decision-making must be moved from the sphere of liberty to the sphere of government power. Thus instead of responding to the tribulations of the Great Depression with emergency measures, he used the nation's misery as a pretext for starting over with a New Deal, by which he meant a de facto new Constitution.<p>
+
+	His vehicle for overturning the Constitution's  system of limited enumerated powers was the Commerce Clause. Since everything affects interstate commerce in some way, every sphere of legislation could be held to be empowered under the Commerce Clause. Earlier Courts had rejected this interpretation of the Commerce Clause for precisely this reason: it would overthrow the expressed structure of limited enumerated powers, hence it could not possibly have been the intent of the Framers. While southerners were as enamored of Roosevelt as the northerners, the South's history of resistance to federal power allowed it to resist Roosevelt's charisma on matters of principle. When Roosevelt tried to force his expansive interpretation of the commerce clause, by trying to expand the Court in order to pack it with sympathetic judges, he was stopped primarily by conservative southern Democrats. <p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIV/Issue_4/Opinion/images/lincolnquote.jpg" alternate="Quote" width=170 height=110 align=right>
+
+	Unfortunately, the Supreme Court in any case knuckled under, enabling the vast expansion of unlimited government in the last half century, all of it unconstitutional: the socialization of retirement, the socialization of health care for the old, the young, and the poor (and the regulation of health care for the rest of us), the socialization of charity, the minute regulation of workplace safety, of what people can eat, and what they can drive, the federalization of education (which shouldn't be socialized at any level), the federalization of crime, the list goes on and on, and not one whit of it can be found in the limited enumerated powers of the Federal government.<p>
+
+	In Roosevelt's day, all the "smart" people—the Northern intellectuals—believed as Roosevelt did that government planning must work better than liberty. Today we know better. Every sphere of decision-making that was unconstitutionally transferred from liberty to government is far better handled by liberty. To take one example, the socialization of retirement has not only destroyed the private savings rate and created a vast middle class entitlement that may soon become the equivalent of a war of the old against the young, but it greatly impoverishes every person who participates in it. With the Dow rising 400% in the last ten years and NASDAQ up over 1000%, every working Jack and Jill who has been forced to put 15% of their pay into Social Security would be well on their way to real security if that money had gone into a real investments. Instead all they have is an uncertain pittance that will depend on screwing over the next generation in the same way they were screwed over.<p>
+
+	You can go down the list with every single unconstitutional government program. They all analyze out the same: disaster. Unlimited government is a historical evil on the scale of slavery and the nation is on the verge of taking the final leap into that maw. Bill Clinton is doing his damnedest to credit our magnificent economic boom, not to the economic liberty that created it, but to the tremendous counterproductive burdens that government has placed upon liberty. In a press conference in February he asserted that our prosperity is due to "dynamic government," naming specifically social security, Medicare and Medicaid, OSHA, federalized education and the whole laundry list of destructive government powers. Liberty hauls a boulder up a mountain and Clinton credits the ascent to the boulder. We are very much in danger of this Big Lie winning the day. People confuse correlation with causation. Because we have done so well carrying the boulder, we shouldn't put it down. <p>
+
+	Unlimited government is at its high water mark and is still burgeoning outwards. New initiatives include the socialization of prescription drugs, a "health care bill of rights" (a long list of coverages you will be forced to buy, whether they are worth it to you are not), sweeping new OSHA mandates, the pushing of gender quotas from school sports into classrooms, etc. The Clinton administration is in a mad dash to siphon the great power of liberty to the control of government by every available channel (see Michael Lynch, "Weapons Modernization," Reason  Magazine, 3/2000). <p>
+
+	The enmity that these Democratic socialists have for liberty is difficult to fathom (for my attempt, see 
+<a href=http://www.stanfordreview.org/Archive/Volume_XXIII/Issue_4/Opinion/opinion7.shtml  onMouseOver="window.status='Alec Rawls\' Monopoly Capital article'; return true" onMouseOut="window.status=' '; return true">"Monopoly Capital," <i>The Stanford Review</i>, 11/8/99</a>) but however one explains it, the North is clearly inhaling deep, like opium smokers, drunk on prosperity. It is no different than the South lolling in the embrace of slavery, forsaking the far greater economic power of free labor for fear of change, immorally abiding the grossest violations of liberty. Eighty-seven years is how long the nation tolerated the earlier evil, and every year is a stain on our history. Our present evil has now lasted seventy seven and, like slavery in the South, is making every desperate bid for permanence. This is our civil war. <p>
+
+	The framers of our Constitution brought forth a new nation, conceived in liberty and secured by the principle of limited government. Now we are engaged in a great struggle to determine whether the concept of limited government can long endure. The battle cannot be said to be going well. The enemies of liberty are fat, happy and smug. But limited government must not perish from the land. Of all the advances that liberty will produce in our lifetimes, by far our greatest legacy, for good or ill, will be the fate of liberty itself.<p>
+
+<i>Alec Rawls's writings can be found at <a href=http://www.rawls.org/ onMouseOver="window.status='Alec Rawls\' web site'; return true" onMouseOut="window.status=' '; return true">www.rawls.org</a>.</i><p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:46:54 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

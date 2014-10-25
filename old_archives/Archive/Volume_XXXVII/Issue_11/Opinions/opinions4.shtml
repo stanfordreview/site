@@ -1,0 +1,423 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - January 26, 2007</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXVII, Issue 11 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">January 26, 2007 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">OPINIONS</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Online Edition Exclusive: Israel&rsquo;s Defeat  on Campus</p>
+              <p class="byline">by Daniel Kaganovich and Jeremy England</p>
+              <p class="byline"><em>Guest Contributors </em></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p><img src="opinions4.jpg" width="300" height="195" align="right"> </p>
+              <p>The image of Arab Muslims in the Western world seems to be  in decline. Whether this is because the &ldquo;misinterpreters&rdquo; of Islam manage to  unleash an even grizzlier and more gratuitous wave of violence every time  people think things couldn&rsquo;t get any worse, or because the familiar stories  about &ldquo;root causes&rdquo; and &ldquo;frustration on the Arab street&rdquo; ring hollow in the  face of real beheadings, even some Europeans are slowly waking up to the smell  of torched cars and coming to terms with the true substance of Islamic  fascism.&nbsp; No amount of pro-democracy PR  and rhetoric has accomplished as much in the West as threats of genocide in  response to newspaper cartoons.&nbsp; Only a  few groups remain resolutely immune to this revision, among them editorial writers  at certain Israeli newspapers and the people at American universities.</p>
+              <p>It is here on campus that Islamic fascism long ago launched  its most intense and most effective propaganda campaign against Western democracy.  The foundation of this campaign has been to blame Israel  and the Jewish people for the violence Islam plans to unleash against them, and  against America.&nbsp; Everywhere one turns on campuses across the  country, Arab Muslim students are there with pictures of rubble and corpses,  sparing no opportunity to accuse Israel. &nbsp;In reality, these students could not care less  about the suffering of Arabs in the Middle East,  as evidenced by their blatant disregard for, and even suppression of, any topic  of discussion that does not have to do with the Jews.&nbsp; Refugees, suffering, and violence are only  interesting to them when they can be used as part of yet another indictment of Israel. </p>
+              <p>It has long since been  observed that Arab propaganda organs blame the Jews for everything but the  tragic death of the Crocodile Hunter (since that was pretty clearly the sting  ray&rsquo;s fault).&nbsp; A much newer development has  been the emergence of a contingent of Jewish students that actively participate  in their own denunciation. Once upon a time, Jewish student groups may have lacked  the cynicism and tactical savvy of their Arab counterparts, but they could at  least be relied upon to remember their objective &ndash; the defense of Israel &ndash; and  instinctively know that it was a worthwhile endeavor.&nbsp; Today, exhausted and aching from the  relentless war of ideas waged against their people, many Jews have been seduced  by the notion that they can prove their cause is meritorious by showing an  exceedingly &ldquo;moral&rdquo; willingness to tolerate their detractors and sit down at a  table with them to engage in dialogue.&nbsp;  Yet, by doing so, Jewish students provide just the cloak of legitimacy  that anti-Zionism requires for the effect of its hate speech to be the most  severe.&nbsp; At many universities, this is  facilitated in no small part by local branches of Hillel which, while calling  themselves the foundation of Jewish life on campus, are actually providing  cover for Arab belligerence.</p>
+              <p>It is an article of faith among the intellectual elite that  all people really &ldquo;want the same things&rdquo;, and all conflicts are merely the  result of mistaken notions about &ldquo;the Other&rdquo; that obscure everyone&rsquo;s &ldquo;shared  humanity.&rdquo; A corollary of this oft cited but infrequently justified thesis is  that the most moral way to resolve conflict is through dialogue that results in  compromise between differing viewpoints.&nbsp;  This principle can certainly be valid when both parties to a dispute  subscribe to the same code of morality and are genuinely interested in a negotiated  outcome.&nbsp; However, when one party is  motivated by the immoral desire to eliminate the other one, dialogue very  quickly ceases to be an essential tool for the resolution of conflict and  instead becomes a means for marketing a wholly evil agenda to an otherwise  unreceptive audience. This is why Nazis haven&rsquo;t been invited to speak at  Harvard since the 1930s. Presumably, the Nazis also shared plenty of humanity  with the men of Harvard, since they were no doubt human, and presumably there  was ample basis for dialogue with them since they also wanted things and had  grievances (imagined and real). &nbsp;Since none of this impacted in the  slightest the outcome of allowing Nazis to come to power and take control of  most of Europe, people who threw their efforts behind dialogue with Nazis in  the 30s now look very na&iuml;ve, if not somewhat complicit. &nbsp;</p>
+              <p>At Stanford, the organization that can claim the greatest  commitment to dialogue between Jews and the people who want to kill them is the  campus branch of Hillel. It would be bad enough if Stanford Hillel were merely  passive in the face of the many illustrious anti-Israel speakers &ndash; ranging from  representatives of the PLO to outright Holocaust deniers&mdash;brought to campus by  Arab and Muslim student groups.&nbsp; Instead,  Hillel frequently goes beyond tacit endorsement of anti-Zionist politics, and  brings its own Israel  bashers to campus under the banner of promoting dialogue.&nbsp; The two most recent examples of this  phenomenon are Hillel&rsquo;s sponsorship of events hosting Rami Khouri and the  OneVoice organization.&nbsp; Rami Khouri was  advertised to the Stanford public as a &ldquo;Palestinian-Jordanian journalist&rdquo; who  is &ldquo;Editor-at-Large of the Beirut&rsquo;s  (<em>sic</em>) widely published Daily Star, and [a] former Editor-in-Chief of  Jordan Times.&rdquo; Those who are aware that the press in Jordan,  Lebanon, and the rest of the  Arab world is generally free only when it prints libels against Jews and Israel  probably already smell something rotten here.&nbsp;  But even without such instincts, Mr. Khouri&rsquo;s website is easily  accessible (its address being www.ramikhouri.com), and the seemingly endless  series of anti-Israel diatribes published there should have clearly put him  outside the bounds of what it is acceptable for a Jewish organization to  legitimize on a university campus. (Mr. Khouri&rsquo;s effectiveness as a speaker on  &ldquo;Middle Eastern issues&rdquo; was certainly not lost on the members of Stanford&rsquo;s  most vicious anti-Israel hate group, the Coalition for Justice in the Middle  East (CJME).&nbsp; Only days after his  appearance at Hillel, CJME hosted him at their own event.)</p>
+              <p>Hillel also recently decided to host an organization,  ironically named OneVoice, whose stated mission is to promote dialogue between  Arabs and Israelis.&nbsp; OneVoice asserts  that &ldquo;There are a majority of moderates on both sides who want peace and are  prepared to compromise for it and the real battle is whether they can make  their views heard over an enemy of hardliners, spoilers and extremists on  either side bent on derailing the process.&rdquo; Although OneVoice is ostensibly  committed to peaceful dialogue, the hyperbolic language found everywhere on  their website serves to whip up moral outrage and hostility towards a  poorly-defined &ldquo;enemy&rdquo; whose identity, we can only assume, will be specified at  some later date.&nbsp; Taking great pains to  avoid a concrete discussion of Middle East  politics or history, they focus their energies on denouncing a nebulous class  of &ldquo;spoilers and extremists&rdquo; who must be &ldquo;sidelined&rdquo; in order to implement the  will of a &ldquo;silent majority.&rdquo; That movements like OneVoice make liberal use of  language like this speaks volumes about the underlying nastiness of their  ideological bent. Rather than being willing to engage in the difficult task of  articulating a moral position and defending it against criticism, OneVoice  simply designates those who disagree with their agenda as  &quot;extremists&quot; who seek to &quot;obstruct the will of the people.&quot;  This sort of rhetoric bears a striking resemblance to that of Leninists,  Maoists, and other mass-murderers of the last century who claimed special knowledge  of the will of the people and saw an enemy in anyone who argued against them.  By locating the source of the Middle East's  problems with an abstract, amoral category of people called  &quot;extremists,&quot; OneVoice grants itself permission to dismiss, or even  attack, anyone who voices a viewpoint that the organization does not approve  of.&nbsp; </p>
+              <p>If one may infer anything from the composition of its Board  of Directors, OneVoice is unlikely to find any extremist enemies among  Palestinian Arab supporters of jihad. OneVoice Honorary Advisor and PA Chief  Islamic Justice Taysir al-Tamimi once opined that &ldquo;the Jews are destined to be  persecuted, humiliated, and tortured forever, and it is a Muslim duty to see to  it that they reap their due. No petty arguments must be allowed to divide us.  Where Hitler failed, we must succeed.&rdquo;&nbsp;  When those who hold such viewpoints are enlisted in the cause of moderation,  it is difficult to imagine what might constitute a pro-Arab viewpoint that is  too extreme for OneVoice. Since, on the other hand, the unacceptably extreme  Jewish positions are treated by the organization as being universally agreed  upon, one begins to suspect that the sidelining that OneVoice plans to  undertake will focus overwhelmingly on Jewish targets. This is even more likely  to be the case since, historically, criticizing Arabs with Kalashnikovs has  proven to be much more dangerous than denouncing Jews with orange ribbons.</p>
+              <p>Moreover, the choice to identify extremists as the enemy is  ultimately misleading. The extreme or moderate nature of a given opinion says  nothing about the morality of that opinion. For example, it is perfectly  reasonable to be extremely opposed to Nazism. On the other hand, a member of  the KKK might be extremely opposed to letting black people vote, and we would  rightly condemn his position as despicable bigotry. In the case of Israel, we  have on one side a group of people with a millennia old tradition of doing  their best to behave justly and morally and trying to have just one small  country of their own, and on the other side a group of people one and a half billion  strong with dozens of countries already who have invented a national identity  for a small, miserable sub-population in their ranks that is defined entirely  in terms of its commitment to erasing the Jewish State, and often the Jewish  people as well, from the face of the earth. A Jewish &ldquo;extremist&rdquo; wants to live  in the land of Israel and raise her children.&nbsp; An Arab &ldquo;moderate&rdquo; supports the extermination  of only those of her children that can be found at a certain latitude and  longitude.&nbsp; Finding the middle ground  between two causes should not be the goal when one is wholly moral, and the  other wholly immoral. When we make &quot;extremists&quot; the enemy, we wind up  attacking decent people (like Jews living in Gush Katif) for their  unwillingness to compromise with an evil foe, and promoting the views of  &quot;moderates&quot; (like Mahmoud Abbas, Mustafa Barghouti, or any of the  Arab propagandists that OneVoice trots around) who hate Jews but are willing to  wait a few decades before trying once again to throw them into the sea. </p>
+              <p>When the leading campus Jewish organization cannot marshal  the will to oppose, or at least refuse to personally host, groups that include  individuals who wish to, in the words of Mr. al-Tamimi, succeed &ldquo;where Hitler  failed,&rdquo; is it any wonder that young Jewish students on campuses retreat when  confronted with Muslim student organizations who are not afraid to use  intimidation and the threat of violence as part of their propaganda war?&nbsp; Indeed, having failed utterly to create a  vibrant Jewish community at Stanford, Hillel has instead turned to the  wholesale betrayal of Israel and the Jewish people as their major contribution  to campus life, and has succeeded in cultivating a Jewish student population  that is as indifferent to attacks against the Jewish State as it is  uninterested in anything to do with Jewish thought and tradition.&nbsp; Here, however, lies the crux of the matter,  since appreciating the worth of Jewish tradition is indispensable for mustering  the resolve to confront Israel&rsquo;s  enemies. <br>
+                  <br>
+                Coming to Israel&rsquo;s  defense is a daunting task for even the most determined student.&nbsp; It requires that he take up a cause that will  always be unpopular because of the energetic campaign of demonization driven by  a great number of Arab students and their supporters, who will make sure that  he becomes tainted by association as he is forced to absorb some of the  negative attention directed at Israel.  This painful experience will seem so gratuitous and unjustified to him that, in  many cases, it will dissuade the student from sticking his neck out, or worse,  will cause him to blame Israel and the Jews for provoking the anger that he is  forced to confront on their behalf.&nbsp; In  such a situation, only someone whose confidence in the justness of the Zionist  dream is unconditional will be able to resist the temptation to sell Israel  down the river.</p>
+              <p>Such conviction, however, is unlikely unless the student  recognizes that building a Jewish state in the land of Israel  is an essential expression of Judaism, and that Judaism itself is something  worthwhile to preserve. &nbsp;It is here that  a properly run campus Jewish organization has the potential to make the  greatest difference in the war of ideas waged against Israel, yet sadly, this  is where Stanford Hillel has decided to completely abandon the fort. Hillel&rsquo;s  events are characterized by a severe aversion to anything too overtly Jewish  (unless smoking huka in a sukkah can pass for a commemoration of Sukkot).&nbsp; In the new Hillel building, which must have  cost millions of dollars, there are pictures of some people in Darfur and some  children from Honduras, there is a wall-hanging that features a pig, a cross,  and four patches (according to our count) referencing the Red Hot Chili  Peppers, and yet there is not a single Israeli flag in plain view, nor any  other physical evidence that anything Jewish goes on there.&nbsp; More  importantly, judging from Hillel&rsquo;s approach to the organization of Jewish  events, it does not appear to see anything of autonomous value in Judaism.&nbsp; What is one to conclude from a &ldquo;Chalah-ween&rdquo;  Shabbat gathering featuring vampire slayers (cum crucifix) and witches, except  that Shabbat is not something one should waste any time on unless it&rsquo;s first hybridized  with a pagan holiday? Why must a meal at the end of Yom Kippur be dovetailed  with a Ramadan break fast other than to imply that the Day of Atonement is not  interesting unless converted into an introduction to Muslim religious  traditions? (A similar event entitled &ldquo;Sukkat Salaam&rdquo; was put on by Hillel at  Harvard a year ago, at which Arab students sporting Arafatesque kefiyas were  given a platform to combine Sukkot with Israel bashing). Why is there so  much time for social action, and none at all for observing Shmini Atzeret and  Simhat Torah (which were excluded from this year&rsquo;s list of Stanford  Hillel-commemorated holidays, presumably because they could not easily be  combined with a dialogue session or Catholic saint&rsquo;s day)? To be sure, those at  Stanford Hillel who send students to help the needy in Honduras see this as an expression  of Jewish values, and so it may be, but those Hillel organizers who define  Judaism as a vaguely articulated affirmation of whichever liberal pieties are  currently most in vogue do a tremendous disservice to all Jews when they imply that  there is nothing more to their tradition than having the right politics.</p>
+              <p>So long as more Jewish things happen in Stanford&rsquo;s gym than  at its Hillel house, Hillel has no hope of motivating students to take a strong  position in defense of Israel.&nbsp; An organization that gets its moral teachings  from a mixture of fashionable liberal values and Arab propaganda rather than from  actual Judaism cannot take a morally inspired position on such a &ldquo;divisive&rdquo;  issue as the Arab war against Israel.  It is time that the donors who pour millions into institutions that are rotten  to the core expect more in return than token acknowledgement or the reassurance  that a token non-Leftist will at some point appear in the programming. Those  who fund Jewish life on campus have to take responsibility for what  organizations like Hillel do with their generous donations. Rather than siphoning  money to people who either do not know how to use it well, or else deliberately  use it for nonsense, the preponderance of donors who themselves have very warm  feelings for Israel, want to see Jewish communities flourish on campuses, and  are not Leftists, should work to build their own institutions with a different  agenda and a sense of purpose. &nbsp;</p>
+              <p>We can think of no cause more noble and inspiring than the  building of a home for the Jewish people in the land of Israel,  yet this project is morally compelling only when seen within the broader  context of Judaism, which gave birth to it. Our generation has an opportunity  unprecedented in the last two millennia of the Jewish experience to help  facilitate the Zionist dream, if not by participating in the settlement of the  land of our inheritance, then at least by contributing support in the world of  ideas.&nbsp; &nbsp;It is unfortunate that, without the proper  institutional framework to motivate the Jewish national imperative, so many  young American Jews find themselves excluded from one of the most meaningful  endeavors in human history.</p>
+              <p>&nbsp;</p>
+              <p><em>Daniel Kaganovich<br>
+                A. B. Harvard College, Biochemical Sciences, 2001 Doctoral Candidate in Molecular and Cellular Biology, Stanford University dkagan@stanford.edu</em></p>
+              <p><em>Jeremy L. England<br>
+                A. B. Harvard College, Biochemical Sciences, 2003 Rhodes Scholar (New Hampshire, St. Johns, 2003) Doctoral Candidate in Physics, Stanford University jengland@stanford.edu</em></p>
+              <p>&nbsp; </p>
+              <p><br>
+                <br>
+                <br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

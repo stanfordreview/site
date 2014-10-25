@@ -1,0 +1,339 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 3 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Campus_Focus/index.shtml" onMouseOver="window.status='Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Campus Focus</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Petition/index.shtml" onMouseOver="window.status='Petition'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Petition</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Alex Robbins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="news8.shtml" onMouseOver="window.status='Andrew Wright in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Chris Desmond in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Desmond</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Chris Lin in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Lin</font></a><br>
+
+<a href="news6.shtml" onMouseOver="window.status='Dave Kim in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Kim</font></a><br>
+
+<a href="news9.shtml" onMouseOver="window.status='Dave Myszewski in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Myszewski</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='David Regele in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Regele</font></a><br>
+
+<a href="news7.shtml" onMouseOver="window.status='Henry Towsner in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Joe Lonsdale in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../Campus_Focus/index.html" onMouseOver="window.status='Joe Spieczny in Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Spieczny</font></a><br>
+
+<a href="news5.shtml" onMouseOver="window.status='Keun Lee in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Keun Lee</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Nels Hansen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Sam Shapero in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+<a href="../Editors_Note/index.html" onMouseOver="window.status='Scott Rasmussen in Editor's Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<a href="news9.shtml" onMouseOver="window.status='William Rothacker in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William Rothacker</font></a><br>
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 3
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+November 15, 2001</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+It's Your Money: Special Fees Investigated
+</font><br>
+
+<b>by Dave Myszewski</b>,Senior Staff Writer<br>
+<b>and William Rothacker</b> Staff Writer
+
+<p>
+
+	Every year, Stanford students face the question of which groups they would like help fund through the ASSU special fees.  Last year, students voted to give special fees to nearly every student group who applied for them.  Most students who vote for a group usually do so under the premise that those groups will use their money well.  The <i>Review</i> examined several student groups to see exactly how that money is used. 
+
+<p>
+
+<table align=Left>
+    <tr>
+        <td>
+<a href=http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_3/News/images/shprc_big.jpg><img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_3/News/images/shprc_small.jpg" width=200 height=171 alt="SHPRC graph" border=0></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i><a href=http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_3/News/images/shprc_big.jpg>Click for<br>larger graph</a></i>
+        </td>
+    </tr>
+</table>
+
+
+	The 2001-02 special fees request for the Sexual Health Peer Resource Center (SHPRC) contains labor payroll of $7,500, a payroll that is disproportionately large in comparison to other expenses for an organization that operates on $16,795 a year--especially since that $7,500 is allotted to only three people.
+
+<p>
+
+	The SHPRC utilizes volunteers to work behind the desk, assisting customers during business hours.  Two of the three paid employees, the Co-Directors, receive their compensation without the requirement of logging their hours behind any sort of desk—they receive the payment on their own honor. The only other paid employee, a Head TA for the SHPRC class, officially works two hours, plus outside of class preparation time.
+
+<p>
+
+	Each Co-Director receives $3000 for a year's worth of "directing."  According to Co-Director Sam Richardson, this responsibility includes "coming up with new ideas, providing direction for the center, reading new studies, ordering materials, keeping informed, overseeing volunteers, and making sure that center does a good job meeting the sexual health needs of the Stanford student population."
+
+<p>
+
+	Naturally, this position also looks after the group's finances.  In an interview, Richardson indicated that each director spends 10-15 hours a week engulfed in these ventures.
+
+<p>
+
+	  Richardson asserts that the payment is necessary to motivate and help provide people with means to support themselves, since they do not have time for another job.  Examination of the financial records from past years yields a surprising find: past leadership has received $0 for their "10-15 hours a week."
+
+<p>
+
+	The other paid employee is a class instructor or "Head TA" for a training class for SHPRC volunteers.  This 1 unit course prepares those who sit behind the desk at the SHPRC to help people make selections and to provide counseling.  This year, the instructor will receive $1500 for the year.  As with the Directors, the TA made no money last year.
+
+<p>
+
+	Eighty-four percent of the student body voted to allot them these funds for specific purposes including paying three people a sum total of $7,500.  However, in order to find out exactly what the SHPRC was planning on doing with every dollar of the proposed budget, a highly motivated, meticulous student would have had to follow links away from the ASSU voting page to a detailed SHPRC budget proposal.  Doing this for each organization would prove to be an exhaustive process.  Few voters are motivated enough to do so.
+
+<p>
+
+	When students vote for special fees, the ASSU provides links to itemized budgets, which, while helpful, do not provide students with precise information about how that money is being used.  For example, one of the items, "honoraria," is used by the Stanford Martial Arts Program (SMAP) to pay instructors, by the Stanford Film Society (SFS) to pay for speakers, and by other groups for dinners with prominent people.
+
+<p>
+
+	In an effort to make as much information available to students as conceivably possible, SMAP uses their web site to provide students with an item-by-item breakdown of how they intend to spend their special fee money.  For example, for general SMAP programming, the web site breaks down equipment rental as follows: "Equipment Rental: This covers the costs of the necessary equipment to hold the SMAP-sponsored multi-group martial arts demonstration. It includes costs for a demonstration stage ($102), information tables (6 x $6/day = $36), and a PA system ($136.50). All costs are determined from the Facilities Department at Stanford. The total amount requested is $274.50."
+
+<p>
+
+	According to SMAP treasurer Thomas Hoelen, SMAP goes to such great lengths because, "The Special Fee money comes directly from the students.  Therefore, I think that the students have the right to know exactly how we are planning to spend the money we ask them for.  I think that each group should make all the information they have regarding proposed use of Special Fee money available to the Stanford community, but that does not necessarily have to be done through websites."
+
+<p>
+
+	While such information is good to have, some say that it is best if the ASSU continues its policy of summarizing the budget information by items.  The ASSU typically publishes a budget divided into areas which include honoraria, meeting/food, technical services, transportation, accommodations, among others.
+
+<p>
+
+	Justin Guerrieri, one of SFS's presidents last year, says, "An itemized budget on the ballot is not necessarily a good idea.  Numbers of dollars can be misleading to any reader.  They'll think ‘900 dollars to rent Cubberley! But that's just what it costs.  There's no way around it.  It would be difficult to duly explain every detail and far to cumbersome for anyone to read."
+
+<p>
+
+	Mr. Hoelen agrees.  "Each group's sitting officers are responsible for the budget they present to the students to vote on, and they should be able to defend every detail.  It is convenient for the students if they can just thumb through a simple summary of budgeted expenses for each group, but more detailed information should be available for those who are interested."
+
+<p>
+
+	The additional information could be beneficial to people who are unsure why a certain group needs a large budget for certain items.
+
+<p>
+
+SMAP, an umbrella group for other martial arts groups on campus, budgets over $10,000 for the rental and purchase of equipment for the various groups.
+
+<p>
+
+Says Mr. Hoelen, "Most martial arts make extensive use of training gear to practice and perfect various techniques.  Even high quality professional training equipment can wear out relatively fast, depending on the frequency and intensity with which it is used.  Since broken or worn equipment could lead to unsafe situations and potentially cause injuries, it is necessary to replace unsafe training equipment.  The Special Fee money is therefore primarily used for training equipment."
+
+<p>
+
+	Groups such as SFS have a special need for technological equipment, much of which can be expensive.  Mr. Guerrieri says, "The equipment gets a lot of use and suffers from wear, so we must account for a good amount of repair costs.  Maintenance will become an increasingly large concern.  Right now, technological advances in digital video are not troubling us, but in a couple of years, I am certain that too will be an issue."
+
+<p>
+
+	Fortunately, though, some areas do not require purchases year after year.
+
+<p>
+
+	"While video technology is constantly improving, the other staples of filmmaking --lighting, sound, and grip equipment -- are pretty much unchanging."
+
+<p>
+
+	In addition, many student groups have a high turnover rate--often, officers from one year will not be officers the next year.  This means that groups will spend money differently, and the budget proposed the previous year will undergo changes.  Several groups like the Stanford Film Society have boards in part to ameliorate this dilemma.
+
+<p>
+
+	Says Justin Guerrieri about the SFS, "Staff turnover is not as high as it may seem.  The presidents and treasurers change from year to year, but the members of the board are consistent.  When people join the SFS board, they tend to stick with it for the duration of their time at Stanford.  The board provides a democratic decision-making forum for SFS.  Thus, our operations are relatively stable."
+
+<p>
+
+	Mr. Guerrieri thinks the special fees process is good.  "I believe the system works pretty well as it is.  Students know from their own observations the services that each organization provides.  SFS provides a lot to the students.  When voting time rolls around, hopefully they'll remember all of the great events and opportunities, and check us off along with a lot of other great groups."
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:12:46 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

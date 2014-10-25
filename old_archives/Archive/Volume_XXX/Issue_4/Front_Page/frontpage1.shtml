@@ -1,0 +1,294 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 4 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Features'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Features</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Charles Hallford in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Harrison Osaki in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="../Features/features2.shtml" onMouseOver="window.status='Kathy Hart in Features'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kathy Hart</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Laura Surma in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Laura Surma</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Piotr H. Kosicki in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr H. Kosicki</font></a><br>
+
+<a href="../Features/features1.shtml" onMouseOver="window.status='Ryan J. Wisnesky in Features'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan J. Wisnesky</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='William E. Hudson in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William E. Hudson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 4
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+April 17, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 4'; return true" onMouseOut="window.status=' '; return true">Issue 4</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Viennese Ball, SCN Fee Practices Violate ASSU Constitution
+</font><br>
+
+<b>by Harrison Osaki</b><br>
+News Staff<p>
+
+<table align=Left width=240>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXX/Issue_4/Front_Page/images/fliers.jpg" width=240 height=180 alt="Fliers">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>A multitude of student groups joined candidates for ASSU offices in flyering the entire campus to earn Special Fee money for themselves.</i>
+        </td>
+    </tr>
+</table>
+
+
+The Viennese Ball Committee and the Stanford Concert Network (SCN) are operating in violation of the ASSU Constitution.  In May 2002 issue, the Stanford Review broke news that these and other groups receiving Special Fees are also charging students admission fees, thereby forcing students to pay twice for the groups' services, yet the practice continues.
+
+<p>
+
+Groups that receive Special Fees are forbidden by the ASSU Constitution to "deprive any member of the Association of any or all of its services unless that member has obtained a refund of that organization's fee." 
+
+<p>
+
+Prior to the <i>Review</i>'s investigation last year ("Special Fee Recipients Double-Charge Students," May 1, 2002), the ASSU had never interpreted the Constitutional clause forbidding student organizations from denying students access to "any or all" of their events as possibly denying organizations the right to charge students for admission. Although that interpretation has entered the canon of ASSU thinking, no actual cases have been brought against student organizations for charging fees to their events.
+
+<p>
+
+Both the Viennese Ball Committee and the SCN suggest that they charge students only for their largest and most expensive events. The Treasurer of the Viennese Ball Committee, Howard Shen feels that the other services that they provide, such the Bon Bon Ball (a dance lesson and open dance floor), justify the charges.
+
+<p>
+
+Mr. Shen said that alternative sources of funding to Special Fees, such as off-campus sponsors, had been investigated and exhausted by the Viennese Ball Committee. He contended that, without charging students (individual tickets for the Viennese Ball run $37.50), the Viennese Ball would be forced to increase its Special Fee budget request by $42,000. Despite the fact that the Viennese Ball Committee's budget states that fees go directly to the ball, Mr. Shen commented, "the ultimate result of the committee's receipt of Special Fees is to expand its services to the Stanford community substantially."
+
+<p>
+
+Although the Stanford Concert Network does not hold single large events in the same manner that the Viennese Ball Committee does, the Network does still charge individual students. While the majority of their programming is provided to the Stanford campus free of charge, some of the events that bring in celebrities, such as a recent performance by the musical group They Might Be Giants, do require a paid ticket to attend.
+
+<p>
+
+Although the actions of the Viennese Ball Committee and the Stanford Concert Network are technically in violation of the ASSU Constitution, they are hardly the only student organizations that have been forced into charging ASSU members to provide for money for events. The Stanford Wushu Club, for example, held A Night of Wushu in order to celebrate the Chinese New Year, for which they charged students a nominal fee and limited the number of available tickets due to seating. The event hosted several outside groups and Wushu celebrities who presumably could not have been afforded without ticket prices.
+
+<p>
+
+The Stanford Chamber Chorale is a 24-person choir that performs a variety of classical choral pieces on tour, on recordings, and for hired performances. ASSU members and non-members are both charged for attendance at the Chorale's performances, although ticket prices are reduced for students.  (At one event, students were charged $4 to non-students' $10).
+
+<p>
+
+The student group Cardinal Ballet also receives Special Fee money while simultaneously charging Stanford students reduced rates for its performances.
+
+<p>
+
+ASSU Senator Josh Shipp, chair of the ASSU Appropriations Committee, said that the ASSU is aware of the problem and working to address it. He mentioned in a telephone conference that the ASSU has been working on an amendment to the ASSU Constitution that would allow student organizations to charge fees for events that their Special Fees did not cover. This would require organizations such as the Viennese Ball Committee to shift their Special Fees requisitions towards smaller events.
+
+<p>
+
+Mr. Shipp emphasized that student organizations would not technically be liable for merely charging students, but would become liable if they refused to provide service or participation to interested students. 
+
+<p>
+
+Each year students may request a refund for their General and Special Fees at the Refund-Request website:  <a href=http://assu.stanford.edu/groups/refund/index.shtml onMouseOver="window.status='Request a special fees refund'; return true" onMouseOut="window.status=' '; return true">http://assu.stanford.edu/groups/refund/index.shtml</a>. Students may choose to withhold any or all of their Special Fees or General Fees. This website also lists the amount of money that student organizations have requested per person from the student body. Money that students receive from fee refunds, however, does not actually come from the funds that student organizations receive from the fees. Instead, the ASSU recalculates each Special Fee request based on the historical refund rate and increases the amount that each student has to pay based on the new total. Refund money for students comes first from this surplus over the initial Special Fee request and then from the Special Fee Buffer.
+
+<p>
+
+Groups may become eligible for Special Fee money by collecting signatures from over 10% of the ASSU constituency (undergraduate and graduate) and receiving approval from the ASSU Undergrad Senate and Graduate Student Council. This process allows them to appear on the spring election ballot as applicants for money. Student groups that have received Special Fee money in the previous year or groups that have collected over 15% of the student body's signatures do not have to receive Senate and GSC approval in order to appear on the ballot. Student groups that receive a majority vote then receive fees. Last year, fifty-two different student groups applied for Special Fees, and forty-five of them were successful.
+
+<p>
+
+Other members of the ASSU population who are not mandated the Special Fee -- an organization may designate via its original Special Fee request either undergraduate or graduate students, or both, to be charged -- may not be charged more than the original special fee request by the organization. Furthermore, because the ASSU Constitution stipulates that Special Fees should "cover [recipients'] organizational and basic programming expenses," organizations are permitted to hold certain events such as fundraisers that are outside of the normal services their organization provides.
+
+<p>
+
+Students who request refunds from individual groups have their student identification numbers sent to the groups from which they withdraw, and some student organizations, such as the ASSU Speakers Bureau and the ASSU Legal Counseling Office, charge extra fees to students who do so.
+
+<p>
+
+In practice, most student organizations interpret the ASSU Constitution for Special Fees fairly liberally. Special Fee money, which provides many organizations with a large portion of their operating expenses, is usually not enough to finance large projects completely. 
+
+<p>
+
+While student groups may provide a large number of services at reduced rates or for free, financial necessities often force many organizations to seek other sources of funding -- including their own funding population -- for money to provide general services. 
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:22:23 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

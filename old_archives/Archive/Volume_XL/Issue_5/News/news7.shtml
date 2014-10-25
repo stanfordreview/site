@@ -1,0 +1,536 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - March 18, 2008</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style3 {font-weight: bold}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XL, Issue 5 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">March 18, 2008 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">NEWS</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">To Pay or Not to Pay: Contrasting Views on Stanford&rsquo;s New Financial Aid Policy </p>
+              <p class="style1"><img src="http://www.stanfordreview.org/Archive/Volume_XL/Issue_5/News/news7.jpg" width="200" height="370" border="0" align="right"></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+<p>&nbsp;</p>
+<p><a href="news7.shtml#position1">Position 1: Trickle-Down Tuition</a></p>
+<p><a href="news7.shtml#position2">Position 2: Keeping-up With the Harvards</a></p>
+<p><a href="news7.shtml#table">Comparison Table</a></p>
+<p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>
+<p class="headline"><a name="position1"></a>Position 1: Trickle-Down Tuition</p>
+<p class="byline">by <a href="http://www.stanfordreview.org/About/Staff/tford.shtml">Tim Ford</a></p>
+<p class="byline"><em>Opinions Editor</em></p>
+<p class="text">&nbsp;</p>
+<p class="text">On February 20, Stanford University announced a new financial aid policy dramatically increasing the eligible amount of aid for middle-income families.  The announcement comes as the latest in a series of policy revisions over the past three years designed to ease the burden of paying a tuition averaging $47,000 a year and to ensure that no high school student considering applying to Stanford decides not to because of cost.</p>
+<p class="text">Over the past two years, the financial aid budget had increased by $8.1 million to provide more financial aid to middle-income families and to eliminate educational costs for families earning less than $45,000.  Under the new program, students whose parents earn a combined $60,000 or less no longer pay for tuition or room and board, and students whose parents earn $100,000 or less still pay for room and board, but no longer for tuition.  According to Director of Financial Aid Karen Cooper, 15 to 20% of undergraduates come from families earning less than $60,000 and 30 to 35% of undergraduates come from families earning less than $100,000.</p>
+<p class="text">&ldquo;Last year, the university had done a survey of parents of current students at all income levels where we asked about their experience in paying for their children&rsquo;s educational costs,&rdquo; Cooper said. &ldquo;We heard loudly and clearly that our expectations of parents who consider themselves middle-income have been difficult for them.  Last year, we did as much as we could, but knew we wanted to be able to do more.&rdquo;</p>
+<p class="text">In addition, the plan also calls for eliminating student loans.  All students qualifying for need-based financial aid no longer need to take out the expected $4,000 loan before receiving money from the scholarship fund.  Beginning in the 2008-09 school year, students are only expected to earn $2,500 from working during the school year and earn approximately $2,000 over the summer.</p>
+<p class="text">Each fall, the financial aid program is reevaluated by the Financial Aid Office, the Dean of Admission and Financial Aid, the Budget Office, the Provost, and the President, with consultation from the Board of Trustees.  Cooper added, &ldquo;There are no specific plans in the works for more changes at this time.  We will be evaluating the success of our current changes next fall.&rdquo;</p>
+<p class="text">The changes were made possible through an increase in the endowment payout and doubling the financial goal of the Stanford Challenge, an effort to increase fundraising for the university, to $200 million.  The Board of Trustees approved the increase in endowment payout from 5% to 5.5%, or by $160 million, on June 14, 2007, at the time intending to fund capital improvement projects.</p>
+<p class="text">&ldquo;I can say that I think Stanford will have one of the most generous financial aid programs in the country next fall,&rdquo; Cooper said.</p>
+<p class="text">Some in the Stanford community responded enthusiastically, seeing the change as the university doing its part to ease the financial burden on students.  For example, the Undergraduate Senate&rsquo;s Student Life, Housing, and Education Committee has worked on several cost-of-living initiatives during the school year, including reducing the cost of course readers by looking into alternative printers or publishing them online and increasing the textbook reserve in Green Library.  Sophomore Jonathan Kass, the committee chair, said, &ldquo;It&rsquo;s wonderful to hear that Stanford is trying to be a cut about even our peer institutions like Harvard and Yale.  I&rsquo;m sure it will ease the burden of attending Stanford.&rdquo; </p>
+<p class="text">&nbsp;</p>
+<hr>
+<p class="text">&nbsp;</p>
+<p class="text"><span class="headline"><a name="position2"></a>Position 2: &ldquo;Keeping Up With the Harvards&rdquo; </span> </p>
+<p class="byline">by Allysia Finley</p>
+<p class="byline"><em>Investigative News Editor</em></p>
+<p>&nbsp;</p>
+<p>While most Stanford students have gladly welcomed the recent changes to the financial aid policy, some critics still have lingering questions. </p>
+<p>The announcement follows the House of Representative&rsquo;s passing of the College Opportunity and Affordability Act, which aims to expose the allegedly corrupt relationship between expensive colleges and loan agencies and give greater transparency to the consumer. The Senate has put forth its own version of the bill. If passed, the law would require colleges to report financial information that Stanford University officials claim to be unproductive and difficult, namely revealing the rate of their endowment spending. </p>
+<p>Many people believe Stanford&rsquo;s increase in endowment spending on financial aid from five to 5.5 percent this year is aimed to counteract the repealed provision of the College Opportunity and Affordability Act that would have required colleges to spend at least five percent of their endowment on financial aid. But the Board of Trustees approved the increase in endowment payout in June, nearly five months before the act&rsquo;s proposal. As far back as 2003, Republicans had been discussing a bill that would penalize colleges that raised tuition significantly faster than inflation.</p>
+<p>Since last November when the House proposed the bill, many expensive schools have announced policies to increase their endowment spending and decrease student loans, thereby pre-empting the necessity of such a bill.</p>
+<p>Stanford&rsquo;s announcement also came two months after Harvard publicized its expansive new financial aid policies and over a month after Yale and Dartmouth followed suit with their own. Since Harvard&rsquo;s announcement in December (at which time it saw its application rate spike by 19 percent), other top ranked schools including Williams, Princeton, Swarthmore, Cornell, Northwestern, University of Pennsylvania, Bowdoin, Pomona, Cal Tech, Duke and Davidson have announced new financial aid policies in what some people consider an effort to &ldquo;keep up with the Harvards.&rdquo;</p>
+<p>&ldquo;[The new financial aid policy] is really cool, even if it&rsquo;s a response to Harvard&rsquo;s,&rdquo; said Smita Mascharaha. &ldquo;So maybe it&rsquo;s not quite as good, but it&rsquo;s still a good thing to do.&rdquo;</p>
+<p>Although Director of Financial Aid Karen Cooper has cautioned against making comparisons between Stanford and other colleges, similarities between Stanford&rsquo;s new policies and those of other elite schools are striking. </p>
+<p>Stanford&rsquo;s announcement comes as the latest in a series of policy revisions over the past three years designed to ensure that no high school student considering applying to Stanford decides not to because of cost.</p>
+<p>These policy revisions have also coincided with and followed those of other top ranked schools. In 2006, Stanford eliminated educational costs for families earning less than $45,000. Harvard had enacted a similar policy in 2004 and Yale in 2005. </p>
+<p>&ldquo;I feel like anyone who is qualified enough to get accepted at Stanford has worked hard enough to deserve that quality of education and the University should do whatever it can to enable all of its accepted students to take advantage of that opportunity,&rdquo; said Martine Stewart, a senior from Foothill High School in Santa Ana, California.</p>
+<p>But according to federal figures, Stanford&rsquo;s two-year policy to increase aid to middle and low income families has failed to significantly increase its number of socioeconomically disadvantaged students. Some wonder if its new policy will have a substantial impact.</p>
+<p>An AVID (Advancement Via Individual Determination) high school group from Corona High School in Corona, California, that visited the campus last week said they were completely unaware of the new financial aid policies. Their faculty advisor questioned whether their counselors knew about the policies because they had not informed the students. When the new policies were explained to them, most expressed a pleasant shock.</p>
+<p>&ldquo;We didn&rsquo;t know,&rdquo; said Stephanie Cruz. &ldquo;But wow, it motivates you to come here.&rdquo;</p>
+<p>Stanford&rsquo;s efforts to increase socioeconomic diversity through financial aid may be limited by its outreach programs and high school counselors&rsquo; ignorance.</p>
+<p>&ldquo;We should be made aware of it [by our high schools],&rdquo; said Edwin Salmer&oacute;n. &ldquo;How else are we going to know to apply?&rdquo; </p>
+<p><em>How Stanford Stacks Up Against the Top Dogs</em></p>
+<p>Two years ago, Harvard implemented a policy in which students whose parents earn a $60,000 or less no longer pay for tuition or room and board. Stanford has just adopted the same policy, adding that students whose parents earn $100,000 must only pay room and board. Stanford Financial Aid has not provided a formula for evaluating aid for students who come families with income over $100,000. </p>
+<p>Princeton has taken a similar approach in which it evaluates aid on a case by case basis rather than the more formulaic sliding scales that Yale and Harvard have decided to use. At Stanford and Princeton, students in the income bracket range between $60,000-100,000 can expect to pay $11,000 or less, approximately the cost of room and board. </p>
+<p>But at Harvard and Yale, students in the income range $60,000-120,000 can expect only to pay on a sliding scale between 1 and 10% of their income ($600-12,000), which is significantly less than students at Stanford. Students at Harvard and Yale from income brackets between $120,000 and $180,000 can expect to pay between $12,000-18,000. Cooper has refused to make comparisons between higher income students at Stanford and Harvard, saying she does not want to mislead them about their potential aid package. She cautioned that aid will be evaluated on an individual basis with a number of factors including home equity, other siblings in college, and cost of living taken into account.</p>
+<p>Although the financial aid office&rsquo;s lack of transparency may deter students from making comparisons, Stanford&rsquo;s parental contributions for upper middle class and upper class students are expected to be higher than that at Harvard and Yale. Despite ranking first in fundraising last year, Stanford&rsquo;s endowment is less than both Harvard&rsquo;s and Yale&rsquo;s. In 2007, Harvard had the largest endowment in the country (34.6 billion) followed by Yale (22.5), Stanford (17.2) and Princeton (15.8).</p>
+<p>Stanford&rsquo;s plan also eliminates student loans, a policy that Princeton introduced in 2001 and most top-ranked schools have taken up this winter.  Students qualifying for need-based financial aid are no longer expected to take out a $2,000 loan before receiving grant money although they may choose to do so. This will save many students around $8,000 over four years.</p>
+<p>But beginning in the 2008-09 school year, Stanford expects students to earn $500 more a year; $2,500 during the school year and $2,000 over the summer. This self-help expectation exceeds those of Princeton and Yale by about $2000. Both schools have reduced students&rsquo; expected earnings to enable them to spend summers doing unpaid research, internship, and traveling. Some Stanford students who are heavily dependent on financial aid complain that they do not have the same ability to pursue opportunities over the summer as their less dependent friends.<br>
+  &ldquo;It doesn&rsquo;t make sense that those students on financial aid have to work during their summers while the more wealthy students can go and do whatever they want,&rdquo; said Somner Panage. &ldquo;I can see why it&rsquo;s important to work during college, but still, it doesn&rsquo;t seem fair.&rdquo;<br>
+  <br>
+  <em>Balancing the Classes</em></p>
+<p>According to Cooper, 15 to 20 percent of undergraduates come from families earning less than $60,000, and 30 to 35 percent of undergraduates come from families earning less than $100,000. Cooper hopes that the new policy will ease the burden on the middle class.<br>
+  But what students and parents consider middle income might not be what the University defines as middle incomes. Many Stanford students who come from households with incomes well over $100,000 still report to being middle class, while the government and most institutions would consider them upper class. Even some students in the bottom 25 percent at Stanford are part of the top 25 percent in America.</p>
+<p>Questions have also arisen over whether Stanford is catering to a different class than its peer institutions. Yale, Harvard and Princeton&rsquo;s new financial aid policies benefit students from households with incomes over $100,000 much more clearly than Stanford&rsquo;s does. Many upper middle class students resent the new policy and wonder why Stanford with its huge endowment could not have matched Harvard. Others wonder why Stanford still hasn&rsquo;t adopted a need blind admissions policy for international students like Harvard, Yale, Princeton, and Dartmouth have.<br>
+  &ldquo;One of my biggest qualms is that Stanford does not have need blind admissions for international students,&rdquo; said Salik Syed. &ldquo;Stanford&rsquo;s role is to provide an avenue for the world&rsquo;s best and brightest to come together in a common pursuit of knowledge (regardless of economic status). Financial aid is a key component to achieving that goal - both for domestic and international students.&rdquo;</p>
+<p>Along with this comes the question of whether Stanford will continue to be able to compete with Harvard for the best international, upper middle class and upper class students. In a 2006 survey of high school seniors from 500 schools across the nation, 73 percent said that if given the option they would attend Harvard over Stanford; 60 percent said they would attend Yale over Stanford. </p>
+<p>&ldquo;The new financial aid policy isolates the upper-middle class from a Stanford education. <br>
+  Stanford is increasing tuition fees next year for students who do not receive financial aid,&rdquo; said Kyle Anderson. &ldquo;As tuition fees continue to increase, it becomes less and less likely that Stanford will get the brightest kids from the income group which does not receive aid.  These students will begin to consider state schools instead. The goal of Stanford should be to recruit the best and brightest students to the school.&rdquo;</p>
+<p>While Stanford&rsquo;s financial aid policies have made it less expensive than some state schools for students from households less than $100,000, Stanford generally remains much more expensive for students from households with income well over $100,000. State schools also usually offer merit aid, which can often significantly decrease the expense for top students. </p>
+<p>However, even the UC system is now pushing for increased financial aid. In January, the UC Board of Regents agreed that they needed to create an extra $2 billion endowment for financial aid. Chancellor of UC Berkeley Robert J. Birgeneau told the LA Times that he plans to use private schools&rsquo; recent announcements to pressure the state to increase financial aid funding. However, because of the California budget crisis, state funding is limited and tuition is expected to increase another 7.4 percent under Governor Arnold Schwarzenneger&rsquo;s new plan.</p>
+<p><em>Stanford and Harvard: The Wal-Marts of Academia?</em></p>
+<p>Some academics have objected to the new financial aid policies as a kind of predatory pricing that undercuts smaller liberal art schools, which cannot afford to be as generous with their aid. In the college market, schools like Harvard and Stanford are playing the role of a Wal-Mart, cutting their prices and forcing other schools to compete at an economically unfeasible level. But Cooper has said that Stanford does not promise to match need-based offers from other schools, joking that it is not the &ldquo;Wal-mart of financial aid.&rdquo; Nevertheless, Stanford&rsquo;s bargain pricing means that smaller, non-research universities that depend upon larger universities like Stanford to keep prices comparable may struggle to recruit the same top talent. </p>
+<p>&ldquo;My father is professor at a small liberal arts college.  If the prices become vastly different, then the small institutions that cannot afford to lower prices as they depend on tuition to cover operating costs will have far fewer applicants,&rdquo; said Daniel Sommermann. &ldquo;Basically, the large, rich universities will gobble up the top students even more than they do already.&rdquo;</p>
+<p>A former dean at Columbia, Roger Lehecka complained in a New York Times op-ed that liberal arts colleges may try to compete by reducing aid to lower class students in favor of middle class and upper middle class students.</p>
+<p>&ldquo;It could lead to schools&rsquo; doing this sort of thing because they want to be part of the top group,&rdquo; David W. Oxtoby, president of Pomona College told the New York Times. Cutting aid to lower income families &ldquo;would be terrible, exactly the wrong outcome.&rdquo;</p>
+<p>Some parents with higher incomes may also be less likely to dish out more money for a top quality liberal arts or even a Stanford education when they realize that they can get a comparable education at Harvard or Yale for nearly half the price.</p>
+<p>&ldquo;It will educate those parents [with incomes of 180,000] into thinking, &lsquo;Eighteen thousand dollars a year is what we ought to be paying.&rdquo; said President of Ursinus College John Strassburger. &ldquo;&lsquo;Why should we have to pay more than that?&rsquo; &rdquo; </p>
+<p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>
+<p><span class="headline"><a name="table" id="table"></a>Aid in the Ivy League: How Does Stanford Measure Up? </span></p>
+<table width="518" border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th width="65" scope="col">School</th>
+    <th width="110" scope="col">Main Feature/formula for calculating aid</th>
+    <th width="75" scope="col">Other Features</th>
+    <th width="54" scope="col">Loan Policy and Self-help</th>
+    <th width="71" scope="col">Intern-ational Students</th>
+    <th width="69" scope="col">Costs to <br>
+      University</th>
+  </tr>
+  <tr>
+    <th scope="row">Stanford</th>
+    <td><p>&lt;$60,000: free tuition and room and board $60-$100,000: tuition is covered <br>
+      &gt;$100,000: special &ldquo;secret&rdquo; formula that includes home equity, business assets, investments other siblings in college, medical costs</p></td>
+    <td>Equity capped at 1.2 assets; adjusts parents income to reflect higher costs of living; decreases student assessment for assets rate from 25% to 5%</td>
+    <td>No loans; Student expected <br>
+      earnings $4,500</td>
+    <td>&nbsp;</td>
+    <td>Extra $20.7 million; $97.2 million</td>
+  </tr>
+  <tr>
+    <th scope="row">Princeton</th>
+    <td>&lt;$53,000: contributions range from $500-$3,000<br>
+      $53,000-$75,000: about $9,000 $75,000-$150,000: about $20,000 $150-$200,000: about $30,000</td>
+    <td>Home equity not considered;<br>
+      Assesses students assessment at 5%</td>
+    <td>No loans; Student expected earnings: $2,210</td>
+    <td>Need blind for international students</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <th scope="row">Dartmouth</th>
+    <td>&lt;$75,000: free tuition</td>
+    <td>Assess students assessments at 20-25%;<br>
+      Students provided with $2,950 scholarship during junior year to travel, volunteer, or do internships</td>
+    <td>No loans;<br>
+      Student expected earnings: $2,500-$2,900</td>
+    <td>Need blind for international students</td>
+    <td>Extra $10 million; <br>
+      $71 million</td>
+  </tr>
+  <tr>
+    <th scope="row">Yale</th>
+    <td>&lt;$60,000: tuition and room and board are free<br>
+      $60,000-$120,000: parents contribute between 1-10% income;<br>
+&gt;$120,000: 10% of income</td>
+    <td>Exempts first $200,000 of family assets from the assessment of need;<br>
+      Increases expense allowances for foreign students during school vacation periods</td>
+    <td>No loans; <br>
+      Student expected earnings: $2,500 </td>
+    <td>Need blind for international students; will increase allowances by $1,100 for international student</td>
+    <td>Need blind for international students</td>
+  </tr>
+  <tr>
+    <th scope="row">Harvard</th>
+    <td>&lt;$60,000: tuition and room and board  are free $60,000-$120,000: parents contribute between 0-10% income <br>
+      $120,000-180,000:10% of income</td>
+    <td>Home equity not considered</td>
+    <td>Extra $10 million; <br>
+      $71 million</td>
+    <td>Extra $24 million; $80 million</td>
+    <td>Extra $22 million; <br>
+      $120 million</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p><br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

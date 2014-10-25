@@ -1,0 +1,452 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - January 12, 2007</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style1 {font-family: Tahoma; font-size: 12px; color: #000000; font-weight: normal; margin-top: 2px; font-style: italic; }
+.style2 {
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000
+}
+th {border-right: 1px solid #000000}
+th.noLine {border-right: 1px solid #000000}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXVII, Issue 10 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">January 12, 2007 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">WORLD</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p align="center" class="headline">Going Nuclear, for Peace</p>
+              <p align="center" class="style1">
+                 <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+                <p>
+                  </p>
+              </p>
+                </div>
+              <div align="center">
+			  <table width="518" cellspacing="2" id="debateTable" summary="Forum: Is Peace Possible in Israel and Palestine?">
+<tr>
+  <td height="0" scope="col" abbr="Israel">&nbsp;</td>
+  <td height="0" class scope="col" abbr="Palestine""noLine">&nbsp;</td>
+</tr>
+<tr valign="top">
+  <th scope="row"><p align="left" class="style2"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVII/Issue_10/World/world1a.jpg" width="241" height="181"></p>
+    <p align="left" class="style2">China: Balancing Economic Growth and Environmental Impact</p>
+    <p align="left" class="byline">&nbsp;</p>
+                        <p align="left" class="byline">by Allison Rhines </p>
+                        <p align="left" class="byline"><em>Staff Writer </em></p>                        
+                        <p align="left" class="text">On December 26, Chinese President Hu Jintao issued a statement calling for more concerted efforts in increasing Chinese energy efficiency as well as increasing reliance on environmentally sound forms of energy.  With some of the world&rsquo;s most polluted cities and its energy consumption growing at 4% per year, China has every reason to be concerned.  Fortunately, the Chinese government is moving in the direction of multilateral cooperation to reach its goals in this area. </p>
+                        <p align="left" class="text">President Hu Jintao&rsquo;s speech was the culmination of a month of cooperative efforts designed to help China minimize environmental damage while maximizing energy efficiency through international cooperation.  On December 16th, U.S. Department of Energy (DOE) Secretary Bodman and the Chinese Chairman of National Development and Reform Commission (NDRC) met to sign a Memorandum of Understanding (MOU) that will further expand nuclear energy in China.  This agreement provides for the construction of four new nuclear power plants in China, to be developed by the Westinghouse Electric Company.   The U.S. and China participated in a Five-Party Energy Dialogue, which included China, India, Japan and South Korea, focusing on improved energy efficiency and the use of strategic oil reserves. </p>
+                        <p align="left" class="text">The first U.S.-China Strategic Dialogue (SED) took place in Beijing on December 15th, where the U.S. and China signed the Energy Efficiency and Renewable Energy Protocol, renewing collaboration in work with clean and renewable power sources such as solar, wind, biomass, geothermal and hydrogen energies.  The two countries use market potential and research to guide their continuing discussions on clean and renewable sources of energy. </p>
+                        <p align="left" class="text">At SED, China also announced its cooperation on the FutureGen project, making it the third country to join the U.S. in this initiative.  When FutureGen begins operations in 2012, it will be the first plant to simultaneously produce electricity and commercial-grade hydrogen from fossil fuels while removing carbon dioxide from its environment&mdash;making it the most environmentally clean fossil fuel plant in existence. </p>
+                        <p align="left" class="text">Currently, China is the second-largest consumer of energy after the United States.  The U.S. State Department forecasts worldwide energy consumption will grow 50 percent by 2030, with 30 percent of that increase coming from the rapidly developing Chinese economy alone.  By this time, China is expected to overtake even U.S. consumption.</p>
+                        <p align="left" class="text">As the Chinese economy continues to rapidly expand (an average of 10% growth from 1990-2004, made China&rsquo;s economy the fastest growing in the world), the economic and environmental consequences of China&rsquo;s energy choices will certainly be magnified.  Currently, coal makes up the bulk of China&rsquo;s energy consumption, and seven of the world&rsquo;s ten most polluted cities are in China.  The existing 9 million Chinese cars are forecasted to become 100 million by 2030.  As its energy demand increases, China&rsquo;s net consumption of coal will rise dramatically, even as the country attempts to curb the percentage of energy derived from unclean fuels.  The U.S. government estimates the cost of pollution on the Chinese economy to be 7-10% of GDP every year and China&rsquo;s growing energy demand will require more than $4 trillion in electricity associated infrastructure by 2030. </p>
+                        <p align="left" class="text">The outcome of China&rsquo;s energy usage could additionally have substantial geopolitical consequences if they do not curb their dependence on fossil fuels. With imports that are expected to rise to 3.5 million barrels per day by 2010, China is highly dependent on Middle Eastern oil.  Some suspect that this has already negatively impacted China&rsquo;s foreign policy decisions. <br>
+                          In 2006, China passed the Renewable Energy Law, mandating a 10% minimum of renewable energy by 2020. Nuclear power currently provides 1.5% of China&rsquo;s energy.  China has set the goal of 4% nuclear energy by 2030.  Fortunately, China is seeking the help of the global community in its work toward a nuclear solution.  Because of China&rsquo;s strong presence as an energy consumer, it is in the U.S.&rsquo;s best interest to cooperate in this effort.  Regarding the bilateral efforts toward advancing nuclear power, Secretary Bodman explained, &ldquo;This agreement is good for the people of China and good for the people of the United States.  It is an example that if we work together, we can advance not only our trade relations, but also our common goal of energy security.&rdquo; </p>
+                        <p align="left" class="text">As China currently lacks developed energy infrastructure, the country has the freedom to grow its energy production in any area it chooses, particularly in the nuclear arena.  In addition to the benefits of bilateral and multilateral cooperation, China&rsquo;s new energy initiatives may have a secondary positive effect on energy difficulties in the U.S.&mdash;as Chinese energy requirements surpass those of the U.S., China may serve as a model to encourage efficiency in the development of nuclear technologies.</p></th>
+  <td class="noLine"><p align="left" class="style2"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVII/Issue_10/World/world1b.jpg" width="241" height="181"></p>
+    <p align="left" class="style2">India: Advancing Democracy and Energy Security</p>
+    <p align="left" class="byline">&nbsp;</p>
+                        <p align="left" class="byline">by Yishai Kabaker</p>
+                        <p align="left" class="byline"><em>Staff Writer </em></p>
+                        <p align="left" class="text">On Monday December 18th, President Bush signed a bill that radically altered U.S. nuclear policy with India. The United States-India Peaceful Atomic Energy Cooperation Act (or the 123 Agreement) is a bilateral pact to normalize India&rsquo;s nuclear status and open trade for civilian nuclear technology and nuclear fuel from the U.S. to India. </p>
+                        <p align="left" class="text">India became a nuclear power in 1974 with a nuclear test called &ldquo;Operation Smiling Buddha.&rdquo; In response, the U.S. cut off funding for the two reactors that it had donated. India refused to sign the Nuclear Non-Proliferation Treaty and to this day, along with Pakistan, Israel, and recently North Korea, remains one of the few countries that is not a member of the NPT. Around the same time as Operation Smiling Buddha, the U.S. began experimenting with an engagement strategy towards China. The overlap of these two events led to a decline in U.S.-India relations.</p>
+                        <p align="left" class="text">Breaking from that path, both President Bush and India&rsquo;s Prime Minister, Manmohan Singh, hail this deal as the start of a new strategic relationship between their formerly divided countries. </p>
+                        <p align="left" class="text">The U.S. conditions for the deal are recognition of India&rsquo;s nuclear program along with opening access to trade for American civilian nuclear technology and nuclear fuel. In turn India must open up its civilian nuclear plants to atomic inspectors from the International Atomic Energy Agency and comply with their standards. However, India&rsquo;s military nuclear program will not be regulated and will remain under Indian control. This can be interpreted as tacit U.S. approval of India&rsquo;s nuclear program in return for Indian compliance of international law and trade.</p>
+                        <p align="left" class="text">The benefits for India are international recognition of their nuclear program and access to nuclear fuel. This will allow India to expand both its military and civilian nuclear ability. Currently nuclear energy accounts for 3% of India&rsquo;s energy; the Indian government hopes to increase that number to 25% within three decades. This would substantially reduce India&rsquo;s CO2 emissions. Considering India&rsquo;s soaring economy, their development of nuclear energy is an environmentally responsible plan that will have a tremendous global impact. </p>
+                        <p align="left" class="text">The United States stands to gain a strategic ally in an important region of the world. Considering India&rsquo;s dramatic economic rise, coupled by its regional influence and strong democratic history, such cooperation seems only natural. An added benefit from the deal would be increased economic ties between the two great democracies. </p>
+                        <p align="left" class="text">Both Prime Minister Manmohan Singh and President Bush have received criticisms for the deal. In India, Prime Minister Singh has been criticized by both the left-wing coalition Communist Party of India and right-wing opposition Bharatiya Janata Party (BJP). They contest two late insertions into the deal by Congress. One requires the U.S. to halt shipments if India tests another bomb, while the other asserts that India should help pressure Iran against its nuclear ambitions. India has traditionally had good relations with Iran as a counter to Pakistan, its main opponent to the west. Singh has replied that India would not do anything that violates its sovereignty over its nuclear program or its national interests. In truth, India will not become a client state or a puppet of the U.S., but an important ally in a mutually-beneficial relationship.</p>
+                        <p align="left" class="text">Meanwhile, U.S. critics claim that this deal is the nail in the coffin of nuclear non-proliferation. By recognizing India&rsquo;s nuclear program we are endorsing variance from the NPT. However, in its thirty years since Operation Smiling Buddha, India has demonstrated responsible stewardship of its nuclear technology. India has not made hostile threats of nuclear action against its neighbors as have North Korea, Iran, and Saddam&rsquo;s Iraq. Nor has India lost control of its nuclear technology and arsenal as Pakistan&rsquo;s Dr. Khan and a fragile post-Soviet Russia have. </p>
+                        <p align="left" class="text">In reaction to the deal, China and Pakistan made agreements to bring their two countries closer with trade and extradition agreements. However, they were unable to reach a nuclear deal. The timing of the deal was crucial, as China was making overtures to India for the two countries to strengthen their ties. Instead, the U.S. outmaneuvered China and secured the foundations for a stronger relationship with India. This deal, even with its potential shortcomings, is a huge diplomatic victory for the U.S. and India, and may contribute towards future stability in the region.</p></td>
+               
+
+</tr>
+</table>
+                </div>
+              <p><br>
+                    <br>
+                    <br>
+              </p><div>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

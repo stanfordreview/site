@@ -1,0 +1,304 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 3 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Campus_Focus/index.shtml" onMouseOver="window.status='Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Campus Focus</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Petition/index.shtml" onMouseOver="window.status='Petition'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Petition</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Alex Robbins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../News/news8.shtml" onMouseOver="window.status='Andrew Wright in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Chris Desmond in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Desmond</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Chris Lin in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Lin</font></a><br>
+
+<a href="../News/news6.shtml" onMouseOver="window.status='Dave Kim in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Kim</font></a><br>
+
+<a href="../News/news9.shtml" onMouseOver="window.status='Dave Myszewski in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Myszewski</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='David Regele in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Regele</font></a><br>
+
+<a href="../News/news7.shtml" onMouseOver="window.status='Henry Towsner in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Joe Lonsdale in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../Campus_Focus/index.html" onMouseOver="window.status='Joe Spieczny in Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Spieczny</font></a><br>
+
+<a href="../News/news5.shtml" onMouseOver="window.status='Keun Lee in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Keun Lee</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Nels Hansen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Sam Shapero in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+<a href="../Editors_Note/index.html" onMouseOver="window.status='Scott Rasmussen in Editor's Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<a href="../News/news9.shtml" onMouseOver="window.status='William Rothacker in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William Rothacker</font></a><br>
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 3
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+November 15, 2001</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Income Gap Studies Based on Flawed Statistics
+</font><br>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_3/Opinion/images/rawls.jpg" width=121 height=173 alt="Alec Rawls" align=Left>
+
+One of the most pernicious impacts of academia on society is the vast advocacy statistics industry that generates phony statistics in support of ideologically based claims that American society is a racist, sexist, selfish, unfair or otherwise bigoted. The standard statistical technique is to omit explanatory variables in the study of some racial or sexual difference, then attribute the unexplained residual to race or sex.
+
+<p>
+
+A ploy of this kind won headlines across the country this summer from a complicit press. The study appeared in the August issue of American Sociological Review. Authors Eric Grodsky and Devah Pager found that income disparities between blacks and whites are larger in the professions than in blue collar work, and that these gaps remains after controlling for level of education. Their candidate explanations are "social segregation" by race and racial discrimination.
+
+<p>
+
+They are probably right, but not in the way that they think. Consider the inevitable effects of that form of racial discrimination called "affirmative action." It is a fact that people admitted to universities under affirmative action tend to graduate towards the bottom of their class. It is also a fact that people towards the bottom of their class tend to make less money than those at the top of their class. The inevitable result is an "income gap" between those favored by affirmative action and others with the same formal level of education.
+
+<p>
+
+The higher one climbs the academic ladder, the more powerful this affirmative action effect becomes. Professional schools essentially carry forth and compound the bias of affirmative action, taking students who have already been advanced ahead of merit and advancing them further, using whatever degree of racial preference is required to do it. Law schools, for instance, are known for pursuing affirmative action with almost religious zeal. The expected result is exactly what was found: a widening black-white income gap as one moves from blue collar to white collar to professional, and this will occur even if the only racial discrimination is against whites.
+
+<p>
+
+Technically, the omitted variable here is class rank. Another omitted variable is school rank. In the U.C. system, for instance, blacks and Hispanics mostly attend the second tier universities, whose graduates on average won't make as much money as graduates from Berkeley and UCLA. Other relevant omitted variables would be anything that provides a direct measure of job effectiveness or relevant ability. 
+
+<p>
+
+Grodsky and Pager cite one such study that tested whether wage gaps can be explained by linguistic test scores. They decide the linguistic variable is irrelevant because in that study "a substantial portion of the occupational variation in black-white earnings inequality remains unexplained." Of course, because a host of other variables, like years of job experience, will also determine wages. The relevant question isn't whether an omitted variable explains everything, but whether it adds explanatory power, in which case it might explain some or all of what remains unexplained in the current study.
+
+<p>
+
+In sum, the claims of a wage gap that can't be accounted for by differences in merit is a fabrication, derived by faulty reasoning and by turning a blind eye to obvious explanations. Most disingenuous is the failure to account the role of affirmative action, because the obvious if unstated goal of these advocacy studies is to make the case that affirmative action is necessary. To rely on the assumption that all graduates have equal merit, while having a passionate interest in systems that divorce admission from merit, is more than oversight. It demonstrates a positive refusal to think straight. 
+
+<p>
+
+The press did its part as well, receiving the study with a credulousness that is reserved for the politically correct. When a study that includes actual measures of job performance is eventually done, and the wage gap mostly or completely disappears, it won't be news. Such corrections never are. Like our dishonest academicians, the press thinks it is doing a great social good by depicting black people as victims. They are actually doing great harm.
+
+<p>
+
+In <i>Losing the Race</i>, Berkeley linguist John McWhorter argues persuasively that African Americans are held back far more by the cults of victimology and separatism than by any residual discrimination. Looking for ways to claim victimization breeds separatism from mainstream society and from the norms that lead to success.
+
+<p>
+
+	Possible support for this view can be found in a 1995 study, conducted by the United States Office of Personnel Management, which found that, between black and white federal employees with similar performance reviews, blacks were far more likely to be fired for misconduct, absence without leave, and other causes. A likely explanation is McWhorter's thesis: that a widespread tendency for blacks to interpret slights and setbacks as racially motivated leads to conflict instead of resolution.
+
+<p>
+
+When the press got wind of the '95 study on firing it was worse than credulous. Failing to note the study's distinction between "performance" (past performance review ratings) and "conduct" (the reason for firing), the press charged that, since firings were not for performance, they must be due to racial discrimination. No corrections were ever published.
+
+<p>
+
+ If one is looking for ways to see discrimination there will always be ways to do it, whether as a racially sensitive individual, as a biased researcher, or as a crusading member of the press. All of these efforts feed misperceptions of racism which, by fostering black alienation and separatism, create racial disparity.
+
+<p>
+
+When academics like Grodsky and Pager concoct ways to misinterpret the world as racist, they are doing what Shelby Steele condemned: identifying black interests with claims of victimization which can then support claims for redress. But that isn't how success works in this country. Society rewards people for productivity, not claims of victim-hood. 
+
+<p>
+
+Productivity means creating value for others. Alienation--feeling cheated, feeling owed--undermines the regard for others that allows people to be motivated to create value for others. Promoting alienation through trumped up charges of racism is an excellent ways to keep blacks out and down. 
+
+<p>
+
+Academics are generally smart enough to know when methods and claims are intellectually dishonest. What is missing is basic moral fiber: a determination to trust in truth, to follow reason and evidence rather than twist them to fit one's ideological preconceptions. 
+
+<p>
+
+Every failure to follow honest reason and evidence is a turn away from reality and into a fantasy world where one knows not what one does, wreaking any amount of real damage in pursuit of purely imagined value. In contrast, truth conducts value the way copper conducts electricity. Following truth is the only way to do good in the world. 
+
+<p>
+
+Right now the demagogues have the upper hand. It is a fact of life that the dishonest reasoners control whole disciplines in academia. The America hating left wing trash of the 60's are right now choosing the next generation of tenured professors. How can they be beaten? 
+
+<p>
+
+In a truth-loving environment, honest reason trumps dishonest reason every time. If students and administrators and other members of the academic community all embrace their moral duty to create that truth-loving environment then the demagogues will always lose. Like vampires, they can't survive the light, so turn yours on. 
+
+<p>
+
+<i>Alec Rawls' writings on most subjects can be found at <a href=http://www.rawls.org/ onMouseOver="window.status='Read the writings of Alec Rawls'; return true" onMouseOut="window.status=' '; return true">www.rawls.org</a></i><p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:12:51 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

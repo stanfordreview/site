@@ -1,0 +1,435 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - May 22, 2008</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style1 {font-style: italic}
+.style3 {font-weight: bold}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XL, Issue 8 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">May 22, 2008 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">FEATURES</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Interview with LTCOL Hanagan</p>
+              <p class="byline">by <a href="http://www.stanfordreview.org/About/Staff/draub.shtml">Diane Raub</a></p>
+              <p class="byline"><em>Editor-in-Chief</em></p>
+              <p class="style1"><img src="http://www.stanfordreview.org/Archive/Volume_XL/Issue_8/Features/features4.jpg" width="300" height="404" border="0" align="right"></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>Lieutenant Colonel Deborah Hanagan is the 2007-2008 Army National Security Affairs Fellow at the Hoover Institution.&nbsp; She is a European Foreign Area Officer who has served in a variety of assignments in Europe, including the American Embassy in Slovenia and Headquarters, US European Command in Germany.</p>
+              <p><strong>The Stanford Review:</strong> In your opinion, what is the most serious threat to European security, both in the near and the long term future? </p>
+              <p><strong>LTC Hanagan:</strong>  I think one of the biggest threats facing Europe is radical Islam.  But I don&rsquo;t think most Europeans would agree with me. The European Union studied this issue and published a European Security Strategy several years ago. From their perspective, they don&rsquo;t recognize any major adversary, they have no fear of actual invasion or anything.  They recognize general threats, like the migration of people due to poverty and civil strife, conflicts over scarce resources, organized crime - those sorts of amorphous things. They also generally recognize the dangers of weapons of mass destruction and terrorism. </p>
+              <p>A few months ago, there was a European Union-level crisis management exercise where they looked at the threats of rogue regimes, and an interesting result of their study was that European leaders recognized that Iran is a threat to them, because of the range of Iranian ballistic missiles, whether they&rsquo;re conventional or nuclear-loaded, chemical or biological. </p>
+              <p><strong>TSR:</strong> Is there a consensus on how to handle these problems? </p>
+              <p><strong>Hanagan:</strong> On migration and poverty, I would say yes.  There&rsquo;s not complete agreement on what to do about the threat of a nuclear-armed Iran, though, and it was reflected in the debate about the new missile defense system the US is trying to set up in Europe.  There was strong debate over the course of the last year, right up until the NATO summit which was held several weeks ago in Bucharest, because we want to put a radar in the Czech Republic and interceptor missiles in Poland.  Those two countries for the most part have supported the proposal all along, but there were some Western European leaders who were concerned about the Russian reaction.  However, NATO has now formally endorsed the US plans and unequivocally recognized the threat of Middle Eastern ballistic missiles.  So European leaders did come to consensus after a long period of debate, and I&rsquo;d imagine it was that exercise they did a few months ago that really brought out to them that Iran is a problem. </p>
+              <p><strong>TSR:</strong> Is Islamic terrorism the leading threat to worldwide peace and security?  If so, what will it take for the American and European publics to fully recognize the gravity of that conflict?  Do they already? </p>
+              <p><strong>Hanagan:</strong> I think the combination of Islamic terrorism, rogues regimes, and the proliferation of weapons of mass destruction is a key threat.  And, in my opinion, this is one area where we don&rsquo;t agree with Europe.  I&rsquo;ve concluded, after the research I&rsquo;ve done this year, that most of Europe does not recognize that they&rsquo;re in this ideological war with radical Islam.  Many European leaders think that America is the target, that this isn&rsquo;t their war.  And their political decisions reflect it&mdash;for example the Spanish election in March 2004 and the subsequent socialist Spanish prime minister&rsquo;s decision to withdraw the troops from Iraq, because he did not think that it was Spain&rsquo;s fight, and he thought if he withdrew troops that Spain would no longer be a target for terrorists.  Of course, they&rsquo;ve subsequently uncovered several plots against targets in Spain - the most recent one was just a couple of months ago. </p>
+              <p>The French are another example.  They have supported the US in Afghanistan, but they frame their support solely in terms of the Al Qaeda network in Afghanistan and the Taliban. They think it&rsquo;s a regional threat confined to that area. They don&rsquo;t recognize this is a radical Islamic movement motivated by an ideology that rejects Western democracy, and terrorists like al Qaeda aren&rsquo;t just located in the Middle East and Central Asia and their targets are global. </p>
+              <p>I think there was probably more public consensus about the threat of Islamic terrorism in America right after 9/11 than there is now.  In a way, it&rsquo;s just a reality of life&mdash;there has not been a massive terrorist attack since 9/11, mainly because our government has been very successful foiling other plots.  So now it&rsquo;s almost seven years later and nothing else has happened.  In a way, it&rsquo;s a natural process because you can&rsquo;t live your life in perpetual fear.  However, I think America in general does recognize there&rsquo;s a problem&mdash;that we do have a threat&mdash;so I think America is different from a lot of Europe. </p>
+              <p>It&rsquo;s always dangerous, though, to talk about Europe as a monolith, because it&rsquo;s not. For Central European countries, who have recent experience being under totalitarian regimes, they recognize the threat a little better than many Western European countries; Tony Blair being the only exception.  He is the only Western European politician to speak publicly about the radicalization of European Muslim citizens and the threat they pose to Europe.  The problem is, there isn&rsquo;t political will to do something about it yet and it may unfortunately take some kind of catastrophic event to change the European position.  To my mind, that&rsquo;s the tragedy of our time. </p>
+              <p><strong>TSR:</strong>  Do you think that the term &ldquo;islamofascism&rdquo; is appropriate to describe the kinds of motivations that Islamic terrorist networks have? </p>
+              <p><strong>Hanagan:</strong> Yes, because fascism is a form of totalitarianism and the regime that the Islamists want to impose is a totalitarian system. </p>
+              <p><strong>TSR:</strong> Is it important for the United States to have a &ldquo;grand strategy&rdquo; in approaching the war on terror?  In your opinion, what are the essential elements of an ideal grand strategy and how does it differ from the strategy being carried out today? </p>
+              <p><strong>Hanagan:</strong> I do think that we&rsquo;re in a war&mdash;this is something that threatens the very foundations of what our society is about.  This isn&rsquo;t like conventional conflicts of the past, like the Nazis overrunning Europe.  This is a different kind of war, an asymmetrical war waged by non-state actors who operate globally through networks. You could argue that Islamists have a military tactic&mdash;their military tactic is suicide bombings. They are engaging in military operations against us, and the Europeans, and in many other places around the world. </p>
+              <p>So yes, we do need a grand strategy that seamlessly binds together diplomatic, military, economic, public diplomacy, intelligence, financial, and law enforcement actions and I don&rsquo;t think we&rsquo;re quite there yet.  It&rsquo;s easy to criticize the administration, because it&rsquo;s always easy to criticize any administration in power for not being perfect, all-knowing, omniscient; or for not having a perfect plan perfectly executed.  In reality, life is messy, and I always try to remind myself that war has friction and to a certain extent, in any kind of conflict, the side that wins is the side that makes the least mistakes.  Things don&rsquo;t go the way you think they will&mdash;war is a nasty, ugly, terrible business. </p>
+              <p>Al Qaeda and the other Islamic radicals who subscribe to al Qaeda&rsquo;s ideology are very 21st century &ndash; they take advantage of 21st century technology.  Coming to grips with how we should fight them is exceedingly difficult.  This isn&rsquo;t just about military operations against the bad guys; it&rsquo;s not a conventional military conflict.  We&rsquo;ve never fought this kind of enemy before and we&rsquo;re not doing a great job in some respects, but I&rsquo;m not very critical about that because this is so different.  It took us 40 years to figure out how to fight and defeat the Soviet threat and I think the fight against radical Islam will be another long fight. </p>
+              <p>Probably my biggest criticism is I don&rsquo;t think we fully recognize that there is a public diplomacy, or informational sphere, to this war that needs to be waged, if you will; so far we&rsquo;re not doing very well in this area.  In my opinion there should be more resources dedicated to giving people around the world more true information, a ramped up Voice of America if you will, because there&rsquo;s a very heavy ideological and propaganda campaign being waged by the Islamists.  Many people in the Arab world are taught terrible lies about America.  At the information level, we need to combat that, just by telling regular people in the Middle East who we are. </p>
+              <p><strong>TSR:</strong> The American public doesn&rsquo;t put up with mistakes in war as they did in World War II.  What do you think is the cause of this; has culture changed? </p>
+              <p><strong>Hanagan:</strong> Well, I don&rsquo;t think our culture has changed.  I was living in Germany for two years after 9/11, and the town we were in became rather anti-American - there were actually kids as young as 5 years old included in the protests against the American war effort; it was a shock to see that. Coming back to America in 2003, I was assigned to a unit in Virginia and I was surprised at the level of patriotism; it was a relief to see it. American attitudes are very different from European, and we are at a very basic level more patriotic. </p>
+              <p>Why is there a lack of patience?  I think there are several reasons.  My perception is there is less emphasis on the teaching of history in our academic institutions.  And we&rsquo;ve had a long period of peace&mdash;we are so far removed from the wartime death and chaos the world saw in the 1940s.  We are so used to peace and prosperity that we&rsquo;ve lost that kind of human tragic knowledge.  It&rsquo;s a good thing in a way, but on the other hand it makes us less understanding of how hard war is. <br>
+                  <br>
+                  <strong>TSR:</strong> What role should conventional warfare tactics play in the War on Terror? </p>
+              <p><strong>Hanagan: </strong>There is a pretty good appreciation within the armed services for what we need to do militarily, and it&rsquo;s actually quite a range of things.  There is no conventional fight, that is, there&rsquo;s no standing al Qaeda army that we have to defeat, rather, the terrorists are dispersed and they hide in civilian populations.  Counterinsurgency operations are one way to fight them.  One of the strengths of the military is that we&rsquo;re constantly evaluating what we do - what are the lessons learned from operations? what did we screw up? what did we do well? and how do we improve?  When 9/11 happened, counterinsurgency wasn&rsquo;t a core trained and practiced mission for the US military.  Now, it is.  We&rsquo;ve learned a great deal over the course of the last five years and the American Army and Marine Corps are now very effective in Iraq. </p>
+              <p>So counterinsurgency is one thing.  Training and intelligence support is another. We do this in Africa, where there are a number of radical Islamic groups.  One of the programs the European Command initiated several years ago is the Pan Sahel Initiative.  The program focuses on the Sahara Desert and we help Africa governments create the institutions to be able to govern their own territory.  We also provide intelligence support and help train their armies to be more effective.  Another training program is in the Philippines &ndash; the US military has been training the Philippine Army for the past few years to help them fight the Abu Sayyaf Islamic terrorists.</p>
+              <p>Right after 9/11 there was a large NATO maritime mission which included patrolling the Mediterranean and the Persian Gulf to basically capture terrorists trying to get away by boat. <br>
+                Then there&rsquo;s lower level, special forces-type operations&mdash;if there&rsquo;s a bad guy in a bad place somewhere, we go in and get him. <br>
+                </p>
+              <p>The military also does humanitarian assistance missions.  For example, the US military was a key player in providing humanitarian assistance after the earthquake in the Kashmiri part of Pakistan. </p>
+              <p><strong>TSR:</strong> You&rsquo;ve done a lot of international traveling.  Which foreign country did you most enjoy living and working in, and why? </p>
+              <p><strong>Hanagan:</strong> I&rsquo;ve enjoyed living in all of them - I&rsquo;ve lived in Germany, France, and Slovenia.  I&rsquo;d have to say, though, hands down I enjoyed working in Slovenia the most; because that was a job where I really felt like I made a positive contribution, helping the Slovenian military reform from a Warsaw Pact-like force into a modern, efficient, well-organized force that was ready to join NATO.   It helped our own national security, too; we have a very reliable partner in NATO now. </p>
+              <p><br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

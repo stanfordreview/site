@@ -1,0 +1,222 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVI - Issue 2 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Remarks/index.shtml" onMouseOver="window.status='Editor\'s Remarks'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editor's Remarks</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Brooke Brody-Waite in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brooke Brody-Waite</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Clayton Brown in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Clayton Brown</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Jeffrey Davidson in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jeffrey Davidson</font></a><br>
+
+<a href="../Editors_Remarks/index.html" onMouseOver="window.status='Matthew Barrett in Editor\'s Remarks'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="../Front_Page/index.html" onMouseOver="window.status='Scott Ramussen in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXVI, Issue 2
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+April 18, 2001
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVI'; return true" onMouseOut="window.status=' '; return true">Volume XXVI</a> - <a href="../index.html" onMouseOver="window.status='Issue 2'; return true" onMouseOut="window.status=' '; return true">Issue 2</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Labour Likely To Land On Its Feet
+</font><br>
+
+<b>by Brooke Brody-Waite</b><br>
+Editor Emeritus<p>
+
+  	We on the greener side of the pond are not holding our breath.  The upcoming British general election results are more of a foregone conclusion than the election date: Labour will almost certainly win but when exactly it will be is debatable, as is the prospect that recent holes punched in the Government's legitimacy and voter apathy will combine to put a dent in Labour's hefty majority.  The Conservative party is about as likely to win this election as Al Gore is to tuck his tail between his legs and recede from American politics into an island of cool academia.<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVI/Issue_2/News/images/blair.jpg" width=208 height=183 alt="Tony Blair" align=left>
+
+	If Tony Blair is returned to office and continues to preside graciously over the consensus polity created during the Thatcher years, he will be the first Labour Prime Minister this century to complete two consecutive terms.  However, if the Tories play their cards right, this grim prediction can work to their advantage in sparking a timely debate on the issues Labour doesn't want to discuss.  Labour will insist on bringing to the fore the usual suspects of domestic issues only relevant in a time of bullish prosperity.  Tony Blair will harp on the generic themes of education and social security because he is too afraid to address the big issue, the one portentously looming on the horizon of the next parliament.  Ultimately, Labour knows that the country is not behind them on Europe.  The British people are instinctively behind the Conservatives on issues of European integration but the trick is making them realize this.<p>
+
+	For those who need to brush up on their British politics or are simply unaware that democracy exists outside American borders, here is a brief breakdown of how it works.  When the Prime Minister is good and ready, he will ask the Queen to dissolve parliament, which she will promptly do because she has just about as much real power as the ghost of John F. Kennedy.  The official campaign will ensue, waged on both the national and local levels, and last but a painless three weeks.  After this time the re-elected and freshmen members of parliament will return to Westminster, the debunked will return to tending their sheep, and the majority party will form the Government.  In practical terms this means that  we have at least another four to five years of New Labour to look forward to.  The question is how strong they  will be.<p>
+
+	There will certainly be the spectre of Peter Mandelson, the Secretary of State for Northern Ireland and New Labour "Sultan of Spin" who had a second fall from grace after basically selling British passports to a pair of Indian tycoons and then lying about it.  There will be Labour's dismal education record and their failure to prevent introduction of student fees, a blow to the core base of their campaign network.  There will be voter apathy, which for the British means anything under a 70% turnout.  There will be the latest in the slew of the Government's fallen, Lord Irvine--the highest judge in the land--who confessed to conducting several major fundraisers on behalf of the Labour party.  And there will be Labour's strategic reticence on Europe.<p>
+
+	William Hague, Francis Maude and John Redwood will essentially have to emerge from the Shadow Cabinet as the crusaders against Britain becoming further subsumed in the socialist cesspool of Europe.  It will be less about backing Labour into a corner–they do a fine job of that themselves–than about forcing them to re-evaluate their position on the euro referendum expected within two years of the next parliament.  The elite may be split on the issue but the average Briton is uncomfortable with the notion of surrendering his own currency to an inferior one and submitting himself to European laws and French socialism.  What the intelligentsia seem to forget is the gut reaction factor.  The we didn't fight and win two world wars to let Germany have control again mentality.  But it's not just about Germany.  It's about the sanctity of sovereignty and national pride.  And this election should be about holding Labour responsible for the supranational bureaucracy that it has inflicted upon Britain.<p>
+
+	The British are a proud people with a rich cultural history and a currently dominant economy.  While they are attracted to the freshly face-lifted Labour party on whole, their sympathies lie with the Conservatives on Europe.  Tony Blair is a comely and dynamic leader, flanked by a highly media savvy cabinet who know how to engineer and present Labour's best face.  However, all the spin in the world cannot change the fact that the British are doggedly eurosceptic (nor does Rupert Murdoch's impregnable grip on the British news media market hurt).  Come election day, the British electorate will be voting with Labour on law and order, and maybe even social security and fox hunting, but a Conservative victory on the euro referendum in the next parliament might position them for a much broader victory in 2005/2006.	<p>
+
+	If Gordon Brown's early March budget remains as popular as it was at its inception and Labour decides to cut its losses on ministerial scandal and charges of foot and mouth mismanagement in order to get the darn thing over with, look for a 7 June election.  But if the foot and mouth crisis continues to spiral out of control, rendering the countryside a no-go zone for political canvassing, and the welfare state voters decide that Brown's goodies weren't quite sweet enough, look for the election to be held in late June or even next Autumn.  While political predictions are an over-practiced exercise in futility, it would be fairly safe to say that Labour will lose some of their 417 seats.  Whether the majority of the lost seats will be picked up by the Liberal Democrats or the Conservatives is yet to be seen.  However, a weakened Labour will almost certainly have to face a ferocious Conservative party under a new leader in the next parliament over the question of Britain's future in Europe.  And that will be no easy task, even for the uber-urbane Labour party.<p>
+
+
+Article orginally appeared at <a href=http://www.nationalreview.com/ onMouseOver="window.status='National Review Online'; return true" onMouseOut="window.status=' '; return true">www.nationalreview.com</a>.<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:02:26 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

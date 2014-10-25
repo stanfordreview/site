@@ -1,0 +1,250 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIX - Issue 6 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word From The Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion4.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Bob Sensenbrenner in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob Sensenbrenner</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Charles Hallford in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Harrison Osaki in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Jeffrey Lonsdale in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jeffrey Lonsdale</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='Chris Fish in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Fish</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Piotr. H. Kosicki in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr. H. Kosicki</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Silvia Cruz in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Silvia Cruz</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXIX, Issue 6
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 13, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIX'; return true" onMouseOut="window.status=' '; return true">Volume XXIX</a> - <a href="../index.html" onMouseOver="window.status='Issue 6'; return true" onMouseOut="window.status=' '; return true">Issue 6</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+SCPJ Works to Change Hoover
+</font><br>
+
+<b>by Harrison Osaki</b><br>
+Staff Writer<p>
+
+<table align=Left width=251>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIX/Issue_6/Front_Page/images/stop.jpg" width=251 height=190 alt="Stop Bush sign">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>The SCPJ has noted a "hidden agenda" on their email list...which begs the question, "What sort of campus activities and art are included in this agenda?" At last year's alumni weekend, they fliered much of campus with similar liberal statements.</i>
+        </td>
+    </tr>
+</table>
+
+
+For the past three weeks the Stanford Coalition for Peace and Justice (SCPJ) has been campaigning to change the Hoover Institution's relationship with Stanford University. Starting with an editorial on the 16th of January and continuing with flyers and petitions around campus, SCPJ has been arguing that the Hoover Institution possesses an overly conservative bias, and that the Hoover Institution's ability to select faculty for joint appointments should be removed in order to supposedly bring the Institution in line with Stanford's academic policy, which forbids discrimination based on political principles.
+
+<p>
+
+On January 16th the SCPJ published an editorial in the newspaper The Stanford Daily entitled "Is the Hoover Institution compatible with Stanford's goals?", questioning whether or not the Hoover Institution was unfairly prejudiced towards a conservative ideology. The editorial used as an example the fellows of the Defense Policy Board of the Hoover Institution, saying that, all of the members had been involved in"conservative politics". SCPJ raised the complaint about the Hoover Institution that, although it does not maintain an affiliation with any particular political party, the Institution's mission statement and policy activities seem to coincide with the selection of "fellows of a particular political mode" -- either prominent Republicans, or Republicans who serve or have served in Republican administrations. Citing Stanford's Research Policy Handbook, the editorial concluded that Hoover was in violation of Section 2.3, which reads, "Decisions concerning . . . the search for, and appointment of, faculty . . . [and] the support and sponsorship of scholarly research . . . shall be made without regard to a person's political, social or other views." Due to the influence of Hoover fellows on Stanford, such as the many Hoover fellows who also serve as professors or the joint appointments of professors through the Hoover Institution, the editorial said, Stanford ought to "sever ties with the Hoover Institution in the name of academic freedom." That day, the College Republicans and the SCPJ held rallies at Hoover Tower respectively demonstrating support for and protesting against the war.
+
+<p>
+
+During the next week, several letters to the editor were sent in alternately criticizing and defending the SCPJ proposal. The day after the editorial appeared in the Daily, several strongly-worded responses from Daily readers were published defending the Hoover Institution. One of the letters, written by a 2002 Stanford graduate Ernest Tedeschi who called himself a "proud liberal", defended Hoover, among other reasons, on the grounds of institutional diversity; he said in his letter that getting rid of the Hoover Institution would create "an environment so homogeneous in left-leaning thought as to stifle academic discussion, promote apathy, dull the quality of education and ultimately do more harm than good to the very liberalism that some students would sacrifice Stanford's principles to protect." Another writer, Jon Dunn, criticized SCPJ for improperly implying that some of the fellows might have been selected for their conservative viewpoint and not for their "distinguished public service", and that he had not found while taking classes from Hoover fellows that their viewpoint was particularly influential in the courses. The last letter, written  by a student in the Graduate School of Business named William Hauk, challenged SCPJ to also eliminate political bias from other academic departments, saying that if the SCPJ was sincere about their desire to eliminate political imbalance in the school that they ought to investigate other departments, such as the Feminist Studies department, and look out for undue political leanings.
+
+<p>
+
+SCPJ published a response in a later issue of the Daily defending their initial position. SCPJ maintained that their opposition to Hoover was based on the possible influence of the political bent of the mission statement of the Hoover Institution on the hiring practices for fellows and join appointments, and added that their opinion was not based on political opposition  to the Hoover Institution's ideas. SCPJ clarified their criticism that Hoover was political as an institution, and that it was not attacking individuals for having conservative viewpoints. It cited a quote from the director of the Hoover Institution, John Raisan, who said in 1995 to the San Francisco Chronicle that, "[Hoover] tends to be suspicious of bigger and more expensive government . . . . People who look to the government to try to solve problems are not the type who will fit in well." SCPJ concluded that Hoover must eliminate the usage of politics as a criterium for hiring of fellows.
+
+<p>
+
+The SCPJ has also set up flyers and a petition around campus calling for a change in the Hoover Institution. The flyers list the points originally brought up by the first SCPJ editorial and finish with the statement "The political mission of the Hoover Institution is in direct conflict with [Section 2.3 of the Research Policy Handbook]." In addition, the SCPJ has put up a website labelled "Hoover Fellows and Academic Freedom", which reiterates their salient points regarding the Hoover Institution's conservative bias and the connection of many of the fellows to U.S. foreign policy. The website accuses the Hoover Institution of "institutional orthodoxy", and that, "since the mission endorses a specific political opinion we must conclude that political views plays some role in the process of selecting Hoover fellows". The website furthermore states that the sponsored research of the Institution, which would go along with the mission statement, is therefore also non-academic.
+
+<p>
+
+Calvin Miaw of the SCPJ commented in an e-mail response that although the precise nature of the influence the Institution has over appointments has yet to be determined, there are some incidences in the past which have raised some questions such as the "bartering of positions in the poli sci department in 1992." He noted that the severance of ties between the Institution and the University would only be a course of action if both sides refused to take action on the issue, and that the Hoover Institution's archives (and its ability to acquire and retain faculty) provide a benefit for the University.
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:51:38 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

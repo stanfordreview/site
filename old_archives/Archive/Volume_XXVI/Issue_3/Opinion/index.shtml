@@ -1,0 +1,225 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVI - Issue 3 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorial_Commentary/index.shtml" onMouseOver="window.status='Editorial Commentary'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Commentary</font></a><br>
+
+<a href="../Interview/index.shtml" onMouseOver="window.status='Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Interview</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Alex Robbins in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../The_Last_Page/index.html" onMouseOver="window.status='Bob McGrew in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Christopher Fish in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Christopher Fish</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Kathryn Davidovich in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kathryn Davidovich</font></a><br>
+
+<a href="../Editorial_Commentary/index.html" onMouseOver="window.status='Matthew Barrett in Editorial Commentary'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="index.html" onMouseOver="window.status='Scott Ramussen in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXVI, Issue 3
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+April 26, 2001
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVI'; return true" onMouseOut="window.status=' '; return true">Volume XXVI</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Tax Cut Necessary For Economic Vitality
+</font><br>
+
+<b>by Scott Rasmussen</b><br>
+Opinions Editor<p>
+
+<img src="images/bush.jpg" width=108 height=137 alt="George Bush" align=left>
+The American public (hopefully) finished thinking about taxes as they mailed and e-filed returns by this year's April 16 deadline, but for politicians, tax season is only beginning.  At stake is the ten-year $1.6 trillion tax cut centerpiece of President George W. Bush's budget, which has been approved by the House of Representatives but which appears doomed to concessions in the evenly-divided Senate.  Americans should let their representatives in Congress know that supporting a tax cut--one that's big enough to make a difference--is the best choice they can make to encourage fiscal responsibility, to promote economic recovery, and to return power to the American people.<p>
+
+	The strongest argument that can be made for a tax cut is the counterfactual: if available money isn't used to cut taxes, it is axiomatic that Congress will find another use for it.  After all, the way members of Congress keep their jobs is by earning votes in their home districts, and the way they earn votes is by delivering the bacon.  Federal discretionary spending rose by eight percent in the last year of the Clinton administration, and the Senate recently voted to raise it by eight percent again.  President Bush says it concisely, "If you send it, they will spend it."<p>
+
+	What about other plans to encourage fiscal responsibility?  Although 70% of the American public, according to Gallup polling in March, favored some sort of a tax cut, a majority preferred scaling down President Bush's proposal and instead earmarking the extra money toward deficit reduction.  In principle, this approach seems to make sense--politicians invariably make the analogy to an individual first paying off credit card debts before doing anything else--but in practice the intuition is flawed.  The federal government is not an individual, and federal debt has a different meaning than consumer debt.  President Bush's budget already calls for a reduction of the outstanding publicly held debt of $3.4 trillion by $2 trillion over ten years; anything larger than that would have severe implications for financial markets and for society as a whole.<p>
+
+
+	Why should we worry about the federal government paying its bills when we praise individuals for taking care of their own debt?  Because the government is bigger.  In particular, the United States government is bigger than any other institution in the world, and as a consequence its debt has acquired a special significance in financial markets.  United States Treasury Bills are the world's safest investments, and consequently they set the standard for the rate of return on all other investments.  By buying and selling U.S. bonds at the right time, the Federal Reserve manages to keep the U.S. economy on a steady path, and if the U.S. government had no more debt and there were no more bonds to sell, Alan Greenspan would be out of a job.  Moreover, if the U.S.  government is not in debt, there is a chilling alternative: it holds the debt of others, or, in other words, the state becomes an owner in the formerly "private" sector.<p>
+
+	Beyond being the best route to fiscal responsibility at the federal level, the Bush tax cut also makes the most sense for the economy as a whole.  Although "supply-side economics" is still a dirty word in some circles, the robust and consistent growth of the 1990's is a testament to the foresight of the Reagan administration in its commitment to massive tax cuts and stable monetary policy.  The reason why tax cuts work as an economic stimulus is simple: the American people are naturally more innovative and resourceful than their government, so giving them extra money and allowing them to spend or invest it at their discretion will in the long run create a more productive economy than if our welfare were simply left up to Washington bureaucrats.  For example, Bureau of Economic Analysis figures show that real gross domestic product rose by over 4% in each of the last four years, driven by the technology revolution which was in turn a product of the expansionary effect of tax cuts starting with the Reagan administration.<p>
+
+	While supply-side economics is the strategy of choice for long-term real growth, it is especially relevant in the current slowdown of the business climate.  The recent stock market turbulence reflects the weak market conditions, and may portend further troubles in the future, given the historical tendency of stock prices to anticipate business cycles.  The jury is still out on economic performance so far this year, but the trend reported by the BEA isn't encouraging: real growth fell from an annual rate of 8.3% in the fourth quarter of 1999 to only 1.0% in the fourth quarter of 2000.  What does this have to do with tax cuts?  Everything.  A timely, substantive tax cut like that presented in the Bush budget will give consumers the money they need in order to spend and support American workers, as well as to invest and build a better future.<p>
+
+	Aside from the question of efficiency in the federal government and in the economy as a whole, a tax cut is necessary simply as a matter of equity.  <p>
+
+	As citizens of the world's oldest democracy, we Americans have the privilege and the responsibility to call for a government that recognizes its limits.  The most  basic limit is this: government exists only to serve people, not the other way around.  When individuals are able to accomplish something better than the government--which frequently happens because we are in a better position to identify and achieve our own goals--the greatest service the government can do them is to stay away. America is the leader of the world today in every sense of the word--economic, political, technological--because she has afforded her citizens the freedom to accomplish great things, instead of attempting to institutionalize greatness herself.<p>
+
+	Unfortunately, while the United States stands at this pinnacle of success, many of its leaders have forgotten where it came from and are working hard to stifle the future initiative and innovation of the American people.  Taxes in 2001 will be at their highest share of the gross domestic product since 1944.  As President Bush says, "Our country is at peace, but our government is charging wartime prices."  The saddest part of this is that while today's politicians are only thinking of the political dividends that spending this extra money will bring, they are actually also adding to the government burden for future generations.  New federal spending inherently creates constituencies determined to protect and expand what is "theirs"--witness Social Security--and it is the height of hubris to assume that those in leaner years ahead will automatically thank us for saddling them with additional debt during our time of prosperity.<p>
+
+Rather, we as Americans have been blessed with a rare and a wonderful opportunity in the forecasted ten-year $5.6 trillion federal government surplus, and it is our duty to be stewards with the wisdom and responsibility that this trust demands.  This is a time of proving for our nation that  will determine the path that our children follow; it is only fitting to consider our decision in the trajectory of our forefathers.  Abraham Lincoln vowed to uphold "government of the people, by the people, and for the people."  In ceasing to delay and to dilute President Bush's tax cut, Congress has the historic chance to renounce extra government for the sake of extra government, and instead to return power and freedom to its ultimate source: the American people. <p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:02:56 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

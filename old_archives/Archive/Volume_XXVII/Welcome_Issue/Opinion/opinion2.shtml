@@ -1,0 +1,245 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Welcome Issue 2001 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word From The Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Bob McGrew in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Henry Towsner in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Matthew Barrett in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.html" onMouseOver="window.status='Scott Rasmussen in A Word From The Editor and News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Welcome Issue 2001
+</font>
+</td>
+<td align=right>
+
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Welcome Issue 2001'; return true" onMouseOut="window.status=' '; return true">Welcome Issue 2001</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Davis's Electricity Policy Deplorable
+</font><br>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Welcome_Issue/Opinion/images/rawls.jpg" width=108 height=130 alt="Alec Rawls" align=Left>
+
+	Persistent rolling blackouts threaten to seriously damage California's economy.  Governor Gray Davis presents this as lesser of two evils, with the alternative of letting the retail price of electricity rise until the resulting conservation brings demand into line with supply. Davis rejects this market approach on the grounds that would force Californians to pay gouger's prices. He grudgingly accepted a mere 40% rate increase after wholesale prices went up 700% from last year, and at times have spiked as high as 5000%.
+
+<p>
+
+	To reject high prices as "gouging" is blind unwillingness to confront reality. There are users to whom a megawatt-hour of electricity is worth $1500. Let them have it. Those who don't value electricity at $1500 don't have to buy it: they can choose a tier of service that matches what they are willing to pay. Let prices allocate the electricity to its most valued uses first and price will fall dramatically. Reality is benign, if we are willing to deal with it. But Davis is determined to resist the "gougers," finding the alternative of distributing the shortfall of power equally to be morally superior than market-based solutions that address the real problems of conservation and sky-high prices.
+
+<p>
+
+	The problem isn't that Davis is moralistic. We should indeed try to account value, but those who don't appreciate markets are doomed to account it wrong. In fact, high prices and blackouts are not alternatives. Rather, subsidizing the retail price of electricity leads both to rolling blackouts and to increased electricity costs. Davis is choosing the greater of both evils.
+
+<p>
+
+	The difference between the wholesale market price of electricity and the subsidized retail price is being paid by taxpayers. The State of California is buying high-priced electricity on spot markets and reselling it to consumers at low prices, at a cost to taxpayers of an astounding fifty million dollars a day. At this rate, the state's ten billion dollar budget surplus will have been squandered by July.
+
+<p>
+
+	People aren't paying less for electricity than if prices were uncapped. They will end up paying far more, just in their tax bills instead of in their utilities bills. Subsidization keeps demand high, which causes wholesale prices to spike higher than they would if consumer prices were allowed to rise. With more electricity use at higher prices, the electricity costs that Californians pay in their tax bill will far exceed what they would have paid in their utility bills in the absence of subsidization. Thus Governor Davis's claim to be protecting Californians from high costs is, in the words of Frau Farbissina, "LIES! ALL LIES!" Fifty million dollars a day is just the beginning.
+
+<p>
+
+	In last month's rolling blackouts, electricity supply was about two-thirds of expected peak summer demand. Part of the problem was that plants were off-line for repairs. That might not happen this summer, but the drought in the Northwest will cut off a major supply of hydro-electric power for certain. Optimistically, shortfall this summer could easily hit ten or fifteen percent on a regular basis. Cambridge Energy Research Associates estimates that the current 40% rate hike will induce about a 5% decrease in demand (i.e. electricity demand is relatively inelastic, especially in the short run). To cut demand by ten or fifteen percent electricity, prices may need to double or even quadruple for the next year. That's a lot of money, but however high the price has to go to clear the market, continued high levels of subsidization would cost people several times that much in their tax bills.
+
+<p>
+
+	What do we buy for all this extra expense? Rolling blackouts, all summer long, each one landing like a quick hammer blow on some city or town. Blackouts are blind. They have no idea what they are doing to whom. They are the ultimate expression of Governor Davis's contempt for market processes of individual choice, where individuals decide among ourselves how much we each value society's scare resources. Instead of intelligent allocation, we get pure stupidity. Would it be worth it to you to pay the unimaginably high electricity price of five cents to save the last fifteen minutes of work on your computer before the plug is pulled?  Sorry.  California has been stupidized.
+
+<p>
+
+	It is such an odd phenomenon, this moralizing without thinking straight. It isn't just Davis. The self-proclaimed "consumer advocates" are also screaming that letting retail electricity prices rise will hurt consumers. It will, but not nearly so much as continued subsidization will. Imagine choosing between alternatives by only looking at one of them.
+Still, Davis is the master. Some small plants were off-line in the recent blackouts because the utilities, bankrupt from having to sell electricity at subsidized prices, weren't buying. An irate Governor Davis insisted that this was "irresponsible, immoral and it has to stop"! Okay, let's look at this. I just mugged you, and now you are refusing to go the bank and get out more money so that I can mug you again? You criminal!
+
+<p>
+
+	Davis is something close to a pure moral imbecile. His antipathy to markets somehow is able to prop up enough self-righteousness that he can feel moral indignation at everyone but himself for this train wreck he is causing. Consider his idea to further subsidize energy prices for those who conserve 20% over their previous year's energy consumption. Done right, using last year's consumption as a baseline and then applying unsubsidized marginal prices is one way to create full incentives to conserve.
+
+<p>
+
+	But by not letting people save at higher marginal rates unless they reduce consumption by at least 20%, Davis has diluted incentives into a gimmick that will not affect most people. He thinks that by only giving the rebate for a high level of conservation he is exerting additional manipulative power. Conserve a lot or else! Such thinking again shows complete disregard for how markets work. Incentives are maximized when they apply everywhere. Applying them only to a large reduction makes them very risky, causing them to be discounted accordingly, and to most users they will be completely irrelevant.
+
+<p>
+
+	Moralism isn't the mistake. Government policy, trying to pick the best means to achieve valued ends, is inevitably about morality. Unfortunately, those who refuse to think straight don't have any.<p>
+
+
+<i>Alec Rawls' writings on most subjects can be found at <a href=http://www.rawls.org/ onMouseOver="window.status='The web site of Alec Rawls'; return true" onMouseOut="window.status=' '; return true">www.rawls.org</a></i><p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:15:49 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

@@ -1,0 +1,252 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVI - Issue 5 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Word From The Editor</font></a><br>
+
+<a href="../Cartoons/index.shtml" onMouseOver="window.status='Cartoons'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Cartoons</font></a><br>
+
+<a href="../Corrections/index.shtml" onMouseOver="window.status='Corrections'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Corrections</font></a><br>
+
+<a href="../Essay/index.shtml" onMouseOver="window.status='Essay'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Essay</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="../Letter_To_The_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Essay/index.html" onMouseOver="window.status='Alec Rawls in Essay'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="index.html" onMouseOver="window.status='Christopher Fish in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Christopher Fish</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Henry Towsner in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.html" onMouseOver="window.status='Matthew Barrett in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='William F. Buckley in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William F. Buckley</font></a><br>
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXVI, Issue 5
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+May 16, 2001
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVI'; return true" onMouseOut="window.status=' '; return true">Volume XXVI</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Front Page</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" 
+Panel Speaks on Aaron, Baseball, and Race
+</font><br>
+
+<b>by Christopher Fish</b><br>	
+Contributing Writer<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVI/Issue_5/Front_Page/images/hank_aaron.jpg" width=181 height=221 alt="Hank Aaron" align=left>
+
+A panel of sports experts discussed the topic of sports and race on May 10th in Cubberly Auditorium after viewing the documentary film Hank Aaron: Chasing The Dream.  The panel featured Michael Tollin, who wrote and directed the Academy Award-nominated film, Larry Baer, president of the San Francisco Giants, and Tyrone Willingham, Stanford's head football coach.  Jim Steyer, a Stanford lecturer in Comparative Studies in Race and Ethnicity, moderated the discussion. <p>
+
+	Before the film began, Mr. Steyer remarked that although it chronicled Hank Aaron's professional career, it also told the larger story of race and diversity in sports and athletics.  The film, which won the Peabody Award in 1995, began by splicing scenes of Hank Aaron playing baseball with Martin Luther King and the civil rights era, and then shifted into the career of Jackie Robinson.  Former baseball player Lou Brock described Jackie Robinson's debut as "the first time a black man's job was recorded for the world to see.  But white America wasn't ready for a black man to succeed at their game." <p>
+
+	Hank Aaron debuted in professional baseball just as the civil rights movement was gaining momentum.  His rookie year coincided very nearly with Brown v. Board of Education, and his career, the film suggested, was a metaphor for the larger movement.   Mr. Tollin said, "Hank Aaron was much prouder of the role he played in the civil rights movement than the role he played in baseball."  During the film, Mr. Aaron remembered his rookie year, "I was only 19. I felt the weight of the world on my shoulders."  During his first season, he struggled to integrate himself into his team, the Jacksonville Braves.  He could not eat with his teammates, one of the other players mistook him for the clubhouse boy, his name was misspelled on his locker, and a manager told him that he was too skinny to have a double number. <p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVI/Issue_5/Front_Page/images/babe_ruth.jpg" width=164 height=201 alt="Babe Ruth" align=right>
+
+	During the discussion, Mr. Willingham remembered facing similar struggles, growing up in North Carolina.  "My baseball teams never stopped at a restaurant because racially it was not allowed. Everyone had take out."  He added, "If you've lived like that, you don't need a movie to remind you."<p>
+
+	The film argued that there was greater progress in baseball during the civil rights era than in the rest of society.  When Mr. Aaron joined the Braves, twelve of 16 professional baseball teams were integrated, and, during his career, all sixteen became integrated.  In Milwaukee, where the Braves subsequently moved, many observers noted that race was a non-issue, so long as a player was successful.  But the film continued to juxtapose baseball and the civil rights movement.<p>
+
+	Milwaukee won the pennant on September 23, 1957, the same night as violent race riots in Little Rock.  Mr. Aaron recalls that he hadn't known that he would have to share the headlines the next day with the Arkansas mob.  Mr. Aaron also noted, "No matter what I did on the ball field, some people" continued to disrespect me.  But "black people had moved into a leadership role in the game, and it was up to us to finish what Jackie (Robinson) had started."  The full integration of professional baseball coincided with Lyndon Johnson's signing of the 1964 Civil Rights Act.<p>
+
+	When the Braves moved to Atlanta, it became even more important for Mr. Aaron to be a spokesperson for his race.  By that time, many more black players had become prominent in the league.  Willie Stargell, Bobby Bonds, Dusty Baker, and others each shared in the film, relating the harrowing experience of being black in professional baseball.  Many were threatened continuously.  But, says Mr. Aaron, "Racially integrated sports teams brought about change."  When he moved to Atlanta, the Braves had to insure that any player on its roster could buy a home in Atlanta, and Mr. Aaron received a $100,000 contract.  "It was more important to me," noted Mr. Aaron, "that any black man could buy a home."  A fellow player described Mr. Aaron as an ambassador for baseball in the South. <p>
+
+	Mr. Aaron suffered setbacks as the civil rights movement continued.  After Martin Luther King, Jr. was killed, Mr. Aaron noted, "We had to carry on without our leader."  When Jackie Robinson died a few years later, Mr. Aaron remembered, "As I said goodbye to Jackie, I felt like it was my responsibility to keep his dreams alive."  Mr. Aaron continued to be a leader in baseball, eventually earning the rank of the highest paid player in the league, with a $200,000 contract.<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVI/Issue_5/Front_Page/images/king.jpg" width=178 height=249 alt="Martin Luther King, Jr." align=left>
+
+	The most difficult period of Mr. Aaron's career came later, as he began to approach Babe Ruth's career homerun record, 714.  Mr. Aaron suffered a torrent of threats and confrontations.  Recalls one former player, "He had 35 to 40 people following him wherever he went."  Another noted, "It was a black man threatening a record of a man that was bigger than life." <p>
+
+	Richard Cecil was a Braves executive during Mr. Aaron's career.  He remembered the stacks of hate mail that would pour into the Braves office every day.  Hate groups, including the KKK, threatened Mr. Aaron personally, as well as threatening his wife and children. "It should have been the happiest time of his life but it was the ugliest time," noted Dusty Baker.  Mr. Aaron said, "I had to remind myself what Jackie went through."<p>
+
+	When Mr. Aaron hit the 700 mark and as Babe Ruth's record became more and more vulnerable, the death threats increased.  Mr. Cecil noted with surprise that most of the threats came from the North, not the South.  Still, Mr. Aaron would switch rooms each night just in case.  Mr. Cecil called in the FBI because Mr. Aaron needed body guards.  He says, "It was not about being happy or sad.  It was about surviving."  At the end of that season, he had 713 homeruns and thus needed 2 more to break Ruth's mark.  He approached the situation mostly with apprehension.  "I could try to get this thing over with once and for all."  When he finally broke the record, the fans did react favorably. An acquaintance noticed, "A black man is getting a standing ovation in the South for breaking the record of an all time baseball idol." <p>
+
+	A panel discussion followed the film.  The audience was mostly curious about issues of race and sports today, and whether racial tensions were still prevalent.  Concerning employment in sports, Mr. Willingham noted, "Race plays some part in the practice of hiring.  But it's also a comfort factor."  He noted that everyone would rather be around people that have the same background and tastes as him or her. "There are many reasons that minorities are not hired," he said. <p>
+
+	One audience member mentioned a recent Sports Illustrated column, which talked about the possibility that Babe Ruth's family tree included some black relatives.  When he asked Mr. Willingham if an investigation into the matter was worthwhile, Mr. Willingham responded, "What purpose does an investigation serve? If some of us checked our backgrounds, we'd be amazed at what we might find."<p>
+
+	Stanford athletes who were in the audience observed that racial tensions are not a problem at all on Stanford sports teams. A football player noted that it was not even remotely an issue on the football team, and that there were probably more divisions along the lines of positions.  The Collins brothers said that basketball players treat the issue of race with humor, while maintaining open communication and being careful not to cross certain lines.  Mr. Willingham didn't object and added that it was more credible coming from the players than it was coming from him. <p>
+
+	However, Mr. Baer hinted that it was a greater problem in the professional arena.  He related the example of the hiring of current Giants manager, Dusty Baker, who is black, in 1992.  Roger Craig had just retired.  Mr. Baer said, "It was amazing to us how many people said, Ôyou don't want to hire Dusty.'"  He mentioned that he thought people were skeptical because of the race issue and added, "There are more subtle forms of discrimination."  Although he noted that professional baseball has clearly made huge strides since the days of Hank Aaron, he said, "I deal in a reality that is getting a lot more attention." <p>
+
+	Mr. Tollin, who works as much with the media as he does with sports directly, talked about some of those more subtle forms of discrimination.  He indicated that, while prime time television is becoming more diverse, the shows that children are likely to watch (those that come on from 8 to 9pm) continue to portray minorities as fringe characters.  Thus, children do not seem them in leadership roles. <p>
+
+	The discussion continued as Mr. Baer and Mr. Willingham talked about athletes as role models.  Mr. Baer said, "A ten year old child looks up to a skilled athlete. So even if an athlete says, I'm not a role model, that's not true."  Mr. Willingham said that every person alive is a role model, but that athletes are particularly responsible because they could influence a much greater number of people in a much shorter period.  When asked about whether the Braves should fire John Rocker, who has used racial slurs on several occasions, Mr. Willingham asked, "Do you hold athletes to a higher standard than other employees?"  Though one audience member immediately shouted, "Yes!", Mr. Willingham said that he wasn't sure, and observed that a few CEO's have been kept on despite some questionable banter.  <p>
+
+	The discussion concluded with Mr. Willingham's observations about his role as a coach and his athletes' accountability as players. <p>
+
+
+<i>Christopher Fish is pleased to be writing for the Review.</i><p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:03:54 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

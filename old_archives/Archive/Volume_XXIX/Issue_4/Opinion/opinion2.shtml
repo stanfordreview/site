@@ -1,0 +1,245 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIX - Issue 4 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_from_the_Editor/index.shtml" onMouseOver="window.status='A Word from the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word from the Editor</font></a><br>
+
+<a href="../Entertainment/index.shtml" onMouseOver="window.status='Entertainment'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Entertainment</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Notices/index.shtml" onMouseOver="window.status='Notices'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Notices</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Aaron Master in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aaron Master</font></a><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Charles Hallford in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Harrison Osaki in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="../A_Word_from_the_Editor/index.shtml" onMouseOver="window.status='Chris Fish in A Word from the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Fish</font></a><br>
+
+<a href="../Entertainment/index.shtml" onMouseOver="window.status='Ming Zhu and Hilary Connell in Entertainment'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu and Hilary Connell</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Piotr H. Kosicki in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr H. Kosicki</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXIX, Issue 4
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+December 12, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIX'; return true" onMouseOut="window.status=' '; return true">Volume XXIX</a> - <a href="../index.html" onMouseOver="window.status='Issue 4'; return true" onMouseOut="window.status=' '; return true">Issue 4</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+All Hatred is Not Created Equal
+</font><br>
+
+<b>by Aaron Master</b><br>
+Contributing Writer<p>
+
+"I feel like I can't criticize Israel without being called anti-Semitic."  This is the charge many of us have heard in recent months and years, especially as debate over Israel and Palestine has grown more intense.  In order to know when the line into anti-Semitism has been crossed, one must know both what anti-Semitism is, and how people debate the Arab-Israeli conflict.
+
+<p>
+
+Hate attacks on different groups are different.  To launch hate against Blacks, one might make the baseless claim that Blacks are born racially inferior to whites, or suggest that slavery was a good idea.  To hurt Japanese-Americans, one could exalt internment camps.  To voice hatred of Jews, however, a better approach would be to falsely claim that Jews are conspiring to harm -- or fail to prevent harm against -- the non-Jewish world and save or nourish only themselves.  Why?  Because this has been the basis of centuries of deadly anti-Jewish hate.  For example, history has seen claims that Jews kill Christian children and use their blood to make Passover matzos (England, 1144); that Jews are responsible for Europe's 14th century Black Death; that Jews are plotting to control the world's money and government ("The Protocols of the Learned Elders of Zion," Czarist Russian Secret Police fabrication, 1897; stated as possibly true in Egyptian TV miniseries, November, 2002); that Jews are behind international communism and want to use it to take over Germany (Hitler and other Nazis, 1930's-1940's), or that Jews use the blood of Muslim and Christian youths when making Purim pastries (Saudi Arabian government daily "Al-Riyadh," March 13, 2002).  Under such banners were literally millions of innocent Jews systematically deported and murdered in Europe and the Near East.
+
+<p>
+
+The conspiracy theories have taken hold for a reason. Unlike many peoples, Jews have been a small minority in every country in which they have lived, except ancient and modern Israel.  Jews have nonetheless been successful in many societies, due to a huge cultural emphasis on education and family.  And that has often upset traditional classist and ethnicist order. Hence, leaders and even much of the populations of places like Russia, Germany, and France claimed that Jews must have been conspiring among themselves to succeed (or to dominate and kill). Anyone who's heard a hate chorus of "Asians only succeed in school because they cheat" knows how this accusation works.
+
+<p>
+
+This sort of thought has, unfortunately, found its way into the modern debate on Israel.  Specifically, some anti-Israel activists choose to enter into the debate selective truths that can implicitly rely on or motivate anti-Semitism.  They begin with presentation of evidence of Israeli actions such as humiliating checkpoints for Palestinians, Israeli military action that kills civilians, and occupation of Arab lands.  But this is all without mention of brutal Palestinian terrorism that necessitates security measures, or of failed Arab-initiated "war[s] of extermination" and rejections of peace that result in occupation of land.  The activists also fail to mention why the U.S. supports Israel -- ignoring everything from Israeli -U.S. intelligence sharing, to evangelical Christian voters' support of a Jewish state (to encourage the second coming of the messiah).  But they allow, and sometimes even claim, that the U.S. supports Israel for a more sinister reason: that Jews control the U.S. media and government.
+
+<p>
+
+This suggests that, despite the bitter debates over Israel in Jewish intellectual circles, American Jews in politics and journalism will categorically support Israel -- at the expense of treason against their country or betrayal of their professional journalistic standards.  That is a horribly anti-Semitic concept, and it is well rooted in the tradition of anti-Semitic conspiracy theories.  It was the Nazi party that tried to place quotas on Jewish representation in the German parliament (before deportation and murder made that unnecessary) and it was Hitler that complained of the "Jewish media" trying to expose him as a fascist.  The real factor the anti-Semites don't understand, and never will, is the Jewish culture's value of learning, which has led to many Jews succeeding in college.  It is the college-educated that are over-represented in politics and journalism, not "controlling" Jews.
+
+<p>
+
+Politicians and activists positioned against Israel can also voice hate quite directly.  When they apply language like "the largest ethnic cleansing operation in modern history," "genocide," or "nazism" to Israel without any factual basis, it's clear that the goal is more to foster hatred than to enter into debate.  Demonization of Israel's government and population is also furthered by outright fabrications, like the PLO canard that the Israeli government injected 300 Palestinian children with the HIV virus, or the Al-Manar (Hezbollah television station) fictitious "news" that 4000 Israelis working at the World Trade Center stayed home on September 11th, 2001.  Purveyors of such falsehoods have not shown similar interest in defaming the peoples of other Western democracies or Near Eastern states; they should not be surprised or indignant when they are labeled anti-Semites.  This is especially true in Near Eastern media, where the Arabic terms for "Zionist," "Jew," and "Israeli" are often used interchangeably, and where Israel and Jews alike are so often slandered. 
+
+<p>
+
+Of course, anti-Israel viewpoints are not necessarily anti-Semitic.  The view that Israel's settlement policies and occupation of the West Bank are wrong represents but one example.  But a lack of anti-Semitism does not guarantee a lack of ignorance or bias.  Tom Wise laments the "IDF's firing on ambulances to ensure that those wounded by their actions will die slowly" without mentioning Hamas's repeated use of the same "ambulances" to carry suicide bombing belts.  Whether the source is Jewish (like Wise) or not, severely biased statements and anti-Semitic statements can be two very different evils.  Intellectual debate is better without either.
+
+<p>
+
+So, in the end, demonization of Israel -- when not supported by facts or context -- is dangerously suggestive of or dependent on conspiracy theories that lie far too close to the backbone of traditional anti-Semitic propaganda.  Hateful fabrications that single out the Israeli people and government should also be seen for what they are.  But we should never automatically affix the label of anti-Semitism to criticism of Israel, even if such criticism is heavily biased.  These basic understandings ultimately can be of great use to everyone who cares about the Arab-Israeli conflict.  Palestinians, Israelis, Arabs, and Jews deserve no less.
+
+<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Sunday, 20-Aug-2006 19:40:00 MDT</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

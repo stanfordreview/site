@@ -1,0 +1,294 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIX - Issue 5 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word From The Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Interview/index.shtml" onMouseOver="window.status='Interview'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Interview</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Aaron Masters in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aaron Masters</font></a><br>
+
+<a href="../Opinion/opinion5.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Bob Sensenbrenner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob Sensenbrenner</font></a><br>
+
+<a href="../Opinion/opinion4.shtml" onMouseOver="window.status='Charles Hallford in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Hilary Connell in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Hilary Connell</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Joe Fairbanks in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Fairbanks</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='Joe Lonsdale in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Piotr H. Kosicki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr H. Kosicki</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Stephen Cohen in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Stephen Cohen</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Victoria Schwartz in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Victoria Schwartz</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='William E. Hudson in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William E. Hudson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXIX, Issue 5
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 1, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIX'; return true" onMouseOut="window.status=' '; return true">Volume XXIX</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+"War at Stanford" Draws Crowd
+</font><br>
+
+<b>by Joe Fairbanks</b><br>
+Senior Staff Writer<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIX/Issue_5/Front_Page/images/protest.jpg" width=240 height=180 alt="Protest" align=left>
+
+Peace groups believe they can still avert a war by convincing politicians that the majority of Americans oppose  action against Iraq. However, most Americans -- about 61 percent, according to a recent Washington Post-ABC News poll -- support using force to remove Iraqi President Saddam Hussein. Despite this, most polls find that a majority of Americans believe the United Nations should be allowed to try diplomacy first.
+
+<p>
+
+Stanford students have attended many recent anti-war rallies, including those in San Francisco and San Jose. Last Thursday, the Stanford Community for Peace and Justice (SCPJ) led an anti-war rally of 200 students and locals in White Plaza.  In response, the Stanford College Republicans held a counter-protest to show students and the country that there are those on the Stanford campus who support President Bush's policy of liberating Iraq from Saddam Hussein's dictatorial regime.
+
+<p>
+
+"We support our troops and we support our President in disarming Saddam," said Gary Raichart, a protester who described himself as pro-liberation. "We have given Saddam chance after chance after chance to give up his weapons, and he continues to defy the United Nations and the US by not complying" with resolution 1441, which demands the Iraqi dictator give up his weapons and cooperate fully with inspectors in Iraq.
+
+<p>
+
+While the anti-war protesters flaunted signs declaring their opposition to "war for oil", Stanford professors Joel Beinen and Thomas Sheehan demanded President Bush stop war preparations and find a diplomatic solution to the crisis.  Beinen, a controversial professor of history who has been the subject of scrutiny in several papers across the country due to allegations of him making anti-Semitic and anti-Israeli remarks, blamed Israel for the entire Iraq crisis.  "The White House's entire Middle East policy is centered around the narrow view of what's best for Israel, of Israeli domination in the Middle East," Beinen said. Later, on the SCPJ email list, emails were sent out about a satirical leftist book entitled "One Nation Under Israel." 
+
+<p>
+
+With his turn at the microphone, Sheehan followed Beinen's lead, and contended that Vice-President Dick Cheney is the real president.  "It's sad that our real President is Dick Cheney. The big oil boss is running the entire operation up there," he said.
+
+<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIX/Issue_5/Front_Page/images/standoff.jpg" width=240 height=180 alt="Standoff" align=right>
+
+As the anti-war protesters spoke, the pro-war group of 40 remained politely quiet holding their American flags and signs reading "We Support Our Troops," "We Support President Bush," and "Liberate Iraq, Oust Saddam."  One sign parodied Mastercard commercials, reading "M-16 Bullet Clip: $30, JDAM Missile: $1 Million, Liberation of Iraqi People: Priceless."
+
+<p>
+
+In addition to their flag and poster waving, the pro-war group dispensed materials to all onlookers detailing the Iraqi dictator's human rights violations against women, children, and political prisoners.
+
+<p>
+
+"It's funny how they claim to be American patriots and people who care for the Iraqis, yet I only see one American flag out here compared to our 20, and they are unable to give any other option to war," pro-war protester Cheryl Eneo said as she held "Saddam = Hitler" signs.  "All they can say is "give peace a chance." Well, we've given peace a chance for 12 years. We're not the ones who invaded Kuwait and we're not the ones who gas their own people. That's Saddam."
+
+<p>
+
+At times, the peaceful protest turned tense as some anti-war protesters were frustrated by the unprecedented presence of pro-war students.  An anti-war protester started yelling at the College Republican crowd and at one point started calling them "motherfuckers," even pointing towards a three year-old girl who was holding a Bush/Cheney campaign poster. Infuriated with the man, several College Republicans and a Free Republic Representative started arguing with the man, but were later convinced to pull away when several colleagues feared it was becoming too tense.  The man later apologized for his language and for gesturing towards the girl, claiming he was signaling his dislike for President Bush and Vice President Cheney.
+
+<p>
+
+Tensions also flared when the pro-Bush protestors approached an international student in the anti-war crowd who was posing as an Iraqi civilian "killed" by the United States.  The protestors expressed scorn for his lack of respect of the country in which he attended college, and held up a sign reading "Saddam uses biological weapons on Iraqis."  Several African-American students approached and yelled at the pro-America students, and they left the anti-war crowd.  "The US imposes itself on the rest of the world and screws up whatever it gets involved in," noted one of the anti-war students who had chased off the pro-war demonstrators.
+
+<p>
+
+After the rally in White Plaza, anti-war protesters marched to Hoover Tower chanting rehearsed anti-Bush and anti-war slogans.  They were met by the College Republicans, who raced to the tower to form a "line of solidarity" in defense of the Hoover Institution.
+
+<p>
+
+In the 1970's, similar displays of anti-Administration sentiment led to liberal professors and students breaking windows and vandalizing Hoover buildings during protests.  To prevent this from recurring, the flag-bearers formed a line on the steps of Hoover and faced off the chanting crowd.
+
+<p>
+
+Once there, the anti-war crowd called for the expulsion of the Hoover Institution from the Stanford campus for its role in researching and developing many of the president's foreign policies. 
+
+<p>
+
+"This institute has played a large role in forming Bush's hateful, war-mongering policies.  Hoover is incompatible with the University's goal of promoting a peaceful academic atmosphere and must be kicked off campus," a protester shouted.  "Capitalism is evil!"  noted another.
+
+<p>
+
+As the anti-war protest continued, the College Republicans waved their flags and sang "God Bless America" and the National Anthem, as well as chanting "If you liked Hitler, you'll love Saddam." 
+
+<p>
+
+Several Hoover research fellows came out to watch the protests that were happening right on their door-step and joined in the singing with the College Republicans.
+
+<p>
+
+"This is amazing. This is the first protest in favor of Hoover I have ever seen on Stanford. Absolutely amazing,," an unidentified Hoover fellow commented referring to the College Republicans. 
+
+<p>
+
+Though the Bush Administration says war is not inevitable, both sides at the protest believe it will happen soon. And if it does, both sides will make sure their voices are heard loud and clear at Stanford.
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:51:15 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

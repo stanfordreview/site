@@ -1,0 +1,457 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - December 10, 2005</title>
+<style type="text/css">
+<!--
+.style1 {
+	margin-right: 5px;
+}
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXV, Issue 5 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">December 10, 2005</div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">NEWS</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">The Dalai Lama Comes to Stanford <em></em></p>
+              <p class="byline">by <a href="http://www.stanfordreview.org/About/Staff/dslate.shtml">Daniel Slate </a></p>
+              <p class="byline"><em>Deputy Editor </em></p>
+              <p class="byline"><img src="http://www.stanfordreview.org/Archive/Volume_XXXV/Issue_5/dalai.jpg" width="284" height="195" align="right"></p>
+              <p>&nbsp;     </p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>The philosopher Martin Buber once wrote, &ldquo;In the beginning is the relation.&rdquo; No one understands these words better than the 14 th Dalai Lama, Tenzin Gyatso, who on November 4, 2005 honored Stanford University with his presence and established a relation with many in the Stanford community. </p>
+              <p> That morning, the Nobel peace laureate led approximately 7,000 guests at Maples Pavilion in a session of teaching and meditation, followed by an afternoon discussion on nonviolence. The holy man guided his audience in an exploration of pursuing happiness, developing compassion, and disciplining the mind, emphasizing the importance of a deep and reasoned spirituality capable of resisting the intrusion of negativity into one&rsquo;s life. </p>
+              <p> In the afternoon the Dalai Lama engaged in a conversation with the Rev. Scotty McLennan, the Dean for Religious Life, on the subject of nonviolence, and surprised many with his declaration that nonviolence permits violence if the proper motivation is present. He also clarified his vision for Tibet&rsquo;s relations with China, maintaining that nonviolence remains the best policy for achieving friendship with the Chinese. </p>
+              <p>&nbsp; </p>
+              <p><strong><em> The Morning: an informal conversation</em></strong></p>
+              <p> At Maples, the spiritual and temporal leader of the Tibetan people tried to keep the ceremony casual. &ldquo;I think in order to speak more comfortably let me first sit more comfortably,&rdquo; he said, and then proceeded to remove his shoes, reposition himself in his chair, and laugh. And then the teaching began. </p>
+              <p> He explained his seemingly unconventional style, saying, &ldquo;Perhaps you may know that my usual way [of] meeting with people [is] completely informal. I don&rsquo;t care what kind of formality. I think the very purpose of meeting is connection, or contact, person to person. So formality sometimes becomes [an] additional barrier. So I don&rsquo;t like the formality. So I just talk with you as a&mdash;like I&rsquo;m meeting with a long-time friend.&rdquo; </p>
+              <p> Moving forward to a discussion of the quality of humanity, the Dalai Lama focused on what is common across life. </p>
+              <p> &ldquo;I believe we are the same human being,&rdquo; he said, elaborating to discuss the subject of humanity. &ldquo;The one common thing to everyone&hellip;all have the right to exist without disturbances&hellip;to grow, to sustain, and to die peacefully.&rdquo; </p>
+              <p> He also discussed what someone free of disturbances should seek, stating, &ldquo;I often believe that the basic goal or end of life is happiness, satisfaction,&rdquo; and &ldquo;I believe that our existence is very much based on hope.&rdquo; </p>
+              <p> Seventy-years young, and blessed with a memorably charming sense of humor, the Tibetan leader came across as an optimistic realist. He declared, &ldquo;There is no reason to give up hope, because we have this marvelous intelligence. Because of this intelligence we also have a certain positive potential.&rdquo; </p>
+              <p>&nbsp; </p>
+              <p><strong><em> Global Progress</em></strong></p>
+              <p> He explained that this intelligence and this potential could be seen operating on a global scale, and can be a force for improvement. The twentieth century, in his view, was &ldquo;the most important century in human history,&rdquo; because humanity had begun to see its condition differently. &ldquo;In the early part of the twentieth centur [there existed] too much man-made suffering. As a result, in the second half of the twentieth century humanity was becoming more mature.&rdquo; He marveled at the world today, at how &ldquo;in every part of the world there are people who really speak about human rights, and speak about the right of self-determination, and rights of animals. All of these are, I think, signs of positive change.&rdquo; </p>
+              <p>&nbsp; </p>
+              <p><strong><em> Positive or Negative</em></strong></p>
+              <p> The Dalai Lama also spoke about what individuals could do to enhance their ability to improve the world. He began with education, saying, &ldquo;The main purpose of education is awareness of reality.&rdquo; Education, he said, teaches one to know when appearances depart from reality, and it is the most important path to gaining the knowledge needed to realize positive human potential. </p>
+              <p> However, he cautioned that other obstacles to knowing reality existed within one&rsquo;s own mind, with negative human emotion defined as the main impediment. </p>
+              <p> &ldquo;If you develop negative human emotion, then you can&rsquo;t see the reality. Now for example, when we develop strong anger, or hatred, toward one person or one group of people, at that time the object where you feel hate, that object appears to you one hundred percent harmful or negative. If that appearance is the reality, then everyone should see that the same way, but this is not the case.&rdquo; </p>
+              <p> He went on, &ldquo;All these qualities do not exist in the person, in the object, but are much mental projection.&rdquo; </p>
+              <p> He also cautioned that those who perceive in an object a total positive and those who see a total negative are both failing to see reality. The solution, he explained, is to work on a calming of the mind, a peacemaking to create stability. </p>
+              <p> Proffering general guidelines, the Dalai Lama advised, &ldquo;Firstly, it is important to have awareness of these different emotions and the harmfulness of these emotions.&rdquo; He also stressed the importance of cultivating emotions that stand in opposition to negative emotions, encouraging the audience to promote attitudes of compassion, forgiveness, tolerance, contentment, and self-discipline. </p>
+              <p>&nbsp; </p>
+              <p><strong><em> Five-Minute Meditation</em></strong></p>
+              <p>Eventually, the Dalai Lama arrived at the actual meditation. Before beginning the meditation session, however, Tenzin Gyatso described its limits in achieving the desired calmness of mind, cautioning that prayer and meditation alone are not sufficient to bring it about. </p>
+              <p>He also described two kinds of meditation. &ldquo;One meditation is single-point of the mind,&rdquo; he said. &ldquo;Take one object, sometimes even just look inside one&rsquo;s own mind. That&rsquo;s more difficult, but sometimes very interesting to find out, &lsquo;What is I? Where is Self?&rsquo;&rdquo; </p>
+              <p>&ldquo;In the session of meditation,&rdquo; he advised, &ldquo;try to investigate, &lsquo;Where is I?&rsquo;&rdquo;</p>
+              <p>He then spoke of the second type. &ldquo;Then another kind of meditation&mdash;think about lovingkindness. Visualize some of the victims of earthquake, or in Africa, starvation, all these poor people, poor children. Visualize these things, then also in some area the people who suffer under man-made disaster.&rdquo; After doing this, he directed, &ldquo;try to cultivate a genuine sense of concern, compassion.&rdquo; </p>
+              <p>The session itself was short, the Dalai Lama explained, because he thought his audience too restless and enthusiastic for a protracted meditation session. He then gave the final instructions, &ldquo;I think maybe five minutes&hellip;okay. So the way of meditation&mdash;variety&mdash;so the looking for I, where is I, that&rsquo;s analytical meditation. Then, some analytical approach, then finally focusing just on a sense of concern toward suffering sentient beings or faith, God, Buddha like that.&rdquo;</p>
+              <p>&nbsp; </p>
+              <p><strong><em> A Message for the Young</em></strong></p>
+              <p>The Tibetan holy man also spent time expressing his hope for the young members of the audience. He first cautioned against temporal concerns, explaining, &ldquo;If you only take concern about external things, completely neglecting your inner values, then your life will not be a happy one. It&rsquo;s quite clear. Money, power, will not be [a] full guarantee of your happy life. And your mere knowledge also will not be a guarantee for your happy life.&rdquo; </p>
+              <p>For what is important, he said, &ldquo;The main thing is inner peace, inner certain mental attitude. Then external things will not much effect on your inner peace. Through that way, you can handle more effectively, more realistically, about the problem.&rdquo;</p>
+              <p>On the topic of global progress, he continued, &ldquo;The youth, you are really the generation that carries the main responsibility for the rest of the twenty-first century. So as I mentioned earlier, the future is open. Anything is possible. But much depends on our own behavior.&rdquo; He stated flatly, &ldquo;You could make some contribution for a better future.&rdquo; </p>
+              <p>&nbsp; </p>
+              <p><strong><em> The Afternoon: nonviolence</em></strong></p>
+              <p>The afternoon session, hosted by the Office for Religious Life in conjunction with the Aurora Forum, consisted of a conversation between the Rev. Scotty McLennan and the Dalai Lama. McLennan began the conversation, asking, &ldquo;Why should one be nonviolent?&rdquo; </p>
+              <p>The Dalai Lama replied, &ldquo;Violence is the end of destruction. Nonviolence is the end of construction.&rdquo; </p>
+              <p>McLennan later asked about self-defense and the appropriateness of a limited form of violence to repel attacks. Tenzin Gyatso answered, &ldquo;The demarcation between violence and violence cannot be made on the basis of appearance. The real demarcation between violence and nonviolence is motivation. I think violence and nonviolence is actually&mdash;any action that is motivated by a sense of concern, compassion, that&rsquo;s essentially nonviolence.&rdquo; </p>
+              <p>He also cautioned that having good intentions was not a license to do anything, saying, &ldquo;So certain actions that stem from a sense of concern are actually nonviolence. On the other hand, you may want to deceive, exploit, or cheat someone&hellip;These are, essentially, violence.&rdquo; </p>
+              <p>The Dalai Lama also spoke about his understanding of the human mind, and the purposes its structure serves. &ldquo;Generally speaking, if we examine the nature of the human psyche, we find emotions like anger and hostility and hatred on the one side and another family of emotions like attachment and so on, and they have their natural roles to play. And which is, the attachment family of emotions is there to seek the conditions that we need for our wellbeing. The family of emotions that are part of the hostility and anger and hatred are the mechanism which enables us to repel those forces that obstruct us and threaten us.&rdquo;</p>
+              <p>However, such a state of affairs is not perfect. The Dalai Lama elaborated, saying, &ldquo;The problem is that these afflictions, these emotions have a tendency to obscure the actual vision of reality. They tend to react in a way that is inappropriate to a given situation. So when you look from that wider perspective, while recognizing that they have a natural role to play, one must be aware of the excesses of these mechanisms.&rdquo; </p>
+              <p>Throughout his talks he stressed patience and moderation, and now was no different. &ldquo;So once you are aware of the excesses they can lead to, then you will recognize that to react to situations out of these natural emotions has a tendency to create vicious cycles. It may serve a temporary purpose of removing certain obstructions&hellip;so once you recognize this, you might be able to find ways of fulfilling the same role without resorting to these negative emotions. For example, one can imagine where one can repel the obstructive conditions by bringing together constructive conditions by relying more on affection and compassion tempered by wisdom and understanding. And the advantage of that is that while you are able to fulfill your aspirations there will be no negative side effects.&rdquo; </p>
+              <p>McLennan moved the discussion to questions about just war, and on this subject the Dalai Lama said, &ldquo;The violent method is just a method. To achieve a genuine, justified goal, something beneficial to a large number of people, and the motivation is compassion and concern, then limited violence is permissible. There could be a just war.&rdquo; </p>
+              <p>But he cautioned that war, as organized mass violence by its very nature, was much worse than the actions of a single individual. He continued, arguing that, in the new reality of today, in which we have a global community, one has contact with your enemy and he is essentially a neighbor. &ldquo;Today&rsquo;s reality&hellip;the whole world has now become like one family, almost like one body. So some destruction of some other part of the world is actually destruction of yourself. So therefore, according to this new reality, this awful destructive violence which we call war I think is outdated.&rdquo; In the modern world, with so much interconnectedness, wars are now &ldquo;very difficult to justify.&rdquo; </p>
+              <p>On the subject of the Iraq war, the Dalai Lama presented a relatively consequentialist view. &ldquo;It is still too early to say whether it is right or wrong. I think another few years, then we&rsquo;ll see, then history will show whether this war was really justified, because it brought a good result. So, up until now, I think difficult to say. At least the motivation, to bring democracy, freedom, and that goal is right, a right goal.&rdquo; Nevertheless, he also mourned the great loss of life and health that the war brought. </p>
+              <p>He also declared terrorism to be the worst kind of violence, but cautioned that a mishandling of the efforts against terrorism would only breed more violence. &ldquo;The counter-method, if we handle it improperly, then today, one bin Laden. Next few years, maybe ten bin Laden. Then one hundred bin Laden&mdash;possible.&rdquo; </p>
+              <p>Moving away from the pragmatic part of the conversation, McLennan asked the Dalai Lama to speak about the heart of nonviolence. </p>
+              <p>Recapitulating what he said in the morning, he described the basis of nonviolence as composed of compassion, love, forgiveness, tolerance, contentment, and self-discipline. &ldquo;Perhaps the more unique perspective on nonviolence from the Buddhist side would be to emphasize the deep interconnectedness of the interests of the different communities that are involved and also the interconnectedness of the human wellbeing and the wellbeing of the wider nature as a whole. And then to emphasize the cause and effect relationship of human behavior and other factors. So everything is interdependent and also relative.&rdquo;</p>
+              <p>On the subject of Tibet and China, the Dalai Lama reiterated that, &ldquo;Firstly, our basic principle is nonviolence. Secondly, in our case, violence is almost like suicide. So, and then, I think most importantly, whether we like it or not, we have to live with our Chinese brothers and sisters side by side.&rdquo; Seeming to blend his optimistic realism with a pragmatic patience, he continued. &ldquo;So, in order to live happily, friendly, with affection, it is very, very essential, while we are carrying this movement, we must follow according to nonviolent principles, so that later we can live happily. If violence is involved, there will be bloodshed, and bloodshed there will be more casualties among the Chinese and Tibetans. There will be more hatred, more resentment.&rdquo; </p>
+              <p>He mentioned what he hoped the results of a policy of nonviolence would be. &ldquo;In order to achieve our goal, support from the Chinese community is very [essential]. So, from that reason also, we must follow a strictly nonviolent way. Already, some positive impact is already there. Quite a number of Chinese are really showing their sympathy and concern about Tibet. Many Chinese come to see me and express their apology about what China has done to Tibet. There are also quite a number of Chinese who are showing their solidarity. So these are, I think, very clearly, the result of our nonviolent approach.&rdquo;</p>
+              <p>In his view, an alternate, violent approach would have been much worse. &ldquo;If more bloodshed had taken place, I don&rsquo;t think this type of support or sympathy from the Chinese community, I don&rsquo;t think we would receive this kind of thing. So I think the nonviolent method is the best. And then also, we are not seeking separation, not seeking independence, but genuine self-rule and autonomy. From that viewpoint also, the nonviolent approach is the best way. </p>
+              <p><em> &nbsp;</em></p>
+              <p><strong><em> &ldquo;A man of peace&rdquo;</em></strong></p>
+              <p>The Dalai Lama insists that he is simply a human being. In the relation the he formed that day with Stanford, with his wisdom, his optimistic realism, and his unwavering sense of humor, he seemed nevertheless to rise above such a humble self-description, and it seemed perfectly fitting for Stanford president John Hennessy to describe Tenzin Gyatso as &ldquo;a scholar and a man of peace.&rdquo; </p>
+              <p><br>
+			  <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

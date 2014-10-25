@@ -1,0 +1,266 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIV - Issue 5 - Ethics and the Academy</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front page</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editor's Note</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Ethics and the Academy'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ethics and the Academy</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Last_Page/index.shtml#1" onMouseOver="window.status='Alec Rawls in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Bob McGrew in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="ethicsandtheacademy3.shtml" onMouseOver="window.status='David Myszewski in Ethics and the Academy'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='John Gibbs in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>John Gibbs</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Johnny Openshaw in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Johnny Openshaw</font></a><br>
+
+<a href="ethicsandtheacademy2.shtml" onMouseOver="window.status='Henry Towsner in Ethics and the Academy'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Kimberly Torrence in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kimberly Torrence</font></a><br>
+
+<a href="../The_Last_Page/index.shtml#2" onMouseOver="window.status='Ryan Parks in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Parks</font></a><br>
+
+<a href="../News/index.html" onMouseOver="window.status='Scott Rasmussen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+</font>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXIV, Issue 5
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+June 5, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIV'; return true" onMouseOut="window.status=' '; return true">Volume XXIV</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue #5</a> - Ethics and the Academy
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Ethics and the Academy</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>Stanford Surgeon Nezhat And Medical Center Face Allegations Of Unethical Behavior</font><br>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIV/Issue_5/Ethics_And_The_Academy/images/buildingfront.jpg" alt="Building" width=279 height=205 align=left>Dr. Camran Nezhat, a world famous gynecological surgeon, is director of the Stanford Endoscopy Center and clinical professor of the Stanford School of Medicine.  He has invented new techniques in laparoscopy, a method of minimally invasive surgery, and has achieved great renown in the medical community.  <p>
+
+	However, since 1993, the year in which he arrived at Stanford, he has faced serious questions about his integrity.  Critics allege that he experimented with surgical procedures on patients to their detriment and forged fraudulent data of successful operations in his medical papers.  
+	The doubts about integrity have extended to the medical center itself as critics say that Stanford officials have looked the other way for the sake of the corporate donations and doctors Nezhat attracts to the university.  <p>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+1>The Mullen Case</font><p>
+
+	Much of the controversy over Nezhat stems from his operating on Stacy Mullen in 1991.  Mullen suffered from endometriosis, a condition that Nezhat specialized in treating.  <p>
+
+	Endometriosis is a condition in which cells of the uterus lining--endometrial cells--migrate to other parts of the pelvis and abdomen and attach themselves so that there is functioning endometrial tissue outside the uterus.  The condition can be very painful -- especially during menstruation.  <p>
+
+	Mullen first came to Nezhat for surgery in 1988.  During the 1980s, Dr. Nezhat held a post in Atlanta's Northside hospital and ran a private practice.  The operation was a great success, and when her endometriosis returned, she again turned to Nezhat in 1991.<p>
+
+	The second operation differed from the first.  In order to remove any endometrial tissue possibly in her rectum, Nezhat performed a procedure in which the colon and rectum are pulled out through the anus, rid of any unwanted tissue, and then replaced.  <p>
+
+	Mullen suffered severe and painful complications from the surgery, losing normal use of her bowel and accruing over 1 million dollars in medical bills.  <p>
+
+	She filed a malpractice suit.  <p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIV/Issue_5/Ethics_And_The_Academy/images/building2.jpg" alt="Building 2" width=290 height=231 align=right>	According to the San Francisco Chronicle, Mullen's lawyer, James Neal, found an article in a medical journal which described the rectal eversion procedure as new and without data to confirm its safety.  <p>
+
+	In order to perform an experimental procedure, Nezhat would have had to obtain approval from Northside's Institutional Review Board.  Furthermore, he would have had to obtain informed consent from Mullen.  <p>
+
+	Nezhat did not get such approval and Mullen signed a waiver of informed consent.  <p>
+
+	Nezhat, however, contends that the procedure was not experimental and that though Mullen signed a waiver, she was duly informed of any risks the procedure posed.  Other medical experts have also testified that the procedure was not experimental.  <p>
+
+	Another medical journal article Neal found stated that the procedure had been performed upon 16 women, most of the cases being successful.  The article did not mention Mullen's case, though it had taken place in the same time span as that of the others.  <p>
+
+	Nezhat's lawyers have said that Mullen's case was not included because she was ultimately found not to have rectal endometriosis.  Indeed, pathology reports taken before the operation showed no signs of the rectum being affected.   Neal believes the operation was unnecessary.  <p>
+
+	When Neal pressed Nezhat for the medical records of the 16 women, Nezhat refused on the grounds of patient privacy.  Subsequently, at least 10 of the women signed affidavits asking that their medical records not be released.  <p>
+
+	Mullen and her attorney continued to ask for documents.  In 1994, Nezhat declared in a affidavit that he would not be able to produce the 16 records because his files of some 20,000 odd patients were stored in alphabetical order, without any indexing or cross referencing.  <p>
+
+	This statement has shocked Nezhat's critics.  They question the validity of the data used in his medical papers, in which he sometimes refers to thousands of past cases.  <p>
+
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+1>Stanford</font><p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIV/Issue_5/Ethics_And_The_Academy/images/nezhat.jpg" alternate="Dr. Nezhat" width=137 height=221 align=left>	In 1993, Nezhat accepted a post at Stanford.  His brothers Farr and Ceana, also surgeons, also took up positions here.<p>
+
+	According to the Chronicle, Dr. Nick Spirtos, a gynecological surgeon and at that time a faculty member, objected to the Nezhats coming to Stanford.  He was opposed to their using laparoscopic techniques to perform heart, brain, and cancer surgeries, as he thought these areas outside their field of expertise.  He also called their writings fraudulent, saying that their medical data seemed too good to be true.  <p>
+
+	Spirtos thinks that Stanford hired the Nezhats to boost their status.  In 1993, the gynecology and obstetrics departments had been granted only provisional status by the Accreditation Counsel of Graduate Medical Education (ACGME).  Hiring the Nezhats would bring doctors, money, prestige, and accreditation to Stanford.  <p>
+
+	Stanford dismisses this charge as ludicrous.  The gynecology and obstetrics department was not accredited because the department had changed its residency program.  In 1995, The department's status became fully accredited once the board reviewed the program.  <p>
+
+	Another outspoken critic of the Nezhats, Dr. Tom Margolis, describes an operation during which Farr Nezhat cut a patient's ureter to treat any endometrial tissue present though the pathology reports indicated there was none there.  <p>
+
+	Stanford contends that Margolis never reported the incident to the quality assurance committee, and therefore has not done anything about it.  Stanford is now investigating the matter.  <p>
+
+	Spirtos reported five cancer cases to the Medical Center's quality assurance committee for evaluation as he thought Nezhat should not have operated on those patients.  <p>
+
+	Members of the committee, Margolis included, cleared Nezhat on all counts in 1996.  <p>
+
+	Negative articles in the Chronicle, San Jose Mercury News, and the Philadelphia Enquirer have provoked letters of support from many of Nezhat's colleagues and medical center officials.  <p>
+ 
+	Stanford points out that Spirtos and Margolis are direct competitors to the Nezhats and that these accusations could be motivated by professional envy.  <p>
+
+	Stanford also makes the point that Neal, who has been barred from representing his client for unethical conduct in the case, provided much of the information to the newspapers against the Nezhats.<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:47:04 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

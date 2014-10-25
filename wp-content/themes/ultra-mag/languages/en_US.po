@@ -1,0 +1,2231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultra Mag v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-26 04:51:20+0000\n"
+"Last-Translator: thanh4890 <thanh4890@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: comments.php:3
+#@ ultra-mag
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: library/includes/widgets.php:847
+#: library/templates/format-single-audio.php:8
+#: library/templates/format-single-gallery.php:8
+#: library/templates/format-single-video.php:8
+#: library/templates/format-single.php:8
+#@ ultra-mag
+msgid "1 Comment"
+msgstr ""
+
+#: library/includes/widgets.php:847
+#: library/templates/format-single-audio.php:8
+#: library/templates/format-single-gallery.php:8
+#: library/templates/format-single-video.php:8
+#: library/templates/format-single.php:8
+#@ ultra-mag
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:53
+#@ ultra-mag
+msgid "Pingback"
+msgstr ""
+
+#: comments.php:57
+#: comments.php:101
+#@ ultra-mag
+msgid "Edit"
+msgstr ""
+
+#: comments.php:122
+#@ ultra-mag
+msgid "Name"
+msgstr ""
+
+#: comments.php:126
+#@ ultra-mag
+msgid "Email"
+msgstr ""
+
+#: comments.php:130
+#@ ultra-mag
+msgid "Website"
+msgstr ""
+
+#: comments.php:137
+#: comments.php:139
+#@ ultra-mag
+msgid "Message"
+msgstr ""
+
+#: comments.php:145
+#@ ultra-mag
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: comments.php:152
+#@ ultra-mag
+msgid "Post Comment"
+msgstr ""
+
+#: footer.php:12
+#: library/includes/cpanel/theme-options/general.php:193
+#, php-format
+#@ ultra-mag
+msgid "Copyright %1$s - Kopasoft. All Rights Reserved."
+msgstr ""
+
+#: functions.php:53
+#: library/includes/class-tgm-plugin-activation.php:164
+#@ ultra-mag
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:54
+#: library/includes/class-tgm-plugin-activation.php:165
+#@ ultra-mag
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:55
+#: library/includes/class-tgm-plugin-activation.php:166
+#, php-format
+#@ ultra-mag
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:56
+#@ ultra-mag
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:168
+#, php-format
+#@ ultra-mag
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/class-tgm-plugin-activation.php:169
+#, php-format
+#@ ultra-mag
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:59
+#: library/includes/class-tgm-plugin-activation.php:170
+#, php-format
+#@ ultra-mag
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/class-tgm-plugin-activation.php:171
+#, php-format
+#@ ultra-mag
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/class-tgm-plugin-activation.php:172
+#, php-format
+#@ ultra-mag
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:62
+#: library/includes/class-tgm-plugin-activation.php:173
+#, php-format
+#@ ultra-mag
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/class-tgm-plugin-activation.php:174
+#, php-format
+#@ ultra-mag
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:64
+#: library/includes/class-tgm-plugin-activation.php:175
+#, php-format
+#@ ultra-mag
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:65
+#: library/includes/class-tgm-plugin-activation.php:176
+#@ ultra-mag
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:66
+#: library/includes/class-tgm-plugin-activation.php:177
+#@ ultra-mag
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:67
+#: library/includes/class-tgm-plugin-activation.php:178
+#: library/includes/class-tgm-plugin-activation.php:490
+#@ ultra-mag
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:68
+#: library/includes/class-tgm-plugin-activation.php:179
+#: library/includes/class-tgm-plugin-activation.php:1846
+#@ ultra-mag
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:69
+#, php-format
+#@ ultra-mag
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: header.php:73
+#@ ultra-mag
+msgid "Menu"
+msgstr ""
+
+#: library/front.php:17
+#@ ultra-mag
+msgid "Main Menu"
+msgstr ""
+
+#: library/front.php:259
+#@ ultra-mag
+msgid "Please enter your name."
+msgstr ""
+
+#: library/front.php:260
+#: library/front.php:272
+#@ ultra-mag
+msgid "At least {0} characters required."
+msgstr ""
+
+#: library/front.php:263
+#@ ultra-mag
+msgid "Please enter your email."
+msgstr ""
+
+#: library/front.php:264
+#@ ultra-mag
+msgid "Please enter a valid email."
+msgstr ""
+
+#: library/front.php:267
+#@ ultra-mag
+msgid "Please enter your url."
+msgstr ""
+
+#: library/front.php:268
+#@ ultra-mag
+msgid "Please enter a valid url."
+msgstr ""
+
+#: library/front.php:271
+#@ ultra-mag
+msgid "Please enter a message."
+msgstr ""
+
+#: library/front.php:314
+#, php-format
+#@ ultra-mag
+msgid "Page %s"
+msgstr ""
+
+#: library/front.php:341
+#: library/front.php:342
+#@ ultra-mag
+msgid "auto"
+msgstr ""
+
+#: library/front.php:388
+#: library/ini.php:142
+#@ ultra-mag
+msgid "Home"
+msgstr ""
+
+#: library/front.php:398
+#: library/includes/cpanel/theme-options/general.php:157
+#@ ultra-mag
+msgid "Blog"
+msgstr ""
+
+#: library/front.php:540
+#@ ultra-mag
+msgid "Error 404"
+msgstr ""
+
+#: library/front.php:679
+#: library/includes/cpanel/theme-options/post.php:116
+#@ ultra-mag
+msgid "Facebook"
+msgstr ""
+
+#: library/front.php:682
+#@ ultra-mag
+msgid "Please enter your Facebook URL"
+msgstr ""
+
+#: library/front.php:686
+#: library/includes/cpanel/theme-options/post.php:117
+#@ ultra-mag
+msgid "Twitter"
+msgstr ""
+
+#: library/front.php:689
+#@ ultra-mag
+msgid "Please enter your Twitter URL"
+msgstr ""
+
+#: library/front.php:693
+#@ ultra-mag
+msgid "Google Plus"
+msgstr ""
+
+#: library/front.php:696
+#@ ultra-mag
+msgid "Please enter your Google Plus URL"
+msgstr ""
+
+#: library/front.php:1613
+#@ ultra-mag
+msgid "Weather Forecast"
+msgstr ""
+
+#: library/includes/ajax.php:311
+#@ ultra-mag
+msgid "Website:"
+msgstr ""
+
+#: library/includes/ajax.php:287
+#: library/includes/ajax.php:317
+#@ ultra-mag
+msgid "Oops! errors occured."
+msgstr ""
+
+#: library/includes/ajax.php:320
+#@ ultra-mag
+msgid "Success! Your email has been sent."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:167
+#@ ultra-mag
+msgid "Something went wrong."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:180
+#, php-format
+#@ ultra-mag
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:517
+#: library/includes/class-tgm-plugin-activation.php:2058
+#@ ultra-mag
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:545
+#, php-format
+#@ ultra-mag
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:704
+#@ ultra-mag
+msgid "Dismiss this notice"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1091
+#@ ultra-mag
+msgid "External Link"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1096
+#@ ultra-mag
+msgid "Private Repository"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1099
+#@ ultra-mag
+msgid "Pre-Packaged"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1103
+#@ ultra-mag
+msgid "WordPress Repository"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1106
+#@ ultra-mag
+msgid "Required"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1106
+#@ ultra-mag
+msgid "Recommended"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1109
+#@ ultra-mag
+msgid "Not Installed"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1111
+#@ ultra-mag
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1281
+#, php-format
+#@ ultra-mag
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1297
+#@ ultra-mag
+msgid "Plugin"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1298
+#@ ultra-mag
+msgid "Source"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1299
+#@ ultra-mag
+msgid "Type"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1300
+#@ ultra-mag
+msgid "Status"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1318
+#@ ultra-mag
+msgid "Install"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1319
+#@ ultra-mag
+msgid "Activate"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1544
+#@ ultra-mag
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/class-tgm-plugin-activation.php:1829
+#@ ultra-mag
+msgid "Install package not available."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1830
+#, php-format
+#@ ultra-mag
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1831
+#@ ultra-mag
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1832
+#@ ultra-mag
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1833
+#@ ultra-mag
+msgid "Plugin install failed."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1834
+#@ ultra-mag
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1845
+#@ ultra-mag
+msgid "Plugin activation failed."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1955
+#@ ultra-mag
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1956
+#, php-format
+#@ ultra-mag
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1956
+#: library/includes/class-tgm-plugin-activation.php:1965
+#@ ultra-mag
+msgid "Show Details"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1956
+#: library/includes/class-tgm-plugin-activation.php:1965
+#@ ultra-mag
+msgid "Hide Details"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1957
+#@ ultra-mag
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ ultra-mag
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1962
+#@ ultra-mag
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1963
+#, php-format
+#@ ultra-mag
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1964
+#, php-format
+#@ ultra-mag
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1965
+#, php-format
+#@ ultra-mag
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1966
+#@ ultra-mag
+msgid "All installations have been completed."
+msgstr ""
+
+#: library/includes/class-tgm-plugin-activation.php:1967
+#, php-format
+#@ ultra-mag
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-color.php:4
+#@ ultra-mag
+msgid "Main Color"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-color.php:15
+#@ ultra-mag
+msgid "Body Text Color"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-color.php:25
+#@ ultra-mag
+msgid "Heading Color"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-color.php:29
+#@ ultra-mag
+msgid "Widget title color"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-color.php:33
+#@ ultra-mag
+msgid "H1 Heading Color"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-color.php:37
+#@ ultra-mag
+msgid "H2 Heading Color"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-color.php:41
+#@ ultra-mag
+msgid "H3 Heading Color"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-color.php:45
+#@ ultra-mag
+msgid "H4 Heading Color"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-color.php:49
+#@ ultra-mag
+msgid "H5 Heading Color"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-color.php:53
+#@ ultra-mag
+msgid "H6 Heading Color"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-css.php:5
+#: library/includes/cpanel/theme-options.php:15
+#@ ultra-mag
+msgid "Custom CSS"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-css.php:10
+#@ ultra-mag
+msgid "Enter the your custom CSS code"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:4
+#@ ultra-mag
+msgid "Custom Fonts"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:8
+#@ ultra-mag
+msgid "Heading font"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:22
+#@ ultra-mag
+msgid "Sample Heading Font"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:36
+#: library/includes/cpanel/theme-options/custom-font.php:127
+#: library/includes/cpanel/theme-options/custom-font.php:165
+#: library/includes/cpanel/theme-options/custom-font.php:212
+#@ ultra-mag
+msgid "Font size"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:37
+#@ ultra-mag
+msgid "H1 size:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:39
+#: library/includes/cpanel/theme-options/custom-font.php:44
+#: library/includes/cpanel/theme-options/custom-font.php:49
+#: library/includes/cpanel/theme-options/custom-font.php:54
+#: library/includes/cpanel/theme-options/custom-font.php:59
+#: library/includes/cpanel/theme-options/custom-font.php:64
+#: library/includes/cpanel/theme-options/custom-font.php:130
+#: library/includes/cpanel/theme-options/custom-font.php:168
+#: library/includes/cpanel/theme-options/custom-font.php:215
+#: library/includes/cpanel/theme-options/general.php:21
+#: library/includes/cpanel/theme-options/general.php:27
+#: library/includes/cpanel/theme-options/general.php:33
+#: library/includes/cpanel/theme-options/general.php:39
+#@ ultra-mag
+msgid "px"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:42
+#@ ultra-mag
+msgid "H2 size:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:47
+#@ ultra-mag
+msgid "H3 size:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:52
+#@ ultra-mag
+msgid "H4 size:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:57
+#@ ultra-mag
+msgid "H5 size:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:62
+#@ ultra-mag
+msgid "H6 size:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:67
+#: library/includes/cpanel/theme-options/custom-font.php:172
+#@ ultra-mag
+msgid "Font Weight"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:68
+#@ ultra-mag
+msgid "H1 weight:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:72
+#@ ultra-mag
+msgid "H2 weight:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:76
+#@ ultra-mag
+msgid "H3 weight:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:80
+#@ ultra-mag
+msgid "H4 weight:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:84
+#@ ultra-mag
+msgid "H5 weight:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:88
+#@ ultra-mag
+msgid "H6 weight:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:101
+#@ ultra-mag
+msgid "Content font"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:113
+#@ ultra-mag
+msgid "Sample Content Font"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:128
+#@ ultra-mag
+msgid "Content font size:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:132
+#: library/includes/cpanel/theme-options/custom-font.php:219
+#@ ultra-mag
+msgid "Font weight"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:133
+#@ ultra-mag
+msgid "Content font weight:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:138
+#@ ultra-mag
+msgid "Main navigation font"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:150
+#@ ultra-mag
+msgid "Sample Main Navigation Font"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:166
+#@ ultra-mag
+msgid "Main nagivation size:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:173
+#@ ultra-mag
+msgid "Main nagivation font weight:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:185
+#@ ultra-mag
+msgid "Widget title font"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:197
+#@ ultra-mag
+msgid "Sample widget title font"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:213
+#@ ultra-mag
+msgid "Widget title font size:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/custom-font.php:220
+#@ ultra-mag
+msgid "Widget title font weight:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:6
+#@ ultra-mag
+msgid "Logo, Favicon, Apple Icon"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:12
+#@ ultra-mag
+msgid "Logo"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:13
+#@ ultra-mag
+msgid "Upload your own logo."
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:16
+#: library/includes/cpanel/theme-options/general.php:48
+#: library/includes/cpanel/theme-options/general.php:59
+#: library/includes/cpanel/theme-options/general.php:64
+#: library/includes/cpanel/theme-options/general.php:70
+#: library/includes/cpanel/theme-options/general.php:76
+#: library/includes/widgets.php:1775
+#@ ultra-mag
+msgid "Upload"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:18
+#@ ultra-mag
+msgid "Logo margin"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:19
+#@ ultra-mag
+msgid "Top margin:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:25
+#@ ultra-mag
+msgid "Left margin:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:31
+#@ ultra-mag
+msgid "Right margin:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:37
+#@ ultra-mag
+msgid "Bottom margin:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:43
+#@ ultra-mag
+msgid "Favicon"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:45
+#@ ultra-mag
+msgid "Upload your own favicon."
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:54
+#@ ultra-mag
+msgid "Apple Icons"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:56
+#@ ultra-mag
+msgid "Iphone (57px - 57px)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:61
+#@ ultra-mag
+msgid "Iphone Retina (114px - 114px)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:67
+#@ ultra-mag
+msgid "Ipad (72px - 72px)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:73
+#@ ultra-mag
+msgid "Ipad Retina (144px - 144px)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:125
+#: library/includes/cpanel/theme-options/general.php:164
+#: library/includes/cpanel/theme-options/post.php:12
+#: library/includes/cpanel/theme-options/post.php:35
+#: library/includes/cpanel/theme-options/post.php:51
+#: library/includes/cpanel/theme-options/post.php:73
+#: library/includes/cpanel/theme-options/post.php:95
+#: library/includes/cpanel/theme-options/post.php:121
+#@ ultra-mag
+msgid "Show"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:126
+#: library/includes/cpanel/theme-options/general.php:165
+#: library/includes/cpanel/theme-options/post.php:13
+#: library/includes/cpanel/theme-options/post.php:36
+#: library/includes/cpanel/theme-options/post.php:52
+#: library/includes/cpanel/theme-options/post.php:74
+#: library/includes/cpanel/theme-options/post.php:96
+#: library/includes/cpanel/theme-options/post.php:122
+#@ ultra-mag
+msgid "Hide"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:118
+#@ ultra-mag
+msgid "Breadcrumb"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:122
+#@ ultra-mag
+msgid "Show/Hide Breadcrumb:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:185
+#@ ultra-mag
+msgid "Footer"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:197
+#@ ultra-mag
+msgid "Google Analytics"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:5
+#@ ultra-mag
+msgid "Featured Post Thumbnail"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:9
+#@ ultra-mag
+msgid "Show/Hide Featured Post Thumbnail in single post"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:67
+#@ ultra-mag
+msgid "About Author"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:111
+#@ ultra-mag
+msgid "Sharing Buttons"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:118
+#@ ultra-mag
+msgid "Google"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:146
+#@ ultra-mag
+msgid "Related Posts"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:152
+#@ ultra-mag
+msgid "Get By"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:156
+#@ ultra-mag
+msgid "-- Hide --"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:157
+#@ ultra-mag
+msgid "Tag"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:158
+#@ ultra-mag
+msgid "Category"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:168
+#@ ultra-mag
+msgid "Limit"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:8
+#: library/includes/cpanel/theme-options/social-links.php:13
+#@ ultra-mag
+msgid "Social Links Target"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:16
+#@ ultra-mag
+msgid "Opens the linked document in the same frame as it was clicked"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:17
+#@ ultra-mag
+msgid "Opens the linked document in a new window or tab"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:37
+#: library/includes/cpanel/theme-options.php:12
+#@ ultra-mag
+msgid "Social Links"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:45
+#@ ultra-mag
+msgid "RSS URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:47
+#@ ultra-mag
+msgid "Display the RSS feed button with the default RSS feed or enter a custom feed below. <br><code>Enter <b>\"HIDE\"</b> if you want to hide it</code>"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:50
+#@ ultra-mag
+msgid "Facebook URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:66
+#@ ultra-mag
+msgid "Dribbble URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:56
+#@ ultra-mag
+msgid "Twitter URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:61
+#@ ultra-mag
+msgid "Google Plus URL"
+msgstr ""
+
+#: library/includes/cpanel/theme-options.php:10
+#@ ultra-mag
+msgid "General Setting"
+msgstr ""
+
+#: library/includes/cpanel/theme-options.php:11
+#@ ultra-mag
+msgid "Single Post"
+msgstr ""
+
+#: library/includes/cpanel/theme-options.php:13
+#@ ultra-mag
+msgid "Custom Color"
+msgstr ""
+
+#: library/includes/cpanel/theme-options.php:14
+#@ ultra-mag
+msgid "Custom Font"
+msgstr ""
+
+#: library/includes/cpanel/theme-options.php:22
+#: library/kopa.php:20
+#: library/kopa.php:25
+#@ ultra-mag
+msgid "Theme Options"
+msgstr ""
+
+#: library/includes/cpanel/theme-options.php:26
+#@ ultra-mag
+msgid "Visit author URL:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options.php:33
+#: library/includes/cpanel/theme-options.php:52
+#@ ultra-mag
+msgid "Save"
+msgstr ""
+
+#: library/includes/widgets.php:151
+#@ ultra-mag
+msgid "Arbitrary text, HTML or shortcodes"
+msgstr ""
+
+#: library/includes/widgets.php:153
+#@ ultra-mag
+msgid "Kopa Text"
+msgstr ""
+
+#: library/includes/widgets.php:196
+#: library/includes/widgets.php:632
+#: library/includes/widgets.php:914
+#: library/includes/widgets.php:1125
+#: library/includes/widgets.php:1224
+#: library/includes/widgets.php:1378
+#: library/includes/widgets.php:1588
+#: library/includes/widgets.php:1702
+#: library/includes/widgets.php:1768
+#: woocommerce/widgets/class-kopa-wc-products.php:305
+#@ ultra-mag
+msgid "Title:"
+msgstr ""
+
+#: library/includes/widgets.php:202
+#@ ultra-mag
+msgid "One Half Column"
+msgstr ""
+
+#: library/includes/widgets.php:203
+#@ ultra-mag
+msgid "One Thirtd Column"
+msgstr ""
+
+#: library/includes/widgets.php:204
+#@ ultra-mag
+msgid "Two Third Column"
+msgstr ""
+
+#: library/includes/widgets.php:205
+#@ ultra-mag
+msgid "One Fourth Column"
+msgstr ""
+
+#: library/includes/widgets.php:206
+#@ ultra-mag
+msgid "Three Fourth Column"
+msgstr ""
+
+#: library/includes/widgets.php:207
+#@ ultra-mag
+msgid "Add Dropcaps Text"
+msgstr ""
+
+#: library/includes/widgets.php:208
+#@ ultra-mag
+msgid "Add A Button"
+msgstr ""
+
+#: library/includes/widgets.php:209
+#@ ultra-mag
+msgid "Add A Alert Box"
+msgstr ""
+
+#: library/includes/widgets.php:210
+#@ ultra-mag
+msgid "Add A Tabs Content"
+msgstr ""
+
+#: library/includes/widgets.php:211
+#@ ultra-mag
+msgid "Add A Accordions Content"
+msgstr ""
+
+#: library/includes/widgets.php:212
+#@ ultra-mag
+msgid "Add A Toggle Content"
+msgstr ""
+
+#: library/includes/widgets.php:213
+#@ ultra-mag
+msgid "Add A Contact Form"
+msgstr ""
+
+#: library/includes/widgets.php:218
+#@ ultra-mag
+msgid "Add A Yoube Video Box"
+msgstr ""
+
+#: library/includes/widgets.php:219
+#@ ultra-mag
+msgid "Add A Vimeo Video Box"
+msgstr ""
+
+#: library/includes/widgets.php:230
+#@ ultra-mag
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: library/includes/widgets.php:636
+#: library/includes/widgets.php:919
+#: library/includes/widgets.php:1592
+#@ ultra-mag
+msgid "Categories:"
+msgstr ""
+
+#: library/includes/widgets.php:638
+#: library/includes/widgets.php:665
+#: library/includes/widgets.php:921
+#: library/includes/widgets.php:948
+#: library/includes/widgets.php:1594
+#: library/includes/widgets.php:1621
+#: library/ini.php:316
+#@ ultra-mag
+msgid "-- None --"
+msgstr ""
+
+#: library/includes/widgets.php:649
+#: library/includes/widgets.php:932
+#: library/includes/widgets.php:1605
+#@ ultra-mag
+msgid "Relation:"
+msgstr ""
+
+#: library/includes/widgets.php:653
+#: library/includes/widgets.php:936
+#: library/includes/widgets.php:1609
+#@ ultra-mag
+msgid "And"
+msgstr ""
+
+#: library/includes/widgets.php:654
+#: library/includes/widgets.php:937
+#: library/includes/widgets.php:1610
+#@ ultra-mag
+msgid "Or"
+msgstr ""
+
+#: library/includes/widgets.php:663
+#: library/includes/widgets.php:946
+#: library/includes/widgets.php:1619
+#@ ultra-mag
+msgid "Tags:"
+msgstr ""
+
+#: library/includes/widgets.php:675
+#: library/includes/widgets.php:958
+#: library/includes/widgets.php:1382
+#@ ultra-mag
+msgid "Number of article:"
+msgstr ""
+
+#: library/includes/widgets.php:679
+#: library/includes/widgets.php:962
+#: library/includes/widgets.php:1631
+#@ ultra-mag
+msgid "Orderby:"
+msgstr ""
+
+#: library/includes/widgets.php:683
+#: library/includes/widgets.php:966
+#: library/includes/widgets.php:1635
+#@ ultra-mag
+msgid "Latest"
+msgstr ""
+
+#: library/includes/widgets.php:684
+#: library/includes/widgets.php:967
+#: library/includes/widgets.php:1636
+#@ ultra-mag
+msgid "Popular by View Count"
+msgstr ""
+
+#: library/includes/widgets.php:685
+#: library/includes/widgets.php:968
+#: library/includes/widgets.php:1637
+#@ ultra-mag
+msgid "Popular by Comment Count"
+msgstr ""
+
+#: library/includes/widgets.php:686
+#: library/includes/widgets.php:969
+#: library/includes/widgets.php:1638
+#@ ultra-mag
+msgid "Random"
+msgstr ""
+
+#: library/includes/widgets.php:249
+#@ ultra-mag
+msgid "Kopa Articles List"
+msgstr ""
+
+#: library/includes/widgets.php:1070
+#@ ultra-mag
+msgid "Display mailchimp newsletter subscription form"
+msgstr ""
+
+#: library/includes/widgets.php:1072
+#@ ultra-mag
+msgid "Kopa Mailchimp Subscribe"
+msgstr ""
+
+#: library/includes/widgets.php:1129
+#@ ultra-mag
+msgid "Mailchimp Form Action:"
+msgstr ""
+
+#: library/includes/widgets.php:1134
+#@ ultra-mag
+msgid "Enable <strong>evil</strong> popup mode"
+msgstr ""
+
+#: library/includes/widgets.php:1137
+#: library/includes/widgets.php:1232
+#@ ultra-mag
+msgid "Description"
+msgstr ""
+
+#: library/includes/widgets.php:1170
+#@ ultra-mag
+msgid "Display Feedburner subscription form"
+msgstr ""
+
+#: library/includes/widgets.php:1172
+#@ ultra-mag
+msgid "Kopa Feedburner Subscribe"
+msgstr ""
+
+#: library/includes/widgets.php:1228
+#@ ultra-mag
+msgid "Feedburner ID (http://feeds.feedburner.com/<strong>wordpress/kopatheme</strong>):"
+msgstr ""
+
+#: library/ini.php:5
+#: library/ini.php:146
+#@ ultra-mag
+msgid "Front Page"
+msgstr ""
+
+#: library/ini.php:48
+#@ ultra-mag
+msgid "Page 1"
+msgstr ""
+
+#: library/ini.php:61
+#@ ultra-mag
+msgid "Page 2"
+msgstr ""
+
+#: library/ini.php:86
+#@ ultra-mag
+msgid "404 Page"
+msgstr ""
+
+#: library/ini.php:125
+#@ ultra-mag
+msgid "Widget Area 1"
+msgstr ""
+
+#: library/ini.php:126
+#@ ultra-mag
+msgid "Widget Area 2"
+msgstr ""
+
+#: library/ini.php:127
+#@ ultra-mag
+msgid "Widget Area 3"
+msgstr ""
+
+#: library/ini.php:128
+#@ ultra-mag
+msgid "Widget Area 4"
+msgstr ""
+
+#: library/ini.php:129
+#@ ultra-mag
+msgid "Widget Area 5"
+msgstr ""
+
+#: library/ini.php:130
+#@ ultra-mag
+msgid "Widget Area 6"
+msgstr ""
+
+#: library/ini.php:131
+#@ ultra-mag
+msgid "Widget Area 7"
+msgstr ""
+
+#: library/ini.php:132
+#@ ultra-mag
+msgid "Widget Area 8"
+msgstr ""
+
+#: library/ini.php:133
+#@ ultra-mag
+msgid "Widget Area 9"
+msgstr ""
+
+#: library/ini.php:134
+#@ ultra-mag
+msgid "Widget Area 10"
+msgstr ""
+
+#: library/ini.php:135
+#@ ultra-mag
+msgid "Widget Area 11"
+msgstr ""
+
+#: library/ini.php:150
+#@ ultra-mag
+msgid "Post"
+msgstr ""
+
+#: library/ini.php:154
+#@ ultra-mag
+msgid "Page"
+msgstr ""
+
+#: library/ini.php:158
+#@ ultra-mag
+msgid "Taxonomy"
+msgstr ""
+
+#: library/ini.php:162
+#@ ultra-mag
+msgid "Search"
+msgstr ""
+
+#: library/ini.php:166
+#@ ultra-mag
+msgid "Archive"
+msgstr ""
+
+#: 404.php:5
+#: library/ini.php:178
+#@ ultra-mag
+msgid "404"
+msgstr ""
+
+#: library/ini.php:317
+#@ ultra-mag
+msgid "Sidebar 1"
+msgstr ""
+
+#: library/ini.php:318
+#@ ultra-mag
+msgid "Sidebar 2"
+msgstr ""
+
+#: library/ini.php:319
+#@ ultra-mag
+msgid "Sidebar 3"
+msgstr ""
+
+#: library/ini.php:320
+#@ ultra-mag
+msgid "Sidebar 4"
+msgstr ""
+
+#: library/ini.php:321
+#@ ultra-mag
+msgid "Sidebar 5"
+msgstr ""
+
+#: library/ini.php:322
+#@ ultra-mag
+msgid "Sidebar 6"
+msgstr ""
+
+#: library/ini.php:323
+#@ ultra-mag
+msgid "Sidebar 7"
+msgstr ""
+
+#: library/ini.php:324
+#@ ultra-mag
+msgid "Sidebar 8"
+msgstr ""
+
+#: library/ini.php:325
+#@ ultra-mag
+msgid "Sidebar 9"
+msgstr ""
+
+#: library/ini.php:326
+#@ ultra-mag
+msgid "Sidebar 10"
+msgstr ""
+
+#: library/ini.php:327
+#@ ultra-mag
+msgid "Sidebar 11"
+msgstr ""
+
+#: library/kopa.php:30
+#@ ultra-mag
+msgid "Sidebar Manage"
+msgstr ""
+
+#: library/kopa.php:30
+#@ ultra-mag
+msgid "Sidebar Manager"
+msgstr ""
+
+#: library/kopa.php:35
+#@ ultra-mag
+msgid "Layout Manage"
+msgstr ""
+
+#: library/kopa.php:35
+#@ ultra-mag
+msgid "Layout Manager"
+msgstr ""
+
+#: library/templates/format-single-audio.php:52
+#: library/templates/format-single-gallery.php:66
+#: library/templates/format-single-video.php:53
+#: library/templates/format-single.php:31
+#: library/templates/loop-page.php:12
+#@ ultra-mag
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:3
+#@ ultra-mag
+msgid "Search..."
+msgstr ""
+
+#: 404.php:8
+#@ ultra-mag
+msgid "Page not found..."
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:198
+#@ ultra-mag
+msgid "Enter Google Analytics code. This should be something like: &lt;script type=\"text/javascript\"&gt;  ...  &lt;/script&gt;"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:90
+#@ ultra-mag
+msgid "Responsive layout"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:94
+#@ ultra-mag
+msgid "Enable/Disable Responsive Layout:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:97
+#@ ultra-mag
+msgid "Enable"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:98
+#@ ultra-mag
+msgid "Disable"
+msgstr ""
+
+#: functions.php:57
+#, php-format
+#@ ultra-mag
+msgid "This theme requires the following plugin: %1$s. If you currently use the built-in plugin (pre-packaged plugin, e.g. shortcode...) from another WordPress themes by Kopatheme, please deactivate and delete the plugin before installing."
+msgid_plural "This theme requires the following plugins: %1$s. If you currently use the built-in plugins (pre-packaged plugins, e.g. shortcode...) from another WordPress themes by Kopatheme, please deactivate and delete the plugins before installing."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:58
+#, php-format
+#@ ultra-mag
+msgid "This theme recommends the following plugin: %1$s. If you currently use the built-in plugin (pre-packaged plugin, e.g. shortcode...) from another WordPress themes by Kopatheme, please deactivate and delete the plugin before installing."
+msgid_plural "This theme recommends the following plugins: %1$s. If you currently use the built-in plugins (pre-packaged plugins, e.g. shortcode...) from another WordPress themes by Kopatheme, please deactivate and delete the plugins before installing."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:60
+#, php-format
+#@ ultra-mag
+msgid "The following required plugin is currently inactive: %1$s. If you currently use the built-in plugin (pre-packaged plugin, e.g. shortcode...) from another WordPress themes by Kopatheme, please delete the plugin and install the pre-packaged plugin comes with this theme."
+msgid_plural "The following required plugins are currently inactive: %1$s. If you currently use the built-in plugins (pre-packaged plugins, e.g. shortcode...) from another WordPress themes by Kopatheme, please delete the plugins and install the pre-packaged plugins come with this theme."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:61
+#, php-format
+#@ ultra-mag
+msgid "The following recommended plugin is currently inactive: %1$s. If you currently use the built-in plugin (pre-packaged plugin, e.g. shortcode...) from another WordPress themes by Kopatheme, please delete the plugin and install the pre-packaged plugin comes with this theme."
+msgid_plural "The following recommended plugins are currently inactive: %1$s. If you currently use the built-in plugins (pre-packaged plugins, e.g. shortcode...) from another WordPress themes by Kopatheme, please delete the plugins and install the pre-packaged plugins come with this theme."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:63
+#, php-format
+#@ ultra-mag
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s. If the plugin is built-in plugin (pre-packaged plugin, e.g. shortcode...) of this theme, please deactivate and delete its current version before installing its latest version comes with this theme."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s. If the plugins are built-in plugins (pre-packaged plugins, e.g. shortcode...) of this theme, please deactivate and delete their current version before installing their latest version come with this theme."
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:13
+#@ ultra-mag
+msgid "NO COMMENTS"
+msgstr ""
+
+#: comments.php:13
+#@ ultra-mag
+msgid "1 COMMENT"
+msgstr ""
+
+#: comments.php:13
+#@ ultra-mag
+msgid "% COMMENTS"
+msgstr ""
+
+#: library/front.php:594
+#@ ultra-mag
+msgid "RELATED ARTICLES"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:191
+#@ ultra-mag
+msgid "Custom Footer Description"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:192
+#@ ultra-mag
+msgid "Enter the content you want to display in your footer (e.g. copyright text)."
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:28
+#@ ultra-mag
+msgid "Meta data on post"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:48
+#@ ultra-mag
+msgid "Show/Hide view count on post"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:89
+#@ ultra-mag
+msgid "Post Navigation (previous article and next article)"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/social-links.php:71
+#@ ultra-mag
+msgid "Linkedin URL"
+msgstr ""
+
+#: library/includes/widgets.php:770
+#@ ultra-mag
+msgid "Display Featured Articles Slider Widget"
+msgstr ""
+
+#: library/includes/widgets.php:772
+#@ ultra-mag
+msgid "Kopa Featured Slider"
+msgstr ""
+
+#: library/includes/widgets.php:1109
+#: library/includes/widgets.php:1210
+#@ ultra-mag
+msgid "NEWSLETTER"
+msgstr ""
+
+#: library/includes/widgets.php:1141
+#: library/includes/widgets.php:1236
+#@ ultra-mag
+msgid "Email field placeholder:"
+msgstr ""
+
+#: library/includes/widgets.php:1145
+#: library/includes/widgets.php:1240
+#@ ultra-mag
+msgid "Submit button text:"
+msgstr ""
+
+#: library/includes/widgets.php:1266
+#@ ultra-mag
+msgid "Kopa Combo Widget"
+msgstr ""
+
+#: library/includes/widgets.php:1362
+#@ ultra-mag
+msgid "POPULAR"
+msgstr ""
+
+#: library/includes/widgets.php:1364
+#@ ultra-mag
+msgid "COMMENT"
+msgstr ""
+
+#: library/includes/widgets.php:1438
+#@ ultra-mag
+msgid "Kopa Entries List"
+msgstr ""
+
+#: library/templates/template-pagination.php:19
+#@ ultra-mag
+msgid "PREVIOUS"
+msgstr ""
+
+#: library/templates/template-pagination.php:20
+#@ ultra-mag
+msgid "NEXT"
+msgstr ""
+
+#: library/front.php:255
+#@ ultra-mag
+msgid "SEND"
+msgstr ""
+
+#: library/front.php:256
+#@ ultra-mag
+msgid "SENDING..."
+msgstr ""
+
+#: 404.php:9
+#@ ultra-mag
+msgid "We're sorry, but we can't find the page you were looking for. It's probably some things we've done wrong but now we know about it we'll try to fix it. In the meantime, try one of these options:"
+msgstr ""
+
+#: 404.php:12
+#@ ultra-mag
+msgid "Go back to previous page"
+msgstr ""
+
+#: 404.php:14
+#@ ultra-mag
+msgid "Go to homepage"
+msgstr ""
+
+#: comments.php:149
+#@ ultra-mag
+msgid "LEAVE YOUR COMMENT"
+msgstr ""
+
+#: footer.php:73
+#@ ultra-mag
+msgid "Back to Top"
+msgstr ""
+
+#: library/front.php:16
+#@ ultra-mag
+msgid "Top Menu (All Items Flat)"
+msgstr ""
+
+#: library/front.php:18
+#@ ultra-mag
+msgid "Bottom Menu (All Items Flat)"
+msgstr ""
+
+#: library/front.php:322
+#@ ultra-mag
+msgid "Articles list widget size (Kopatheme)"
+msgstr ""
+
+#: library/front.php:323
+#@ ultra-mag
+msgid "Entries list widget size (Kopatheme)"
+msgstr ""
+
+#: library/front.php:324
+#@ ultra-mag
+msgid "Entries list widget small size (Kopatheme)"
+msgstr ""
+
+#: library/front.php:325
+#@ ultra-mag
+msgid "Single featured image size (Kopatheme)"
+msgstr ""
+
+#: library/front.php:532
+#, php-format
+#@ ultra-mag
+msgid "<span class=\"%1$s\">Your search for \"%2$s\""
+msgstr ""
+
+#: library/front.php:537
+#, php-format
+#@ ultra-mag
+msgid "Posts created by %1$s"
+msgstr ""
+
+#: library/front.php:662
+#@ ultra-mag
+msgid "About the author:"
+msgstr ""
+
+#: library/front.php:663
+#, php-format
+#@ ultra-mag
+msgid "Has %s Article"
+msgid_plural "Has %s Articles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/ajax.php:488
+#: library/includes/widgets.php:360
+#: library/includes/widgets.php:445
+#: library/includes/widgets.php:474
+#: library/includes/widgets.php:555
+#: library/includes/widgets.php:858
+#: library/templates/loop-blog-1.php:24
+#: library/templates/loop-blog-2.php:34
+#@ ultra-mag
+msgid "Read more..."
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:142
+#@ ultra-mag
+msgid "Excerpt length"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:146
+#@ ultra-mag
+msgid "Frontpage excerpt length"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:150
+#@ ultra-mag
+msgid "Blog excerpt length"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/general.php:161
+#@ ultra-mag
+msgid "Show/Hide Read more:"
+msgstr ""
+
+#: library/includes/cpanel/theme-options/post.php:32
+#@ ultra-mag
+msgid "Show/Hide date on post"
+msgstr ""
+
+#: library/includes/widgets.php:247
+#@ ultra-mag
+msgid "Display Articles Widget"
+msgstr ""
+
+#: library/includes/widgets.php:520
+#@ ultra-mag
+msgid "By:"
+msgstr ""
+
+#: library/includes/widgets.php:609
+#@ ultra-mag
+msgid "LOAD MORE"
+msgstr ""
+
+#: library/includes/widgets.php:697
+#@ ultra-mag
+msgid "Display Type:"
+msgstr ""
+
+#: library/includes/widgets.php:701
+#@ ultra-mag
+msgid "List with ajax load more, suitable for widget area 3"
+msgstr ""
+
+#: library/includes/widgets.php:702
+#@ ultra-mag
+msgid "First featured latest post and a posts list, suitable for widget area 4"
+msgstr ""
+
+#: library/includes/widgets.php:703
+#@ ultra-mag
+msgid "List with medium featured images, suitable for left sidebar"
+msgstr ""
+
+#: library/includes/widgets.php:712
+#@ ultra-mag
+msgid "Number of articles will be loaded when click to load more button:"
+msgstr ""
+
+#: library/includes/widgets.php:714
+#@ ultra-mag
+msgid "Leave it empty to hide ajax load more button."
+msgstr ""
+
+#: library/includes/widgets.php:717
+#@ ultra-mag
+msgid "Ajax load more button label:"
+msgstr ""
+
+#: library/includes/widgets.php:721
+#: library/includes/widgets.php:1023
+#: library/includes/widgets.php:1406
+#: library/includes/widgets.php:1647
+#@ ultra-mag
+msgid "Display date metadata"
+msgstr ""
+
+#: library/includes/widgets.php:725
+#: library/includes/widgets.php:1031
+#@ ultra-mag
+msgid "Display read more button"
+msgstr ""
+
+#: library/includes/widgets.php:729
+#@ ultra-mag
+msgid "Display author metadata"
+msgstr ""
+
+#: library/includes/widgets.php:847
+#: library/templates/format-single-audio.php:8
+#: library/templates/format-single-gallery.php:8
+#: library/templates/format-single-video.php:8
+#: library/templates/format-single.php:8
+#@ ultra-mag
+msgid "No Comments"
+msgstr ""
+
+#: library/includes/widgets.php:851
+#: library/templates/format-single-audio.php:14
+#: library/templates/format-single-gallery.php:14
+#: library/templates/format-single-video.php:14
+#: library/templates/format-single.php:14
+#, php-format
+#@ ultra-mag
+msgid "1 View"
+msgid_plural "%s Views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/includes/widgets.php:980
+#@ ultra-mag
+msgid "Animation:"
+msgstr ""
+
+#: library/includes/widgets.php:984
+#@ ultra-mag
+msgid "Slide"
+msgstr ""
+
+#: library/includes/widgets.php:985
+#@ ultra-mag
+msgid "Fade"
+msgstr ""
+
+#: library/includes/widgets.php:995
+#@ ultra-mag
+msgid "Direction:"
+msgstr ""
+
+#: library/includes/widgets.php:999
+#@ ultra-mag
+msgid "Horizontal"
+msgstr ""
+
+#: library/includes/widgets.php:1009
+#@ ultra-mag
+msgid "Speed of the slideshow cycling:"
+msgstr ""
+
+#: library/includes/widgets.php:1014
+#@ ultra-mag
+msgid "Speed of animations:"
+msgstr ""
+
+#: library/includes/widgets.php:1020
+#@ ultra-mag
+msgid "Auto Play"
+msgstr ""
+
+#: library/includes/widgets.php:1027
+#@ ultra-mag
+msgid "Display view count"
+msgstr ""
+
+#: library/includes/widgets.php:1081
+#: library/includes/widgets.php:1114
+#: library/includes/widgets.php:1180
+#: library/includes/widgets.php:1214
+#@ ultra-mag
+msgid "Subscribe"
+msgstr ""
+
+#: library/includes/widgets.php:1082
+#: library/includes/widgets.php:1113
+#: library/includes/widgets.php:1181
+#: library/includes/widgets.php:1213
+#@ ultra-mag
+msgid "Enter your email"
+msgstr ""
+
+#: library/includes/widgets.php:1264
+#@ ultra-mag
+msgid "A widget displays popular articles, random articles, recent articles and most comment articles."
+msgstr ""
+
+#: library/includes/widgets.php:1363
+#@ ultra-mag
+msgid "RANDOM"
+msgstr ""
+
+#: library/includes/widgets.php:1365
+#@ ultra-mag
+msgid "LATEST"
+msgstr ""
+
+#: library/includes/widgets.php:1386
+#@ ultra-mag
+msgid "Popular tab title:"
+msgstr ""
+
+#: library/includes/widgets.php:1388
+#@ ultra-mag
+msgid "Leave it <strong>empty</strong> to hide popular tab."
+msgstr ""
+
+#: library/includes/widgets.php:1391
+#@ ultra-mag
+msgid "Random tab title:"
+msgstr ""
+
+#: library/includes/widgets.php:1393
+#@ ultra-mag
+msgid "Leave it <strong>empty</strong> to hide random tab."
+msgstr ""
+
+#: library/includes/widgets.php:1396
+#@ ultra-mag
+msgid "Comment tab title:"
+msgstr ""
+
+#: library/includes/widgets.php:1398
+#@ ultra-mag
+msgid "Leave it <strong>empty</strong> to hide comment tab."
+msgstr ""
+
+#: library/includes/widgets.php:1401
+#@ ultra-mag
+msgid "Latest tab title:"
+msgstr ""
+
+#: library/includes/widgets.php:1403
+#@ ultra-mag
+msgid "Leave it <strong>empty</strong> to hide latest tab."
+msgstr ""
+
+#: library/includes/widgets.php:1436
+#@ ultra-mag
+msgid "Display 3 Latest Articles with Creative style"
+msgstr ""
+
+#: library/ini.php:73
+#@ ultra-mag
+msgid "Single"
+msgstr ""
+
+#: library/ini.php:136
+#@ ultra-mag
+msgid "Widget Area 12"
+msgstr ""
+
+#: library/ini.php:137
+#@ ultra-mag
+msgid "Widget Area 13"
+msgstr ""
+
+#: library/ini.php:328
+#@ ultra-mag
+msgid "Sidebar 12"
+msgstr ""
+
+#: library/ini.php:329
+#@ ultra-mag
+msgid "Sidebar 13"
+msgstr ""
+
+#: library/templates/format-single-audio.php:59
+#: library/templates/format-single-gallery.php:73
+#: library/templates/format-single-video.php:60
+#: library/templates/format-single.php:38
+#@ ultra-mag
+msgid "Tagged with:"
+msgstr ""
+
+#: library/templates/format-single-audio.php:67
+#: library/templates/format-single-gallery.php:81
+#: library/templates/format-single-video.php:68
+#: library/templates/format-single.php:46
+#@ ultra-mag
+msgid "Previous article"
+msgstr ""
+
+#: library/templates/format-single-audio.php:70
+#: library/templates/format-single-gallery.php:84
+#: library/templates/format-single-video.php:71
+#: library/templates/format-single.php:49
+#@ ultra-mag
+msgid "Next article"
+msgstr ""
+
+#: library/templates/loop-blog-1.php:33
+#: library/templates/loop-blog-2.php:43
+#@ ultra-mag
+msgid "Nothing Found"
+msgstr ""
+
+#: woocommerce/widgets/class-kopa-wc-products.php:8
+#@ ultra-mag
+msgid "Display a list of your most recent products on your site."
+msgstr ""
+
+#: woocommerce/widgets/class-kopa-wc-products.php:10
+#@ ultra-mag
+msgid "Kopa Woocommerce Products"
+msgstr ""
+
+#: woocommerce/widgets/class-kopa-wc-products.php:69
+#: woocommerce/widgets/class-kopa-wc-products.php:73
+#@ ultra-mag
+msgid "Free"
+msgstr ""
+
+#: woocommerce/widgets/class-kopa-wc-products.php:122
+#: woocommerce/widgets/class-kopa-wc-products.php:129
+#@ ultra-mag
+msgid "Free!"
+msgstr ""
+
+#: woocommerce/widgets/class-kopa-wc-products.php:190
+#@ ultra-mag
+msgid "New Products"
+msgstr ""
+
+#: woocommerce/widgets/class-kopa-wc-products.php:308
+#@ ultra-mag
+msgid "Number of products to show:"
+msgstr ""
+
+#: woocommerce/widgets/class-kopa-wc-products.php:312
+#@ ultra-mag
+msgid "Show hidden product variations"
+msgstr ""
+
+#: library/ini.php:110
+#: library/ini.php:174
+#@ ultra-mag
+msgid "Single Product"
+msgstr ""
+
+#: library/includes/widgets.php:1668
+#@ ultra-mag
+msgid "Display Social Links"
+msgstr ""
+
+#: library/includes/widgets.php:1670
+#@ ultra-mag
+msgid "Kopa Social Widget"
+msgstr ""
+
+#: library/ini.php:97
+#: library/ini.php:170
+#@ ultra-mag
+msgid "Shop"
+msgstr ""
+
+#: library/ini.php:333
+#@ ultra-mag
+msgid "Front page left sidebar"
+msgstr ""
+
+#: library/ini.php:334
+#@ ultra-mag
+msgid "Front page center top content sidebar"
+msgstr ""
+
+#: library/ini.php:335
+#@ ultra-mag
+msgid "Front page first center middle content sidebar"
+msgstr ""
+
+#: library/ini.php:336
+#@ ultra-mag
+msgid "Front page second center middle content sidebar"
+msgstr ""
+
+#: library/ini.php:337
+#@ ultra-mag
+msgid "Front page center bottom content sidebar"
+msgstr ""
+
+#: library/ini.php:338
+#@ ultra-mag
+msgid "Front page right sidebar"
+msgstr ""
+
+#: library/ini.php:339
+#@ ultra-mag
+msgid "Footer column sidebar 1"
+msgstr ""
+
+#: library/ini.php:340
+#@ ultra-mag
+msgid "Footer column sidebar 2"
+msgstr ""
+
+#: library/ini.php:341
+#@ ultra-mag
+msgid "Footer column sidebar 3"
+msgstr ""
+
+#: library/ini.php:342
+#@ ultra-mag
+msgid "Footer column sidebar 4"
+msgstr ""
+
+#: library/ini.php:343
+#@ ultra-mag
+msgid "Footer column sidebar 5"
+msgstr ""
+
+#: library/ini.php:344
+#@ ultra-mag
+msgid "Blog, archive, search, product left sidebar"
+msgstr ""
+
+#: library/ini.php:345
+#@ ultra-mag
+msgid "Blog, archive, search, product right sidebar"
+msgstr ""
+
+#: library/ini.php:22
+#@ ultra-mag
+msgid "Blog-2"
+msgstr ""
+
+#: library/ini.php:35
+#@ ultra-mag
+msgid "Blog 1"
+msgstr ""
+
+#: library/includes/widgets.php:1722
+#@ ultra-mag
+msgid "A widget that displays an advertising image"
+msgstr ""
+
+#: library/includes/widgets.php:1724
+#@ ultra-mag
+msgid "Kopa Advertising Widget"
+msgstr ""
+
+#: library/includes/widgets.php:1772
+#@ ultra-mag
+msgid "Image:"
+msgstr ""
+
+#: library/includes/widgets.php:1778
+#@ ultra-mag
+msgid "URL:"
+msgstr ""
+
+#: library/includes/widgets.php:1783
+#@ ultra-mag
+msgid "Open link in a new tab"
+msgstr ""
+

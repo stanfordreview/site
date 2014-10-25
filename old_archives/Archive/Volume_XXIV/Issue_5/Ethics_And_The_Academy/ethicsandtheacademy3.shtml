@@ -1,0 +1,264 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIV - Issue 5 - Ethics and the Academy</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front page</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editor's Note</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Ethics and the Academy'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ethics and the Academy</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Last_Page/index.shtml#1" onMouseOver="window.status='Alec Rawls in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Bob McGrew in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="ethicsandtheacademy3.shtml" onMouseOver="window.status='David Myszewski in Ethics and the Academy'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='John Gibbs in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>John Gibbs</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Johnny Openshaw in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Johnny Openshaw</font></a><br>
+
+<a href="ethicsandtheacademy2.shtml" onMouseOver="window.status='Henry Towsner in Ethics and the Academy'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Kimberly Torrence in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kimberly Torrence</font></a><br>
+
+<a href="../The_Last_Page/index.shtml#2" onMouseOver="window.status='Ryan Parks in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Parks</font></a><br>
+
+<a href="../News/index.html" onMouseOver="window.status='Scott Rasmussen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+</font>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXIV, Issue 5
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+June 5, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIV'; return true" onMouseOut="window.status=' '; return true">Volume XXIV</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue #5</a> - Ethics and the Academy
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Ethics and the Academy</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>Flattery And Privacy: Persuasive Technology</font><br>
+
+<b>By David Myszewski</b><br>
+Staff Writer<p>
+
+Technology has always changed the lives of human beings, but only recently has technology been a means to literally change human behavior.  From alcoholism to teenage pregnancy, a new type of technology --"persuasive technology"-- aims to positively affect behavior.<p>
+
+	Dr. B.J. Fogg, director of Stanford's Persuasive Technology Lab, defines persuasive technology as "a computing system, device, or application intentionally designed to change a person's attitudes or behavior in a predetermined way."<p>
+
+	While something like a television commercial or advertisement on a web site may persuade, it does not qualify as persuasive technology.  Persuasive technology is much more powerful than that.<p>
+
+	Daniel Berdichevsky, the associating managing director of VentureNova and executive direction of DemiDec Resources, whose educational background includes both Stanford and Harvard, makes the distinction between technology which has the effect of persuading and technology specifically designed to dynamically persuade:<p>
+
+	"Persuasive tools such as the megaphone (and the printing press) also date back several decades (or centuries).  But persuasive technologies with 'smarts' -- dynamic, personal, enabled by computers -- are much newer on the scene. Apple's smiley-face was an early persuasive technology, as were other aspects of the Mac OS."<p>
+
+	While technology is clearly different than one human persuading another, Erik Neuenschwander, a master's student in philosophy at Stanford and associate manager of the Stanford Persuasive Technology Lab, and Berdichevsky believe the methods are virtually the same.<p>
+
+	"The methods employed by persuasive technology are essentially similar to those employed by persuasive people.  Humans can persuade through flattery.  Work has shown that computers can flatter too.  Humans can persuade through conditioning, by rewarding and punishing desirable and undesirable behaviors.  Again, so can computers."<p>
+
+One of the more well-known persuasive technologies is a program called "Baby Think It Over."  The program is designed for educational and medical professionals to help young adults make responsible choices of parenting.<p>
+
+	The program uses a computerized baby doll, approximately the same size and weight as a real baby, which cries at random intervals and is used as a simulation of parenthood.  The "baby," while similar to "egg babies" which are used in school health and home economics classes, is much more realistic and persuasive.<p>
+
+	Even though programs like this are only the beginning of the capabilities of persuasive technology, there are inherent limitations of using technology to change an individual.  As technologically advanced computers are today, there are still many "human" things that they simply cannot accomplish.<p>
+
+	Mr. Berdichevsky explains his and Mr. Neuenschwander's position on the subject: "Humans are more effective in situations that require a great deal of empathy -- directly talking someone into changing an opinion, for instance.<p>
+
+	"We believe technologies can encourage changes in behaviors more easily than in attitudes, and persuasive technologies often work gradually over a period of time -- as when they leverage the principles of conditioning."<p>
+
+	Simple persuasive technologies like the "Baby Think It Over" program present few drawbacks, but more advanced persuasive technology has the potential of opening the door to frightening risks.<p>
+
+	Imagine an application that has to access a database on the Internet in order to dynamically determine the next course of action in the individual's persuasion.  Berdichevsky notes the valuable ability of such technology.  "Persuasive technologies leveraging online databases are likely to be very effective, because they'll be able to customize their persuasive methods and messages for individual users."<p>
+
+	If such technology were used, the possible threats are startling.  An application could send your information to the server so that the server can act on it and determine an appropriate response.  All of a sudden, your personal information is sent with the possibility of others viewing it.<p>
+
+	Only this time it's not your credit card number, your address, or your home phone number.  This time it's your entire psychological profile.<p>
+
+	In short, privacy is of the utmost concern.  Anyone who develops such a persuasive technology should keep privacy as a primary goal.<p>
+
+	Mr. Berdichevsky hopes that developers will not rush towards the completion of a technology without privacy in mind.  "I do hope that privacy concerns slow the creation of these technologies, so that we can a deep breath and develop them in a way respectful of privacy concerns -- for instance, by implementing 'opt in' instead of 'opt out' systems whenever possible."
+	However, he believes that technology will be created regardless of the potential privacy concerns.  "History suggests, however, that while privacy concerns will flare up now and then (as they did with regard to the ID numbers on Pentium chips), for the most part, technologies will be developed without much attention to them."<p>
+
+	If that is the case and technology advances regardless of the potential harms, some ethical issues emerge.  The questions "What if the technology changes someone's behavior for the worse?" and "Who is ultimately responsible if something goes wrong?" are only the beginning of what Berdichevsky and Neuenschwander call "the ethics of persuasive technology," a subject which they wrote a seventeen page paper about.<p>
+
+	In one example, they compare persuasive technology to "a slot machine with a compelling multimedia narrative."  If such a device were to cause one to spend all of one's money on it, they argue, the responsibility isn't placed on the gambling machine.<p>
+
+	Instead, the "responsibility for the computerized slot machine's motivations, methods, and outcomes falls squarely on its creators and purchasers, while responsibility for the gambler's choice to gamble distributes on both these parties and the gambler him or herself--just as if it were a human being doing the persuading."<p>
+
+	In other words, one would not blame a persuasive technology itself for a problem any more than one would blame a web browser for sending credit card information on an insecure site.  Both the user and the developer of the program are at fault.<p>
+
+	But Berdichevsky and Neuenschwander assert that they should only be held responsible for "reasonably predictable outcomes."<p>
+
+	The final question that one has to ask about the persuasive technology is "Just how truthful does the technology have to be?"  For example, as humans we expect people who are trying to persuade us to twist the truth or leave out potentially important details in order to persuade us. We expect used car salesman and telemarketers to engage in such action.<p>
+
+	Berdichevsky and Neuenschwander are firm about this issue.  "Computers . . . can lie with equanimity.  Moreover, people tend to trust in the information that computers deliver to them," they argue.<p>
+
+	"We have no reason to believe that a device monitoring our heart rate will deliberately misreport it.  Imagine, however, a scale meant to encourage healthier dieting habits.  It might be programmed to tell a teenage girl she weighs less than she actually does, in order to minimize the chance of her developing an eating disorder."<p>
+
+	Because it is important that humans trust computers not only for the persuasive technology but for other applications in society, they believe that developers of persuasive technology should not hold any pretenses.<p>
+
+	Like all technology, the degree to which persuasive technology positively or negatively affects humans is not up to the technology itself - instead, it is human beings who are ultimately responsible.<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:47:05 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

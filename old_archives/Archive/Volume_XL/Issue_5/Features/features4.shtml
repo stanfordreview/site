@@ -1,0 +1,436 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - March 18, 2008</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style3 {font-weight: bold}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XL, Issue 5 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">March 18, 2008 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">FEATURES</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">The Heart of the Matter:  Illegal Immigration</p>
+              <p class="byline">by <a href="http://www.stanfordreview.org/About/Staff/tabbey.shtml">Tristan Abbey</a></p>
+              <p class="byline"><em>Editor-at-Large</em></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>Our series &ldquo;The Heart of the Matter&rdquo; features interviews with experts on either side of a controversial issue, asking each the same questions to see where and on what grounds their arguments diverge. Participants are asked to limit their responses to 1-3 sentences.</p>
+              <p>Arguing that a pathway to citizenship for illegal immigrants is a good idea is Amado Padilla, Professor of Psychological Studies in Education, Stanford University. Arguing against such a pathway is Vernon Briggs, Emeritus Professor of Labor Economics at the School of Labor and Industrial Relations, Cornell University.</p>
+              <p><strong>1. Should illegal immigration be stopped in principle? Should it be made a policy priority?</strong></p>
+              <p><strong>VB:</strong> It is never acceptable public policy to ignore a law that is designed to protect the national interest. The enforcement of immigration laws is at the heart of every nation&rsquo;s claim to be a sovereign state. Given the scale of illegal immigrants (conservatively estimated to be over 12 million persons in 2005) and the fact that it is linked to so many economic and social maladies, the mass abuse of the nation&rsquo;s immigration laws should be among the highest domestic priorities for immediate remediation.</p>
+              <p><strong>AP:</strong> In principle, it should be a policy priority to stop undocumented immigration regardless of where or how people enter the United States.  The central issue, though, is how such a policy is implemented to ensure that immigrant rights are not violated through unlawful searches, profiling, and denial of medical or social services.  All violators, the immigrant as well as the employer who takes advantage of the often cheap, flexible immigrant labor, should be equally prioritized. Analyzing the &ldquo;push&rdquo; and &ldquo;pull&rdquo; factors that encourage immigration and developing effective solutions to reduce the desire to immigrate to the U.S. should be the highest policy priority.</p>
+              <p><strong>2. Does the porous southern border pose a security risk? Do illegal immigrants themselves pose a security risk?</strong></p>
+              <p><strong>VB:</strong> Most illegal immigrants entering across the southern border are not a security threat per se. But the ease of their access does highlight a strategic vulnerability that has undoubtedly been noted by militant and terrorist elements around the world. Already narcotics rings and smugglers of human beings make frequent use of the southern border to facilitate criminal activities that undermine the nation&rsquo;s social fabric which is also a serious threat to the country&rsquo;s well-being.</p>
+              <p><strong>AP:</strong> The southern border poses no more a security risk than our northern border.  If the question is directed at immigrants from Latin America there has never been a security risk issue.  The motives of those who claim that undocumented immigrants pose a security risk need to be questioned.</p>
+              <p><strong>3. What happens to illegal immigrants who are caught on our side of the border? Is there a coherent, consistent, and enforced policy?</strong></p>
+              <p><strong>VB: </strong>In theory, they can all be deported, but unless they are apprehended in conjunction with some criminal activity, most are simply asked to leave voluntarily or released until they have been caught some arbitrary number of times before they may finally be formally deported. Thus, it depends largely on local circumstances as to how much a priority is given to prosecuting  illegal entry cases as well as the availability (or lack thereof) of any detention facilities to hold apprehended persons until hearings can be held. </p>
+              <p><strong>AP:</strong> Immigrants without proper documentation to be in this country are deported to their country of origin, unless, of course, they claim amnesty and can subsequently prove their claim. The U.S. policies appear to be coherent and enforceable.</p>
+              <p><strong>4. Do Latin American governments like Mexico have a policy or stance on this illegal immigration?</strong></p>
+              <p><strong>VB:</strong> Illegal immigration is viewed as a &ldquo;safety valve,&rdquo; a way to dissipate pressures by frustrated youth and adults that would otherwise build up for internal reforms of their own weak economies and corrupt societies. These governments also view the billions of dollars of annual remittances from illegal workers in the U.S. as a vital form of foreign aid. Hence, they actively oppose any efforts by the United States to enforce its own immigration laws and label reform advocates as &ldquo;racists&rdquo; in an attempt to silence them.</p>
+              <p><strong>AP:</strong> The President of Mexico was recently in the United States and stated that Mexico does not like to see its citizens leave the country whether legally or illegally.  When people leave their home country for &ldquo;greener pastures&rdquo; elsewhere this means that something is wrong with their country that is driving them out.  However, as they say in Mexico, &ldquo;Poor Mexico, so far from God and yet so close to the United States.&rdquo;  Whether Mexico has an official policy or not regarding undocumented immigration is less important than the attraction that the U.S. has for Mexicans and the fact that their labor is sought after by employers everywhere in this country.</p>
+              <p><strong>5. Are illegal Latino immigrants assimilating&mdash;learning English, going to school, participating in civil society? Is assimilation important?</strong></p>
+              <p><strong>VB:</strong> Some do learn English but for many adult illegal immigrants it is sparingly the case. Too many are also illiterate in Spanish which handicaps their ability to learn English even if they want to do so. Learning English is the key to assimilation and to being able to participate in the broader civil society: education is the pathway to advancement.</p>
+              <p><strong>AP:</strong> Immigrants, documented or otherwise, are learning English, going to school, getting jobs, paying taxes, participating as responsible members of their community, and obeying the laws of this country.  Latinos are assimilating in many respects into the social fabric of this country in much the same way as have the Irish, Italians, Poles, Greeks, Russians, etc., in earlier eras. In fact, the sociological evidence indicates that Latinos, again, regardless of documentation status, are assimilating faster than have immigrants in earlier generations.</p>
+              <p><strong>6. Do illegal Latino immigrants cost society more in public services&mdash;hospitals, schools, etc.&mdash;than they contribute in social security and sales taxes, and to the economy? Do they, in essence, pay for themselves?</strong></p>
+              <p><strong>VB: </strong>The available studies that are credible &ndash; e.g., those done by the National Research Council, the Congressional Budget Office and the U.S. Bureau of the Census and a host of reputable scholars &ndash; have uniformly found that immigrants in general and Latino immigrants in particular (because of their disproportionately high incidence of poverty) consume far more public services than they pay for by their tax payments. They do not come close to paying their own way.</p>
+              <p><strong>AP:</strong> The claim about undocumented Latino immigrants consuming more in educational and other public services than they contribute through taxes is an old story and is often cited as justification for an anti-immigration stance.  However, repeated economic studies conducted by reputable organizations, e.g., The Pew Foundation, have shown that undocumented immigrants do not burden society with greater costs than they contribute to this country through their labor and taxes.</p>
+              <p><strong>7. Do illegal immigrants from Mexico do jobs that other Americans will not do? In other words, are Americans out of work because of illegal immigrants from Mexico?</strong></p>
+              <p><strong>VB: </strong>Illegal immigrants from Mexico are willing to do jobs at lower pay, for longer hours and under worse working conditions than will American workers. But this does not mean that the 40 million American citizen workers who are also low skilled will not do the work that illegal immigrants do. In fact, in every occupation where illegal immigrants are present, the majority of workers in those same occupations are American citizens, and even more would be available if wages and working conditions were improved should the laws forbidding illegal immigrants to work were actually enforced.</p>
+              <p><strong>AP: </strong>Immigrants, again whether documented or not, often do take on jobs that Americans seem unwilling to do because of factors such as low wages, poor working conditions, unpleasant jobs (e.g., slaughter houses, agricultural fields), or absence of health care and other employee benefits.  If these jobs and working conditions were so wonderful for Americans, I doubt immigrants would find employment in this country.  Even if Americas are out of work as a result, this is not the fault of undocumented immigrants;  the responsibility lies with employers, governmental regulatory agencies, and every citizen who wants a cheap basket of strawberries, an inexpensive cut of meat, or cost-efficient, competent nursing care for an elderly member of their family.</p>
+              <p><strong>8. According to a 2006 Government Accountability Office report, something like 500 people die crossing the southern border illegally each year. The American layman is moved emotionally by this statistic. Towards what should it move him?</strong></p>
+              <p><strong>VB: </strong>The blood of these poor souls is on the hands of those who continually oppose all efforts to enforce worksite laws against the employment of illegal immigrants and to strengthen border deterrence methods. Until it is factually the case that illegal immigrants will not be employed in the United States, the job magnet will continue to entice desperate people to keep trying. Strict enforcement of our immigration laws is the only humane way to stop these human tragedies. </p>
+              <p><strong>AP:</strong> Actually, the unofficial numbers run higher than 500 people dying along the border annually.  People should be moved by their compassion and anger to communicate their displeasure at our immigration policy and seek immigration policies that are fair and humane and which contribute constructively to our economy.</p>
+              <p><strong>9. Is a policy of deportations a good idea? </strong></p>
+              <p><strong>VB:</strong> There must be consequences for violations of any law. Violators of our immigration laws are simply returned to their homelands, which is far better than putting them in prisons.</p>
+              <p><strong>AP: </strong>In principle, there is nothing offensive about a policy of deportation.  The issue, like most complex social problems, is in the implementation and in fairness.  (The southern border with Mexico has grabbed all the attention from policy makers and anti-immigration advocates and this negates the fact that approximately 40% of all illegal immigrants are individuals who enter legally and overstay their tourist, student, or work visas.) </p>
+              <p><strong>10. Should the United States provide a path to citizenship for the illegal immigrants in the country already?</strong></p>
+              <p><strong>VB:</strong> There simply is no federal agency remotely capable of certifying compliance with the specified eligibility requirements, such as the background check and certifying they speak English. Moreover, the massive family reunification implications for those individuals given such &ldquo;paths&rdquo; to admit many of their relatives could easily total in the tens of millions of persons over the succeeding 20 years (most of whom would be poorly skilled, uneducated, and non-English speaking). It would be a nightmare for the economy&mdash;especially so for low skilled American workers&mdash;and would be a hoax on the American people.</p>
+              <p><strong>AP:</strong> Yes, a path to citizenship for undocumented immigrants must be enacted in some form.  A very good start would be passage of the DREAM Act for immigrant students who have shown their dedication to assimilation by excelling in our American schools and who continue on and graduate from our universities. These young people who number in the tens of thousands should be offered an expedited path to citizenship.  This would be one step in the right direction.</p>
+              <p>&nbsp;</p>
+              <p><em>Interview conducted by email, condensed, and edited by Tristan Abbey.</em></p>
+              <p><br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

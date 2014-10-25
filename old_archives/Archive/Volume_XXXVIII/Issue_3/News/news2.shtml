@@ -1,0 +1,431 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - March 16, 2007</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXVIII, Issue 3 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">March 16, 2007 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">NEWS</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Taking Green to Main Street</p>
+              <p class="byline">by <a href="http://www.stanfordreview.org/About/Staff/dslate.shtml">Daniel D. Slate</a> </p>
+              <p class="byline"><em>Opinions Editor </em></p>
+              <p class="style1"><img src="http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_3/News/news2.jpg" width="300" height="379" border="0" align="right"></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>Thomas L. Friedman, the New York Times columnist and author of such books as From Beirut to Jerusalem and The World is Flat, spoke to Stanford students, community members, and global business leaders on March 2 about the urgent need for the United States and its citizens to become &ldquo;geo-green&rdquo; and undertake &ldquo;the biggest industrial project mankind has ever witnessed&rdquo; to confront the global energy and climate crises. </p>
+              <p>Stanford President John Hennessy introduced the keynote speaker for the student-organized Energy Crossroads conference by quoting John Gardner, former member of Stanford&rsquo;s board of trustees, who in a famous 1965 speech said, &ldquo;What we have before us are some breathtaking opportunities disguised as insoluble problems.&rdquo; Friedman, Hennessy said, has a gift for explaining complex problems in understandable ways, and the Stanford president praised his advocacy for the constellation of ideas and policy proposals that make up what is called geo-green, a movement Stanford is involved in through centers such as the Woods Institute and student groups such as Crossroads. </p>
+              <p>In his address, entitled &ldquo;Green is the New Red, White, and Blue,&rdquo; Thomas Friedman expressed hope that &ldquo;soon Iraq and our post-9/11 trauma and the divisiveness spawned over the last six years will be behind us&rdquo; and we can work together to &ldquo;re-knit America at home&hellip;and restore America to its proper role in the global order as the beacon for progress, hope, and inspiration.&rdquo; The three-time Pulitzer Prize winner argued that this could be accomplished by leading the world in the development of a new global energy industry, one that is green, clean, and scalable across the world. Observing that the word &ldquo;green&rdquo; had long been defined by those who opposed it, who named it &ldquo;liberal, tree-hugging, unpatriotic, and vaguely French&rdquo;&mdash;an observation that brought mass laughter&mdash;Friedman explained his purpose: &ldquo;What I&rsquo;m trying to do is rename Green, rename it capitalist and patriotic&hellip;it can be the basis for a whole new unifying political movement for the twenty-first century.&rdquo; </p>
+              <p>Mr. Friedman stated he does not intend to undercut or trample over existing Republican and Democratic agendas, but expressed his hope that this new perspective could help bridge them. Noting that &ldquo;Jobs, Temperature, and Terrorism&rdquo; are the three issues of most concern to Americans today, he suggested that a geo-green approach makes great political sense. However, Friedman was quick to emphasize that &ldquo;the solutions to these problems are so large in scale they cannot possibly be addressed by an America divided along blue and red state lines.&rdquo; The next American president, he said, expressing both prediction and hope, &ldquo;will have to rally us with a Green patriotism.&rdquo;  Friedman&rsquo;s proposal was a welcome change, as it brought with it concrete policy proposals beyond mere words about unity. </p>
+              <p>The rest of Friedman&rsquo;s talk focused on the vast practical challenges that must be met if the country and the world are to move beyond &ldquo;talking a good green game.&rdquo; The truth of the matter, he said, is that &ldquo;we have not even begun to get serious about the cost, the effort, and the industrial scale of change that will be required to shift the world to a clean power infrastructure over the next fifty years.&rdquo;  This knowledge, which Friedman presented to the audience as new, is not altogether novel.  Those who work in the renewable energy business have been saying the same for years.  What is new is that people with influence over the policy process, such as Friedman, are also starting to talk candidly. </p>
+              <p>Americans understand the problem. September 11 showed everyone that our energy habits are funding &ldquo;the transformation of Islam&hellip;from a synchronistic, unifying ideology to the most harsh, severe, and intolerant strand of Islam exported from Saudi Arabia.&rdquo; Throughout the talk, Friedman was quite honest about the threat radical Islam poses to the world and to us, noting, &ldquo;We will not pay the price for this today, tomorrow, or next week. But thirty years from now, they will wake up, and we will wake up, with a very different Islam.&rdquo; Quoting from Lawrence Wright&rsquo;s The Looming Tower, Friedman pointed out that, after a terrorist attack on Mecca in 1979, the Saudis went to a fundamentalist policy to increase their credibility at home, with Saudi Arabia taking the lesson that &ldquo;it could protect itself from religious extremists only by empowering them.&rdquo; </p>
+              <p>Friedman also echoed points he made in the May/June 2006 issue of Foreign Policy in an article entitled &ldquo;The First Law of Petropolitics.&rdquo; According to the law, in authoritarian, oil-rich countries like Russia, Venezuela, Nigeria, Angola, and Iran, as the price of oil goes up, the pace of freedom goes down. Petrolist authoritarian states, rich from their oil wealth, have no incentive to give political representation to their people when they don&rsquo;t need to tax them. Friedman reminded the audience of the history of the trend. When oil was at $20 per barrel, President Bush looked into Vladimir Putin&rsquo;s soul and liked what he saw. But when oil is at $70 per barrel, you get Rosneft and Gazprom. When oil was $20 per barrel in Iran, Iran elected President Khatami, who was seen as a moderate. But when oil was $70 per barrel, Ahmedinejad came to power and declared the Holocaust a myth. Friedman bitterly joked that &ldquo;at $20 a barrel, the Holocaust is not a myth; that&rsquo;s only a $70 a barrel luxury.&rdquo; </p>
+              <p>Friedman cited Bahrain, the first Arab Gulf state to find and run out of oil, as proof of the opposite trend.  Once Bahrain ran out of oil, it began holding free and fair elections inclusive of women, signed a free trade agreement with the United States, and brought in McKinsey for economic consulting. &ldquo;It&rsquo;s not an accident,&rdquo; Friedman said. If you want to promote democracy in the Middle East, &ldquo;you need to be a green environmentalist. The two go together.&rdquo; </p>
+              <p>Military thinkers have grown more concerned about global warming in recent years.  In 2004 a leaked report from the Pentagon declared climate change to be a threat to national security far greater than that presented by terrorism.  Friedman seems aware of this concern in the Defense Department, pointing to the rise of the &ldquo;Green Hawks.&rdquo; These planners argue that in modern warfare we need to be able to eat our logistical tail. Diesel trucks coming from Kuwait carrying fuel for soldiers&rsquo; generators out to Anbar province are prime targets for IEDs. The Green Hawks are seeking a more distributive source of power. Friedman expressed &ldquo;great hope&rdquo; for this development. &ldquo;One thing I know about the US Army is that the Army was a critical institution for transforming civil rights in this country. Also for women&rsquo;s empowerment. And if the Army goes green, the Army could be a hugely important institution for bringing the idea of &ldquo;Green is the New Red, White, and Blue&rdquo; not just to Main Street, but down Main Street.&rdquo; </p>
+              <p>Aside from the important security reasons why the United States should think seriously about going geo-green, another reason involves surging energy demand from the developing world. &ldquo;Three billion new consumers just walked on to the global playing field with their version of the American dream &ndash; a house, a car, a toaster, a microwave, and a refrigerator,&rdquo; Friedman noted. &ldquo;If we do not find a cleaner way to power their dreams, we are going to burn up, heat up, smoke up and choke up our planet much faster than Al Gore predicts.&rdquo; </p>
+              <p>What Friedman calls the flat world is the source for the climate&rsquo;s great peril. &ldquo;We&rsquo;ve done our mess, we&rsquo;re just starting to deal with it,&rdquo; said Friedman. &ldquo;We can&rsquo;t just tell China and India that, okay, we grew dirty, you&rsquo;re going to have to grow clean. They&rsquo;ve already told us that&rsquo;s not an option.&rdquo; </p>
+              <p>Friedman declared his belief that &ldquo;the uncertainty about climate change has broken out of the science community.&rdquo; In January, Mr. Friedman wrote a column mentioning how his daffodils were blooming quite early as a result of climate change. Montana&rsquo;s entire ecology is changing. In Moscow this past year, Russians celebrated their first Christmas in living memory with no snow. London had the warmest year in centuries. Friedman said it was good news that &ldquo;people are alive to the problem.&rdquo; The bad news is that that scale of the problem is still widely unacknowledged, even though it is known. And it is known to be of enormous scale. </p>
+              <p>Friedman cited the work of Princeton professors Robert H. Socolow and Stephen W. Pacala, who have been publicizing this issue in Science magazine and Scientific American. Summarizing their arguments, Friedman declared that &ldquo;the general peer review scientific consensus is that the chance of the global ecology going haywire grows high when there&rsquo;s a doubling of the carbon in the atmosphere from where it was on the eve of Industrial Revolution.&rdquo;<br>
+                The increasingly grim Friedman noted that, to avoid the doubling point while allowing developing countries to grow without being able to go green &ldquo;will require the biggest industrial project mankind has ever witnessed.&rdquo;</p>
+              <p>To illustrate the phenomenal scale of such a project, Friedman observed, &ldquo;If we were just to do this with nuclear power plants, we&rsquo;d need to build 13,000 of them; I might be slightly off on the math, but that&rsquo;s about 1 a day for 30 years.&rdquo; This, said Friedman, is the real inconvenient truth, that this &ldquo;is a huge industrial project, and no one at our national level, politically, or globally, is talking about it.&rdquo;</p>
+              <p>Addressing the businesspeople in the crowd, Friedman said the only institution with enough power to accomplish this at scale is Wall Street and the capital markets. Green power must be brought down &ldquo;to the China price,&rdquo; Friedman said, because &ldquo;if we can&rsquo;t get clean green power that is scalable in China, India, and Brazil, we won&rsquo;t make it. If China, India, and Brazil can&rsquo;t afford it, we&rsquo;d be imposing industrial restraints on ourselves while they pull ahead using dirty power.&rdquo; </p>
+              <p>Some companies have begun going green both to improve their image but also because they realized they can cut cost on the margins and gain an extra edge in a hypercompetitive global market. The problem is that they aren&rsquo;t yet doing it at scale. </p>
+              <p>Friedman attacked the United States&rsquo; effort to fund ethanol in Iowa as wrongheaded, noting &ldquo;We don&rsquo;t have an energy policy in this country. We have energy politics.&rdquo; Four of the five swing states, he pointed out, are coal producers. People like Barack Obama, Friedman said, talk about ethanol because of Iowa&rsquo;s position as the first primary. &ldquo;It makes zero sense, actually, economically, to be investing huge amounts of money in ethanol,&rdquo; Friedman declared. &ldquo;We should be investing in partnerships with China.&rdquo; </p>
+              <p>The most frequently sounded themes in Friedman&rsquo;s speech involved respect for the scale of the problem and developing global partnerships to address it. &ldquo;We need to do all the research here, here at Stanford, and then deploy all of the technologies&rdquo; elsewhere in the world to achieve scalability, he asserted. &ldquo;We want to do it in partnership with China and on our own, we want to own the technology, but if we can&rsquo;t get it down to their price, we&rsquo;ve done nothing. But the game is won when we can get China to do for solar power what it did for tennis shoes.&rdquo;</p>
+              <p>Friedman, in addition to coming out in favor of policies such as cap-and-trade, carbon taxes, and emissions standards, also had praise for Stanford&rsquo;s home state. He lauded California for setting efficiency standards, correcting for externalities, and keeping per capita energy consumption flat for thirty years while the rest of the country rocketed up fifty percent over the same period. Declared Friedman, &ldquo;What California&rsquo;s done should be federal law and apply to all fifty states.&rdquo;</p>
+              <p>Friedman is by no means against markets. A self-described pragmatic capitalist, Friedman attacked &ldquo;market fundamentalists&rdquo; for failing to recognize the massive market failure the form of today&rsquo;s cartel-like energy industry represents. Long-term investments, he said, require us to have a marketplace where such investments can thrive, pointing out that the United States surrendered the initiative in wind power to Denmark and Spain in the 1970s. Worse, &ldquo;In the USA, we&rsquo;re selling the same energy technology we developed thirty years ago.&rdquo; Elaborating, Friedman said, &ldquo;The last scaled innovation in power was nuclear power in 1955. That&rsquo;s a huge market failure.&rdquo; </p>
+              <p>The markets will require clear regulatory standards and some level of assurance in prices for goods like gasoline, Friedman said, or we won&rsquo;t get the innovation we need. He also pointed out the lack of a national transmission infrastructure in the United States. From Texas to North Dakota, he said, &ldquo;we have the Saudi Arabia of wind.&rdquo; But we don&rsquo;t have the national transmission grid to take advantage of it, instead dividing the country into several regional utility grids. Beyond innovation, Friedman declared, we need transmission at scale, or the innovation won&rsquo;t matter.  It was comforting to see that at least one influential public opinion shaper had both respect for the complexity of the problem and policy proposals to fit that complexity. </p>
+              <p>Friedman ended his talk by arguing, &ldquo;To fix this problem really is going to require a whole new way of thinking&mdash;a way of long-term thinking and planning that we in our country are really not used to.&rdquo; The Japanese company Toshiba, he noted, has a forty-year plan for its business. One would be hard pressed, he joked, to find an American company with a one-year plan. The amount of audience laughter only served to reinforce his point.  The problem ultimately requires us, he said, &ldquo;to approach thinking and collaboration in a whole new way.&rdquo; </p>
+              <p>In the question and answer session that followed, Friedman suggested to President Hennessy that the University create a $10 million Stanford Prize for whoever can come up with the best open-source energy solutions. Such an idea is reminiscent of the Ansari X-Prize that stimulated considerable creativity and private investment in space travel, which culminated in the victory of SpaceShipOne and the creation of Virgin Galactic, the first private spaceline. The problem is one of scale, and it must be solved at every level, from the individual, to the corporation and university, to the government. &ldquo;I&rsquo;m a capitalist, a free-market capitalist,&rdquo; Friedman reiterated, &ldquo;but I&rsquo;m not a market fundamentalist. Government has a real role: to set consistently higher standards of efficiency until we reach the real breakthrough and then step back and let the markets run.&rdquo; </p>
+              <p>In his concluding remarks, Friedman expressed hope, saying, &ldquo;If we do this right we&rsquo;ll create more abundance, more opportunity.&rdquo; The proper way to approach it is to frame it as a problem that is simultaneously rich with opportunity: &ldquo;Think how exciting this is!&mdash;we have the chance to give birth to the next great global industry, own that industry, so that other people can have the American dream. That for me is the right message.&rdquo;  Fortunately, at Stanford we can work to act on that message. <br>
+              </p>
+              <p><br>
+                <br>
+                <br>
+                <br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

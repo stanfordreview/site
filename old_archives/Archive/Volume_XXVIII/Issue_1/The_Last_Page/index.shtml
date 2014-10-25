@@ -1,0 +1,328 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVIII - Issue 1 - The Last Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Alex Robbins in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Andrew Wright in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Harrison Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="../Editors_Note/index.html" onMouseOver="window.status='Henry Towsner in Editor\'s Note and Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Joe Lonsdale in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Matthew Barrett in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Ming Zhu in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Sam Shapero in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVIII, Issue 1
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 14, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVIII'; return true" onMouseOut="window.status=' '; return true">Volume XXVIII</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - The Last Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+The Last Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Panelists, ACLU Executive Discuss USA Patriot Act, Privacy after 9/11
+</font><br>
+
+<b>by Sam Shapero</b><br>
+Staff Writer<p>
+
+<table align=Left width=250>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVIII/Issue_1/The_Last_Page/images/law.jpg" width=250 height=188>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>John Elwood, left, and Kent Walker, listen to Mark Rotenburg at a debate hosted by the American Constitution Society</i>
+        </td>
+    </tr>
+</table>
+
+
+	The American Constitution Society hosted a debate concerning national security and personal freedom on January 31st. The debate, entitled "Searching for Balance: National Security's Threat to Civil Liberties" took place at Stanford's Law School.
+
+<p>
+
+	Kathleen Sullivan, the Dean of Stanford's Law school, moderated the debate between the five panelists that the American Constitution Society had invited. 
+
+<p>
+
+	Four of the panelists were Stanford alumni, including Anthony Romero, the executive director of the American Civil Liberties Union. The other alumni were Kent Walker, General Counsel of Liberate technologies; Chris Painter, a Department of Justice official; and Marc Rotenburg, Director of the Electronic Privacy Information Center. The fifth panelist was John Elwood a counsel for the Department of Justice.
+
+<p>
+
+	Ms. Sullivan opened the debate by introducing the theme of the evening to the debaters and the audience. "There's a date we remember," she began, recounting a brief history of the events since September 11th. "As of September 14th, a national emergency exists in the United States. On September 19th Ashcroft proposed an immediate anti-terrorist bill, and urged congress to pass it as quickly as possible."
+
+<p>
+
+	This anti-terrorist bill, the USA Patriot Act, was to be the main focus of the debate.  Ms. Sullivan asked a pivotal question to the debaters, "How do we balance and understand the need for national security and personal safety with a right of privacy and protest?" To answer the question, she said the American Constitution Society had invited "libertarian members of the government and reasonable members of the libertarians [sic]" to debate the issue that evening.
+
+<p>
+
+	Ms. Sullivan then introduced a hypothetical situation to serve as a framework for the debate.  "My name is Muhammed, and I roomed with a man who is connected with the bombing. [...] Funny things start happening on my phone and email. I read there's this thing called the USA Patriot Act. I'm beginning to think I'm being tracked."
+
+<p>
+
+	Mr. Romero responded first. "There's a good chance," he said. He pointed out several problems with current surveillance laws and mentioned the FISA court, which makes warrants in secret for suspected agents of foreign governments. Mr. Romero asked, "How do you ensure the line between foreign intelligence and domestic criminal investigation?"
+
+<p>
+
+	Mr. Painter countered that the USA Patriot Act had not really given the government broad new powers. "Surveillance positions have very limited changes in the law.  Wiretap laws already allowed us to go through emails." He added that the government is not permitted to look at the subject matter of an email without probable cause, as described under Title III.
+
+<p>
+
+	Mr. Painter mentioned Carnivore, a computer program the government has that can sift through millions of email looking for key words and names.  Mr. Rotenburg recounted his own investigation into the computer system:
+
+<p>
+
+	"When Carnivore slipped out, we filed a FIA [Freedom of Information Act] Brief for technical specifications. The answer we received was 'we can get it all now, and can sort it out later.' Carnivore lacks traditional Title III safeguards."  He said that the government's access to our email is too broad.
+
+<p>
+
+<table align=Left width=211>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVIII/Issue_1/The_Last_Page/images/law2.jpg" width=211 height=158>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>Kathleen Sullivan, Dean of the Stanford Law School, moderates the debate on Civil Liberties on January 31.  The event was sponsored by American Constitution Society</i>
+        </td>
+    </tr>
+</table>
+
+
+	The panelists also discussed the detainment of Arab and South Asian immigrants. Ms. Sullivan again brought forth a hypothetical situation with an Arab alien being held in a detainment camp.
+
+<p>
+
+	Mr. Elwood explained the deportation process. "When you come to the country you have to follow immigration laws," he said. "We have to remember we're talking about deportation. If you come to the country and are out of status and are deported, it's not considered punishment."
+
+<p>
+
+	Ms. Sullivan asked Mr. Walker, as an attorney, to advise an immigrant who thought he had been racially profiled. Mr. Walker said he could only help "If Muhammed is a victim of racial profiling; if the filter being used by the government is Arab men between the ages of 18 and 33."
+
+<p>
+
+	Mr. Romero also discussed the detainment of Arab and Muslim immigrants. He said the ACLU had to call foreign embassies to find the names of immigrants being detained because the federal government wouldn't tell them.  He also described the treatment of one man who had called him. "He was in a room with 20 other men. All the men were called Mohammed by the guards. It took three months for him to be charged and he was without access to counsel."
+
+<p>
+
+	"In a few years, we'll see," said Mr. Elwood in response. "If we've been bad, we'll pay monetary damages."
+
+<p>
+
+	Another important issue for the evening was national ID cards. Mr. Rotenburg opposed the idea. "We have constructed a system of government in the United States to limit the sharing of information because we don't want big brother surveillance laws," said Mr. Rotenburg. "There's a coercive influence in always being observed and I don't think I should be responsible to [the government] for accounting for my private life."
+
+<p>
+
+	Mr. Romero mentioned LEAN, a identification database in Detroit that was used by police to harass their ex-girlfriends and harass their neighbors."
+
+<p>
+
+	Mr. Painter responded that the federal government would prosecute such offenses. "I think this will be a private sector issue," he said.
+
+<p>
+
+	Towards the end of the debate Ms. Sullivan left the floor open for questions from the audience.  One woman addressed a question specifically to Mr. Elwood.  She asked how law enforcement could engage in racial profiling against Arab-Americans while gathering information from their communities.  "Aren't these counterproductive?"
+
+<p>
+
+	"You're right," replied Mr. Elwood. "We have spent an enormous amount of hours finding a solution.  A lot of people who have relevant information are in the Arab-American community."
+
+<p>
+
+	The final question was also directed towards Mr. Elwood, asking if he thought the government  had upset the balance between liberty and safety.
+
+<p>
+
+	"I don't think we've altered the balance at all," responded Mr. Elwood. "We're not infringing on rights anywhere."
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:16:53 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

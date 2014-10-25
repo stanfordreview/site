@@ -1,0 +1,279 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 5 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word From The Editor</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Alex Robbins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../The_Last_Page/index.html" onMouseOver="window.status='Andrew Wright in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='David Myszewski in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Justin Diener in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Justin Diener</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Katie Kollitz in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Katie Kollitz</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Keun Lee in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Keun Lee</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Kevin McCaffrey in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kevin McCaffrey</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Nels Hansen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.html" onMouseOver="window.status='Scott Rasmussen in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 5
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+January 16, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+2001 Hoover Books in Review
+</font><br>
+
+<b>by Nels Hansen</b><br>
+Staff Writer<p>
+
+<u>The Competition of Ideas</u>, Dr. Glenn Campbell
+
+<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_5/News/images/campbellbook.jpg" width=150 height=234 align=Left>
+
+An engaging narrative history of the Hoover Institution combined with an autobiography of Dr. W. Glenn Campbell, this book is well-written, direct, and beautiful.  Mr. Campbell chronicles the successes and power-struggles that define the Hoover Institution, while maintaining a narrative presence and skillfully remaining close to the historical texts, most of which are personal correspondence.  In addition to providing the reader with the ultimate insider's perspective on the Institution, The Competition of Ideas provides an interesting window into the minds of several of the last century's Republican presidents, not to mention that of the author himself.  Few if any figures in the history of the University have been so often attacked, defended, criticized, and praised.  Dr. Campbell passed away as I was reading his book, but his legacy lives on in the Hoover Institution, the strong UC system (no matter what we usually say about Cal around these parts), and the innumerable other organizations and individuals whose lives Campbell impacted.
+
+<p>
+
+<u>A Primer on America's Schools</u>, edited by Terry M. Moe, Koret Task Force on K-12 Education
+
+<p>
+
+No matter which side you favor on the issues of charter schools, voucher programs, and other "accountability"-focused measures in the field of public education, you should read this book before you open your mouth on the subject.  Most of the points made are salient and clear, which allows the reader to identify any logical fallacies with relative ease.  My only complaint is the lack of discourse on the practice of mainstreaming (though it is mentioned), at the hands of which I suffered much personal trauma in middle school, but as this is merely the first work of the Task Force perhaps they'll get to that in later volumes.  Roughly half of each essay is data with commentary, and the remainder is usually devoted to encouraging further experimentation with charter schools and voucher programs as evidence develops.  A Primer on America's Schools opened the mind of this product of our public school system to the possible merits of public charter schools, and I hope that others will look into it as well.
+
+<p>
+
+<u>The Joy of Freedom</u>, Dr. David R. Henderson
+
+<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_5/News/images/joyoffreedom.jpg" width=150 height=216 align=Right>
+
+This book presents the argument that freedom from government intervention is the way to foster an egalitarian, morally upright, happy, and successful nation.  While the book consists mostly of rhetoric and is comparatively light on raw data and research, the subject matter doesn't lend itself well to many other methods.  Given that, it is hard to envision a more persuasive argument for deregulation of almost anything, and I applaud Mr. Henderson for the clarity of his argument and his articulation of it.  Anyone interested in the ongoing battle between government interventionism and libertarianism would do well to read this perspective.  It's especially interesting in that it explores the development of Mr. Henderson's philosophy from his youth until today, which adds a good deal of depth to the text.
+
+<p>
+
+
+<u>Foreign Policy for America in the Twenty-first Century: Alternative Perspectives</u>, edited by Thomas H. Henriksen
+
+<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_5/News/images/foreignpolicy.jpg" width=150 height=225 align=Left>
+
+A fascinating and diverse collection of essays, Foreign Policy for America in the Twenty-first Century: Alternative Perspectives contains some perspectives which have been ignored in the recent past, and we might do well to try some of their policies on.  Some of the policies forwarded include focusing exclusively on the promotion and maintenance of democratic governments, promoting free trade, and supporting multilateralism.  In the last essay in the book, repudiating both neo-conservatism and neo-liberalism for advocating imprudent foreign policy, Dr. Walter A. McDougall calls for a consolidation of the gains of our nation.  In the past, when large empires triumphed over their enemies they did one of two things: they listened to the McDougalls of their time and consolidated, or they continued to try to expand and ended with collapse.  We all ought to read this book, so that we can make an educated decision, as voters and as concerned citizens, on where we'd like the US to stand in foreign policy.
+
+<p>
+
+<u>The Transnational Dimension of Cyber Crime and Terrorism</u>, edited by Abraham D. Sofaer and Seymour E. Goodman
+
+<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_5/News/images/cybercrime.jpg" width=150 height=225 align=Right>
+
+A product of The International Cooperation to Combat Cyber Crime and Terrorism, a National Security Forum sponsored by the Consortium for Research on Information Security and Policy, the Hoover Institution, and the Center for International Security and Cooperation, this work proposes international public policy and Internet infrastructure changes to combat the actions of hackers of all extractions.  It also discusses many different forms attacks can take, how a typical target would react to them, and the effectiveness of the reaction.  A large number of proposals focus on making treaties more general to facilitate the incarceration of international offenders and to avoid allowing reckless hackers to slip through the cracks of international law--something which has been happening on a relatively large scale in the past few years.  The book provides an excellent introduction to the international law surrounding cyber crime as well as a solid foundation for new policy.  Unfortunately, this proposed policy is extremely government interventionist, relying on treaties and damaging infrastructure changes (adding location information containing packets to data streams) rather than proactively preventing crimes by supporting the private development and implementation of secure systems.
+
+<p>
+
+"Some Thoughts about Writing", by Thomas Sowell
+
+<p>
+
+Ever get sick of lazy talk show hosts, book reviewers, and copy editors who fancy themselves to be better writers than authors are?  Sowell believes these are the rule and not the exception in the world today and provides his personal experiences as evidence, conditioning it with the acknowledgement that there are many notable exceptions.  Sowell also offers his advice to prospective authors, while noting that his own experiences with authorship have been very much different from those of the mainstream writer and may only apply to a small minority of those interested.  This essay provided me with some additional skepticism regarding the comments I read on the back of the latest New York Times Bestseller.  As such, I recommend reading it if you look on the back of a book and depend on that information to tell you whether it's worth picking up.  However, if you are an unscrupulous talk show host, editor, or book reviewer, steer clear of this one, since it contains nothing you don't already know, beyond Sowell's stories of triumph over editors who tried to write his books for him.
+
+<p>
+
+<u>Reflections on a Ravaged Century</u>, by Robert Conquest
+
+<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_5/News/images/ravagedcentury.jpg" width=150 height=226 align=Left>
+
+Either history was never before so well articulated and understood as I find it in this volume or most of the history texts I've read have been terrible.  Probably both.  This book epitomizes the goals of the Hoover Institution on War, Revolution, and Peace.  It brings to the public eye the mistakes of the past in order that we might not repeat them.  If historical texts are our mechanism for time-travel, this is the guided tour on a steamship in a vast ocean of directionless dinghies.  Mr. Conquest's apparent depth of understanding of the history of the 20th century is positively mind-blowing, yet the book is very approachable and clear.  I especially encourage my fellow young people to read it, since we've not had much experience with such outlandish things as threats to the Republic, and have only heard of fascism and communism from school and the news media, with little or no connection  to  reality.
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:13:49 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

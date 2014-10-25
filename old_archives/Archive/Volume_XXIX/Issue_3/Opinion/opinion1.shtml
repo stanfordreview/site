@@ -1,0 +1,305 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIX - Issue 3 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word From The Editor</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Notices/index.shtml" onMouseOver="window.status='Notices'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Notices</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../The_Last_Page/thelastpage1.shtml" onMouseOver="window.status='Andrew Wright in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Brian Ball in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brian Ball</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Charles Hallford in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Christopher Fish in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Christopher Fish</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Harrison Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Joe Lonsdale in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Piotr H. Kosicki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr H. Kosicki</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXIX, Issue 3
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+November 21, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIX'; return true" onMouseOut="window.status=' '; return true">Volume XXIX</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Conversation with a (Black) Stanford Student
+</font><br>
+
+<b>by Joe Lonsdale</b><br>
+Editor-in-Chief<p>
+
+This was titled, "Conversation with a Negro", to make a point, but was changed to prevent misunderstanding.
+
+<p>
+
+I doubt any student at Stanford thinks of any African American as a "negro".  However, the term and the cultural norms its historical perception presents make an interesting point.  To many of us, "negro" brings to mind a stereotype--an uneducated, poor person, whose views are foreign to us, and whose life we know nothing about.  Racial stereotypes are even less true today, but there still exists an ignorance among the population in general and conservatives in particular regarding the black community.  Conservatives and the majority of the black community see each other as an "other" who knows nothing about them...and this unfortunate reality is simply accepted.
+
+<p>
+
+Even here at Stanford, the barriers of communication between conservatives and the black community are immense.  A large amount of misunderstanding exists on both sides; conservatives do not understand the racial lens through which blacks often view the world.  The black community, lacking communication with mainstream conservatives, see conservative policies and ideas as the "other", and may not look to comprehend the good intentions and sound theory behind them.
+
+<p>
+
+As such, I thought it would be useful for both sides to have an intelligent conversation about some controversial issues.  Originally, I considered asking someone from the "Real News" or a well-known politically involved member of the black community to participate.  However, we come from such different backgrounds that it is difficult to communicate. For example, I was angered and turned off by what I perceive as their complete indoctrination into the lies of anti-American forces and misunderstanding of basic facts about Israel and the world. So instead, I spoke with someone more moderate.
+
+<p>
+
+Zach Myers is a senior majoring in Political Science.  He hopes at one point to run for the Senate as a Democrat in Indiana, and he is my friend and fraternity brother at Phi Kappa Psi.  He is someone I respect. He is black.
+
+<p>
+
+<b>JL</b>:  How do your politics relate to what you consider the "mainstream" politics in the Stanford black community?  Is there only one dominant political force in the community, or are there disparate popular opinions?
+
+<p>
+
+<b>ZM</b>: I don't think there is a dominant voice...there are voices that are listened to more.  One of the things that really helped bring the black community together, is that last year they started an email list with every black student put on it.  After a little while it became a forum for things...[including]  political issues ... you see a lot of the diversity in the political views on this list.
+
+<p>
+
+As for my politics I think I'm more conservative than what you see as the mainstream ...just from seeing all the articles and discussions by activists...but I think there's lots of room for diversity n the black community whether or not it's acknowledged.
+
+<p>
+
+<b>JL</b>: Is the black community overwhelmingly liberal, as many believe?
+
+<p>
+
+<b>ZM</b>: Possibly, on some issues...as a whole, no. Some [liberal] issues are more prominent--labor relations, war on Israel... [affirmative action].
+
+<p>
+
+<b>JL</b>: Why is the black community so anti-Israel?  Wasn't it also the Jews who fought politically for civil rights, and marched with Dr. King? 
+
+<p>
+
+<b>ZM</b>: There's a big overlap between the Muslim community and the black community, but no overlap between the Jewish community and the black community--they just don't hear voices on the other side.
+
+<p>
+
+<b>JL</b>: People I've spoken with in the black community... seriously believe that the US and Israel knew about the attacks beforehand, and watched passively as thousands died.  They thought Israel told Israeli WTC workers to leave a month beforehand. When explained  that these ludicrous charges originated with Palestinian terrorist groups and are highly typical of centuries-old anti-Semitic charges...they still thought them true.  How are they so deluded?
+
+<p>
+
+<b>ZM</b>: If the American intelligence community knew something, then the Israelis probably did too...but it's a big step to go from Israeli intelligence community knowing about some warning, to knowing it was the WTC that would be attacked, and telling Israelis to leave.
+
+<p>
+
+People are getting information from only one source [campus Muslims]. It doesn't do anyone any good just listening to views on one side...need to know what other side is saying and why.  
+<p>
+
+<b>JL</b>: Why are conservative blacks so despised in the black community?  Why is it so funny to say "Tom Ass Clarence" and "Condeleeza is a ÔSkeeza'"?  Aren't these people we should be proud of, for how far they've come and the accomplishments they've made? Why are they "white" instead of "conservative black"?
+
+<p>
+
+<b>ZM</b>: In general black conservatives are looked down upon by some members of the black community...the black community has been wedded to the Democratic party for so long that conservatives have been ignoring issues in the black community---when an African American comes out and expresses conservative viewpoints, the person tends to be a professor or politician.
+
+<p>
+
+It's perceived that he or she wants to leave other black people behind..."they benefited from affirmative action, and now they want to deny it to other ppl". Professpr McQuarters from Berkeley came and spoke at Stanford in a debate with Charles Ogletree (well known law professor and liberal voice in the black community), in a debate on affirmative action--there wasn't a black person in the room [other than Ogletree] who was willing to give the conservative the time of day, or even listen to his arguments...I think it's because once you start considering the conservative viewpoint, you're viewed as a sellout, turning white, all those things which aren't necessarily true...it might not be that most people think that, but enough people vocalize that opinion that it becomes something you're worried about...I don't think anyone wants people in their own community to say those things about them.
+
+<p>
+
+<b>JL</b>: Would you say the black community is overly concerned with race?  Their perception is that the "right-wing" tries to make things racial issues, but in reality, the neoconservatives want to take race out of the equation to allow everyone to play on an equal field, and only complain about race when, in their perception, it's over-emphasized by the liberal black community.
+
+<p>
+
+<b>ZM</b>:  Of course the black community is concerned with race...articles in <i>The Daily</i> have been written about how everyone has race or color except for white males...it might be an oversimplification, but the black community is affected by racial issues all the time...it's the lens through which we see things...we each see things differently, but view things from a lens of being black--it's part of who you are.
+
+<p>
+
+As for conservatives,...I think conservatives seem to be trying to avoid the issue of race altogether, and act as if it doesn't exist...by acting like it doesn't exist, some people feel like they're trying to maintain the status quo, or even regress. Race affects the community disproportionately...[of course it's an issue].
+
+<p>
+
+<b>JL</b>: Is it better to obsess with race keeping you down, or to tell children they'll succeed if they work and study?
+
+<p>
+
+<b>ZM</b>: I think that neither of those viewpoints are what the vast majority of African Americans grow up with.  At least when my father was growing up, my parents would tell him you need to work twice as hard, and twice as long, but that doesn't mean you're not going to get anything for it.  I don't know too many people...who view racism as blocking all opportunity, as much as making opportunity harder to come by, and making it harder to get what you deserve--but not impossible.  Racism is an impediment, but not a complete stop.
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:50:37 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

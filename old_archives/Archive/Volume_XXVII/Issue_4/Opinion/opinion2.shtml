@@ -1,0 +1,292 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 4 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_4/Opinion/%3Ca" href="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Obituary/index.shtml" onMouseOver="window.status='Obituary'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Obituary</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Alex Pagon in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Pagon</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Alex Robbins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Brian Ball in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brian Ball</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Joe Lonsdale in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Matt Barrett in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matt Barrett</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../Editors_Note/index.html" onMouseOver="window.status='Scott Rasmussen in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Topsy St. Matthew-Daniel  in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Topsy St. Matthew-Daniel </font></a><br>
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 4
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+December 6, 2001</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 4'; return true" onMouseOut="window.status=' '; return true">Issue 4</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Liberty Demands Religious Judgement
+</font><br>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_4/Opinion/images/rawls.jpg" width=121 height=173 align=Left>
+
+	Given the high profile of pacifist and moral relativist ideas in academia, many students may imagine that our nation's ideals of religious toleration are based on a conviction that religious views are beyond the scope of moral judgement. In fact, the opposite is true. Ideals of toleration are not based on forbearance of judgement but from the submission of religion to human moral judgement.
+
+<p>
+
+	It is particularly important to understand this now, when we find ourselves involved in a war with an enemy that wants to kill us because we are "the infidel" in their eyes. We need to understand how religious toleration springs from the assertion of moral judgement because we very much need to apply that judgement to Islamic radicalism. 
+
+<p>
+
+	As for moral relativism, it is simply nonsense, always based on some epistemological non-sequitur: any uncertainty implies radical uncertainty; we can't know everything, therefore we know nothing; there is always some ambiguousness in communication, therefore we can't know enough about other people's minds or experiences to judge their interpretations. The reality is, as everyone knows from their own experience, we often do have grounds to judge other people's words or deeds as wise or unwise, upstanding or abusive, tasteful or obtuse, right or wrong. 
+
+<p>
+
+	Tolerance emerges, not from an inability to judge these things, but from the next step of judgement, as we grasp the consequences of forcing others to conform to our judgement. If we reject toleration then we lose our liberty. The two are two halves of a coin, and we can see the value of liberty. To account that value, our society has chosen to limit liberty only where it has to.
+
+<p>
+
+	In the case of religious liberty, this further step of judgement was particularly momentous. It marked the submission of Christianity to a worldly accounting of value.  In the wake of devastating religious wars, Christians gave up killing other Christians over religious differences, not because they were sick of killing in the name of religion, but because they were sick of being killed. 
+
+<p>
+
+	Not being killed is a really big benefit of liberty. It took so long to fully account this value because it was external to religion, as interpreted by religious authorities. What is your worldly life compared to the cause of eternal right? But when enough blood was sunk, the worldly accounting sank in too, and that opened the door to the moral logic of tolerance.
+
+<p>
+
+	As John Locke wrote in his letters on toleration, if religious views are not embraced voluntarily, through inner conviction, then they are meaningless. To think that the forms of observance alone are meaningful is to treat religion as a superstition, where it is the mumbo jumbo that matters. Worse, it is to think that mumbo jumbo is what matters to God. Thus you have to let people go their own way. To do otherwise is to make a mockery of religion. 
+
+<p>
+
+	The Christian reformation was a process of finding the resources in Christianity to conform to the requirements of moral reason. And of course the resources were there, not only within the Bible and the life of Jesus, but within each Christian heart. People stopped accepting authority and embraced their own capacities to separate sense from non-sense, using them to find moral sense in the testaments and the life of Jesus. Guidance, yes. Authority, no. Well, unless authority is what one chooses. But the authoritarians lost the power. That was the great change.
+
+<p>
+
+	It is judgement, not retreat from judgement, that set us free. Toleration can look like retreat from judgement because judgement, when it makes moral sense, values much and forgives much, thereby embracing much. If you husband value you love everything there is to love. But you also hate what there is to hate and fight what you have to fight. 
+
+<p>
+
+	The question now is whether Islam will have to lose as much blood as Christendom did before it can reform and submit to the judgement of moral sense. Prospects are mixed. "Islam" translates as "submit." Possibly the Koran is a good enough book that this could be interpreted to mean, at least in part, "submit to moral honesty." On the other hand, by far the most dynamic segment of Islam has been the radically authoritarian Islamist movement, where the command to submit clearly means: "you will be assimilated, resistance is futile."
+
+<p>
+
+	It was relatively easy for Christianity to accommodate to tolerance (once Christians started following moral judgement instead of authority) because it began as an underdog religion, always longing for tolerance. Islam, in contrast, is an overdog religion, a blueprint for conquest, full of instructions for killing whoever won't be converted. On the other hand, Islam has the same basic moral resource that Christianity does: the capacities of Muslim people to follow moral sense.
+Unfortunately, this resource is suppressed throughout the Islamic world. There is no empowerment of individual moral judgement. Political dictatorship is almost universal, and cultural and religious authoritarianism is growing. The Islamists are trying to take advantage of political backwardness to supplant mere dictatorship with totalitarianism. 
+
+<p>
+
+Their strategic mistake was declaring war on the United States. Afghanistan is rejoicing in its liberation, revealing that the Islamist Caliph has no clothes. The Taliban may be able to out-dictator the Islamic world's corrupt dictatorships, but when the arena is the moral judgement of The People, the moral pretensions of the Islamists are annihilated. 
+
+<p>
+
+This is the laser dot that Islamic dictators and Islamist would be totalitarians are now seeing on their chests. We just need to stay the course and laser-guide the munition home. Creeping democracy has proven with every election that Iran is itching to throw off its Mullahs. Iraq is ripe for liberation from Saddam Hussein's murderous tyranny. Syria is rattling its sword in hopes of deterring the overthrow of Hussein. If Assad is stupid enough to interfere, then Syria is another nation that will soon be erupting in celebration. 
+
+<p>
+
+	Then there is the granddaddy of all terrorist states, the financier and exporter of Islamism throughout the Islamic world: Saudi Arabia. The corrupt royal family has given over the entire nation over to Wahhabism, a doctrine of total authoritarian demand for  religious hatred and revenge on the infidel. What the Wahhabs want most is the children, and the government has obliged. They demand the utter suppression of women (destined for Talibanesque extremes as the Wahhibi generations grow), and most importantly, none of that western pollution called freedom. Death of the mind, for the power of the Mullahs. Think Moonies with Swastikas, with bare knuckle beatings for every deviant body and mind. They ARE a bio-terrorism, confiscating the individual lives of the Arabian body politic. If there is a duty of human rights it is to free our fellow man from such systems of brutal slavery. 
+
+<p>
+
+	So what can we do with such a country? There is no one there that we, after having had to defend ourselves against them, can give the country over to. All are either complicit or are brutally indoctrinated. It is the great pit of anti-Western hatred: corrupt, degraded, and culpable at the top, seguing into this totalitarian cancer called Wahabbism as far as the eye can see. And these people (deludees and deluded alike) are the ones who see America, productive beyond all precedent in human history, as their moral inferior, fit only to be murdered.
+
+<p>
+
+	When we finally get around to cutting off the head of the snake, what should we do with the oil wealth? After  reimbursing ourselves and all allies for all war costs, maybe would divide it up amongst the liberated Islamic states, but only for investment, not for income support. Income support is how the fundamentalists have grown in the rich countries. They don't have to be educated or productive or make any contribution to their fellows at all. They just make lots of babies that they would never be able to raise without government help and use their numbers to take over. 
+
+<p>
+
+	Kuwait is right now succumbing to that dynamic. The cancer must not be fed. It is a matter of self-defense, which People who have just had to defend themselves have a right to impose. If the Islamists want to wage demographic war they should have to earn the means by making a contribution, which will require education and an ability to function competently, which will purge Wahhabism from most minds. 
+
+<p>
+
+	Judgement is the basis for toleration, and sets the limits on it. Judgement tells us when to pick up the sword, and how to use it. Maybe the Islamic radicals got their belief that America is feckless from all the time their students have spent in our universities, learning about non-judgementalism and multi-culturalism. But it isn't leftist professors of Middle East studies that they have picked a fight with. The Islamists have forced us to defend ourselves. Now we will force them to face the moral resources of their countrymen. It is a confrontation they will not survive.
+
+<p>
+
+<i>Alec Rawls' writings on many subjects can be found at <a href=http://www.rawls.org/ onMouseOver="window.status='The web site of Alec Rawls'; return true" onMouseOut="window.status=' '; return true">www.rawls.org</a>.</i><p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:13:24 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

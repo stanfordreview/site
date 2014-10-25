@@ -1,0 +1,264 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>The Stanford Review - September 22, 2005</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 250%;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+}
+.text A:link{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal
+}
+.text A:hover{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.style1 {font-family: Tahoma; font-size: 12px; color: #000000; font-weight: bold; line-height: 3px; font-style: italic; }
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://stanfordreview.blogspot.com" class="header">Blog</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date">Volume XXXV, Issue 1 </td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">September 22, 2005 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">OPINIONS</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a></p>
+        <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+        <p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+        <p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+      <p align="center" class="leftbar"><a href="http://www.stanford.edu">Stanford</a></p>
+      <p align="center" class="leftbar">&nbsp;</p>
+      <table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+      <p>
+        </p>
+      <p>Coming soon! 
+        <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+            </script>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Tyranny: Big Government&rsquo;s Love Child</p>
+              <p class="byline">by Matt Martin </p>
+              <p class="style1">Assistant News Editor </p>
+              <p>&nbsp;</p>
+              <p>I would like to thank my spring quarter IHUM from last year, Poetic Justice: Order and Imagination in Russia, for reminding me once again why I am not a communist. Reading Dr. Zhivago, One Day in the Life of Ivan Denisovich, and watching the movie Burnt by the Sun helped bring to life the harsh reality of the &ldquo;specter of communism&rdquo; which haunted Europe for much of the last century. For people of my age, it is often difficult to fully comprehend the vast ideological struggle of the Cold War, and its contentious debate concerning capitalism&rsquo;s future in the face of rising communist influence around the world. Reading about the horrible atrocities in communist Russia not only helped me understand what a momentous event the Cold War was in shaping the future of intellectual thought and discussion in the world, but also provided me with insight into how society and politics could evolve in such a way as to give rise to oppressive and totalitarian regimes. Correspondingly, the more I think about history and the more I read, the more I see classical liberalism (the theories of Adam Smith and Edmund Burke, to name a few standouts) as the key to ensuring human freedom, development, and happiness. </p>
+              <p>The development of oppressive and totalitarian regimes can be deceptive. What made and still makes communism particularly frightening is that it was done in the name of social justice. Even with Nazism, a strong case can be made that socialism laid the groundwork for the rise of the Nazi regime, which itself proclaimed to be a socialist party. These &ldquo;coincidences&rdquo; prompts one to consider what it is about socialism that lends itself to totalitarian regimes. The fundamental answer lies in the way the demands for social justice force the structure of government and society to change. In order for social justice to be a feasible system, society must be set up in such a way that justice can be &ldquo;distributed.&rdquo; One of my favorite quotes, by Hoover Institution Fellow Thomas Sowell, concerns income distribution (one facet of the economy often cited as being unjust by socialists) and addresses this issue: &ldquo;Income is not distributed, it is earned.&rdquo; Thus to demand a &ldquo;fairer&rdquo; distribution of income is to demand, first and foremost, a change in society to allow the government to distribute income rather than have people earn income. </p>
+              <p>A similar issue is involved with liberals&rsquo; cries for &ldquo;social justice.&rdquo; One wonders what the difference is, exactly, between justice and &ldquo;social justice.&rdquo; Fundamentally, social justice requires a system in which someone controls the &ldquo;distribution&rdquo; of justice. Distribution of anything, whether it is income or justice, requires centralization under the hands of those few in charge of distributing it. This concentration of power is the fundamental flaw of all socialist movements. This can be seen in the Communist Manifesto, in which Karl Marx explains that the workers will gain absolute power, but in so doing will simultaneously eliminate the means by which they stay in power. Sound a bit far-flung? One doesn&rsquo;t need to be familiar with Lord Acton to know that &ldquo;power corrupts and absolute power corrupts absolutely.&rdquo; In this light, it is not difficult to see how demands for equality and justice often lead to the opposite outcome. Just ask yourself which prospect seems more intimidating: having your fate determined by the interactions of millions of individuals all freely choosing their own interests or, let&rsquo;s say, the National Committee on Social Justice deciding what job you should have and how much it is &ldquo;fair&rdquo; to pay you? Consider under which system are you most likely to feel free or satisfied for that matter? </p>
+              <p>How can the will of the few be less arbitrary than that of the many? Centralized distribution can only be unjust, since your fate is completely out of your hands, not because of decisions you have made or by fate, but because others decide it for you. The left, on the other hand, may argue that in a market economy, you have no more control over the direction of your life, as you are subject to the harsh reality of market forces. The fundamental difference, however, is that these forces are not determined by any single person or small group of ideologues, but by the ever-changing preferences of millions of consumers and producers - your fellow citizens - which force compromise and social improvement. Our Nation&rsquo;s broader economic trends represent the everchanging preferences of millions upon millions of people. In this sense, the market naturally aligns itself with the preferences of a vast majority of people while still allowing room for change, innovation, and minority interests. Within this framework, there is freedom to do what each individual pleases. </p>
+              <p>To live under this framework is to live in a society ruled by laws rather than men, demonstrating, perhaps, the main difference between justice and &ldquo;social justice.&rdquo; The rule of law guarantees all citizens a fair and equal opportunity and places personal choice and responsibility above all else. Granted, not all laws are as impartial and fair as one may like, but imposing a new socialism because some laws are less than perfect is totally counterintuitive to progress. What is great about the system of laws is that it provides room for change and discussion. I am confident that given the ability to speak and think freely, people will abandon any backwards or discriminatory practices they have for those which are more just, and generally, more efficient. </p>
+              <p>So while &ldquo;social justice,&rdquo; in its many different flavors, may be very appealing, one must consider what may be lost and, in particular, how the role of individuals in relation to government is affected by these plans for justice. Thomas Jefferson once said, &ldquo;Government big enough to supply everything you need is big enough to take everything you have.&rdquo; Somewhat ironically, the course of history has shown that the best way for the government to promote liberty and prosperity is to allow individuals to act apart from government intervention.</p>
+              <p>&nbsp;</p>
+              <p align="center">&nbsp;</p>
+              </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p class="sidebar">&nbsp;</p>
+        <p class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+        <p class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+        <p class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+        <p class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+        <p class="sidebar"><span class="toplinks"></span></p>
+      <p><span class="sidebar"><span class="toplinks"></span></span></p>
+      <p>&nbsp;</p></td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p>&copy;2005 Stanford Review, All Rights Reserved </p>
+        <p><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+        <p><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+      </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

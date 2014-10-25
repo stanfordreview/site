@@ -1,0 +1,591 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - April 9, 2007</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXVIII, Issue 4 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">April 9, 2007 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">ENDORSEMENTS</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">ASSU Senate: Review Recommendations</p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>We believe that the following Senate candidates bring to the table moderation and a commitment to serving students. We encourage you to vote for them.</p>
+              <p>For a more readable format, users can download a .pdf of the print spread for this article at: <a href="http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_4/Endorse/senate.pdf">http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_4/Endorse/senate.pdf</a> </p>
+              <p>&nbsp; </p>
+              <p><br>
+              </p>
+              <table width="520" height="2032" border="1" cellpadding="1" cellspacing="1">
+                <tr>
+                  <th width="113" height="39" scope="col"><em>Candidates</em></th>
+                  <th width="394" scope="col"><em>Commentary</em></th>
+                </tr>
+                <tr>
+                  <th scope="row"><p><img src="http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_4/Endorse/sbaimel.jpg" width="58" height="80"></p>
+                    <p>Stuart Baimel* </p></th>
+                  <td><p>&nbsp;</p>
+                    <p><strong>What are the two main points of your platform?</strong></p>
+                    <p>First, the ASSU must support a stronger arts scene on campus next year. Arts, music and literary groups complain about being underfunded, and the Senate next year must move toward funding arts groups at a higher level next year. Creating a more vital arts scene is crucial for improving student life on campus. Second, the ASSU must comprehensively address the increasingly contentious relationship between some student groups and various parts of the administration. We have already seen this with the Band controversy, which the ASSU stayed out of. That cannot be our continued practice. </p>
+                    <p><strong>What should the ASSU do to advocate for students?</strong></p>
+                    <p>The ASSU, specifically the Senate, cannot stay out of disputes any longer. The Daily has been the main defender of the Band and the main critic of the OSA, and the ASSU has been criticized for having too cozy of a relationship. The ASSU must take a much stronger position advocating for individual students and student groups, as part of a larger emphasis on the continued improvement of student life on campus. I would like to see the Senate intervene in more disputes next year as a way of advancing the student position. </p>
+                    <p><strong>How does the ASSU need to reform?</strong></p>
+                    <p>Reform in the ASSU must not come piecemeal, but comprehensively. The ASSU has function effectively running programs like the Nominations Commission (which I was a part of) and News Readership, but its less substantial but more important work of advocating for students has not been fulfilled. In a year when student discontent with social life restrictions has reached a head, the ASSU must spend much more time advocating for students next year. </p>
+                    <p>&nbsp;</p></td>
+                </tr>
+                <tr>
+                  <th scope="row"><p><img src="http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_4/Endorse/jbenchimol.jpg" width="58" height="80"></p>
+                    <p>Jose Benchimol</p></th>
+                  <td><p>&nbsp;</p>
+                    <p><strong>What are the two main points of your platform?</strong></p>
+                    <p>My platform consists of projects that incur low costs and mainly aims at increasing convenience for our student body. For example, bike thefts are the top type of crime at Stanford; bikes often get stolen because users run out of space available to lock them to something. I will propose more bike racks on resident and campus facilities. Another important issue I will address is the promotion of environment friendly initiatives at Stanford. I will plan and propose an energy saving competition between dorm rooms, which would be a fun and effective first step of this process.</p>
+                    <p>&nbsp;</p></td>
+                </tr>
+                <tr>
+                  <th scope="row"><p>Anthony Chavez</p>
+                    </th>
+                  <td><p>&nbsp;</p>
+                    <p><strong>What are the two main points of your platform?</strong></p>
+                    <p>The two most important parts of my platform are lowering student fees and helping student groups find the funding they need. For example I could help student groups find more untapped sources for funding so they can offer better programming and charge smaller Special Fees. I also want to expand student discount programs and increase awareness among professors of alternatives to the bookstore for printing cheaper course readers with other printing companies.</p>
+                    <p><strong>What should the ASSU do to advocate for students?</strong></p>
+                    <p>The ASSU should be used as a platform for students to fight for the things that mean the most to them such as free speech, lower fees, and more conveniences. </p>
+                    <p><strong>How does the ASSU need to reform?</strong></p>
+                    <p>The ASSU must listen to balanced debate featuring all sides of an issue before making a decision. Only then will the ASSU be representing the students as it is meant to do.</p>
+                    <p>&nbsp;</p></td>
+                </tr>
+                <tr>
+                  <th height="172" scope="row"><p><img src="http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_4/Endorse/pcordova.jpg" width="67" height="80"></p>
+                    <p>Patrick Cordova</p></th>
+                  <td><p>&nbsp;</p>
+                    <p><strong>What are the two main points of your platform?</strong></p>
+                    <p>The most important aspects of my platform include changes in OSA party and organization regulations. That includes staff and student review of party requests, as well as a reorganization of the Organizational Conduct Board that disciplines student groups. Additionally, freshman advising needs to be revamped including more emphasis on research placement, paid peer mentors, and more vigorous selection of advisors.</p>
+                    <p><strong>What should the ASSU do to advocate for students?</strong></p>
+                    <p>To ensure that the ASSU represents the students, not administration, it first needs to send representatives to meetings of every VSO. ASSU representatives need to ask question as to what groups need to function. They also need to inform groups of how the administration may be obstruction the group&rsquo;s mission. Together, the collective power of the ASSU and individual groups may pass resolutions, and hold publicity events that challenge unfair university policies.</p>
+                    <p><strong>How does the ASSU need to reform?</strong></p>
+                    <p>The ASSU needs to reach out to the community by meeting with student groups, holding focus groups of campus leaders, and sponsoring polls on which roles students would like the ASSU to fill. The ASSU also must be transparent, by a more concise minutes website, and more periodic newsletters. This will accomplish two means. These measures will realize two goals: (1) make the ASSU more responsive to students; (2) make the ASSU more transparent.</p>
+                    <p>&nbsp;</p></td>
+                </tr>
+                <tr>
+                  <th height="170" scope="row"><p><img src="http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_4/Endorse/sgoldman.jpg" width="84" height="81"></p>
+                    <p>Sarah Golabek-Goldman</p></th>
+                  <td><p>&nbsp;</p>
+                    <p><strong>What are the two main points of your platform?</strong></p>
+                    <p>As a senator, one of my top priorities will be to make books more accessible to the student body.  Under the existing system at Green Library, a professor must pay the cost himself if he wants to put an additional textbook on reserve. As a result, there is an inadequate amount of books on reserve and students who rely on these textbooks are academically disadvantaged. Next year, I plan to work with Access Services at Green Library in order to help reform the reserve policy. In addition, I plan to promote sustainability by encouraging the CoHo and additional row houses to adopt environmentally- friendly programs. </p>
+                    <p><strong>What should the ASSU do to advocate for students?</strong></p>
+                    <p>I believe that students should have a strong voice on campus. White Plaza, the area where students are allowed to promote programs and express ideas, should serve student groups that educate the student body on the various perspectives of a debate. Working with the administration and finding times that would not be disruptive to nearby classes, I would like to give students additional opportunities to assemble in White Plaza during the week and the weekends. If elected, I will push for the ASSU website to be updated on a regular basis. In addition, I will set up more suggestion boxes around campus so that students can share their concerns and ideas with the Undergraduate Senate. </p>
+                    <p><strong>How does the ASSU need to reform?</strong></p>
+                    <p>As a senator, I will encourage political activism as much as possible. One of the most significant issues facing student groups on campus is the division of the student body on the topic of divestment. I believe that the SCAI campaign has created a situation where many students feel isolated from the community and are confronted with contradicting information about vital issues in the Middle East. As a senator, I hope to assist Thom Massey in his attempts to create an educational program that will provide an open forum for dialogue on this issue. In addition, I will encourage the ASSU to create an assembly in order to strengthen multicultural awareness and provide relevant information on international history. Student groups should have the opportunity to present their beliefs and engage in meaningful debate before the Stanford community. </p>
+                    <p>&nbsp;</p></td>
+                </tr>
+                <tr>
+                  <th scope="row"><p><img src="http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_4/Endorse/lilves.jpg" width="61" height="80"></p>
+                    <p>Luukas Ilves* </p></th>
+                  <td><p>&nbsp;</p>
+                    <p><strong>What are the two main points of your platform?</strong></p>
+                    <p>1. I will make it easier for students to achieve their goals. This means resisting OSA restrictions on social life and parties, standing behind groups and students facing disciplinary actions, and ending restrictions on fundraising. This also means making Special Fees applications as well as </p>
+                    <p>2. I wish to encourage meaningful dialogue on campus. This means providing more support and funds for joint speakers and panels, funding advocacy groups and publications, and enlisting the muscle of the ASSU to bring the best speakers to campus.<br>
+                    </p>
+                    <p><strong>What should the ASSU do to advocate for students?</strong></p>
+                    <p>The ASSU needs to leverage the fact that is speaks for the entire student body &ndash; and it can thus speak with far greater legitimacy and authority than any one group.</p>
+                    <p>As long as students and groups face the administration individually, they will be marginalized. The ASSU needs to rally behind individual groups when they face the administration and make clear that an attack on one is an attack on all. In particularly prominent cases like those of the Band, or the OSA&rsquo;s attacks on social life, both the Senate and the Executive need to take decisive stands in favor of students.<br>
+                    </p>
+                    <p><strong>How does the ASSU need to reform?</strong></p>
+                    <p>1. The Senate can do much to better serve students. Instead of spending time on global issues, as it has recently done, the Senate must focus on Stanford matters.</p>
+                    <p>2. The Senate must institute a Special Fees approval policy that is fair and unbiased.</p>
+                    <p>3. Individual Senators need to spend more time working with students and administrators.</p>
+                    <p>4. The Senate must push the entire ASSU to be more transparent and available to students. This means more regular minutes, better communication with student media, and better advertised public meetings.<br>
+                    </p>
+                    <p>&nbsp;</p></td>
+                </tr>
+                <tr>
+                  <th scope="row">Roei Kashi</th>
+                  <td><p>&nbsp;</p>
+                    <p><strong>What are the two main points of your platform?</strong></p>
+                    <p>1. Publish the textbooks of each course in the Course Bulletin and/or in the Time Schedule. Reason: At the beginning of each quarter many students wait a week or two until they receive the textbooks which they have ordered online. I would like to ask the university and the professors to publish the textbooks they intend to use as early as possible, i.e. at least when the time-schedule is published.</p>
+                    <p>2.  Cancel the new tuition payment policy and switch back to the old one.  Having the payment&rsquo;s deadline a week before finals at the end of the quarter is probably the worst time for students to deal with this issue. Moreover, the late fee was raised from $25 for the first two weeks to %1.75 a month. I believe we are here to study and not finance the university.<br>
+                    </p>
+                    <p><strong>What should the ASSU do to advocate for students?</strong></p>
+                    <p>I believe that Stanford policy regarding political groups should be changed. I believe that the establishment of political groups on Campuses is of utmost importance to any democratic country in order to increase awareness among students and encourage Students to fulfill what I believe is their democratic duty (not just their right) to vote. Even though I am not an American citizen, I was amazed to discover Student&rsquo;s lack of interest in the last elections and in politics as a whole. I believe this disinterest evolves from such policies. If Stanford seeks to educate its students to become good citizens it must hold itself to the same standards. That is not to say that Stanford should choose one side or the other. But it should set an example for its students by supporting political groups, thus increasing students&rsquo; awareness, encouraging dialogue, and bringing forward political issues to public debate. </p>
+                    <p>&nbsp;</p></td>
+                </tr>
+                <tr>
+                  <th scope="row"><p><img src="http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_4/Endorse/jkass.jpg" width="62" height="81"></p>
+                    <p>Jonathan Kass</p></th>
+                  <td><p>&nbsp;</p>
+                    <p><strong>What are the two main points of your platform?</strong></p>
+                    <p>Two of my main platforms include reducing the cost of student living and lobbying to fix important student resource websites, including syllabus.stanford.edu and Courseguide. I plan to target the cost of student living by standardizing the process by which professors can use alternative locations to get course readers printed legally. This would reduce the costs dramatically. I also want to expand (and inform people about) the Stanford Saver program so students can get local discounts.<br>
+                    </p>
+                    <p><strong>What should the ASSU do to advocate for students?</strong></p>
+                    <p>The ASSU is the voice of the student body; serving in an elected role has the responsibility and the privilege of being in a position of legitimacy in the administration&rsquo;s eyes. The administration is not required to follow the senate&rsquo;s recommendations, but they should and do because of that legitimacy. I hope my platforms indicate an understanding of the ability of the senate to change the status quo in Student Life issues, which include student group issues. <br>
+                    </p>
+                    <p><strong>How does the ASSU need to reform?</strong></p>
+                    <p>The biggest problem facing the ASSU right now is the lack of communication between it and the students. If the ASSU needs any reforming at all, it is in this area. There need to be more focus groups, and especially more advertising of what the senate has done or what it is working on. At the very least, a frequently updated website and statements in student publications every once in a while would be in order.</p>
+                    <p>&nbsp;</p></td>
+                </tr>
+                <tr>
+                  <th scope="row"><p><img src="http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_4/Endorse/rmardirosian.jpg" width="81" height="81"></p>
+                    <p>Raffi Mardirosian</p></th>
+                  <td><p>&nbsp;</p>
+                    <p><strong>What are the two main points of your platform?</strong></p>
+                    <p>I will work hard to reduce the amount of fees that the University charges students. The rising cost of education goes is putting a great burden on the Middle Class and needs to be controlled and fiscal conservancy needs to be exercised. </p>
+                    <p>I also believe that Stanford needs to be a leader and model for sustainability. That is why I am will challenge the Stanford to begin adopting solar power on a grander scale as both a cost preventative measure and a step towards energy independence. <br>
+                        <br>
+                                        </p>
+                    <p><strong>What should the ASSU do to advocate for students?</strong></p>
+                    <p>The ASSU, and thus the Senate, should be a powerful force in challenging the administration. It should be the main medium through which students go to effect change on a campus-wide level. As a liaison to administrators, the ASSU should, through resolutions and direct meetings with University officials, work to help student groups achieve their objectives. <br>
+                    </p>
+                    <p><strong>How does the ASSU need to reform?</strong></p>
+                    <p>The ASSU needs to take stronger stances on the issues that are facing students and put more pressure on University departments to listen to the desires of the students. After all, these departments exist to serve the students, not the other way around. </p>
+                    <p>&nbsp;</p></td>
+                </tr>
+                <tr>
+                  <th scope="row"><p><img src="http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_4/Endorse/jmerola.jpg" width="82" height="82"></p>
+                    <p>Jonathan Merola</p></th>
+                  <td><p>&nbsp;</p>
+                    <p><strong>What are the two main points of your platform?</strong></p>
+                    <p>Several issues which students have raised concern about are allowing for opposite-sex housing, decreasing the stringency of OSA party regulations, allowing for partisan political activities, increasing funding for club sports, and increasing funding for the arts. I support all of these issues, but feel that the most important points of my &ldquo;platform&rdquo; are not the issues themselves, but rather, making sure that all of these topics are addressed and that a proposal pertaining to each of these is presented to the administration. The ASSU is no good if the discussion does not lead to resolution or an administrative recommendation.<br>
+                        <br>
+                    </p>
+                    <p><strong>What should the ASSU do to advocate for students?</strong></p>
+                    <p>The role of the ASSU is to serve as a liaison between the students and the administration, to advocate for student interests, and allocate funds to student groups. ASSU and its senators should be actively searching for issues that students care about and work on a continuous basis to discuss them and formulate proposals to the administration. Additionally, the ASSU serves as a body to appropriate funding to student groups in a way which allows the greatest volume of students to benefit from cultural, athletic, and artistic programs on campus.<br>
+                    </p>
+                    <p><strong>How does the ASSU need to reform?</strong></p>
+                    <p>The ASSU in the past has gone beyond its usual role and caused a bit of unneeded controversy in discussing political/global issues rather than focusing on student interests on the Stanford campus. I feel that the ASSU can be most effective if it maintains direct focus on issues that pertain to daily student life. In actively working to ensure that funds are appropriated properly and in meeting with administrators about issues such as housing plans, social function regulations and improving the academic environment on the campus, the ASSU will accomplish all of its intended goals more effectively.</p>
+                    <p>&nbsp;</p></td>
+                </tr>
+                <tr>
+                  <th scope="row"><p><img src="http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_4/Endorse/lparker.jpg" width="67" height="82"></p>
+                    <p>Leonard Parker </p></th>
+                  <td><p>&nbsp;</p>
+                    <p><strong>What are the two main points of your platform?</strong></p>
+                    <p>As your ASSU senator, my two most pressing concerns will be the promotion of unity amongst the entire campus community and ensuring that the ASSU is meeting the needs of the students it represents. <br>
+                        <br>
+                    </p>
+                    <p><strong>What should the ASSU do to advocate for students?</strong></p>
+                    <p>When the aims of the administration conflict with the majority view of the student body, then the Senate is responsible for representing the views of the student body first, and if possible, fostering a relationship between the administration and the students in which compromise is possible.  As far as advocating for student groups, the Senate should advocate for those goals that benefit significant portions of the student body.<br>
+                    </p>
+                    <p><strong>How does the ASSU need to reform?</strong></p>
+                    <p>I believe the ASSU does not need major reform.  The ASSU is involved with a wide range of issues that affect the student body, and it does a decent job of involving students.  As your ASSU senator, I will do what it takes to further progress the ASSU&rsquo;s activism on these issues and implement my ideas for improvement.</p>
+                    <p>&nbsp;</p></td>
+                </tr>
+                <tr>
+                  <th scope="row"><p><img src="http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_4/Endorse/rrumma.jpg" width="82" height="81"></p>
+                    <p>Rowza Tur Rumma </p></th>
+                  <td><p>&nbsp;</p>
+                    <p><strong>What are the two main points of your platform?</strong></p>
+                    <p>My two most pressing issues as Senator would be:</p>
+                    <p>1. Promoting student feedback and greater transparency in the renovation of the Old Union into a complete student space.</p>
+                    <p>2. Bringing back the Courseguide that would contain the course evaluations provided by students who had taken the class earlier- thus helping students make informed decisions about what classes they ought to take.<br>
+                      <br>
+                                                            </p>
+                    <p><strong>What should the ASSU do to advocate for students?</strong></p>
+                    <p>The ASSU should advocate greater student say in administrative decisions like Bravman&rsquo;s housing plans. They deserve greater authority in what is going to define the rest of their lives. The ASSU can promote greater student-initiated campaigns and more flexibility for the running of student groups, for example, by working to reduce the cost of reserving space in campus, which is currently very expensive and discouraging for smaller student groups to run student campaigns or events.</p>
+                    <p><strong>How does the ASSU need to reform?</strong></p>
+                    <p>The ASSU needs to work on more efficient methods of feedback from the student groups to the administration. If it&rsquo;s decisions affect the future of the students and the groups, they should have a greater say in the decisions that ASSU make. This will help reduce negative feedback and/or any hard feelings that either the groups or the administration might have.</p>
+                    <p>&nbsp;</p></td>
+                </tr>
+                <tr>
+                  <th scope="row"><p><img src="http://www.stanfordreview.org/Archive/Volume_XXXVIII/Issue_4/Endorse/avardhana.jpg" width="84" height="84"></p>
+                    <p>Anarghya Vardhana</p></th>
+                  <td><p>&nbsp;</p>
+                    <p><strong>What are the two main points of your platform?</strong></p>
+                    <p>As a senator, I hope to establish and strengthen the relationship between the ASSU and the general student body, so that the students know whom to contact in regards to questions and concerns about campus issues. I hope to increase student awareness regarding global issues so that we may make a difference using the brilliant minds and talents on campus. <br>
+                        <br>
+                    </p>
+                    <p><strong>What should the ASSU do to advocate for students?</strong></p>
+                    <p>If student groups want to get an issue through the administration, then, if I am in accordance with the view of that group, my job is to clearly present that issue and speak for the group. Sometimes the administration may not realize what is best for students because of the age/cultural difference. Therefore, ASSU and Senate can act as a liaison between the students and administrators, working hard to bridge the generation gap and present information in a way that both parties can fully comprehend and appreciate. </p>
+                    <p><strong>How does the ASSU need to reform?</strong></p>
+                    <p>I feel that although ASSU exists as the student government system for the school, it lacks any kind of meaningful connection with the students. Do students know what ASSU does? Do they understand how it works? Do students know what kind of things ASSU has the power to change? ASSU should raise awareness about these things so that students they know that through their ASSU representatives, they can create change on campus. </p>
+                    <p>&nbsp;</p></td>
+                </tr>
+              </table>
+              <p>*Disclaimer: Stuart Baimel and Luukas Ilves write for The Stanford Review.</p>
+              <p><br>
+                <br>
+                <br>
+                <br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

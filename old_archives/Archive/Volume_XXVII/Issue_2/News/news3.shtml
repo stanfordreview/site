@@ -1,0 +1,315 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 2 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word From The Editor</font></a><br>
+
+<a href="../Campus_Focus/index.shtml" onMouseOver="window.status='Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Campus Focus</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Andrew Wright in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Dave Kim in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Kim</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='David Myszewski in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='David Regele in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Regele</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Eve Piscina in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Eve Piscina</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Joe Fairbanks in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Fairbanks</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Joe Lonsdale in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../Campus_Focus/index.shtml" onMouseOver="window.status='Josh Hawley in Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Josh Hawley</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Justin Diener in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Justin Diener</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Keun Lee in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Keun Lee</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Ming Zhu in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Nels Hansen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='Scott Rasmussen in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Topsy St. Matthew-Daniel in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Topsy St. Matthew-Daniel</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 2
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+October 24, 2001</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 2'; return true" onMouseOut="window.status=' '; return true">Issue 2</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Fall IHUM Review
+</font><br>
+
+<b>by Nels Hansen, Dave Kim, Andrew Wright, and Ming Zhu</b><br>
+Staff Writers<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Things of Beauty</font><br>
+This class aims at sharpening aesthetic sensitivity so that one gains an artistic appreciation of even familiar realms of experience. Students study the evolution of aesthetic appreciation throughout history and time and explore the essence of beauty through philosophical contemplation and societal function. Professor Tobias Plebuch explains (paraphrased from interview): "The course introduces the aesthetic side of the humanities. There were long discussions between myself and the other professor teaching this course. He had to convince me that watching Jesse Owens run is a work of beauty. I had to convince him that opera is a thing of beauty. That thought is deadly-the thought that people are obliged to like something because it's in a museum and it has a little card and someone is explaining it as a work of art. I give a lecture about how much I hate [Jackson Pollack], why it is meaningless ,why it looks like baked macaroni (critic). Then I talk about how much I love it. There are different views of beauty. Trust your own senses instead of the textbooks."
+
+<p>
+
+One student commented, "We learn to find beauty in untraditional ways...the professors are really engaging." As fantastic as the professors are, students complain that they often present the information too quickly. Overall, however, the complaints are minimal and students say the course broadens their prospective on what constitutes "art."
+
+<p>
+
+<i><b>Faculty</b>: Hans Ulrich Gumbrecht, Department of Comparative Literature, and French and Italian; Tobias Plebuch, Department of Music <b>Texts</b>: Mozart, Don Giovanni; The Crystal Palace Exhibition of 1851; Lorca, Poet in New York; Riefenstahl's film Olympia; Paintings by Edward Hopper and Jackson Pollock.</i>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Visions of Mortality</font><br>
+"Assuming that you are going to die, the course is relevant to you," declares Professor Bobonich. "Visions of Mortality" puts the context of life within the inevitability of death. The course explores cultural interpretations of life and death, both Western and non-Western, examining how these investigations into death relate to the way an individual relates to the external world. Contrary to the course title, students find the course neither grim nor somber. "Funny, animated, and engaging" are adjectives commonly attributed to the professors. "We all laugh," says a student detailing Bobinich's humorous teaching methods, which include walking like a dinosaur. While ViMort's lectures may be alive and kicking, the group sections need to rest in peace. "They seem to lack structure and we just talk...when there's only thirty minutes left, it feels like we're forcing ourselves to talk."
+
+<p>
+
+<i><b>Faculty</b>: Christopher Bobonich, Department of Philosophy; Barbara Koening, Center for Biomedical Ethics and Department of Medicine; Krista Lawlor, Department of Philosophy  <b>Texts</b>: Lucretius, On the Nature of Things; Tolstoy, The Death of Ivan Ilyich; essays of Schopenhauer; Freud, Beyond the Pleasure Priniciple.</i>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>History and Eternity</font><br>
+This course explores various models of eternity, represented as ethical abstractions in Plato's time, a transcendental world in the Jewish tradition, and utopic visions in the temporal realm. Much of the course focuses on the concept of Utopia and how such a model can provide a basis on which to revolutionize our lifestyles. Freshmen find this course as abstract and inapplicable as it sounds. "You could try to apply [the class] to real life, but it's a stretch, mainly because it's too idealistic," comments one disgruntled student. "It seems like the class just doesn't seem interested...[The professors] range from decent to wishy-washy, on one day and off the next." Though the theme of the course is "not everything is what it appears to be," many students are beginning to see the phrase as the course description.
+
+<p>
+
+<i><b>Faculty</b>: Charlotte Fonrobert, Department of Religious Studies; Thomas Sheehan, Department of Religious Studies <b>Texts</b>: Mircea Eliade, Myth of the Eternal Return; Plato, "Allegory of the Cave;" Augustine, "The Vision at Ostia;" Paul of Tarsus, First Epistle to the Thessalonians and Epistle to the Galations; Karl Marx, The Paris Manuscripts of 1844; Gershom Scholem, "Towards an Understanding of the Messianic."</i>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Finding Voices, Forging Selves</font><br>
+Using a variety of philosophical and literary texts, this course grapples with the struggle of creating and conveying a credible "voice" by which others know us. According to Professor Gelber, this course focuses on, "the way people find, create, and communicate themselves in text and the way they've done so for a long period of time." Students say this course is "not so good." "The only thing I learn from this class is how to get around the work because it is not interesting and isn't fun." But don't think for a moment that this class is without merit: one freshman claims that the lecture periods are great for finishing PWR homework.
+
+<p>
+
+<i><b>Faculty</b>: Hester Gelber, Department of Religious Studies; Herbert Lindenberger, Department of English  <b>Texts</b>: Augustine, Confessions; The Book of Margery Kempe; Chaucer, Canterbury Tales; Flaubert, Madame Bovary; Eliot, The Waste Land.</i>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Citizenship</font><br>
+Exploring disparate concepts of citizenship from China, Ancient Greece, and Renaissance Italy, this course grapples with the question of what constitutes citizenship in a variety of constitutions. Professors challenge standard interpretations of citizenship to ask how our identities as citizens have evolved with societal change. Students here seem to enjoy studying ancient texts from an all-star line-up of professors, including former Stanford President, Professor Gerhard Casper. "[The professors] find a way to relate [the texts] to current issues. We talk about the role of the citizens and the role of the government and I think all of us as citizens are concerned with that." One student joked, "If I ever decide to take over a small country and rule it in a utopian manner, the knowledge from this class would be great."
+
+<p>
+
+<i><b>Faculty</b>: Gerhard Casper, School of Law; John Perry, Department of Philosophy; Ramon Saldivar, Department of English  <b>Texts</b>: Mencius, Writings; Aristotle, Politics; Machiavelli, The Prince; Rousseau, The Social Contract; various U.S. Supreme Court Cases.</i>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Tradition and Revolution: Rewriting the Classics</font><br>
+This course explores classical texts in conjunction with their Renaissance counterparts that address the relevant issues of a new intellectual environment. Philosophical, historical, and literary texts are compared to investigate the relationship between them in different cultural settings. Professor Marsh McCall explained: "It is a traditional humanities course in that it is centered on 3 classical texts and 3 renaissance texts. As a professor who believed in what CIV (IHUM's predecessor) was trying to do, I would like to see some connection between the fall tracts and the winter-spring tracts, because as it stands IHUM is not really one humanities program, but two separate entities." With the "coolest" professors and dedicated discussion leaders, this course is tough to beat. One student claimed that Evans' ideas were "the most interesting things I've ever heard," while still another comments, "The lectures are just hilarious. McCall and Evans play off of each other and together they create this environment that is just charged with energy and life. They banter and make little digs at each other -and it's just so fun to watch." McCall is incorporates humor and provokes genuine interest in the material. The group sections are not as unequivocally engaging as the lectures; students say the group talks range from so-so to truly stimulating.
+
+<p>
+
+<i><b>Faculty</b>: Martin Evans, Department of English; Marsh McCall, Department of Classics  <b>Texts</b>: Sophocles, Oedipus Rex; Shakespeare, Hamlet; Plato, Republic; More, Utopia; Vergil, Aeneid; Milton, Paradise Lost.</i>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>The Art of Living</font><br>
+"The Art of Living" questions how we are to create our existence within a deluge of inexorable circumstance and choice that is life. The course examines traditional modes on which people have historically bases their lifestyles, including ethical abstractions and religion. One student commented, "Lectures are interesting because each professor comes from a different department, and so they analyze things differently." While students believe they read more here than in other class, no one complains. The professors are described as "engaging" and "enthusiastic," challenging students to "think in a new way." One enthusiastic student tried to explain the purpose of the course: "The goal of the 'Art of Living' is to find a new way to live life to its fullest, to its best intent. This is the first step to getting you to think about how you want to live."
+Faculty: R. Lanier Anderson, Department of Philosophy; Joshua Landy, Department of French and Italian; Maurice P. Rehm, Department of Drama  Texts: Plato, The Symposium; Chaucer, Canterbury Tales; M. Shelley, Frankenstein; Nietzsche, The Gay Science; Ellison, The Invisible Man.
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>The Self, the Sacred, and the Human Good</font><br>
+Exploring a wide range of cultural texts, this course questions one's identity in face of diverse value systems and varying standards of good and evil. The course examines how we identify ourselves with the world according to our conformity to various social and spiritual beliefs. Professor Tobias Wolfe commented: "On a student evaluation of our course, one student wrote, 'I came into your course pretty sure of what I thought about things-now I'm all mixed up.' Mission accomplished. [We read] books and stories that challenge perceived ideas about what a self is, what is sacred, what is good. People tend to rationalize these ideas. All the works offer some challenge to those ideas-they don't neccessarily come with answers." One student says, "I like the class a lot...it's challenging but fun; the readings are obscure but enjoyable." The professors both share different views of the text; this makes the discussions very lively and exciting. Students are encouraged to actively participate in lectures, which sparks much intellectual energy.
+
+<p>
+
+<i><b>Faculty</b>: Tobias Wolff, Department of English; Lee Yearly, Department of Religious Studies  <b>Texts</b>: Chuang Tzu, Basic Writings; Dante, Inferno; Tolstoy, selected stories; Melville, Billy Budd; Dinesen, selected stories.</i>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Origins: Contested Identities</font><br>
+"Origins" explores the development of personal identities, specifically how beginnings force or influence certain endings. The course grapples with the concept of personal and human identity and encourages students to challenge traditional understandings of origins in the realms of philosophy and culture. Professor Ian Hodder comments, "We need to see social science as related to humanities. We must get people to recognize that to claim an origin in their identities often excludes other people's claims of origins." One agitated student commented: "This class is as dry as a bone. The professors are enthusiastic lecturers; they both have accents and I think that's cool." The professors bask in rave reviews by students who agree that "both [professor] are engaging lecturers with distinct styles." Regardless of the amount of energy the professors devote to their lectures, the reading, which is highly technical, can be counter- productive to an otherwise interesting class.
+
+<p>
+
+<i><b>Faculty</b>: Ian Hodder, Department of Cultural and Social Anthropology; Michael Shanks, Department of Classics <b>Texts</b>: Richard Leakey and David Lewin, Origins Reconsidered: In Search of What Makes Us Human; Jean-Jacques Rousseau, Second Discourse; Jared Diamond, Guns, Germs, and Steel: The Fates of Human Societies; Riefenstahl, Triumph of the Will; Foucault, The History of Sexuality, Volume 1.</i>
+
+<p>
+
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>The History of Nature/The Nature of History</font><br>
+	This course deals with the relationship of humans with their environment; how our cultural beliefs and history have forged our understanding of our surroundings. The course challenges students to put our modern relationship with the natural environment in a historical context. According to Professor Richard White, "The course is important because it shows the natural sciences and the humanities are compatible. Stanford students specialize too early, and the IHUM program gives them a chance to explore." The lecture is described as "very abstract, but interesting." One student commented that, "while the professors are good lecturers, they can be dry." Another says, "Lecture profs are fairly boring...they have speaking mannerisms such as monotonous lecturing that makes class very repetitive."
+
+<p>
+
+<i><b>Faculty</b>: Donald Kennedy, Department of Biological Sciences; Richard White, Department of History  <b>Texts</b>: Pliny, Natural History; Thoreau,Walden; Marsh, Man and Nature; Darwin, The Voyage of the Beagle; Carson, Silent Spring.</i>
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:12:13 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

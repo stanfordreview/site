@@ -1,0 +1,254 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXV - Issue 6 - Interview</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.shtml" onMouseOver="window.status='A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Note From Bob</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="index.html" onMouseOver="window.status='Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Interview</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.html" onMouseOver="window.status='Bob McGrew in A Note From Bob and Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Henry Towsner in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='John Gibbs in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>John Gibbs</font></a><br>
+
+<a href="../The_Last_Page/index.html" onMouseOver="window.status='Johnny Openshaw in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Johnny Openshaw</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Keun Lee in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Keun Lee</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Matthew Barrett in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Scott Rasmussen in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXV, Issue 6
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+January 25, 2001
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXV'; return true" onMouseOut="window.status=' '; return true">Volume XXV</a> - <a href="../index.html" onMouseOver="window.status='Issue 6'; return true" onMouseOut="window.status=' '; return true">Issue 6</a> - Interview
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Interview</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>The Man Who Made Conservatism Hip - Cut Version</font><br>
+
+<a href=http://www.stanfordreview.org/Archive/Volume_XXV/Issue_6/Interview/uncut.shtml onMouseOver="window.status='Go to the uncut version of the  Interview'; return true" onMouseOut="window.status=' '; return true">Go to the uncut version</a><br>
+
+
+<table align=left>
+    <tr>
+        <td>
+<img src="images/goldberg.jpg" width=150 height=200 alt="Jonah Goldberg">
+        </td>
+    </tr>
+    <tr>
+        <td>
+<i>Jonah Goldberg</i>        
+</td>
+    </tr>
+</table>
+
+<b>Jonah Goldberg is the editor of the <i><a href=http://www.nationalreview.com/ onMouseOver="window.status='National Review'; return true" onMouseOut="window.status=' '; return true">National Review Online</a></i> (NRO), the hugely successful website of the <i>National Review</i>.  NRO started as his column in September 1998, and has since grown to 2.5 million hits and 210,000 unique visitors a month.  While other online magazines like <a href=http://www.salon.com/ onMouseOver="window.status='salon.com'; return true" onMouseOut="window.status=' '; return true">Salon.com</a> are struggling, NRO -- already large -- is thriving and expanding, mostly because of its younger reader base which is attracted by pop culture references and hooked by the writing.</b><p>
+
+<i>The Stanford Review</i>: Just tell us the story: how did NRO get started?<p>
+
+
+Jonah Goldberg: NR Online was always what they called a "placemat website".  A  placemat website is just basically saying that your website doesn't have any information on it except how to subscribe and what the masthead was.  That's what a lot of magazines had for a really long time, because no one knew what to do with the web.<p>
+
+	When I got involved, it was during the Lewinsky scandal.  A lot of people don't realize this now, but my whole life changed because of the Lewinsky scandal.  My mom was Lucianne Goldberg, Linda Tripp's literary agent, and my mom was the one who told Linda Tripp to make the tapes, and I was one of the only people in the world who had heard the tapes.  I was subpoenaed by a grand jury and I was involved in all sorts of intrigue.<p>
+
+	At the time I was a PBS television producer.  You can't work in PBS and be trying to bring down a Democratic President.  I called Rich Lowry [the editor of the <i>National Review</i>].  We sort of knew each other already. He was calling me for information because I knew all this inside stuff about the scandal, and I said "Look, I need a place where I can hang my hat, because I can't stay here any longer." Being Lucianne Goldberg's son couldn't be prouder, but it's not how a thirty-year-old guy wants to be introduced on Larry King.  I'm sort of my own guy.<p>
+
+	So I was hanging out around my house, dodging subpoenas and dealing with lawyers and that kind of thing.  Rich said "How'd you like to write some web thing, a diary of a guy watching all this stuff?"  I started doing  it, and lo and behold people started reading it, which was very strange.  It was a real message-in-a-bottle-thing where I would just write the weirdest stuff that bothered me, and I would vent some spleen, and it was basically just a giant Thorzine-addict run-on sentence.  But people read it, and we just couldn't believe it.  For a long time, it got a lot more traffic than the home page.  So I was the most popular thing on the site, which is a lot like being the world's tallest midget Ð it wasn't that great an accomplishment, but it's what we had.<p>
+
+	We've gone through four or five redesigns in the last three years, because the thing just keeps  growing.   The <i>National Review</i> is still the most important thing about the magazine, but the two are becoming deeply symbiotic.  NR Online is generating vast numbers of subscriptions for the magazine.  <i>National Review</i>'s biggest shortcoming, for a long time, is that it comes out every two weeks.  And especially in the web world, in the cable television world, the news cycle has shrunk down to a couple hours.  Especially in these fast-breaking scandals, NR hasn't been able to report much that wouldn't risk being outdated.  The web allows us to report things within an hour of news breaking.<p>
+
+<i>TSR</i>: Your masthead says NRO is "America's Premier Conservative Website."  What gives you guys the right to say that?<p>
+
+Mr. Goldberg:	Free speech, the First Amendment..  [laughs].  Well, I think it's utterly defensible to say.  	First of all, the <i>National Review</i> is America's premier conservative magazine. This goes to the heart of why NR Online is successful, and it's a real lesson for conservatives. A lot of conservatives thought that, with the web, we can create our own parallel institutions.<p>
+
+	You can't.  There are a million Hyde Park corners out on the web, and everyone's s screaming and everyone's getting to write what they want.  They get a lot of stuff right, and they do it very well, and it's very impressive.  But brand names matter, and it's a very conservative principle that brand names matter.  There are a lot of people on the web who, as consumers of information, don't trust something that comes from Bob's clinton-must-die.com.  And even if what Bob's got up is fascinating stuff, and it's actually true, you don't trust it.  That's why old institutions matter.<p>
+
+	The <i>National Review</i> has a name and we have a reputation, and therefore we have a vested interest in protecting that reputation.  We are the Good Housekeeping Seal-Of-Approval of the conservative movement.   There's no way that <i>National Review</i> is going to put something up that's totally not true Ð that's people's reaction.  That goes to the heart of the web.  All these dot-coms that all went by the wayside spent millions and millions of dollars on creating brand names.  And most of them failed.<p>
+
+	But the reality is that people go to brand names because they want to trust what they are reading.  What does that mean? That means they will go back to the liberal media, and so they will go back to <a href=http://www.nytimes.com/ onMouseOver="window.status='New York Times'; return true" onMouseOut="window.status=' '; return true">newyorktimes.com</a> and the <a href=http://www.washingtonpost.com/ onMouseOver="window.status='Washington Post'; return true" onMouseOut="window.status=' '; return true">washingtonpost.com</a> -- and they will come to <a href=http://www.nationalreview.com/ onMouseOver="window.status='National Review'; return true" onMouseOut="window.status=' '; return true">nationalreview.com</a>, because we have a name.<p>
+
+<i>TSR</i>: It seems as though NRO is targeted to a younger audience.  Is that true?  Is that intentional? Does it work?<p>
+
+Mr. Goldberg:	Part of that is that I'm way too immature to write to the proper <i>National Review</i> audience.  It's for good and for ill, because I think we turn off a lot of people.  A lot of people get upset with my references to women's prison movies -- which is a much overlooked genre -- and that sort of thing...  Part of the reason that NR Online has taken on the personality it has is that for a very long time, I was the only one writing for it a lot.  I wrote a lot -- I wrote a daily column for a full year.  And since no one was reading it -- or at least it felt like no one was reading it, not in terms of traffic, but in terms of famous people or people in the industry -- I just basically got to have my madman rants and write about anything in the world that I wanted.<p>
+
+	It was very liberating and it was great for me and it was great training as a writer, but that sort of personality took over.  And slowly but surely, as word of mouth built up, more people came on board who wanted to adopt that tone.  That's really awkward for me because, as an editor, I have to purge a lot of that from other people.  Here I am.  I have whole dialogues with my belly and my couch and I am constantly talking about clipping my toenails, and I have to tell other people not to write like that.  A little of that goes a long way and I'm the editor, so I get to do it.<p>
+
+	And so it's sort of priming the pump.  It's turned out to be geared towards a younger audience, which is phenomenal for <i>National Review</i>.  The <i>National Review</i>, like most of conservatism, really needs younger people again.  I despise the whole Generation X and Generation Y stuff, and I think it's all bunk. Anybody who takes great pride in the fact that they are under 25 and who thinks that imbues them with any sort of moral superiority or intellectual clarity is a fool or at least very ignorant.<p>
+
+	That said, young people are important. They bring energy and eagerness.  We get a lot of emails from people who say "I've been subscribing to <i>National Review</i> since it was founded."  Well, <i>National Review</i>'s been around for about 45 years.  You start doing the math and you realize we could use some younger people.<p>
+
+	Making conservatism cool and hip... While I generally dislike all talk of politics being cool and hip, it's useful for the movement.  I'm a pundit, which means pretty much my entire life and all my principles are for sale for free beer or free shrimp.<p>
+
+<i>Conducted January 18th by Bob McGrew<br>
+Title with apologies to Jonah Goldberg</i><p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:56:09 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

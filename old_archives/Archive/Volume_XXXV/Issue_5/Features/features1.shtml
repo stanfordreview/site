@@ -1,0 +1,446 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - December 10, 2005</title>
+<style type="text/css">
+<!--
+.style1 {
+	margin-right: 5px;
+}
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXV, Issue 5 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">December 10, 2005</div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">FEATURES</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Stanford in Santiago Founder Fuenzalida Retires: <em>New center, new director in Santiago, Chile</em><br>
+                </p>
+              <p class="byline">by <a href="http://www.stanfordreview.org/About/Staff/bguthrie.shtml">Ben Guthrie </a></p>
+              <p class="byline"><em>Editor Emeritus</em></p>
+              <p class="byline"><p>&nbsp;     </p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p><strong>SANTIAGO , Chile &ndash;</strong> Stanford in Santiago inaugurated its brand new center on Wednesday, November 16 at a wine and cheese cocktail ceremony in celebration of the fifteenth anniversary of the program, the retirement of the first director, Edmundo Fuenzalida, and the welcome of the new director, Iv&aacute;n Jaksic. Current and former students and faculty from both Stanford and Chile gathered for the occasion. Norman Naimark, the new general director of the Bing Overseas Studies Program, attended the celebration in his first ever visit to Santiago. </p>
+              <p><strong><em> Retirement of the First Director</em></strong></p>
+              <p> Norman Naimark praised Edmundo Fuenzalida for his efforts in founding the program and for operating the program successfully for fifteen years. &ldquo;We celebrate the distinguished career and retirement of Edmundo Fuenzalida.... We are all grateful for what he has done&rdquo; and for the &ldquo;unbelievably conscientious way&rdquo; in which he managed the program. &ldquo;This program has not only grown, but it has become one of the most dynamic programs in the overseas studies program,&rdquo; applauded Mr. Naimark. </p>
+              <p> Following Norman Naimark, Edmundo humorously began, &ldquo;I guess I should say a few words; the only problem here is in which language.&rdquo; This problem was one of the challenges that Edmundo dealt with during his tenure as Director of the Stanford in Santiago Program. &ldquo;Which is the language of instruction&mdash;the language of the country or the language of the University?&rdquo; He solved both problems in similar ways, by alternating between Spanish and English. </p>
+              <p> Edmundo humbly asserted, &ldquo;The director is just showing the face,&rdquo; but there are many people behind the scenes who make the program successful. </p>
+              <p> He thanked the many Directors of the Overseas Studies Program, especially Thomas Heller, the person who approached him about creating a Stanford center in Latin America. </p>
+              <p> Edmundo was inspired to pursue this project by his experience teaching in the School of Education and being a part of the Stanford International Development Education Center. The center helped teach foreign nationals how to improve the educational systems in their home countries. Students came from all over the world, especially the developing world, such as Africa, Asia, and Latin America. Edmundo remarks, &ldquo;I suddenly began to realize that for the undergraduates this world was totally unknown&hellip;. I thought it would be a good idea to offer a general introduction to the third world to American undergraduates.&rdquo; And so he founded a program in Latin America, Stanford in Santiago. But he was not alone in the endeavor. </p>
+              <p> He thanked the Stanford staff, the local Chilean staff, his former students, and all the professors who have taught in the program. The loudest applause came when he thanked his daughter, Fabia Fuenzalida, who has been the Program Coordinator since 1994 and invaluable to the program. </p>
+              <p> Fabia attributes Edmundo&rsquo;s success as Director of the Stanford in Santiago Program in part to her father&rsquo;s characteristic &ldquo;objectivity,&rdquo; which she says helped him attract many great professors from a variety of fields, institutions, and political perspectives. She also identified her father&rsquo;s &ldquo;high intellectual standards&rdquo; as an attribute, even though she says, &ldquo;We have been criticized for being too intellectual and too educated.&rdquo; Finally, she highlighted her father&rsquo;s belief in the importance of learning from experience because &ldquo;you can&rsquo;t really learn just from books.&rdquo; </p>
+              <p> After acknowledging the support he has received from so many people, Edmundo stepped away from the podium and invited a &ldquo;younger scholar&rdquo; and &ldquo;colleague and friend&rdquo; Iv&aacute;n Jaksic to step forward. </p>
+              <p><strong><em> Installation of a New Director</em></strong></p>
+              <p> Iv&aacute;n Jaksic will succeed Edmundo Fuenzalida as Director of the Stanford in Santiago Program. &ldquo;Being a successor of Edmundo is going to be a big, big job,&rdquo; admitted Mr. Jaksic. Mr. Jaksic, who was born and raised in Chile, recalls hearing about Edmundo Fuenzalida in the 1960&rsquo;s as a professor who defended the integrity of empirical, academic social science research in opposition to a research agenda with an ulterior political motive, called the Camelot Project. The Camelot Project aimed to discover the &ldquo;revolutionary potential&rdquo; of countries through empirical research in part to anticipate the next Vietnam. Thus, Mr. Jaksic underscored the respect he has for Edmundo. Although Edmundo is retiring from his position as director, Mr. Jaksic assured the audience, &ldquo;I will make sure that Edmundo stays close to us.&rdquo; </p>
+              <p> Mr. Jaksic, pronounced Jh-ak-SEECH, has been living in the United States for the past thirty years. He left Chile shortly after the coup d&rsquo;etat of September 11, 1973. At that time he was a student of philosophy at the University of Chile. Philosophy at the University of Chile had a radical reputation so the &ldquo;military came down really hard and closed that particular school and unleashed the secret police on us.&rdquo; </p>
+              <p> Mr. Jaksic was not a radical, but you &ldquo;just had to be in the wrong place at the wrong time&rdquo; to get arrested. Although he avoided arrest, some of his friends were not so lucky. Some were tortured, and some were killed. </p>
+              <p> Mr. Jaksic left for Argentina in 1974 and then moved to the United States a year later, leaving his family in Chile. He attended the State University of New York in Buffalo, NY as a graduate student in American studies and then history. Following his graduate studies, Mr. Jaksic spent some time teaching at UC Berkeley, where he also had occasion to teach at Stanford for one quarter in 1987 in a Latin American studies course. For the past eleven years, he has been at the University of Notre Dame in Indiana. Mr. Jaksic was a tenured full professor in the history department. </p>
+              <p> &ldquo;People ask me why would you leave a tenured professorship in the United States and come to Chile?&rdquo; says Mr. Jaksic. But he has both personal and professional reasons for choosing to relocate to Chile. </p>
+              <p> Being a native of Chile, he always wished to return at some point after the dictatorship; it was only &ldquo;a question of timing and opportunity.&rdquo; Mr. Jaksic also emphasized, &ldquo;I am an historian, and I wish to be close to my sources.&rdquo; He plans to teach a Chilean history course, which has not been offered by the Stanford in Santiago Program before. </p>
+              <p> When asked what he will do as the new director, he replied in jest, &ldquo;I will find out.&rdquo; More seriously he said that first and foremost &ldquo;I will be a teacher.&rdquo; He also recognized his administrative role in finding the best faculty for the students and in facilitating contact between two different cultures&mdash;students from the United States and faculty from Chile. </p>
+              <p> Mr. Jaksic expects to build on the foundation that Edmundo has laid for the Stanford program. He says, &ldquo;The foundations are solid, but now you can begin to experiment.&rdquo; One way Mr. Jaksic hopes to improve the program is by &ldquo;bringing Stanford and Chilean students together&rdquo; to enhance the immersion experience. </p>
+              <p> Mr. Naimark extolled, &ldquo;The new director is a distinguished historian, completely bilingual, and completely bicultural.&rdquo; Both Edmundo and Fabia are extremely pleased with the selection of Mr. Jaksic as the new director, although neither had an opportunity to provide input in the process of selecting a new director. </p>
+              <p><strong><em> The Importance of Study Abroad </em></strong></p>
+              <p> Mr. Jaksic believes that &ldquo;study abroad is just a necessity of today&rsquo;s college education.&rdquo; Comparing two students&mdash;one who has studied abroad and one who has not&mdash;the one who has studied abroad is likely to be &ldquo;more open minded, more entrepreneurial, and even more mature.&rdquo; Study abroad is the &ldquo;way of the future for American higher education,&rdquo; insists Mr. Jaksic. </p>
+              <p> Mr. Naimark similarly asserts, &ldquo;I really can&rsquo;t think of anything more important [than studying abroad]. If it were up to me, I would make all Stanford students study abroad.&rdquo; He points out that the United States possesses so much power and influence in the world, and this power requires responsibility from its citizens. In order to come to terms with this reality, he thinks students should study abroad because there is &ldquo;no way to do that in Palo Alto.&rdquo; </p>
+              <p> The study abroad program is sometimes criticized as being one big vacation. &ldquo;There are tradeoffs,&rdquo; Mr. Naimark says, but &ldquo;I don&rsquo;t see sacrificing the academic integrity of a program by encouraging students to take off.&rdquo; He believes Stanford must maintain high academic standards, but &ldquo;at the same time, getting out to rural Chile and getting to know other parts of Latin America&rdquo; is also important. </p>
+              <p> Edmundo recognizes that students adopt different roles when they study abroad. Some have tourist mentalities, and others have more traditional student mentalities. He encourages students to be &ldquo;participant observers,&rdquo; in which students actively engage with the culture but also reflect and make an informed observation. </p>
+              <p> He further believes in the importance of study abroad for the elite of American students who will one day be in positions of power, such as in business, government, or academia. These students may eventually need to make decisions involving a Latin American country or other countries, and he wants the decision-makers to be personally informed. Edmundo is optimistic that these educated students will be able to create &ldquo;new, innovative ways of cooperation between our countries and the U.S.&rdquo; </p>
+              <p> Fabia Fuenzalida, Program Coordinator, contends that study abroad in Santiago, Chile is extremely valuable. &ldquo;You need to come this far down to gain the objectivity&rdquo; about the world and realize that Latin America is not just what is right on the other side of the Rio Grande. &ldquo;Down here you are so far that I think you can look more objectively further up.&rdquo; She recognizes that &ldquo;it is often painful&rdquo; to gain this perspective, and that &ldquo;maybe half [of the students] go through at least one trauma when they get here.&rdquo; </p>
+              <p><strong><em> A New Center in Santiago </em></strong></p>
+              <p> The new center is located on the second floor of an office building in Providencia, a neighborhood of Santiago. This center is actually the third site for the program. The first was a one room office on the campus of the Catholic University of Chile. The office had just one computer and did not have e-mail until 1991. The facilities were not great. &ldquo;The floor was sinking from the weight of the books,&rdquo; recalls Fabia. </p>
+              <p> The center remained at the Catholic University from 1989 to 1995, when it moved into a house in Providencia. Fabia remembers walking down the street and seeing an old man with thick glasses putting up a big sign that said &ldquo;SE ARRIENDA LOCAL,&rdquo; indicating the place was for rent. The man turned out to be don Juan Boban, a Croatian immigrant, who had worked his way up from store clerk until he owned the building along with don Giovanni Mezzano. </p>
+              <p> The first floor of the new location had previously included a butcher shop, which required big refrigerators and hence a big power supply, important for the center. The third floor had a large open space, ideal for a classroom. So Fabia recalls, &ldquo;I said, &lsquo;Take the sign down.&rsquo;&rdquo; She remembers, &ldquo;It was a handshake agreement between my father and Mr. Boban.&rdquo; </p>
+              <p> The new location was not without its problems. For the first eight years of the program, the police would often show up and inquire about the former occupants of the third floor. The former occupants were ostensibly a group of engineers that turned out to be a front group for some illicit activity, but the details remained obscure. </p>
+              <p> The building was less than ideal structurally. Even small earthquakes would cause the roof tiles to crack. Leaks in the roof were not uncommon. Fabia recollects, &ldquo;We had the pigeons inside the roof, and you could hear them walking around outside; and they would pick at the tiles and create leaks.&rdquo; </p>
+              <p> The program outgrew the location too. They ran out of storage space, and the center could only accommodate forty students. &ldquo;Power was the big limitation,&rdquo; said Fabia; &ldquo;we were at the limit.&rdquo; </p>
+              <p> The house in Providencia was unmarked. &ldquo;We were low profile for security reasons,&rdquo; explained Fabia. &ldquo;As Americans, we&rsquo;re not so well loved.&rdquo; After the Clinton years, Fabia said they thought they might be able to be more open. &ldquo;We were about to put the sign outside, but then 9/11 happened.&rdquo; Security became an even higher priority. </p>
+              <p> The new location then needed to be discreet, structurally sound, have more space, and have a greater power supply. The second floor of the office building on 162 Hernando de Aguirre, near the Tobalaba metro stop, satisfied these requirements. Mr. Naimark describes it as &ldquo;a beautiful new center.&rdquo; </p>
+              <p> All of these advantages came at a price. Where the office in the Catholic University cost Stanford $1,000 per month in nominal terms and the house in Providencia cost between $3,000 and $4,000 per month in nominal terms, the new location in the office building costs about $10,000 per month now. The higher price in U.S. dollars is a result of various factors including the higher value of the center and the depreciation of the dollar against the Chilean peso. </p>
+              <p> The floor was previously used as a medical lab by an esteemed Chilean doctor, Arturo Espinoza, from whom Stanford rents the space. Thus, there are currently eight bathrooms in the 540 square meter space. There are now twenty-one computers, while the previous center started with only twelve. The technical resources at the new center are first-rate, with a two megabyte fiber optic cable connection, two power point projectors, video conferencing equipment, and wireless internet access. </p>
+              <p><strong><em> Una Nueva Cara Para Stanford in Santiago</em></strong></p>
+              <p> The Stanford in Santiago Program has a new face both with a new center and a new director whose term begins on January 1, 2006. Alumnus of Stanford in Santiago from 1993, David Boyer, describes the development of the Stanford program as paralleling the development of Chile, &ldquo;The Stanford center has done what this country has done in the same time.&rdquo; </p>
+              <p> It is not a little ironic then that during this quarter, Chile is also experiencing a &ldquo;Nueva cara para Santiago,&rdquo; the slogan for transportation project which is phasing new, environmentally friendly buses into the city. And at the end of this quarter, the election will bring a new face to the presidency of Chile. The parallel development continues: a new face for Santiago; a new face for Chile; and a new face for Stanford in Santiago, Chile. </p>
+              <p>&nbsp; </p>
+              <em> Mr. Guthrie is a senior and an Emeritus Editor-in-Chief of the Review. He is studying abroad at the Stanford center in Santiago, Chile during the autumn quarter.</em>
+<p><br>
+              </p>
+			  <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

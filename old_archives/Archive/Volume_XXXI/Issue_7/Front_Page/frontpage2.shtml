@@ -1,0 +1,267 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 7 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Features'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Features</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Aliyya Haque in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aliyya Haque</font></a><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Ben Guthrie in Features'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ben Guthrie</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='David Stat in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Stat</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Gary J. Raichart in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Gary J. Raichart</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='NO_AUTH in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>NO_AUTH</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Shawn M. Sims in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Shawn M. Sims</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Chris Fish in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Stephen Cohen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 7
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+December 5, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 7'; return true" onMouseOut="window.status=' '; return true">Issue 7</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+The Changing Role of Religion and Politics in Iran
+</font><br>
+
+<b>by Aliyya Haque</b><br>
+News Staff Writer<p>
+
+"The rise of religious intellectuals in the middle of the twentieth century brought back religion into politics in Iran," commented Professor Forough Jahanbaksh, during her keynote speech on the role of Islamic intellectuals in the realm of religion and politics in Iran.
+
+<p>
+
+On Friday, November 21, 2003, the Hoover Institution held a day-long conference entitled "Politics and Governance in a Changing Iran," inviting world renowned experts on the subject to give lectures and lead discussions. Some of the issues addressed in the lectures that day included "the current political landscape in Iran," "religion and politics" "the judicial system and the role of law" and "the nuclear question in Iran." In the second panel discussion of the day, Professor Forough Jahanbaksh gave a lecture on Islamic intellectuals in Iran, backed up by several discussants: Professor Donald Emmerson, Dr. Alireza Hagigi, and Professor Abbas Milani. The session was moderated by Larry Diamond from the Hoover Institution.
+
+<p>
+
+All participants in the panel have extensive backgrounds on the subject of religion and politics. Professor Jahanbaksh, assistant professor of religious studies in Queen's University in Canada, is an expert on the relationship between politics and religion, especially as it pertains to Iran, and has also studied contemporary Islamic thought. Professor Emmerson is a Stanford Institute for International Studies senior fellow and is also director of the Southeast Asia Forum. Dr. Alireza Hagigi is a former Iranian journalist put in exile, who now writes for the media in Canada. Professor Milani is one of Stanford's Hoover Institution research fellows, where he specializes in Iranian political, cultural, and security affairs.
+
+<p>
+
+Professor Jahanbaksh began her speech Friday with a narration on the rise of religious intellectuals in Iran. She describes the role of intellectuals in two main political phases, the pre-revolutionary phase and the post-revolutionary phase in Iran, and how these phases contributed to cultural and political trends in contemporary Iran.
+
+<p>
+
+"Intellectuals in the pre-revolutionary phase were responding to the Shah's autocratic rule. They were anti-dictatorial and anti-establishment, inspired by the anti-imperialist and anti-capitalist trend of that time," Professor Jahanbaksh explained. Revolutionary Islamic ideology came out of these beliefs, in which religion was interpreted to suit the political agenda of the movement. "Words from the Muslim holy book, the Qu'ran, were interpreted to enhance the revolutionary fervor of the movement," Professor Jahanbaksh commented.
+
+<p>
+
+Rituals and other congregational acts, such as the five daily prayers and fasting during the month of Ramadan, were granted extraordinary new meanings as well, performed to remind people of their ideological commitment to the revolutionary movement. "This religious ideology made promises for an ideal society and political system, proclaiming to be action and change oriented. However, in this phase ideological duties override personal rights," said Professor Jahanbaksh.
+
+<p>
+
+The post-revolutionary phase in Iran came about as a counter-movement to the prevailing Islamic ideology and tried to de-politicize religious ideologies. "The post revolutionary phase emphatically placed value on faith and the inward religious experience, which is at the core of this ideology," Professor Jahanbaksh explained, "People are encouraged to practice Islam out of love and not fear of God." This ideology also promoted diversity and tolerance as opposed to the uniformity and exclusivity of the pre-revolutionary phase.
+
+<p>
+
+The post-revolutionary phase offered the "minimalist" approach with regards to religion. It emphasized rational, democratic and non-combative rhetoric, which promoted personal rights and civil liberties of the Iranian citizens. "This new discourse made great strides in the current democratic movement in Iran," Professor Jahanbaksh noted, " The supporters of this reform did not give up on religion, rather they gave up the clerical rule and narrow-minded view of Islam from previous years."
+
+<p>
+
+Professor Jahanbaksh concluded her speech by saying that Iran was now in a better position to entangle religious and political discourse due to the non-militant, Islamic intellectualism of the post-revolutionary phase.
+
+<p>
+
+The remaining time in the session was devoted to five to ten minute comments from the three discussants with participation and questions from the audience. Professor Emmerson elaborated on the maximist/minimalist view of religion in the two phases, discussing the separation of religion from religious knowledge that allowed for liberal interpretations of Islam in the post-revolutionary phase. "Many people are allowed different interpretations of the Qu'ran and are not ostracized for it," Professor Emmerson explained.
+
+<p>
+
+Dr. Alireza Hagigi next went on to discuss the efforts of religious intellectuals to try to answer the crisis of power in Iran. He also urged that "the nature between human rights and religion must be made clear."
+
+<p>
+
+Before opening to questions and discussion, Professor Abbas Milani spoke on the concept of the intellectual. "The key problem facing Iran is the concept of the intellectual. Who is he and what are his responsibilities?" Professor Milani asked. He mentioned that intellectuals have an exaggerated sense of self-importance and constantly try to debunk the current political system. Professor Milani later defined an intellectual as one who lives with his thoughts and could have positive or negative connotations.
+
+<p>
+
+Professor Milani went on to detail the rise of the religious right during the time of the Shah of Iran, when the biggest threat to his regime was believed to have come from the left. Because of this belief, the religious right was allowed to come together and grow in size and strength. "In reality, the biggest uprising came from the right, but until the day he died, the Shah believed the left was his enemy," Professor Milani commented.
+
+<p>
+
+In conclusion, Professor Milani described his solution for achieving democracy in Iran. He praised the American ideal of mixing private piety with secularism. "Morality must be secular if there is to be democracy in Iran," he said. This comment drew criticism from some including Professor Jahanbaksh, who cautioned that "side stepping religion would only postpone the democratic process in Iran."
+
+<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:27:05 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

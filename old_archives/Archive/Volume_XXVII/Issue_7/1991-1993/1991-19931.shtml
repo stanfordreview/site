@@ -1,0 +1,299 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 7 - 1991-1993</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../1987-1988/index.shtml" onMouseOver="window.status='1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1987-1988</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1991-1993</font></a><br>
+
+<a href="../1994/index.shtml" onMouseOver="window.status='1994'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1994</font></a><br>
+
+<a href="../1995/index.shtml" onMouseOver="window.status='1995'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1995</font></a><br>
+
+<a href="../2001/index.shtml" onMouseOver="window.status='2001'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>2001</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../2001/index.shtml" onMouseOver="window.status='David Myszewski in 2001'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="1991-19932.shtml" onMouseOver="window.status='David Valle in 1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Valle</font></a><br>
+
+<a href="../1994/index.shtml" onMouseOver="window.status='Ed Malone in 1994'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ed Malone</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Henry Towsner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../1987-1988/1987-19882.shtml" onMouseOver="window.status='Jennifer Bryson in 1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jennifer Bryson</font></a><br>
+
+<a href="1991-19931.shtml" onMouseOver="window.status='Rakesh R. Khanna in 1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Rakesh R. Khanna</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Scott Rasmussen in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<a href="../1987-1988/1987-19881.shtml" onMouseOver="window.status='Steve Hellman in 1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Steve Hellman</font></a><br>
+
+<a href="../1995/index.shtml" onMouseOver="window.status='Thorvin Anderson in 1995'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Thorvin Anderson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 7
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 7, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 7'; return true" onMouseOut="window.status=' '; return true">Issue 7</a> - 1991-1993
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+1991-1993
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Kennedy Under Fire From Students and Faculty
+</font><br>
+
+<b>by Rakesh R. Khanna</b><br>
+Volume VII, Issue 1: April 1991<p>
+
+<table align=Left width=200>
+    <tr>
+        <td>
+<a href="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/1991-1993/images/kennedy_big.jpg" onMouseOver="window.status='View larger image'; return true" onMouseOut="window.status=' '; return true">
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/1991-1993/images/kennedy_small.jpg" width=200 height=244 alt="Kennedy" border=0>
+</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>"Kennedy should resign immediately and a successor should be appointed as soon as possible to clean the entire mess up."</i><br>--Political Science Professor John Manley<br><i><a href="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/1991-1993/images/kennedy_big.jpg" onMouseOver="window.status='View larger image'; return true" onMouseOut="window.status=' '; return true">(Click for larger image)</a></i>
+        </td>
+    </tr>
+</table>
+
+
+Charges that Stanford has billed the U.S. government nearly $200 million dollars for improper research expenses have caused massive publicity and national outrage, an outrage which many associated with Stanford are directing toward University President Donald Kennedy.
+
+<p>
+
+"Kennedy should resign immediately and a successor should be appointed as soon as possible to clean the entire mess up," said Political Science Professor John Manley.  
+
+<p>
+
+Many at Stanford feel that Kennedy's handling of the indirect cost controversy poses a serious threat to the University's fiscal future.  William Spicer, an engineering professor, described Kennedy's actions toward the Congressional subcommittee investigating Stanford as "awful."
+
+<p>
+
+"Kennedy's cavalier treatment of the government officers antagonized them into treating the University as harshly as possible." asserted Spicer.  Furthermore, he added, "The problems John Hennessy has been having with the federal government might be indicative of the way that all Stanford researchers will be treated in the future." 
+
+<p>
+
+On March 28, the Department of Defense withdrew an $8.3 million federal research grant from Engineering Professor John Hennessy, leading many students and professors to fear that irreparable damage may have been done to Stanford's ability to attract funds for federal research.
+
+<p>
+
+One engineering graduate student, who asked not to be identified, echoed the feelings of many others when he said, "I fear that if I propose to do an experiment that requires federal funding that I will not receive it, because of the stigma that has been attached to doing research here."
+
+<p>
+
+Kennedy's handling of the situation has not gone over well with the student body.  In a recent poll conducted by <i>The Stanford Review</i>, 51 percent of the students questioned said that they did not think that Kennedy has done an effective job handling the indirect costs controversy.
+
+<p>
+
+Many of these students cited his lack of communication with the Stanford community as the primary problem.  One student said, "Kennedy's told us very little, and whenever he does tell us something all too often it turns out to be incorrect."
+
+<p>
+
+Although a lot of people have criticized Kennedy, many on campu still have a lot of trust in him.  Jamie Green, a member of the Council of Presidents, said that she felt the student body still trusted Kennedy.  "Although many students are embarrassed by the present situation," she said, "most of them realize that Kennedy has been trying his best to get the University out of this predicament."
+
+<p>
+
+Kevin Hartz, the co-chairman of the Stanford Democrats, agred with Green's assessment of the situation.  "I still have a lot of faith in President Kennedy," he said.  Hartz, however, added that he thought "the incident will probably decrease the amount of money spent on our education."
+
+<p>
+
+Kennedy's actions, however, have also been heavily criticized by several segments of the campus.  John Abbott, the president of the Stanford College Republicans, described the present situation as "an inevitable result of the incompetent leadership of Kennedy over the past 10 years."  Furthermore, he said, "Kennedy's resignation is necessary for the University to get back on the track towards intellectual integrity."
+
+<p>
+
+The Stanford Republicans are not the only ones upset with the Kennedy's actions.  Manly echoed the feelings of many other faculty members when he asked Kennedy why the university needs "a PR firm and Washington lawyers" when it should "own up to the facts and deal with them on their face."  
+
+<p>
+
+According to Manley, Kennedy's testimonial before the congressional subcommittee investigating Stanford was "an unmitigated disaster for the university."
+
+<p>
+
+Many students feel that Stanford is being made a scapegoat by the Congress to draw attention away from the problems of the nation as a whole.  Christopher Yeh, a sophomore, epitomized many students' reactions when he said, "It's a witch-hunt pure and simple; John Q Public has and will always be susceptible to manipulation by the media."
+
+<p>
+
+Although many students agree that Stanford is being unfairly singled out, their opinions about the effects of this vary greatly.  Some students do not think that the alleged fraud will have a significant effect on them.  Louisa Gomez, a freshman, said, "As far as my day-to-day life, I don't think it has been affected or will be affected by this controversy."
+
+<p>
+
+Some students, however, think that the situation has exacerbated Stanford's image as an elitist institution.  Ken Kuniyuki, a freshman, expressed this when he said that this controversy would "serve only to reinforce the university's yuppie spoiled image."
+
+<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:14:39 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

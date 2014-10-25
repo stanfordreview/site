@@ -1,0 +1,290 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXV - Issue 3 - Interview</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.shtml" onMouseOver="window.status='A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Note From Bob</font></a><br>
+
+<a href="../Best_Of_Web/index.shtml" onMouseOver="window.status='Best of the Web'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Best of the Web</font></a><br>
+
+<a href="../Election_Roundup/index.shtml" onMouseOver="window.status='Election Roundup'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Election Roundup</font></a><br>
+
+<a href="../Election/index.html" onMouseOver="window.status='Election'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Election</font></a><br>
+
+<a href="../Feature/index.html" onMouseOver="window.status='Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Feature</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="index.html" onMouseOver="window.status='Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Interview</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.html" onMouseOver="window.status='Bob McGrew in A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='David Myszewski in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Election/election2.shtml" onMouseOver="window.status='Henry Towsner in Election'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Feature/index.html" onMouseOver="window.status='John McCarthy in Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>John McCarthy</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Kurt Berglund in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kurt Berglund</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Matthew Barrett in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="../Election/election1.shtml" onMouseOver="window.status='Scott Rasmussen in Election'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXV, Issue 3
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+November 6, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXV'; return true" onMouseOut="window.status=' '; return true">Volume XXV</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - Interview
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Interview</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>An Interview With Condoleezza Rice - Uncut</font><br>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Issue_3/Interview/images/rice.jpg" alt="Condoleezza Rice" width=130 height=175 align=left>
+
+<i>Condoleezza Rice was a National Security Council advisor to former President George Bush, a former Stanford Provost, and is currently the top foreign affairs advisor to Governor George W. Bush.</i><p>
+
+<b>TSR</b>: How are you splitting your time now between Stanford and Austin?<p>
+
+<b>Condoleezza Rice</b>: Well, until the debates, I was here most of the time and I traveled to Austin about once a week and worked with the Governor. The period of the debates was pretty intense and it shifted to being on the road three or so days and here a couple of days a week. And it's probably going to be that way through the election now.<p>
+
+<b>TSR</b>: Has the election played out as you expected?<p>
+
+<b>Ms. Rice</b>: Yes. It is playing out as I expected - very close, state by state.  I've stopped watching the national polls; I just watch the state by state polls to see what's going on there. But it's very exciting.  They had all kinds of scenarios last night on TV about how the electoral college could break out,  and even though I really do hope that we don't get to one of those scenarios with the House of Representatives having to select the President or something like that, it's a pretty interesting election.<p>
+
+<b>TSR</b>: Were you expecting that when you left Stanford a year ago?<p>
+
+<b>Ms. Rice</b>: Well, I never really left Stanford.  I've been here on and off, at least a couple days a week, since I stepped down as Provost.  I was going to take leave anyway.<p>
+
+	But, yes, I expected it to be a close election from the very beginning.  I think, in fact, that it's surprising that it's so close, given how the economy is doing so well and so forth.  It's amazing that Governor Bush's message has been as resounding as it has.<p>
+
+<b>TSR</b>: A lot of people were worried about the debates beforehand.  How did you feel about the very positive reaction afterward?<p>
+
+<b>Ms. Rice</b>: I thought he would do well.  But, I have to say that if anyone had told me that we would be sitting here in a situation where Vice-President Gore has struggled to argue that he won one of the debates, I would not have expected that.  But the Governor more than held his own.<p>
+
+<b>TSR</b>: People were surprised at the second debate on foreign policy...<p>
+
+<b>Ms. Rice</b>: He did a great job in the second debate - I knew how much he knew, of course, so it was not a surprise to me that he knew it, but that he was so clearly able to articulate to the American people what he saw as America's role in the world.<p>
+
+<b>TSR</b>: Some people had said that the two candidates' positions are very similar.  The Balkan peacekeeping issue changed some minds.  Where do you see the differences lie?<p>
+
+<b>Ms. Rice</b>: They were similar because Vice-President Gore chose to agree on everything - I thought it was quite amazing, actually.<p>
+
+	I thought the Vice President, in that debate, said yes, he also thought that American troops should eventually leave the Balkans, so we were all a little surprised when he changed his mind the other day.  I guess now he favors a permanent peacekeeping role for the American troops in the Balkans.  Five years ago, he thought it was only going to be one year that they were there, because when they went there in 1995, he and the President promised the American people they'd be out in a year. So I'm now not quite sure where the Vice President is on Balkan peacekeeping.<p>
+
+	I know where Governor Bush is on Balkan peacekeeping, which is that the United States will stay and fulfill its commitment - that we will not leave until political stability is capable of supporting our withdrawal, but that we can't be there permanently because we have a lot of other military responsibilities that we have to attend to.  And the troops are peacekeeping, they are not training for combat.<p>
+
+	We right now have troops peacekeeping in the Balkans that if the Hammurabi division of Saddam Hussein were actually to decide to cross into Jordan, as opposed to just be at the border, and we had to reinforce our own troops, we have troops in the Balkans who are out of commission, and we could not use them because they are not combat-ready.<p>
+
+<b>TSR</b>: In terms of broader divisions between the candidate on foreign policy, where do you see the differences lie?<p>
+
+<b>Ms. Rice</b>: Bush would be much more focused.  You have a sense with the Vice President that he thinks that every problem in the world is of equal importance, that every problem in the world requires American intervention.  Now, the United States is the remaining superpower, and everybody would like us to think that way about the world, but I will tell you something .  If we really do find ourselves trying to solve every problem in the world, rather than relying sometimes on others in coordination with us to solve them - or  for others to solve them - we're going to lose the will of the American people to be engaged abroad, we're going to dissipate our own power, and eventually people are going to come to resent us.<p>
+
+One thing that Governor Bush made very clear in his debate comments is that he thought that we should not be arrogant.  If I could paraphrase, I would say that we should not be everybody's great aunt - that we can't have a solution to everybody's problems no matter how small.<p>
+
+<b>TSR</b>: Do you feel that your background as a Stanford professor has made you look at things in a different light than someone who didn't come from academe?<p>
+
+<b>Ms. Rice</b>: My background as Provost has really changed them.  As Provost I had to be chief operating officer for a very big institution that was dealing with issues like the role of the Internet and intellectual property rights for faculty members' inventions and our relationship to the Silicon Valley and commercialization of medical technology.<p>
+
+I've very often said that when foreign delegations would come to visit, they never wanted to talk about nuclear policy - what they wanted to know was "How can we do what Silicon Valley has done?'  And Stanford, of course, has had a very big role in that.  I think I've come to understand the values in the United States that make us so dominant in this particular environment - our risk-taking propensity, the importance of venture capital, the importance of universities like this which are essential to the constant creation of new ideas, as well as the creation of people who go out into the Silicon Valley and bring those new ideas.  I see the role of the United States in a quite different light as a result that, I think.<p>
+
+<b>TSR</b>: How does that play out going from a position where you make all the decisions to a position where you are merely the advisor?<p>
+
+<b>Ms. Rice</b>: Well, it's been very interesting because I really like being an executive - I like making decisions.  I think it's probably given me a good sense of how to help the Governor make the decisions.  Decision making in government is not really that different from decision making in anything else - you have to have an agenda, you have to have your advisors develop options for that agenda, and then you have to make decisions and you have to make them stick.<p>
+
+	What I learned as Provost is that I couldn't possibly know everything in depth and in detail.  Now, when the physics department wanted to come in and sell me some extremely expensive telescope, and they sent me three Nobel laureates to tell me how important this telescope was, I couldn't possibly argue the physics of the new telescope with them, but I still had to make the decision.  So I had to learn how to judge, how to have an instinct about what was worthwhile and what wasn't, about whether something was advancing our agenda or not.  I think that's what executives do.  Knowing that, having been through that myself, has helped me probably learned to set up issues for the Governor so that he can be an efficient decision maker.
+
+<b>TSR</b>: Why should a Stanford student vote for Bush?<p>
+
+<b>Ms. Rice</b>: Stanford students should vote for Bush because he is someone who really understands where the strength of America lies.  He understands that it is in us as individuals.  He has talked about the importance of community-based institutions or organizations that do a lot of the important work for people who are less fortunate.  He is someone who has faith in the American people to make their own decisions.<p>
+
+	In the narrowest sense, if you are a Stanford student, you may never see Social Security unless someone reforms the system now.  I know it may seem a long way away for a Stanford student, but those entitlements are not going to be there unless somebody bring the American polity together, both Republicans and Democrats, to make reforms to these important entitlements.<p>
+
+	Governor Bush is committed to education  - and to the education of the poorest kids as well as the wealthiest kids.  If you are a Stanford student, you've certainly had the experience of being in school with someone who is maybe the first person to go to college in their family.  Well, unless the public schools get better, subsequent Stanford students are not going to have that experience.  We're going to become more and more elitist because the public education system is not working for upward mobility.  Governor Bush wants to deal with that issue.<p>
+
+	And if you knew him, you would know that he is a person of great integrity, somebody who is a man of his word and who is not arrogant and puffed-up.  He really is someone who doesn't like egotistical people, and he himself is not egotistical.<p>
+
+	Plus, he's a terrific sports fan, and I had a great time after Stanford beat Texas giving him a hard time about the Longhorns.<p>
+
+<b>TSR</b>: Do you have any plans made for what should happen if Bush should lose the election?<p>
+
+<b>Ms. Rice</b>: Eventually, I'll end up back teaching at Stanford, one way or another.  Whatever happens, I'll take the rest of this year as a sabbatical to do some writing.  I'm very involved in doing some work with businesses that is useful to me because I'm interested in the New Economy and its impact on international politics.  I'll continue to do that for a while, and eventually I'll come back and teach.<p>
+
+<b>TSR</b>: It sounds like you are taking a wider view of national security than other people.<p>
+
+<b>Ms. Rice</b>: Well, I think that the real change in the world that has come is that, with the defeat of the Soviet Union, there's really only one paradigm on how to be a modern state, and it's to have a market economy that's open to the international economy, where private capital plays the principal role for growth.  And you see all of these countries scrambling to find their place in this new international economy.  And the countries that are most able to unleash entrepreneurship and creativity in their people are the countries that do best in this New Economy.  And I just think that's a remarkably positive development for the United States, because that comes very close to our values.  And our role, as the sole superpower, has to be to create a structure in the international system that supports the continuation of that set of developments, and that means we have to be able to protect the piece, which is why we have to be careful of the overextension of America's armed forces into things that other people can do, to make sure that we can do the things that only we can do.<p>
+
+	We have to keep trade free.  One very big difference between Vice-President Gore and Governor Bush is that Vice-President Gore says he's a free trader, but everybody wonders what he promised the AFL-CIO about trade.  We have to make sure that we pay attention to our big relationships out there - China, Russia- and we have to provide a chance for the development of states that had not really had a chance until now - the Indias of the world that seem to be emerging from their economic isolation, Latin America, that is increasingly an economic powerhouse.  Our job, I think, is not to be fireman in every little crisis  around the world, our job is to worry about the kind of structural issues and to make sure we get those right, and to use our relationships with others to, in coalition deal with some of the other issues.<p>
+
+	For instance, I'll give you an example: peacekeeping in Africa. Why, back a year ago, we wanted to charge the Nigerians market rates to use transport aircraft when they wanted to go do peacekeeping in Sierra Leone is beyond me.  It's very short-sighted because that's something the Nigerians should do - we don't have to do that.  The Australians were willing to deal with East Timor - that's good.  So America perhaps has to not see itself as the answer to all problems, but rather to recognize that there are others who have responsibility in the world as well.<p>
+
+<b>TSR</b>: One final question: the <i> National Review </i> has said that, if Bush were to win, you could be "rock-star big." Have you ever considered going into politics yourself?<p>
+
+<b>Ms. Rice</b>: Since rock stars flame out, I don't quite know...  I don't know - I would never say never.  I don't think I'm particularly cut out for elective office.  I've now been on the campaign trail quite a lot and these are special people - what they're willing to go through, the way they keep going, hour after hour after hour.  It's been instructive, and I think it's not me.<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:54:05 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

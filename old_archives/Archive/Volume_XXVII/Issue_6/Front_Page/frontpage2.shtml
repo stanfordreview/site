@@ -1,0 +1,290 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 6 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Heard_Around_Stanford/index.shtml" onMouseOver="window.status='Heard Around Stanford'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Heard Around Stanford</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Alex Robbins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Andrew Wright in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Harrison Osaki in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Henry Towsner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Joe Lonsdale in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Nels Hansen in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Sam Shapero in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Scott Rasmussen in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 6
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+January 30, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 6'; return true" onMouseOut="window.status=' '; return true">Issue 6</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+San Francisco Bids for 2012 Olympics
+</font><br>
+
+<b>by Nels Hansen</b><br>
+News Editor<p>
+
+<table align=Left>
+    <tr>
+        <td>
+<a href="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_6/Front_Page/images/olympic_big.jpg" onMouseOver="window.status='Click for larger image'; return true" onMouseOut="window.status=' '; return true"><img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_6/Front_Page/images/olympic_small.jpg" width=200 height=277 alt="Olympic Map" border=0></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i><a href="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_6/Front_Page/images/olympic_big.jpg" onMouseOver="window.status='Click for larger image'; return true" onMouseOut="window.status=' '; return true">Click for larger image</a></i>
+        </td>
+    </tr>
+</table>
+
+
+	The Bay Area Sports Organizing Committee (BASOC) is "a non-profit organization committed to bringing the 2012 Olympic Games to the San Francisco Bay Area."  Thus far the organization has been successful, and San Francisco is on the short list of the United States Olympic Committee (USOC), along with Washington, D.C., Houston, and New York City.
+
+<p>
+
+	Kenneth Garrett, the Stanford BASOC Volunteer Coordinator, told the Review in email correspondence, "Being selected as a finalist bid city is a much-deserved confirmation that the San Francisco Bay Area is one of America's greatest regions."  Garrett hopes that, "the USOC will continue to support the SF Bay Area, and the IOC will agree in 2005."
+
+<p>
+
+	Finalists will not be selected until March, and there shall be three of them, selected out of the 'short list' which includes Houston, New York, Washington, D.C., and San Francisco.  The USOC will select its bid city at a board of directors meeting November 2-3, 2002.  The IOC will deliberate from 2003 to 2005, at which point one city will be selected from the bids of all countries making them.  Potential international bid cities include London, United Kingdom; Paris, France; Budapest, Hungary; Istanbul, Turkey; Madrid, Spain; Toronto, Canada; Rome, Italy; Moscow, Russia; and Rio de Janeiro, Brazil.
+
+<p>
+
+	"Not only will Stanford benefit materially by having the stadium and other venues rebuilt, but bringing the world's greatest athletes to our campus will increase Stanford's international prestige.  Billions of people will see for themselves that Stanford is the best school in the world," wrote Mr. Garrett.  According to the map on the BASOC web site, 5 events would be held at Stanford.  Additionally, Stanford would be the site of the Judge & Referee's Village, the Media Village, and the ceremonies.  
+
+<p>
+
+	Mr. Garrett continued, "It will be awesome for Stanford students and alumni, as well as faculty, staff and neighbors to feel the pride of having our home be the center of the world's attention for a few weeks.  The spectacle of the Opening Ceremony in our own stadium will be a sight we'll never forget."
+
+<p>
+
+	"This is a very exciting time for BASOC and other Bay Area residents that want to see the Olympics come to the SF Bay Area in 2012.  Now is the time to really dig in and make a concerted, cooperative effort to convince the USOC that San Francisco is the best choice for 2012.  With everybody's help, I believe we can make it happen.  That's why it is so important that Stanford students, faculty and staff volunteer for BASOC, even in a limited capacity, as soon as possible."
+
+<p>
+
+	According to a poll of 430 registered voters conducted in October 2000 by the San Francisco based polling firm Corey, Canapary & Galanis, "Bay Area residents that want to see the Olympics come to the SF Bay Area in 2012" comprise 84% of the residents of the Bay Area.  Also according to this poll, 79% of voters react "very positively" or "positively" to holding the 2012 Olympic Games in the region, and 78% of respondents said they or members of their household would attend the 2012 Olympic Games if held in the Bay Area. 51% of respondents said they would "definitely" or "possibly" become involved as volunteers for the Olympic Games, and 71% of Bay Area voters expressed "a great deal" or "some" interest in the Olympic Games overall.
+
+<p>
+
+	The official economic impact of the last Olympic Games held in the United States (Atlanta, 1996) was $5.1 billion, but that includes the amount spent directly on the games, so the secondary economic benefits realized are not certain.  
+
+<p>
+
+	Sarah Weaver, a lifelong resident of Palo Alto and Stanford student, stated, "[The Olympics coming to the Bay Area in 2012] would be really cool.  They had the World Cup here several years ago, so it's not like they're ill-equipped for the crowds.    I would definitely go if they were held here.  The Olympics is a big deal and whenever it's on I spend a lot of time watching it on TV anyway and to have it so close would mean I could see it in person for once.  I'm not sure how many times I'll have a chance to do that."
+
+<p>
+
+	Rodrigo Munoz, a lifelong Bay Area resident and Stanford freshman, stated, "The traffic would be hell, but I imagine it would be good for local businesses.  Heck, even Silicon Valley might get some tourist action.  And I know Stanford would just love it, because then they'd get funding to renovate our stadium."
+
+<p>
+
+	If the Bay Area bid is successful, organizers plan to use the Golden Gate Bridge as a kind of signature emblem, much like the Sydney (Australia) Olympics used their opera house.  Other strengths of the Bay Area bid, according to organizers, include the scenery, the preexisting athletic facilities, and the climate.
+
+<p>
+
+	Baltimore mayor Martin O'Malley, commented, however, "[The greater Washington, D.C. area has] the natural and historic assets to make the Olympic Games memorable; we are the logical host for the 2012 Games and would undoubtedly be a strong competitor at the international level."  Virginia Commerce and Trade Secretary Barry E. DuVal commented, "With our airports, existing and planned mass transit capabilities and well-developed tourist infrastructure, we stand ready to host the best Games ever."
+
+<p>
+
+	New York City's strength, according to the NYC2012 web site, is its mass transit system, accommodations, and its international character, with 40% of the residents having been born in a foreign country.  The plan for New York would have all but 1 of the events along 2 mass transit corridors forming an X across the city.
+
+<p>
+
+	Houston 2012's web site cites the massive size of the Greater Houston Area (8778 square miles) and the readiness of Texas laws to protect the IOC and the USOC from lawsuits and other liabilities as reasons for their potential selection, but their "Why Houston?" web page does not address why one would want to attend the Olympics in Houston, but rather why Houston would like to host the Olympics.
+
+<p>
+
+	Not all Californians are so enthusiastic about the prospect of the 2012 Olympics being held in San Francisco.  One Californian Stanford student, when asked, stated unequivocally, "I don't really care."
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:14:05 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

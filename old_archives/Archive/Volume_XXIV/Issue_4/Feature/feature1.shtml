@@ -1,0 +1,282 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIV - Issue 4 - Feature</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front page</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editor's Note</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Feature</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Letters/index.shtml" onMouseOver="window.status='Letters'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letters</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="feature2.shtml" onMouseOver="window.status='Bob McGrew in Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Brian Ball in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brian Ball</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Dr. Charles H. Kendall in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dr. Charles H. Kendall</font></a><br>
+
+<a href="../Front_Page/index.html" onMouseOver="window.status='David Myszewski in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Johnny Openshaw in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Johnny Openshaw</font></a><br>
+
+<a href="feature1.shtml" onMouseOver="window.status='Michael New in Feature'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael New</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Ryan Parks in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Parks</font></a><br>
+
+<a href="../News/index.html" onMouseOver="window.status='Scott Rasmussen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+</font>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXIV, Issue 4
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+May 9, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIV'; return true" onMouseOut="window.status=' '; return true">Volume XXIV</a> - <a href="../index.html" onMouseOver="window.status='Issue 4'; return true" onMouseOut="window.status=' '; return true">Issue #4</a> - Feature
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Feature</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>An Interview With Tod Lindberg, Editor Of Policy Review<br></font>
+
+<b>The Stanford Review</b>: In March, John McCain announced that he was suspending his campaign for President.  What to do you think McCain's next step is? Do you think a third party run is viable for him or do you think he will eventually endorse George W. Bush?<p>
+
+<b>Tod Lindberg</b>: I do not think that a third party run is viable for him.  I think that it would mark the campaign as eccentric more or less from the beginning. His best case, I think, is to be Bush's Vice-President, which I do not think is necessarily a terribly likely outcome at the moment.  But I think that in terms of his long range ambitions for the White House that is where he would be much better served, as a successor nominee to Bush whether or not Bush wins in 2000.<p>
+
+<table align=left width=184>
+<tr>
+<td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXIV/Issue_4/Feature/images/lindberg.jpg" alternate="Tod Lindberg" width=182 height=276>
+</td>
+</tr>
+<tr>
+<td>
+<fontface="Arial, Helvetica, Verdana, sans-serif">
+<b>Tod Lindberg</b><br>
+Editor Of <i>Policy Review</i>
+</font>
+</td>
+</tr>
+</table>
+
+<b>TSR</b>: One of the turning points in the campaign might have been McCain's speech in Virginia Beach where he came out and opposed some of the things that Jerry Falwell and Pat Robertson had done.  Why do you think he chose to criticize two political figures who are probably well liked by people who vote in Republican primaries?<p>
+
+<b>TL</b>: Obviously, he was trying to craft this thing in such a fashion that he could run without the right-wing baggage of the party. Or what he regards as the right-wing baggage of the party.  Which is to say he would form a coalition of conservative to moderate Republicans - not hard-core conservative Republicans - and independents.  Accordingly, that is where he would carve his 51% of electorate essentially.  It is an interesting idea. I think that it is fanciful. It would be virtually unprecedented.  In general, that is not how the world works.  How the world works is that we have political parties.  It is possible that their influence is waning. But on the other hand, they still seem to be things around which successful Presidential campaigns get organized.  <p>
+
+	Political parties combine diverse elements.  The Republican party surely does include Christian conservatives.  You ought to be able to find a way of running as a Republican while keeping Christian conservatives more or less mollified, happy to be on board and still reach out to the center of the political spectrum in order to form your electoral majority.  The fact that Dole could not do it in 1996 or that George Bush was unable to duplicate his 1988 run in 1992, does not prove that this cannot be done. It is rooted in the particular failures of those campaigns and candidates at that time.  For 60 years Democrats kept together a majority coalition in this country that kept together blacks in the North and segregationists in the South.  How did they do this? With difficulty.  But they did it.   The necessity to junk the participation of the religious conservatives is not apparent to me.  And obviously, it turns out not exactly to be the way into the hearts and minds of a sufficient number of Republican voters, who themselves may not even be members of the Christian Coalition.  McCain did himself no good anywhere in terms of his quest for the nomination.<p>
+
+<b>TSR</b>: Why do you think Gary Bauer endorsed McCain?<p>
+
+<b>TL</b>: Probably because it was too late to get anything out of endorsing Bush.  He would have been late to the Bush party.  In point of fact, had McCain made some different decisions and pulled off the upset of the century and beaten Bush. Bauer would have presumably had a very nice place at that table.  I cannot imagine how much pain Bauer must have been in after McCain gave that speech in Virginia Beach. Bauer ran for President, I think, not so much to be President, but to advance certain kinds of ideas and to advance his own standing as a spokesman for those ideas.  I would imagine at the moment that essentially lies in ashes at his feet.  I imagine he is wondering how to rehabilitate himself and get himself in the good graces of people who are dumbfounded in the light of events.<p>
+
+<b>TSR</b>: One of the recurring themes in the conservative media since 1996 is that of the worldwide conservative meltdown. What do you think happened since the government  shutdown in 1995?  Why have conservatives fared so poorly as far as getting their agenda enacted?<p>
+
+<b>TL</b>: There are a couple of elements that I want to identify. In the first place it is clear that the conservative reform agenda is going to be portrayed as frightfully radical by its opponents.  And in some respects these opponents were aided by the actual radicalism of what conservatives were willing to advocate in the early days of1995.<p>
+
+	Americans are not radical, not very often anyway.  And the idea of revolution is not something that they are particularly interested in. Now, of course it was not going to be a real revolution - it was kind of a metaphor - but of course if you say things like that often enough, it turns out that people listen to them.<p>
+
+	The second thing is that conservatives have been victimized by their own inability to see the success of their ideas when those ideas are adopted and co-opted by their political opponents.  This current electoral environment has at its center a status quo that is a conservative creation.   I do not mean that what Ronald Reagan did in 1980 created a NASDAQ over 5,000 in the year 2000.  <p>
+
+	What I mean is that for years Republicans said they wanted to balance the budget.  Now there is a surplus.  For years the Republicans said they wanted to end welfare. And the welfare entitlement has ended. For years Republicans have said that they wanted to cut taxes and taxes have been cut.<p>
+
+	None of this is sufficient progress, no one should accept that this is as much as conservatism is here to do or can do. That is not the case. But what is the case is that this ought to be acknowledged as the progress that it is.  But that is difficult to do because every time something happens along those lines, Bill Clinton rises to the occasion and takes credit for it.  Why? Because among other reasons he is a good politician, he wants to take credit for good things.  Welfare reform worked for Clinton, as did balancing the budget.<p>
+
+	In 1990 President Bush got in trouble because he wanted to decrease the deficit, not eliminate the deficit, and in exchange for promised caps on spending, which had real meaning as time went on incidentally, agreed to a tax increase.  No one is talking about a tax increase here in this environment, and that is a big change.  And it is a change entirely in a conservative direction. One should possibly carve out an exception for the possibility that cigarette taxes will go up, but that is not entirely a revenue related measure.<p>
+
+<b>TSR</b>: I recall from reading your columns in The Washington Times that for a long time you supported Newt Gingrich as speaker.  Before the 1998 elections many conservatives wanted Gingrich to step down, but you were supportive of him.  Why?<p>
+
+<b>TL</b>: Well, because Gingrich was not the problem.  Gingrich's image was part of the problem.  Gingrich's personality was an element. In the absence of Gingrich, what?  This was the question that I always got stuck on.  Who is going to run the House? Because somebody has to do that.  It was not obvious to me who would be next in line.   It seemed to me that Congresses elects speakers at the beginning and usually  that is when that decision gets made, and once it gets made it usually stays made.<p>
+
+	The notion of a palace coup... it struck me as there would be a huge amount of institutional weight and power and so forth to overcome in order to achieve a result like that.   The problem with people who write about politics, myself occasionally included I will admit, is we get bored and we want something new and things should happen because we say things should happen. It is always easy to underestimate the importance of inertial forces. Why do we have continuing resolutions around September 30th of every year? Why can't Congress get its budget work done? The process is built to be scratched out like that.  It is difficult to get around it..<p>
+
+	In 1998 Gingrich would have been reelected as speaker if he had won seats in that election.  But when he did not, it was time for him to go.  He had that election keyed up exactly as he wanted to.  He had a theory about how the election was going to proceed and what the consequences would be and that they would be favorable.  And he was wrong...and when you are wrong like that it is probably time to go.<p>
+
+	The exquisite aspect of the Gingrich period was the secret affair that he was carrying on.  I can imagine what he must have thought as the whole Clinton impeachment juggernaut rumbled through Washington.  I did take the trouble and looked back at a couple things that Gingrich had said during that process. One comment he made during the summer of 1998  was that he hoped that he would get a report from Starr that was more than just about Monica Lewinsky incident. Because sex was not the issue here - it had to be a part of broader problems. Let's just say history has given that statement a little more color than it had at that time.  <p>
+
+<b>TSR</b>: Do you think anybody else would have done a better job than Gingrich? Or do you think that it would not have mattered who was in charge? Do you think that anybody in that position would have gotten demonized and demagogued?<p>
+
+<b>TL</b>: Interestingly enough, the current speaker has not been subjected to this treatment. That is very interesting. I wrote a piece in The Weekly Standard that I thought that Hastert's Delay's and Armey's leadership performance over the social security surplus was their finest hour to date and that Hastert had proven himself during the course of the debate to be one of the most underestimated men in Washington. I believe that debate changed a lot.<p>
+
+	Hastert may be more cuddly and may have natural defenses against this stuff. But it may still be coming  As Democrats were in search of a new devil to torture in the post-Gingrich world, they decided it was going to be Tom DeLay. There is going to be a lot of Tom DeLay bashing that is kind of in the process.<p>
+
+	But again, Gingrich was unique.  He was uniquely visible and uniquely vulnerable to attack just because of the circumstances.  I would expect the Democrats to try to duplicate it with others. I think that circumstances were such that they had a good opportunity with Gingrich which they did not squander.  The other thing that I would remind anyone is that if someone had spent $50 million in national advertising attacking you, you would be unpopular also. Anyone who thinks that Gingrich's unpopularity is entirely a product of Gingrich's missteps is just whistling Dixie.  That is just nuts.<p>
+
+<b>TSR</b>: Why do you think the showdown on Social Security reform was Hastert's finest hour.  What do you think was accomplished there that was beneficial?<p>
+
+<b>TL</b>:  There has been a theory in conservative politics which goes something like this: If you send them the money, they will spend it.  In fact, if you send them the money they will not only spend the money, they will spend more than the amount of money that you sent them.<p>
+
+	What happened with the Social Security trust fund surplus is that Republicans found a way to wall off an immense amount of potential spending.  To say that this money is going to protect Social Security is of course a bit of a policy misnomer, it does nothing to reform the system or take care of the long-term demographics.  But, politically, it is a firewall that you can be defend more effectively than caps in discretionary spending.<p>
+
+	What you can say is that we are not touching this money, and no one is going to touch this money.  Anyone who touches this money is betraying America's seniors. That is what they did.  That was good and that was impressive.<p>
+
+	If you look at some of Clinton's statements during this period, you can almost hear him begging for the opportunity to reach a deal with Republicans to protect Social Security which is to say to spend some of that money.  We will all get together and we will all say that we are protecting Social Security even though we are spending some of that money. You get some for tax cuts and I will get some for some of my programs and we will all be happy.<p>
+
+	Republicans resisted that and resisted very effectively.  The consequence of that is a very, very substantial amount of money that is probably now pretty untouchable, that revenue stream. It is amazing because it is true, that if you send them money it would get spent.<p>
+
+<i>Interview conducted by Michael New</i><p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:46:35 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

@@ -1,0 +1,332 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 8 - Alumni Thoughts</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="index.shtml" onMouseOver="window.status='Alumni Thoughts'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Alumni Thoughts</font></a><br>
+
+<a href="../Current_Issues/index.shtml" onMouseOver="window.status='Current Issues'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Current Issues</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Current_Issues/currentissues2.shtml" onMouseOver="window.status='Alexander Kendall in Current Issues'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alexander Kendall</font></a><br>
+
+
+<a href="alumnithoughts1.shtml" onMouseOver="window.status='Aman Verjee in Alumni Thoughts'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aman Verjee</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Brooke Brody-Waite in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brooke Brody-Waite</font></a><br>
+
+<a href="alumnithoughts2.shtml" onMouseOver="window.status='David Cavicke in Alumni Thoughts'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Cavicke</font></a><br>
+
+<a href="../Current_Issues/currentissues2.shtml" onMouseOver="window.status='Elizabeth Madjlessi in Current Issues'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Elizabeth Madjlessi</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Eric M. Jackson in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Eric M. Jackson</font></a><br>
+
+<a href="../Front_Page/frontpage3.shtml" onMouseOver="window.status='Joe Lonsdale in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Michael V. Petras in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael V. Petras</font></a><br>
+
+<a href="../Current_Issues/currentissues1.shtml" onMouseOver="window.status='Piotr H. Kosicki in Current Issues'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr H. Kosicki</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 8
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+June 6, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 8'; return true" onMouseOut="window.status=' '; return true">Issue 8</a> - Alumni Thoughts
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Alumni Thoughts
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Why We Remember Reagan
+</font><br>
+
+<b>by David Cavicke</b><br>
+Columnist '88-'89<p>
+
+   Ronald Reagan was President during the years in which most of today's undergraduates were born. Reagan was largely dismissed by liberal elites both in the 1980s and today. Yet, measured by his accomplishments, Reagan was an extraordinarily successful President - taming inflation, fostering an enterprise culture and victory in the Cold War. I was an undergraduate when Reagan was President. These are my memories of politics in the 1980s 
+and how Reagan did it.
+
+<p>
+
+   In the fall of 1980, Jimmy Carter was President. A sense of decline permeated society. Inflation was rampant. (It peaked at over 13% in 1980.) Paul Volker and the Board of Governors of the Federal Reserve raised short-term interest rates to 21% in an effort to stem it. Academics got tenure with books entitled Persistent Inflation and Stagflation. This inflation led to an erosion of confidence in financial markets. The Dow Jones Industrial Average had peaked seven years earlier and was mired in a structural bear market (a euphemism for the fact that the market never went up). Moneyed elites discreetly inquired about options for holding financial assets
+off shore.
+
+<p>
+
+   Domestic economic policy was dominated by "industrial policy" -- the idea that the state could engineer outcomes in the economy by regulation. Two examples of Carter-era industrial policy: energy and antitrust. In 1979 the country endured significant shortages of gasoline in the summer. Drivers in major cities routinely waited over two hours in line to purchase gasoline. The immediate cause of this shortage was Carter's stubborn refusal to lift price controls on oil that had been discovered before a certain date. (This date was around 1960, so-called "old oil.") When persistent shortages led to deregulation, Carter insisted on imposing a "windfall profits" tax to prevent additional revenues from being garnered 
+unfairly by oil producers.
+
+<p>
+
+   Antitrust was the Talmud of industrial policy. Antitrust in the Carter Administration was marked by hostility to size and to vertical integration, which, it was argued, concentrated economic power in private firms.  Since the Johnson Administration, the government had been trying to break up IBM because of its alleged anti-competitive clout in the computer industry. (IBM's clout has been diminished rather markedly by the market in the interim.)
+   In short, domestic policy was
+an absolute mess. 
+
+<p>
+
+   In the international realm, policy was dominated by two issues: Iran and the Soviet Union. On the former, America and the President were made to look helpless on a nightly basis by supposed Iranian students who, with the explicit support of the Islamic revolutionary government, had taken 55 American diplomats hostage. Carter was riddled with ambivalence -- the Shah of Iran was an anti-democratic ruler, and America, Carter believed, had been wrong to support him.  Carter empathized with the anger the Iranians felt at our bad behavior. When diplomacy yielded nothing, Carter attempted a rescue mission. Lacking sufficient military support, it failed utterly. The Iranians got to dance on a stranded American airplane, and Carter was seen as a eunuch.
+
+<p>
+
+   Standing astride one-third of the Eurasian land mass, the Soviet Union was a totalitarian mammoth in possession of an avowedly expansionist ideology and armed to the teeth with nuclear weapons. It was overtly trying to turn western Europe into an economic satellite -- one that would pay tribute to avoid incorporation into the Eastern Bloc. Carter had negotiated patiently with the Russians on a variety of economic and
+arms-control issues. 
+
+<p>
+
+   By 1980 the perception of the presidency as an institution had so seriously eroded that Daniel Patrick Moynihan proposed that the Constitution be amended to augment Presidential power and allow elected Members of Congress to serve in the Cabinet. (A cynic might say that Pat was angling for a seat in a Democratic Cabinet without having to give up
+his Senate seat.)
+
+<p>
+
+   From this swirling maelstrom emerged an unlikely leader: an actor from the West lacking both the pedigree of the academic elites and the elite world view of inevitable American decline. His name was Ronald Reagan -- and despite what you have most likely heard in Political Science courses you have taken - he was the most remarkable political leader of the second half of the 
+twentieth century.
+
+<p>
+
+   Given where we were in 1980 and what we have achieved since then, Reagan's achievement was nothing short of astonishing. In domestic policy, inflation was tamed, and marginal tax rates were sharply reduced. Regulation as an organizing principle was replaced with the idea that competitive markets are best able to produce wealth, increase standards of living, innovate, and serve consumers. When air traffic controllers went on strike in violation of federal law, Reagan gave them a deadline to return to work. When they didn't, he fired them and moved to decertify their union, PATCO, which had endorsed Reagan in 1980.
+
+<p>
+
+   Antitrust policy was transformed from a crusade against size into a tool to promote competition. Stanford's own Bill Baxter, a significant unsung hero of the Reagan Revolution, as Assistant Attorney General for Antitrust, dismissed the government's case against IBM, settled litigation against AT&T and promulgated merger guidelines that provided a safe harbor for vertical integration. This unleashed large-scale reorganization of corporate assets and with it considerable improvements in 
+productivity.
+
+<p>
+
+   In international affairs, Reagan won the Cold War without resorting to direct military force against an expansionist totalitarian empire -- an achievement of monumental historical significance. These successes began to restore the faith of Americans in institutions like the military and the federal government.  
+
+<p>
+
+   Reagan was at first dismissed as an amusing irrelevance: a nostalgic actor with quaint reactionary views who could only have gone into public life in a place as superficial as California. The media - in those days the three broadcast networks, TIME Magazine, the New York Times, and the Washington Post - largely ignored Reagan in '79, focusing instead on John Connally (who had raised the most money), Howard Baker, John Anderson, and, when they all failed, George Bush. When TIME did a piece on Reagan before the Republican primaries, the tag line was that Reagan was waging a lonely
+campaign aganst the 
+twentieth century.
+
+<p>
+
+   Confounding the pundits, Reagan steamrolled his Republican opposition. News coverage did not substantially change. It was simply inconceivable to the left that someone like Reagan could win. The press predicted a close race. Reagan won 44 states and over 500 electoral votes, overwhelming an incumbent president. The only analogy in the century was Roosevelt's drubbing of Herbert Hoover in 1932. The left was dumbfounded. Bella Abzug, Congresswoman from Manhattan's Upper West Side, famously remarked, "Who is this Reagan guy? I don't know anyone who voted for him."
+
+<p>
+
+   Once Reagan became President, his depiction by the press and the academy changed: they no longer ignored him; he instead became the object of ridicule. His domestic agenda, particularly tax reductions was derided as irrational. His proposed increases in defense spending were seen as unnecessarily provocative to the Soviet Union. His intellect was dismissed. He was "a grade B movie actor who never got the girl." Reagan always wryly replied to that one - in the movies, I always got the girl.  
+
+<p>
+
+   Ignoring this scorn, Reagan went about his business. His economic program was enacted by Congress because Reagan convinced dozens of Democrats to vote with him. Military spending was increased substantially. Reagan also went forward with plans to deploy medium-range missiles in western Europe and proposed producing defenses for a Soviet missile attack on the United States.
+
+<p>
+
+   The magnitude of the change achieved by Reagan is enormous. He had to take on a wide array of interest groups with significant economic or ideological stakes in statism. These interests included CEOs of conglomerates who believed their positions in danger if more efficient vertical integration became permissible, labor unions that wanted to avoid improvements in industrial productivity, the plaintiff's bar, the universities, and the established media.  
+
+<p>
+
+   The reasons Reagan transformed America in a way unseen since the New Deal were more straightforward than those provided by Messrs. Clifford, Cannon et al. Reagan was an incredibly gifted politician. He was savvy, knowing when to be tactically flexible and when to stand his ground. Though he had campaigned as a balanced-budget Republican of the Eisenhower flavor, he embraced tax reduction after his election in order to promote economic recovery. His political skill manifested itself in building coalitions (the so-called "Reagan Democrats") with small business and good old-fashioned patriots who rejected the prevailing elitist view that America was morally equivalent to the
+Soviet Union. 
+
+<p>
+
+   Reagan also knew how to compromise. He was decisive on principle and a superb manager. He knew that markets worked, people mattered, and freedom was superior in all respects to tyranny. This world view was marvelously uncomplicated by nuance, ambiguity, self-doubt, or moral relativism. Unlike Carter, he did not read Christopher Lasch and then give speeches about cultural narcissism. Reagan was honest and unashamed to be a self-made 
+American success story.
+
+<p>
+
+   Reagan was, in short, everything that the president he defeated was not. He was also a living repudiation of the narcissistic, self-indulgent excess of the Ô60s whose practitioners remain embedded in the media and 
+the elite universities.
+
+<p>
+
+   So why does Reagan matter? The left still has not entirely come to grips with Reagan's achievements, only grudgingly acknowledging the end of stagflation and victory in the Cold War. This acknowledgment is invariably coupled with rationalizations: the Fed tamed inflation, the Soviet Union was going to collapse of its own accord. (Few papers emanating from the left predicted the inevitable collapse of communism prior to the fall of the Berlin Wall, but they must have been keeping this 
+insight to themselves.)
+
+<p>
+
+   What we do get are allegations that budget deficits grew substantially and income inequality became more pronounced. As to the first, the usual reply is that Reagan's tax cuts significantly increased Federal revenues -- it was the bad old Democrats who refused to restrain spending who are to blame. I have a different view -- Reagan wanted to rebuild our defenses. He acceded to Democrats' demands for increases in domestic non-defense spending as part of the price for achieving his program. 
+
+<p>
+
+   Deficits ensued, and they were worth it. A tiny percentage of borrowed GDP was a significant contributor to victory in the Cold War, the removal of the threat of global thermonuclear war, and freedom for hundreds of millions of people in the Eastern Bloc. As to the second -- income inequality did grow: that is the result of a system in which risk-taking and innovation are rewarded. 
+
+<p>
+
+   After Reagan, the left has pretty well resigned itself to the primacy of markets. That is a good thing. When you cause a political shift so significant that the other side has to adopt your positions, you have done well.  
+
+<p>
+
+Reagan recognized that individuals matter and can make a huge difference for better or for worse. Reagan mattered in the best sense. After having attained the age of 68 in 1980, he could have stayed on his ranch in Santa Barbara and enjoyed the fruits of a successful and full life.   
+
+<p>
+
+   That he foreswore retirement in pursuit of greater goals has served to benefit hundreds of millions of human beings whose freedom and tangible ability to pursue happiness was simply unimaginable when Reagan became President. Reagan's achievements were driven by virtues that are frequently undervalued by elite universities: honor, truthfulness, decency, and moral clarity. He ultimately succeeded because the ideas in which he believed - freedom, limited government, the primacy of the individual over the state, and strong national defense - were more durable than those of the elites 
+who dismissed him.  
+<p>
+
+<i>
+   David Cavicke received a J.D. from Stanford Law School in 1989.  He is currently senior counsel for  the U.S. House of Representatives Energy and Commerce Committee.</i>
+
+<p>
+
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:24:09 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

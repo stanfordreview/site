@@ -1,0 +1,234 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVI - Issue 6 - Book Review</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Word From The Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Book Review</font></a><br>
+
+<a href="../Cartoon/index.shtml" onMouseOver="window.status='Cartoon'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Cartoon</font></a><br>
+
+<a href="../Essay/index.shtml" onMouseOver="window.status='Essay'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Essay</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Essay/index.html" onMouseOver="window.status='Alec Rawls in Essay'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="index.html" onMouseOver="window.status='Michael New in Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael New</font></a><br>
+
+<a href="../The_Last_Page/index.html" onMouseOver="window.status='Michael Toth in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Toth</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.html" onMouseOver="window.status='Matthew Barrett in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXVI, Issue 6
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+June 6, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVI'; return true" onMouseOut="window.status=' '; return true">Volume XXVI</a> - <a href="../index.html" onMouseOver="window.status='Issue 6'; return true" onMouseOut="window.status=' '; return true">Issue 6</a> - Book Review
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Book Review
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Reagan: In His Own Hand
+</font><br>
+
+<b>by Michael New</b><br>
+Contributing Writer<p>
+
+
+	During the past 10 years, a number of conservative activists and scholars have undertaken substantial efforts to improve the reputation and standing of our 40th President, Ronald Reagan.  While President Reagan has always been held in high esteem by conservatives, these scholars and activists have attempted to achieve a greater recognition for Reagan and his accomplishments while President among members of the media and the general public.  Among the most notable of these projects include Grover Norquist's Reagan Legacy Project, whose goal is to have a monument dedicated to President Reagan in each of the 50 states and  Dinesh D'Souza's 1997 book <i>Ronald Reagan: How an Ordinary Man Became an Ordinary Leader</i>.  <p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVI/Issue_6/Book_Review/images/reagan_book.jpg" width=155 height=237 alt="Reagan: In His Own Hand" align=left>
+
+	The recent book, <i>Reagan in His Own Hand</i>, is one of the most successful of these efforts, largely because it gives readers the opportunity to witness the wisdom and insight of Ronald Reagan at a very personal level.  Edited by Hoover Institution Fellows Martin Anderson, Annelise Anderson, and Kiron K. Skinner, this book is a compilation of one minute radio commentaries that Reagan wrote and delivered himself after he left the Governor's office in 1975, but before he declared his intention to seek the Republican nomination for President in 1980.  These commentaries deal with a wide range of foreign and domestic policy issues and according to one pundit, "have finally dispelled the notion once and for all that Reagan was an amiable dunce."<p>
+
+	Paradoxically this book is both uplifting and depressing.  While reading the book, one can see the immense progress that has been made on many of the issues that Reagan wrote about between 20-25 years ago.  However, in other areas little progress at all has been made and in still others the situation has actually deteriorated since the mid 1970s.<p>
+
+	One policy area where immense progress has been made since the 1970s is that of defense spending. Now it is true that many elected officials today make the case for increased spending on defense in order to increase compensation for America's soldiers and to begin construction of a missile defense system.  However, the infrastructure of America's military is still in far better shape today than it was during the years of neglect that immediately followed the conclusion of the Vietnam War.<p>
+
+	In his commentaries, Reagan makes the case for a strong defense and increased defense spending through both historical examples and through number of detailed stories.  He argues against negotiated missile reductions by demonstrating how the Soviet Union and other totalitarian powers have never abided by the terms of previous arms control agreements.  Reagan also provides numerous examples of disabled fighter planes that are supposed to serve as America's first line of defense, and training runs that fail due to malfunctioning equipment or outdated weapons.  All of these stories effectively demonstrate the importance of strengthening America's military.<p>
+
+	Another positive development since Reagan's commentaries is the fall of communism.  Communism collapsed in the Soviet Union and in Eastern Europe by the early 1990s and is now relegated to such rogue nations as Cuba, Vietnam, and North Korea.   However, communism was flourishing during the mid to late 1970s.  Shortly after the fall of Vietnam in 1975, Communists had assumed control of at least eight additional countries.  In his commentaries Reagan consistently makes the case for opposing the communists, both strategically and in humanitarian terms.<p>
+
+	These particular commentaries provide good background for anyone interested in foreign policy and defense issues.  We can see first hand what an important and loyal ally Taiwan is, as Reagan describes how Taiwanese spies were adept at providing the United States with confidential information from the Chinese government. This commentary also serves the useful purpose of showing the low regard  that China held toward the United States and its allies even in the 1970s.  Finally, Reagan also shows us at a very personal level the human rights violations that occur communist countries.  He gives examples of students who were sent to detention centers because they gave their teacher a gift and families who were jailed or sent to mental institutions because they sought a visa to leave the misery that surrounded them in the U.S.S.R.<p>
+
+	However, in some cases we can also see how the current thinking on many issues has taken a turn for the worse. For instance, when was the last time you heard an elected official denounce some kind of government program?  Politicians and elected officials are always willing to rail against waste, fraud, and inefficiency.  However in this era of "compassionate conservatism" very rare is the politician who takes issue with some kind of government program in its entirety.<p>
+
+However, in many of his columns, Reagan does exactly that, arguing against food stamps, welfare, and other programs.  Again his stories drive home the point exceptionally well.  He talked about how new welfare  guidelines, which made college students, even those with affluent parents, eligible for food stamps.  He also mentions how the U.S. Government is sending welfare  and social security checks to people who do not even reside in the United States. The much maligned 'welfare queen' a Chicago woman who was receiving over 50 welfare checks at taxpayer expense receives a mention in one of Reagan's commentaries as well.<p>
+
+	Reagan devotes a lot of time to criticizing such mismanaged government programs and state intrusions in the economy.  However at the same time, he neglects social issues.  For instance, not a single one of his commentaries deal with the subject of homosexuality.  While issues surrounding gays held less salience during the 1970s, it is still somewhat surprising that Reagan chose to altogether neglect them during his weekly commentaries.<p>
+
+	Similarly, only one of his commentaries deals with the topic of abortion, and this commentary is particularly disappointing.  During Reagan's first term as governor first and before Roe vs. Wade was decided, Governor Reagan signed a bill into law that allowed women to obtain abortions if their pregnancy endangered their health.  However, this health exception was poorly defined and the bill had the effect of  virtually legalizing abortion on demand throughout the entire state of California. <p>
+
+	However, in this commentary, Reagan tries to portray this particular bill as a pro-life piece of legislation that reaffirmed the personhood of the unborn.   Reagan's  reluctance to detail the consequences of this bill is understandable.  After all, Reagan intended to run for President and acknowledging that he signed into law a bill that expanded abortion rights would have certainly hurt his chances in the Republican Presidential Primaries in 1980.  Nonetheless, this particular commentary still struck me as being a little disingenuous.<p>
+
+	The final part of the book is perhaps the most interesting.  It is a compilation, not of Reagan daily radio commentaries, but instead of Reagan's other writings, including papers he wrote as a student, speeches he gave as a political candidate and Presidential addresses.  The final section even includes a letter that he took the time to write while Governor to the current editor of the <i>Pegasus</i>, Eureka College's campus newspaper, who openly criticized Governor Reagan's part  in the recent dedication of a campus field house.<p>
+
+	While reading many of these speeches in the final part of the book, I noticed a striking similarity between the statements he made as President and his daily radio commentaries. There is extremely little in the way of incendiary rhetoric, ideological posturing, or shrill demonizing of partisan adversaries in these speeches.  Instead Reagan consistently conveys an optimistic tone, coupled with solid common sense examples of how government programs are often failing people and how conservative solutions would often be preferable.  Though I am a little too young to remember Reagan's presidency in any great detail, The uplifting nature of many of these speeches and commentaries demonstrated why Reagan was so adept at using television and media to communicate his vision to the American people.  All in all, modern day Republican leaders would do well to read this book and learn from both Reagan's policy prescriptions and the appealing manner in which he conveyed those ideas to the American people.<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:04:19 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

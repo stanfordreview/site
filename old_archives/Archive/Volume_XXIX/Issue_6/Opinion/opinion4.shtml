@@ -1,0 +1,304 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXIX - Issue 6 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word From The Editor</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion4.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Bob Sensenbrenner in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob Sensenbrenner</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Charles Hallford in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Harrison Osaki in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Jeffrey Lonsdale in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jeffrey Lonsdale</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='Chris Fish in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Fish</font></a><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Piotr. H. Kosicki in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr. H. Kosicki</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Silvia Cruz in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Silvia Cruz</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXIX, Issue 6
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 13, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXIX'; return true" onMouseOut="window.status=' '; return true">Volume XXIX</a> - <a href="../index.html" onMouseOver="window.status='Issue 6'; return true" onMouseOut="window.status=' '; return true">Issue 6</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Tax Exemptions for Investment Income are Anti-Natalist
+</font><br>
+
+<b>by Alec Rawls</b><br>
+Senior Staff Writer<p>
+
+The Bush administration is proposing two tax cuts that aim to exempt investment income from "double taxation." One would exempt dividend income from taxation, and the other would broaden the individual retirement account program to cover more types of individual savings in larger amounts. If either is passed, the effect will be a drastic shift of liquidity from young to old that will greatly depress child-bearing in America. Social Security is already waging war on the young. That burden is about to be doubled. Stand up and fight, kids. Your necks are on the block.
+
+<p>
+
+
+On the surface, the tax changes look sensible. Take dividend income. It is currently taxed the same way as earned income, while capital gains are taxed at a much lower rate. This gives shareholders a tax-related reason to prefer companies that retain earnings rather than pay them out as dividends. 
+As a result, companies are flush with cash, which company officers can squander or loot, options that have become prominent phenomena in recent years. Dividends should not be discouraged. They yield direct information about corporate performance, while retained earnings can serve as a rug under which a lot of dirt can be swept. Government should not discourage retained earnings, either. It should STAY OUT of the social engineering game.
+
+<p>
+
+Now pull back and look at the forest. Yes, treatment of capital gains and dividend income should be equalized, but by fully taxing both, not by exempting both. The fundamental conservative tax principle is that taxes should be broad-based and low. 
+
+<p>
+
+Narrowing the tax base by granting exemptions has two perverse effects. First, it causes tax rates on the taxed portion of income to rise. Second, it constitutes improper social engineering, using tax incentives to meddle with what are properly private choices. 
+
+<p>
+
+Inventing a new exemption to match an existing exemption is trying to make a right out of two wrongs. The tax base is narrowed even further, causing tax rates to rise even correspondingly. 
+
+<p>
+
+Given the size of these exemptions, the effect will be disastrous. Historically, total income has consistently broken down into about 2/3 labor income and 1/3 return to capital. If all income is taxed the same way, taxes on labor will supply 2/3 of tax revenue.
+
+<p>
+
+If capital income is exempted from taxation, taxes on labor will have to foot the entire tax bill, a 50% tax increase. 
+
+<p>
+
+And - have no doubt - just as lower taxation of capital gains caused savings to flow into "growth stocks" - companies that retained their earnings - so too exemption for dividend income will drive investment to seek out that tax advantage until ALL capital income is untaxed. Labor taxation WILL be 50% higher than under a broad-based tax.
+
+<p>
+
+The social engineering implications of this change are ugly indeed. Just look at who receives capital income. It is the old. People borrow when young, pay off debts, and accumulate assets in their prime working years, then live off of capital income when they retire. 
+
+<p>
+
+Thus, tax exemption for capital income creates a huge shift in liquidity from youth to old age, exactly the opposite of what people are trying to accomplish when they borrow in youth and spend their savings in their old age. Even worse, making this change in midstream creates a huge transfer of income from the young to the old.
+
+<p>
+
+Take the best case scenario. To look at liquidity effects independently of distributional effects, suppose that parents take their tax windfall and use it to increase the inheritances they pass on to their children. 
+
+<p>
+
+The young are then not getting completely screwed over. They get the money eventually - just not until they turn sixty and their parents die. Instead of having money - their own money, of course - when they are young and could use it to buy houses and support families, people have less money to spend on making a life and more to spend on retiring from it.
+The worst effect is that the young won't be able to afford children during the relatively short period when they are biologically fit for making them. A tax exemption for capital income is profoundly anti-natalist. 
+
+<p>
+
+Non-conservatives still operate under the delusion that human reproduction does more harm than good, but conservatives are alert to the developing tragedy of western population implosion. An anti-natalist tax policy from supposedly conservative policy-makers indicates a terrible lack of vital economic understanding.
+
+<p>
+
+Defenders of the dividend exemption declare that taxation of dividends constitutes "double taxation," since the same corporate income is also taxed through the corporate profits tax. Their perspective is analogous to looking at individual trees rather than the forest, and, on that level, they seem to be making perfect sense. 
+
+<p>
+
+There IS inefficient double taxation. At the forest level, however, it is not the dividend tax that should be eliminated but the profits tax. The corporate profits tax is the epitome of a narrowly based tax that creates large distortions. 
+Not only is the tax high - 35% - creating a large incentive to evade it, but corporations have the resources to evade it, both by strategically distorting their behavior and by lobbying Congress for special exemptions. As a result, the small amount of money that the profits tax raises pales besides the distorted harm it creates. 
+
+<p>
+
+I can hear the left squawking now: "You would let these squanderous corporate fat-cats get away without paying taxes?" But, far from reining in indulgent corporate behavior, the profits tax creates it. Every $300 night at a fancy hotel, every $700 business dinner, every $3000 first-class business flight, all are subsidized 35 cents on the dollar by taxpayers. Corporate luxury by government bribe, THAT is your profits tax. Flush it.
+
+<p>
+
+Eliminating the profits tax and treating capital gains and dividends the same way as earned income would yield a broad-based tax system but not much of a tax cut. To implement tax cuts, the proper target is a set of across-the-board rate cuts for all capital and labor income.
+
+<p>
+
+The recently proposed expansion of individual  retirement accounts is another perverse exemption and not the correct way to cut taxes. Analytically, it is very similar to the dividend exemption. At the tree level, it seems to make sense. Since favoring savings for retirement has an anti-natalist effect, allowing savings in general to receive the same tax exemptions that retirement savings presently receive would seem to be a step in the right direction. 
+
+<p>
+
+But the simple fact that favoring savings for retirement is especially bad does not mean that favoring savings in general is good. Per dollar, a general exemption for investment income does not do AS MUCH anti-natalist harm as a special exemption for retirement income, but it still does anti-natalist harm by shifting liquidity to the old. It is still governmental social engineering in the wrong direction that greatly expands the scope of this perversity.
+
+<p>
+
+We are already stuck with a horribly anti-natalist Social Security program that strips income from the young to support the old. Even if the young get the money back in their inheritances - a big if - it comes too late to support the productive part of their lives and greatly depresses their ability to afford children. The population implosion being experienced by all advanced societies has many causes, but surely one of the largest is the socialization of retirement. 
+If the socialization of retirement has caused people to stop saving for their own retirement to the point where tax incentives to save seem warranted, the obvious solution is to get rid of social security. Make it need-based rather than a retirement program because TWO WRONGS DO NOT MAKE A RIGHT! To compound the socialization of retirement with tax exemption for capital income would DOUBLE the anti-natalist burden that Social Security imposes on the young.
+
+<p>
+
+As for the distributional injustice of making working people pay all the taxes while those who live off of capital income pay nothing, we don't even have to go there. Tax exemption for capital income is even worse on other grounds. Instead of broad and low taxes that minimize distortions, we get narrow and high taxes that impose the worst possible distortion: the failure of Western society to perpetuate itself.
+
+<p>
+
+<i>
+Alec Rawls is writing a book on republicanism. Contact <a href=mailto:alec@rawls.org onMouseOver="window.status='E-mail Alec Rawls'; return true" onMouseOut="window.status=' '; return true">alec@rawls.org</a> or visit <a href=http://www.rawls.org/ onMouseOver="window.status='The web site of Alec Rawls'; return true" onMouseOut="window.status=' '; return true">www.rawls.org</a>.</i>
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:51:54 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

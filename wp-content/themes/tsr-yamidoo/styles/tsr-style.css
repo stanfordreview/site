@@ -1,0 +1,205 @@
+body {
+  font-family: 'times new roman', 'times', serif; }
+
+#page-wrap {
+width:980px;
+margin:0 auto;}
+
+#header {
+  margin: 14px auto 0;
+  width: 100%;
+  max-width: 980px; }
+  #header #topline {
+    text-align: right; }
+  #header #logo {
+    border-top: solid 2px black;
+    padding-top: 4px;
+    margin: 10px 0 6px;
+    clear: both;  }
+  #header #search {
+    margin-left: 10px;
+    float: right; }
+
+ul#nav {
+  float: right;
+  max-width: 980px;
+  margin: 5px auto 0;
+  font-size: 0.85em; }
+  ul#nav li {
+    display: inline; }
+    ul#nav li a {
+      padding: 5px 5px 0px; }
+      ul#nav li a:hover {
+        background-color: #ccc;
+        text-decoration: none; }
+
+/* ** SECTIONS ** */
+#sections_wrap {
+  background-color: #871414;
+  border: solid 2px black;
+  width: 980px;
+  margin: 0 auto; }
+
+ol#sections {
+  padding: 3px 6px 3px 10px;
+  margin-top: 0px; }
+  ol#sections li {
+    display: inline;
+    margin: 0 14px; }
+    ol#sections li a {
+      font-family: 'georgia';
+      padding: 6px 4px;
+      color: white !important;
+      font-size: 1.1em;
+      text-decoration: none; }
+      ol#sections li a:hover {
+        text-decoration: underline; }
+  ol#sections #search {
+    float: right; }
+
+/* ** SIDEBAR ** */
+#sidebar .image .caption {
+  padding: 4px 10px 10px;
+  font-family: 'helvetica','arial',sans-serif;
+  font-size: 0.9em; }
+
+/* ** CONTENT ** */
+#content-wrap {
+  margin: 20px auto 0;
+  width: 100%;
+  max-width: 980px; }
+  #content-wrap h1 {
+    font-weight: bold !important;
+    font-family: 'georgia'//'book antiqua','palatino','palatino linotype' //'times new roman', 'times'//'garamond', 'adobe garamond', 'adobe garamond pro'; }
+
+#featured-articles {
+  float: left;
+  width: 476px; }
+  #featured-articles h1 {
+    font-size: 1.5em; }
+  #featured-articles .featured-article {
+    float: left;
+    width: 228px;
+    height: 285px;
+    margin-left: 10px; }
+    #featured-articles .featured-article:last-child {
+      width: 216px;
+      margin-left: 10px;
+      padding-left: 10px;
+      border-left: solid 1px #000; }
+
+h1, h2, h3, h4 {
+  font-family: 'georgia'; }
+
+.column h4, .column_last h4 {
+  display: block;
+  color: white;
+  background-color: #871414;
+  border: solid 1px black;
+  padding: 1px 6px;
+  margin: 5px 0;
+  width: 177px !important;
+  font-weight: bold;
+  font-size: 0.75em;
+  font-family: 'helvetica', 'arial';
+  text-transform: uppercase; }
+
+/* RECENT ARTICLES */
+#articles .article {
+  min-height: 90px; }
+
+#articles h3, .post h3 {
+  background-color: white;
+  font-size: 2.4em;
+  color: black;
+  font-family: 'georgia','times new roman';
+  text-transform: none;
+  margin: -3px 5px 13px 0px;
+  padding: 0 0 3px 4px;
+  border-bottom: solid 2px black;
+  border-width: 0 0 2px 0;
+  float: none; }
+
+.post h3 {
+  padding: 11px 0 11px; }
+
+#articles.frontpage .article {
+  min-height: none !important; }
+#articles.frontpage h3 {
+  background-color: #871414;
+  padding: 7px;
+  margin: 13px 5px 0px 13px;
+  float: left;
+  color: white;
+  border: solid 1px black;
+  text-transform: uppercase;
+  font-family: 'helvetica','arial',sans-serif;
+  font-size: 0.85em; }
+
+#archives_link {
+  margin: -10px 10px 10px;
+  clear: both; }
+  #archives_link a {
+    display: block;
+    padding: 3px;
+    font-size: 1.4em;
+    font-weight: bold; }
+
+.widget h3 {
+  border-top: 3px solid #ccc;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 8px 0 8px 10px;
+  text-transform: uppercase; }
+
+/* ********************************** */
+
+
+#searchform {
+  padding: 1px; }
+
+#s {
+  width: 150px;
+  padding: 1px 2px;
+  margin-right: 5px; }
+
+#footer {
+  clear: both;
+  border-top: solid 2px black;
+  margin-top: 30px;
+  padding-top: 30px;
+  float: none;
+  width: 980px;
+  padding: 7px 5px; }
+
+#footer_right {
+  text-align: right;
+  float: right;
+  margin-bottom: 15px;
+  font-family: 'times', 'times new roman';
+  padding-top: 0; }
+  #footer_right a {
+    text-transform: none;
+    border-bottom: none; }
+  #footer_right li a {
+    padding: 3px; }
+    #footer_right li a:hover {
+      background-color: #ccc; }
+
+#footer .ads {
+  float: left;
+  width: 500px; }
+  #footer .ads h2, #footer .ads ul, #footer .ads li {
+    display: inline; }
+  #footer .ads h2 {
+    font-size: 1.0em;
+    font-weight: bold;
+    margin-right: 8px; }
+  #footer .ads a {
+    font-weight: normal !important;
+    border: none !important;
+    text-decoration: underline; }
+  #footer .ads li:after {
+    content: "  -  "; }
+  #footer .ads li:last-child:after {
+    content: "" !important; }

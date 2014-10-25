@@ -1,0 +1,436 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - May 26, 2006</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style3 {font-family: Tahoma; font-size: 12px; color: #000000; font-weight: normal; font-style: italic; }
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXVI, Issue 9</div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">May 26, 2006</div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">FEATURES</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Promoting Science and Useful Arts: The Growth of Copyright Since 1976</p>
+              <p class="byline">by <a href="http://www.stanfordreview.org/About/Staff/omkar.shtml">Omkar Muralidharan </a></p>
+              <p class="byline"><em>Managing Editor </em></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>In early 1971, a cartoonist named Dan O&rsquo;Neill and his colleagues &ldquo;decided that what America truly needed was the destruction of Walt Disney&rdquo; (Levin). They drew raunchy, unauthorized comics featuring Mickey and friends doing drugs, having sex, and generally acting unDisneylike. Predictably, Disney sued for copyright infringement. Given the comics&rsquo; insignificant sales and the nonexistent potential for confusion with real Disney comics, an observer might think the case an easy free speech decision. Disney, however, won in District Court and won on appeal. The Supreme Court denied certiorari. Finally, as Levin wrote, &ldquo;in 1979 O&rsquo;Neill stood before the bar, 38 years old, unemployed, with total assets of $7, a 1963 Mercury convertible, a banjo, and the baggy gray suit he was wearing. Disney, which already had a $190,000 judgment against him, sought to have him fined another $10,000 and imprisoned for six months.&rdquo; O&rsquo;Neill settled and agreed never to draw Mickey again.</p>
+              <p>The First Amendment guarantees freedom of speech and of the press. The Constitution nevertheless allows Congress to abridge this freedom in order &ldquo;To promote the Progress of Science and useful Arts.&rdquo; As this anecdote shows, free speech and copyright are often in tension: Congress must balance the public&rsquo;s free speech rights against its cultural and economic interest in creative work. Since 1976, however, the balance has shifted dramatically in favor of copyright holders, with longer, more restrictive copyrights, harsher penalties for infringement, and growing encroachments on our freedom. This trend reached a peak in 1998 with the Sonny Bono Copyright Term Extension Act and the Digital Millennium Copyright Act, which have strengthened copyright protection to an unprecedented degree.</p>
+              <p><strong>A Brief History of Copyright</strong></p>
+              <p>Copyright was first established in the United States with the Copyright Act of 1790, which allowed for a term of 28 years. The Constitution explicitly described copyright as a statutory right created for public benefit: &ldquo;The Congress shall have Power [...] To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries&rdquo; (Article 1, Section 8).</p>
+              <p>Despite minor extensions of copyright term, the law was essentially the same until, according to Barbara Ringer, U.S. Register of Copyrights, Congress &ldquo;made a number of fundamental changes in the American copyright system&rdquo; with the Copyright Act of 1976. It increased the term from 56 years to the life of the author plus 50 years, extended copyright protection to many new types of work, published or not, and made copyright automatic, eliminating registration requirements. The Act passed almost unnoticed in the mainstream media, though Ringer, called it a &ldquo;balanced compromise that comes down on the authors&rsquo; and creators&rsquo; side in almost every instance&rdquo; and noted that &ldquo;there has been a shift in the philosophical base on which the copyright law of the United States rests.&rdquo;</p>
+              <p>After this seminal act, copyright protection exploded. In 1988, the U.S. adopted the Berne Convention, an international copyright treaty that explicitly recognizes the &ldquo;moral&rdquo; right of an author &ldquo;to object to any distortion [of...] the said work.&rdquo; Next, in 1992, Congress made renewal of copyright automatic, despite the fact that, according to noted economists and legal scholars William Landes and Richard Posner, &ldquo;most copyrights depreciate rapidly and therefore that few would be renewed if even a slight fee were required.&rdquo; Between 1994 and 1997, it enacted a flurry of small changes. Then, in late 1997, Congress passed the No Electronic Theft Act (NETA), which increased infringement penalties and made non-commercial, individual copyright infringement a criminal offense.</p>
+              <p>The trend toward stronger protection and harsher penalties peaked in October 1998 with two major amendments to the copyright act. The first was the Sonny Bono Copyright Term Extension Act (SBCTEA), which increased the term of copyright yet again, to the lifetime of the author plus 70 years. This extension, like all previous extensions, applied retroactively to any work under copyright when the bill was signed. The second was the Digital Millennium Copyright Act (DMCA), which, according to copyright critic David Bollier, &ldquo;[made] it a crime to circumvent any technical measure that controls access to a copyrighted digital work. In addition, it [made] it a crime not only to make or distribute technologies that can bypass copyright law, but even to share information about them.&rdquo; Copyright law since 1998 has dealt largely with the aftermath of these two laws; Eldred v. Ashcroft upheld the constitutionality of the SBCTEA as recently as 2003.</p>
+              <p>It is not obvious why this is a free speech issue&mdash;copyrights regulate commercial speech, which is less protected by the First Amendment, and arguably less important to our rights. In practice, though, copyrights are often used to suppress criticism, stifle creativity, and claim ownership over deeply significant parts of our common culture. David Bollier&rsquo;s Brand Name Bullies gives a wealth of examples to show how the expensive American legal system and rich corporate legal departments make copyright dangerous: The Nation was successfully sued for publishing information from Gerald Ford&rsquo;s forthcoming memoirs; Martin Luther King&rsquo;s estate successfully defended its copyright on Dr. King&rsquo;s &ldquo;I have a dream&rdquo; speech; the music industry publicly challenged Princeton Professor Edward Felten to break their copyright protection, and threatened him under the DMCA when he succeeded. Most disturbingly, the book exposes a general pattern: although many abuses of copyright law are struck down in court, the cost and unpredictability of litigation mean few can oppose wealthy copyright holders with dubious claims. Expansion of copyright thus has chilling effects, since it makes more and more speech a potential target for litigation. It does this first by keeping works out of the public domain, where they would be free for all to use, and second, by strengthening copyright protection, making previously legal use ambiguously legal or even illegal. Much of this problem stems from the American legal system and not from copyright law per se, but it remains that stronger copyright laws hurt free speech.</p>
+              <p><strong>The Technological Argument</strong></p>
+              <p>The preceding section demonstrates that copyright protection has increased dramatically since 1976, with important consequences for free speech. In this section, I will discuss the first of two causes for the trend: technological advancement has made copyrights more valuable to copyright holders, but also more vulnerable to infringement.</p>
+              <p>To understand why technology is so important, we have to understand the economics of copyright law. The public and copyright owners both have economic interests in copyright law &ndash; strong copyright laws make it more expensive for the public to use copyrighted work and enhance the value of the copyright holders&rsquo; copyrights. These economic interests pull in opposing directions. The public&rsquo;s interest, however, is diffused among many people, while copyright holders have a concrete interest in stronger laws. These factors mean that copyright holders&rsquo; economic interests will tend to dominate others&rsquo; interests when legislation is framed, since few have enough economic incentive to oppose them.</p>
+              <p>What are the copyright holders&rsquo; interests? They clearly benefit from stronger copyright protection and longer terms, since these strengthen their monopoly over their work. In fact, they benefit doubly from longer terms: every term extension thus far has applied retroactively. As Landes and Posner write, &ldquo;[S]ince the costs of creating the existing works have already been borne, the additional revenue generated by the extension of their copyrights is almost entirely profit.&rdquo; But they also have an interest in looser copyright laws&mdash;all work draws on previous work, and stronger copyright laws &ldquo;increase those input costs.&rdquo; Disney, for example, needs its monopoly on Mickey Mouse, but it also needs cheap stories from the public domain to create works like Snow White. Before 1976, these interests had reached a sort of equilibrium.</p>
+              <p>Technological change, however, disrupts this equilibrium. New technologies make copyrighted works more valuable, since each work can be exploited in new ways and distributed more easily. The effect on existing works is especially dramatic&mdash;like term extensions, new technologies increase their value retroactively, making copyright holders almost pure profit. Copyright holders benefit handsomely from technological growth, so they push harder for longer copyrights (to exploit more growth) and broader protection (to cover new uses of works and new sorts of work).</p>
+              <p>But new technologies also make copyright more vulnerable. Each technological development that makes commercial distribution easier makes infringement easier as well: it takes considerable effort to copy a film reel, less effort to copy a videocassette, and very little effort to download an illegal digital copy of a movie from halfway around the world. Easier infringement poses a deep threat to copyright holders&rsquo; monopolies over their work. Copyright holders are thus motivated to fight for restrictions on new technology. The net result is that new technology raises the stakes for copyright holders&mdash;copyrights become more lucrative, but they also require more protection. Combining this general observation with &ldquo;technological advances that make exact copying of digital files virtually costless and virtually instantaneous&rdquo; (Landes and Posner) creates a massive incentive for copyright holders to push for more copyright laws.</p>
+              <p>These factors can be seen clearly in Sony v. Universal Studios (1984). Sony developed and created the Betamax videocassette recorder (VCR), which could be used to record and play back copyrighted television shows. As prominent copyright extension opponent Larry Lessig chronicled, the film industry sued, arguing that &ldquo;Sony was therefore benefiting from the copyright infringement of its customers.&rdquo; Jack Valenti, an industry spokesman, famously testified to Congress that &ldquo;The VCR is [to the movie industry] as the Boston strangler is to women home alone.&rdquo; After the Supreme Court ruled for Sony, finding that VCRs had substantial legitimate uses, the industry pushed hard for legislation requiring copyright protection in VCRs, but failed. Despite Valenti&rsquo;s dire predictions, Bollier shows &ldquo;the VCR (and its successor, the DVD player) ended up becoming a lucrative boon for Hollywood [...] By 2003, sales of videocassettes and DVDs brought in $22.5 billion, or more than twice as much money as box-office receipts.&rdquo;</p>
+              <p>As predicted by the economic analysis, this case typifies copyright holders&rsquo; responses to new technologies&mdash;they decry possibilities for infringement, push for restrictive laws, and seize new opportunities to profit from their work. Indeed, this strategy was repeated in response to the Internet, but this time with devastating legislative success: the period of quickest copyright expansion from 1994 to 2000 coincided with the growth of the Internet, and the 1998 peak came with the dot-com boom. Copyright holders&rsquo; attempts to exploit advancing media technology while protecting their works at least partially explain the growth in copyright law since 1976.</p>
+              <p><strong>The Culture of Copyright</strong></p>
+              <p>Yet, as Landes and Posner comment, rapid technological growth may explain the expansion of copyright protection in the 1990s and the peak in 1998, but does not explain why 1976 should mark a shift in copyright law. This can be explained by changes in the perception of copyright in popular and legal culture.</p>
+              <p>Copyright, as discussed previously, was first envisioned in the United States as an explicitly statutory right. As Craig Dallon recounts in his history of copyright, James Madison, the main proponent of the copyright clause and the Copyright Act of 1790, &ldquo;consistently viewed copyright as a grant of a limited monopoly, which served an important public purpose.&rdquo; Even Noah Webster, who advocated perpetual copyright, &ldquo;understood that there was no recognized perpetual common law copyright in America.&rdquo; But by 1998, this view of copyright had largely given way to a natural rights conception&mdash;in hearings for the SBCTEA, &ldquo;Witnesses and members of Congress argued that authors&rsquo; interests in their works, in fairness, should be treated like any other property.&rdquo; What happened?</p>
+              <p>One answer is that copyright, and intellectual property in general, has become much more important than it was in 1790. The same technological factors that make copyrights more valuable to copyright owners make intellectual property more important to the economy as a whole. According to the Bureau of Economic Analysis, the &ldquo;Information&rdquo; (including most content creation industries) and &ldquo;Professional, scientific, and technical services&rdquo; industries accounted for 4.01% of U.S. GDP in 1947; this share grew to 6.47% in 1976, and 10.43% in 1997. And this only accounts for a narrow range of industries that only produce intellectual property &mdash; nearly every company in every industry produces valuable intellectual property. Intellectual property has become dramatically more important to our economy over the past 30 years.</p>
+              <p>According to Larry Lessig, ordinary people have always thought of copyright as a natural right of an author over his or her work. This view, however, has become more strongly held as more people rely on intellectual property for their livelihoods. Since they are increasingly surrounded by those who do intellectual work, they begin to think that, as Congressman Delahunt said in hearings for the SBCTEA, &ldquo;[t]he overarching premise of copyright law is that those who enrich our culture with the fruits of their intellect are no less entitled to be compensated than those who create more tangible products.&rdquo; The changing economy has made copyright seem increasingly natural and fair.</p>
+              <p>This cultural effect is clearly seen in the rhetoric of copyright. Lessig argues the term intellectual property itself is significant: &ldquo;Property,&rdquo; ordinary people think, is &ldquo;absolute and mine forever.&rdquo; [...] There thus emerges an equivalence in our culture between &ldquo;property&rdquo; and &ldquo;intellectual property.&rdquo;&rdquo; Following this idea, one would predict that copyright infringement would become popularly equivalent to theft. This is exactly what has happened. For example, during discussions of the revealingly named No Electronic Theft Act, Congressman Howard Coble said, &ldquo;there are a good number of Americans who enjoy stealing. Thievery, larceny, fraud, piracy, call it what you will.&rdquo; Congressman Bob Goodlette elaborated: &ldquo;The NET Act clarifies that when individuals sell pirated copies of software, recordings, movies or other creative works [...] such individuals are stealing. The legislation affirms the belief that intellectual property is no less valuable than real property.&rdquo; As Lessig said, &ldquo;the protectionists have been successful in getting the world to view copyright issues as a simple choice between theft or not.&rdquo; As copyright seems more and more natural to the public, so does longer, more restrictive copyright protection.</p>
+              <p>The rhetorical shift also explains why copyright laws seem to pass without significant opposition, and why regulation of new technologies has changed since the Betamax case. Lessig commented that when people think of copyright law as fair protection for artists, it becomes very difficult to oppose harsher copyright laws&mdash;anyone who is against artists&rsquo; rights is presumed to be a thief. With the VCR and previous new content technologies, large companies backed and legitimized technologies that were often used to infringe copyright. Since then, however, new technologies like peer-to-peer networks have been largely devoid of backers willing to fight content industries, and, according to Lessig, are thought by the public to be mainly used by geeks out to steal music. Unsurprisingly, they have fared worse than the VCR, and the public sees restrictions on them as a question of fairness. The changing public perception of copyright law has enabled its expansion.</p>
+              <p>Another reason for copyright expansion is change in the general attitude toward economic policy. Since 1976, there has been a general trend toward less government involvement in the economy, deregulation of industry, and freer markets. According to Lessig, the rise of free market ideology has accelerated the shift toward stronger copyright, since as Landes and Posner explain, &ldquo;Free-market ideology is friendly to property rights. In extreme versions of that ideology, the goal of economic liberalism is total commodification&mdash;everything of economic value is owned by someone.&rdquo; As the public moved right, Congress began to look to free-market economists for guidance. As a result, they strengthened all intellectual property rights to try and maximize the number of works produced and ensure optimum resource allocation.</p>
+              <p><strong>An opposing view of copyright growth</strong></p>
+              <p>This article has argued that technological development and changes in perception of copyright drove copyright expansion. Many economists, copyright holders, and policymakers argue that copyright was expanded since this was beneficial to American economic and cultural interests. Leaving aside both questions of fairness to authors and free speech, they present a purely economic justification for expanding copyright law, holding that introducing more property rights will maximize creative output and economic growth, and argue that this was correctly the reason for copyright expansion.</p>
+              <p>This explanation is unconvincing. First, their justification is flawed. Intellectual property is only property by analogy, and there is little reason to believe that this analogy holds very far. The usual benefits of markets do not necessarily apply to copyright, since it relies heavily on government interference. There is no economic consensus on copyright expansion: for example, 17 leading economists, including 5 Nobel Laureates, argue that &ldquo;it is highly unlikely that the economic benefits from copyright extension under the [SBCTEA] outweigh the additional costs.&rdquo; Economic analysis also ignores the cultural aspects of intellectual property. Mark Nadel, for instance, shows how copyright reduces the breadth of creative work, since &ldquo;marketing costs [decrease the] economic viability of borderline works.&rdquo; Indeed, he cites a wealth of respected studies by diverse authors to conclude that &ldquo;No empirical analyses have shown that copyright protection increases net output.&rdquo; Given the negative free speech effects of copyright law, uncertain prospects of higher economic growth are not sufficient justification for copyright expansion.</p>
+              <p>Second, Congress gave this justification only secondary importance when expanding copyrights. Congress very seldom considered the breadth, quality, or freedom of creative work when discussing copyright law, just dollar value and effects on established content companies. The Copyright Act in 1976 was justified as preparation to join the Berne Convention, which was supposed to further American economic interests; the laws of the 1990s responded to copyright holders&rsquo; panic at the Internet. The social cost of copyright was largely ignored&mdash;the economic interests of the public were assumed to coincide with wealthy copyright holders. The only economic factor Congress consistently examined was copyright holders&rsquo; revenue. The economic growth explanation for copyright expansion is weak at best.</p>
+              <p><strong>Conclusion</strong></p>
+              <p>In this article, I have shown that copyright law has expanded greatly since 1976, with a peak in 1998, and that this expansion creates serious free speech problems. I argued that this expansion was driven not by a desire to maximize economic and creative output, but by technological progress and changing social perceptions of copyright.</p>
+              <p>As I end, however, I want to look at this issue from a broader perspective. The idea of culture is more fundamental than questions of copyright, and perhaps more fundamental than free speech, since free speech is a means toward building a type of culture. Yet the growth of copyright law threatens our very conception of culture as a common enterprise, a shared pool of experience that each of us shapes and is shaped by.</p>
+              <p>Martin Luther King&rsquo;s &ldquo;I Have A Dream&rdquo; speech is one of the most significant speeches of the twentieth century, part of our heritage. But this speech has not truly become part of our common culture&mdash;Bollier reports that Dr. King&rsquo;s estate still holds the copyright, and sued CBS when they made an unauthorized documentary with &ldquo;lengthy excerpts from the speech.&rdquo; This pivotal speech remains &ldquo;in the marketplace&rdquo;: for the right price, Dr. King&rsquo;s estate allowed it to be used in advertisements for cellular phones. Do we really want a &ldquo;culture&rdquo; where Dr. King&rsquo;s birthday is a national holiday, but his most important speech can only be used by the highest bidder?</p>
+              <p>As Lessig argues, copyright is robbing culture of its lifeblood&mdash;collaboration. Truly vibrant culture requires the freedom to build on, modify, and borrow from others&rsquo; work. Copyright makes this process difficult, if not impossible. The creator must apply for permission to use each recognizable source of inspiration, and must change his or her work if denied. Copyright expansion is pushing us toward a sterile, lifeless &ldquo;culture&rdquo; where everyone pretends to work in isolation, afraid that others will hurl accusations of theft and sue for damages.</p>
+              <p>Is this necessarily our future? The economic factors that have driven copyright expansion show little sign of abating, but for the first time, there is hope on the cultural front. The development and spread of easy media creation tools means more and more people are running into copyright barriers, while peer-to-peer networks and other sharing technologies mean vast numbers of people infringe copyright frequently. All this means copyright law is beginning to be critically examined, despite the strong trend toward ever more restrictive laws. This combination of factors is pushing us toward a critical point&mdash;the future of copyright will be determined relatively soon. Only time will tell if we will choose a rich culture where people share freely, or a poor one where everything is owned.<br>
+              </p>
+              <p><br>
+                    <br>
+              </p>
+            <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

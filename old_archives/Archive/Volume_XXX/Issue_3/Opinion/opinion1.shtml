@@ -1,0 +1,317 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 3 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Beinin_Watch/index.shtml" onMouseOver="window.status='Beinin Watch'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Beinin Watch</font></a><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorial</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letters_to_the_Editor/index.shtml" onMouseOver="window.status='Letters to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letters to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Bob Sensenbrenner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob Sensenbrenner</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Charles Hallford in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Daniel Foley in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Daniel Foley</font></a><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial Board in Editorial'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Board</font></a><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Kathy Hart in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kathy Hart</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Laura Surma in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Laura Surma</font></a><br>
+
+<a href="opinion4.shtml" onMouseOver="window.status='Ming Zhu in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Ryan J. Wisnesky in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan J. Wisnesky</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 3
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+March 13, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+The End of Equal Protection
+</font><br>
+
+<b>by Alec Rawls</b><br>
+Opinions Staff<p>
+
+In the Affirmative Action case now before the Supreme Court, the State of Michigan is arguing that its law school's student body must be racially diverse in order for education to be effective. Preferential admission standards for black students, in other words, are not for the benefit of these black students; they are for the benefit of white students, who would otherwise not be privy to the augmented educational situation provided by black students. 
+
+<p>
+
+This, however, is simply not true. The idea that affirmative action is to meet the needs of whites, Jews, and Asians, not Blacks, Hispanics and Native Americans, is preposterous. Of course there are better arguments for affirmative action, based on redress for past discrimination, but the Court has already struck down racial preferences narrowly tailored for that purpose. Michigan's "help the whites" rationalization is the last gasp of a dying idea.
+
+<p>
+
+On the other side is the Fourteenth Amendment's equal-protection guarantee, the purpose of which was to create a race-neutral legal system in the wake of the Civil War. The University of Michigan, as a state entity, is directly accountable to this guarantee.
+
+<p>
+
+As with any other constitutional provision, equal protection can give way when it comes into conflict with other constitutional provisions. The Supreme Court has established that violations of the equal protection clause, in order to be legally permissible, must be "necessary" to a "compelling state interest." Thus the question now before the Court is whether a dishonest rationale can constitute a "compelling state interest" to violate the Fourteenth Amendment.
+
+<p>
+
+In pondering this question, it helps to know from where the "compelling state interest" test came. It was established in United States v Korematsu, where the Court upheld the World War II evacuation of Japanese-Americans from the Pacific coast region to inland relocation centers. The competing necessity in that case was impressively dangerous: the attack on Pearl Harbor.
+
+<p>
+
+<b>Internment</b><br>
+Imagine if, in the wake of the Islamist sneak attack on the World Trade Towers, 5,000 Arab-Americans had expressed their loyalty to Al-Queda by renouncing their American citizenship. This is what 5,000 Japanese-Americans did in the wake of the Japanese sneak attack on Pearl Harbor. Faced with vocal declarations of disloyalty by Japanese-Americans, President Roosevelt decided that, even if the majority of Japanese-Americans were loyal to America, there was no way to separate the loyal from the disloyal, making it prudent to evacuate all Japanese from the militarily sensitive Pacific coast region.
+
+<p>
+
+Roosevelt's judgment seemed to be confirmed when a substantial percentage of Japanese-Americans refused to swear loyalty oaths, or renounce loyalty to foreign potentates (as every naturalized citizen must do). In hindsight, he was wrong. The lack of sabotage by Japanese-Americans suggests that those who really were disloyal had all declared their disloyalty from the beginning. But who could have expected such a strange partial honor, when their native nation had just committed a most dishonorable attack and had for years been using mass murder to turn the entire Pacific Rim into what historians today term a "giant slave gulag"?
+Without the benefit of hindsight, Roosevelt's judgment was perfectly reasonable. Certainly the "no-no boys" had to be locked up (14,000 at Tule Lake), and who could have said that there was not an even worse element: a silent disloyalty, abiding its opportunities to stab at America's heart from the inside? 
+
+<p>
+
+
+<b>United States v. Korematsu</b><br>
+In Korematsu, the Court was faced with an extraordinarily grave conflict between two separate constitutional provisions. Equal protection for the civil rights of Japanese-Americans was judged by the constitutionally empowered war-fighting branches of government (Congress and the Executive) to be incompatible with their constitutional duty to defend the nation successfully.
+
+<p>
+
+While one can question whether the war-fighting branches were correct in this assessment, the Court's basic ruling was hardly contestable. With constitutional provisions in conflict, some balancing between them was necessary. As for who was to do the balancing, the Constitution gives this power to Congress and to the executive, to determine what is a matter of military necessity.
+
+<p>
+
+As ineluctable as Korematsu's basic ruling is, it is also haunted. For both brave and cowardly reasons, the Court in Korematsu established much broader precedents than were necessary to resolve the case. One of these precedents greatly expanded liberty. One threatened to greatly contract it.
+
+
+<p>
+
+<b>Korematsu's coup</b><br>
+Note that the Fourteenth Amendment is specifically stated as a restriction on state governments. It literally does not apply to the federal government. To follow the letter of the Constitution, the Court in Korematsu would have had to uphold internment on the grounds that equal rights were not protected! Civil liberties are likewise ill-protected outside of equal protection. There is, for instance, no constitutional right to vote in state elections; under equal protection, there is only the same right to vote as everyone else has. "No equal rights" really would mean, in many cases, "no civil rights."
+
+<p>
+
+The Court in Korematsu apparently couldn't stomach such a result and, without mentioning the Fourteenth Amendment, simply assumed that rights should be equal. It took race as a suspect category of differential treatment under the law, just as the Fourteenth Amendment would call for, and in so doing pulled off a tremendous coup, establishing the application of the Fourteenth Amendment to the federal government as well as to the states. Anyone who favors judicial activism in the service of liberty should sacrifice goats at the altar of Korematsu.
+
+<p>
+
+What was needed was a constitutional amendment requiring the federal government to be afforded equal protection, but there was no time for that. Given the circumstances, it is hard to fault the Court's lack of stomach, but it should have proceeded honestly. When, to its horror, it came across an untenable deficiency in the Constitution that it simply had to rectify, it should have said so. It could have proceeded on the grounds it thought it had to while calling on the people and the other branches of government to either ratify or renounce its judgement. 
+
+<p>
+
+The consequences of Court's failure to trust in truth and announce that it was ruling extra-constitutionally have been grave.
+
+<p>
+
+<b>Korematsu's mistake</b><br>
+The Court in Korematsu did the right thing and applied equal protection to federal law, but it did it in the wrong way, issuing a broad ruling instead of a narrow one. A narrow ruling would have been limited to the circumstances of the case at hand, where equal protection was in conflict with another constitutional provision, such as the war-fighting power. The Court instead created a wide-open test: that equal protection could give way to any "pressing public necessity," the progenitor of the current "compelling state interest" standard.
+In practice, this so-called "strict scrutiny" test has held up pretty well, but only because the Court has exercised restraint in locating "compelling state interests." The language itself suggests that constitutional rights can be overbalanced, not just by competing constitutional concerns, but also by any substantial state interests, including interests of the state governments.
+
+<p>
+
+The Court in Korematsu addressed a conflict between provisions of the federal Constitution. There was no reason for its ruling to encompass the interests of the states, which should have been left for future cases to decide. Could it have been constitutional to intern Japanese-Americans, not for the defense of the nation, but for some local California interest? That is a horrifying thought. Why in the world did the Court leave that barn door open?
+
+<p>
+
+Narrower language would have exposed the Court's coup in applying the Fourteenth Amendment to the federal government. If the court had ruled narrowly and only allowed race neutrality to be compromised when it was in conflict with constitutionally recognized federal interests, it would have come face to face with the fact that the Fourteenth Amendment specifically does not apply to federal law. To hide its coup, the Court had to use broad language, which brings us to our present peril.
+
+<p>
+
+<b>Grutter v. Bollinger</b><br>
+In the Michigan case (Grutter v. Bollinger) the Court is being asked to overthrow equal protection, not in deference to any other constitutionally protected interest, but for a trivial and even patently dishonest proclaimed state interest: that affirmative action for blacks is necessary to improve educational opportunities for white law-school students. How far we have come from Korematsu!
+
+<p>
+
+The only federal interest in the case is that the Fourteenth Amendment is being violated. On the other side is the State of Michigan interest, which if it is taken seriously must quickly break down. If diversity of race or other group affiliation is what matters, not individual merit, then what is next? Affirmative action for homosexuals, the disabled, the mentally disabled? Why not crack whores? If white law students are presumed to benefit so impressively from exposure to people who are superficially different, wouldn't exposure to people who are profoundly different make for an even better education?
+The only diversity that should count is diversity of merit, but this is the one diversity that our politically correct law schools, like the rest of academia, do their utmost to eradicate. Different opinions are not welcome. A left-wing professoriate got into the field and slammed the door behind it, using its positions of power to exclude all who believe in such heresies as that government power actually is limited by our constitutional system of limited enumerated powers.
+
+<p>
+
+It ought to be illegal to turn a government school into a state-funded indoctrination arm for a political faction. Whether any state school can be legitimate is a hard question, but these wholly owned subsidiaries of the Democratic Party are easy. They are blatant engines of tyranny. In Bollinger, we see how far this has gone.
+
+<p>
+
+<b>The wages of sin</b><br>
+If a dishonest representation of a local interest is allowed to count as a compelling state interest in the manner of Korematsu, then there is no more equal protection. The barn door is flat on the ground, offering no resistance to any proposed justification. What could possibly be flimsier than overt dishonesty?
+
+<p>
+
+Such is the price of the Court's failure to trust in truth in Korematsu and admit that it felt compelled to rectify a deficiency in the Constitution, provisional upon ratification or rejection by the rest of government and the people. To hide its coup it wrote too vague a test, and that test now threatens to undo the Fourteenth Amendment.
+
+<p>
+American constitutionalism has been the vehicle for three great advances in republican institutions. The Revolutionary War secured the system of limited enumerated government powers and protection for individual liberty.  The Civil War secured equal protection of the laws. Limited government is already gone. If the left prevails in Grutter v. Bollinger, equal protection will disappear this year.
+
+<p>
+
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:22:15 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

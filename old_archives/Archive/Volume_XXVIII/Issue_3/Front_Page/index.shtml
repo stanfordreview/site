@@ -1,0 +1,380 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVIII - Issue 3 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Andrew Wright in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='David Myszewski in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Henry Towsner in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Jason Rheins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jason Rheins</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Nels Hansen in Opinion and News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Ryan Wisnesky in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Will Hudson in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Will Hudson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVIII, Issue 3
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+March 14, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVIII'; return true" onMouseOut="window.status=' '; return true">Volume XXVIII</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Special Fee Groups Justify their $1.5 Million Budget
+</font><br>
+
+<b>by David Myszewski</b><br>
+Staff Writer<p>
+
+<table align=Left width=250>
+    <tr>
+        <td>
+<a href="http://www.stanfordreview.org/Archive/Volume_XXVIII/Issue_3/Front_Page/images/special_fee_chart_big.jpg" onMouseOver="window.status='Click for larger image'; return true" onMouseOut="window.status=' '; return true"><img src="http://www.stanfordreview.org/Archive/Volume_XXVIII/Issue_3/Front_Page/images/special_fee_chart_small.jpg" width=250 height=130 alt="Special Fee Chart" border=0></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i><a href="http://www.stanfordreview.org/Archive/Volume_XXVIII/Issue_3/Front_Page/images/special_fee_chart_big.jpg" onMouseOver="window.status='Click for larger image'; return true" onMouseOut="window.status=' '; return true">Click for larger image</a></i>
+        </td>
+    </tr>
+</table>
+
+
+Last year, 36 student groups attempted to obtain special fees, and all but one succeeded.  This year, with 53 student groups attempting to obtain special fees in the midst of a recession, special fees may be more difficult to acquire.  When both undergraduate and graduate groups are considered, the total special fee request adds up to $1,491,245.69.
+
+<p>
+
+ Most of the 17 student groups that are applying for special fees for the first time are relatively well established.  The Stanford African Students' Association, for example, has been in existence since 1981.  The Stanford Community Farm and the Stanford Alliance for Service Through the Arts (SASTA) were both established in 1997.
+
+<p>
+
+The Stanford Alliance for Service Through the Arts is seeking special fees primarily for financial stability.  The group previously ran solely on money it requested from the ASSU general funds.  This year, they applied for $6,000 from the general funds, the maximum that a group can request.
+
+<p>
+
+According to Jennifer Hsu, "Unfortunately, only about a third of that was granted. We ended up starting the year with a drastically, unexpectedly reduced budget that didn't allow for the conference we had hoped to organize for this spring, and left us unable to invite speakers we'd hoped to invite to campus--not to mention put increased strain on existing programs to maintain their operations. So for next year, we're hoping that applying for special fees will guarantee SASTA enough funds to not only maintain our programs, but also expand them and develop them further."
+
+<p>
+
+The Stanford Asia Technology Institute, which did not apply for special fees last year, also seeks financial stability.  According to Surag Mantri, director of ATI-Bangalore, "ATI is growing at an incredible rate. All three current sites, Bangalore, Shanghai and Tokyo were just added two years ago. A lot of our funding base comes from outside sources (high tech firms) and because of that our source of funding is not very stable. The largest component of our funding has come from the Stanford School of Engineering and the Vice Provost for Undergraduate Education. While these have been stable avenues of support they are certainly limited, especially in light of the current economic situation. The past funding we have gained from entrepreneurs in the Valley has been less forthcoming this year."
+
+<p>
+
+According to Fayelle Ouane, financial officer for the Stanford African Students' Association, the group decided to apply for the fees because it is developing several new projects.
+
+<p>
+
+"The most important one is the 'Write about Africa' project. It is a writing contest opened to all high school students of the surrounding area. We're going to have workshops in the East Palo Alto library for all interested students when [sic] we'll give them advice about where to look for sources and how to go about writing the essay."  Winners of the contest and their high schools would receive various prizes and donations.  In addition, the first prize winner would get his or her essay published in SASA's yearly publication.
+
+<p>
+
+"We're basically trying to get high school students to do research about Africa, since this is an area that is not emphasized in the high school curriculum."
+
+<p>
+
+The Stanford Community Farm wants special fees primarily to "expand and hire a part-time manager," according to Pepper Yelton, the financial manager for the group.
+
+<p>
+
+"The farm really needs a manager (perhaps a part-time student), as in the summer there are very few students here to take care of it. With a manager to sustain the farm over the summer, we could harvest a much larger amount of produce (summer is the main harvest season here).  This would allow us to better provide the Stanford community with food and would help us in starting our community supported agriculture program (CSA) that could eventually make us self sustaining."
+Still, the majority of the groups applying for special fees this year obtained special fees last year.  For those groups, the change in budget from last year takes on great importance.  According to Gina Moon, the special fees director, the ASSU assumes that inflation will cause a 2% increase in the budgets.  Groups were urged to pay particularly close attention to any increases above 10%.
+
+<p>
+
+Some groups made significant budget changes from last year's budget.  For example, the Black Student Union (BSU), which received $25,861 this year, is requesting $30,520 for next year, an 18% increase.
+
+<p>
+
+According to Donielle Newell, one of the BSU's co-chairs, "Our budget for this year was not enough for the many programs that we put on and we had to cut or alter some of the things that we were doing.  The budget that we got this year simply had underestimated the costs of some of our events, like Freshman Convocation or Kwanzaa celebration.  Also, there are new events that we hope to implement next year and our budget increase reflects that.  To balance it out we also removed some events for next year."
+
+<p>
+
+One of the BSU's major events in the high school conference.  In this program, the group brings 150-200 African American high school students to Stanford.
+
+<p>
+
+"Each year there is the theme that the Conference Committee works on and they plan workshops, panels, and experiences for the students.  We invite the community to get involved in the planning and implementation of the program so that the high school students get to know college students, faculty and staff."
+
+<p>
+
+The BSU's primary mission is "to bring cultural, education, and politically oriented programming to the Black community.  We serve as a resource and work to address the issues that we face as Black students at Stanford and beyond."
+
+<p>
+
+KZSU, Stanford's radio station, increased their budget from $91,295 to $98,859, primarily due to revamping their technology.  Audrey Yang, KZSU's business director, says, "There is an 8.28% increase mainly because we're planning an extensive revampment of our current music library (i.e. storage and shelving system) which will require expenses above and beyond what would be covered by our current budget.  Two percent is due to inflation.  Upgrading our equipment and facilities is a constant concern in order to continue providing the Stanford community with quality programming."
+
+<p>
+
+While the KZSU budget is large in comparison to other groups--Ms. Yang says that one of the reasons KZSU is able to consistently receive enough votes for special fees and therefore operate on such a large budget is that the cost is split among undergraduate and graduate students, so the overall cost per person is smaller than it would otherwise be.
+The ASSU Speakers Bureau must also operate on a large budget due to the nature of the organization.  Justin Wilson and Bill Falsey explain that the vast majority of the money is due to the honoraria necessary to bring high-profile speakers to campus.
+
+<p>
+
+"The largest portion of our budget increase for next year comes in our honoraria line item.  As you know, many of the most highly sought after speakers such as Bill Clinton or Rudolph Giuliani can charge as much as six figures for an appearance and, increasing, speakers of any renown whatsoever are charging $20,000-30,000 per lecture.  We always manage to find 'deals' and our tight budget is exceptionally well-managed, but in order to ensure that the Bureau can present at least 5 quality speakers a year--to ensure that the Stanford community has continued access to their unique perspectives--an increase is necessary."
+
+<p>
+
+Unanticipated costs add to the already high budget.  The Stanford police charged the Speakers Bureau $2,000 for security when former Pakistani Prime Minister Benazir Bhutto spoke earlier this year.  According to Wilson and Falsey, in addition to former Prime Minister Bhutto, this year's lineup of speakers included activist/feminist Gloria Steinem, writer/documentarian Michael Moore, the President of the ACLU Nadine Strossen, and most recently writer/director Kevin Smith.
+
+<p>
+
+The organization also to add two positions that had not previously been budgeted for "to reflect the  increasing responsibilities and time commitment officers are expected to make to the organization."
+
+<p>
+
+<table align=Left width=200>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVIII/Issue_3/Front_Page/images/smap.jpg" width=200 height=193 alt="SMAP">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>SMAP has requested $34,631 in special fees, 19.46%, more than this year.</i>
+        </td>
+    </tr>
+</table>
+
+
+The Stanford Martial Arts Program (SMAP), an umbrella group which received $28,989.63 last year, requested $34,631.45 for next year, a 19.46% increase, is requesting more money for very different reasons.  According to its treasurer, Thomas Hoelen, "SMAP was established last year, and we had to make a pretty wild guess about the expenses (e.g., for promotion or administration), which turned out to be higher than expected."  In addition, SMAP is holding dorm-based self-defense seminars that require some smaller additional costs.
+
+<p>
+
+The <i>Chaparral</i> and other groups have under-budgeted in the past and are increasing their budget in order to meet their financial needs.  In the past, the <i>Chaparral</i> did not budget for all of their printing costs, and their special fees request is increased over last year's to be more realistic about their financial needs.
+
+<p>
+
+In order to make sure that the budget does not increase disproportionately to what the student groups actually need, the ASSU appropriations committee and the senate both work as a preliminary check to make sure that groups are not requesting unnecessary money.
+
+<p>
+
+According to Megan Root, the chair of the Undergraduate Senate Appropriations Committee, "The Senate's goal is to provide a reasonable budget for the students."
+
+<p>
+
+According to Ms. Root, when the appropriations committee examines the budgets of the student groups that are requesting a significantly larger amount of money than they did last year, the committee looks at several factors that affect the budget.  They examine each of the events that the group plans to coordinate in the following year and for umbrella groups, they look to see whether the group has taken on a new subgroup.
+
+<p>
+
+Moreover, there are some areas in the budget that are unavoidably expensive.  Stanford's janitorial services and equipment rental tends to be priced very high, and groups can't get many of these services elsewhere.  Ms. Root says that in general, "increases in these areas are well justified."
+
+<p>
+
+After looking at the groups' budgets in detail and interviewing the student groups, the appropriations committee makes recommendations to the senate based upon the budgets and interviews of the leaders of the various student groups.
+
+<p>
+
+Not all the groups are asking for increases in their special fees, however.  The Sexual Health Peer Resource Center (SHPRC), which received $16,795 last year after deciding to pay workers for what used to be voluntary work, is requesting $13,675 this year: a decrease of 18.58%.  A substantial portion of the drop in money requested is due to its officers' salary being cut from $6000 to $4500.
+
+<p>
+
+The Asian American Students' Association (AASA), which received $29,073 last year, is requesting just $28,084.50 this year, a decrease of 3.4%.  Jeffrey Chang, this year's treasurer for the organization, explains how the group keeps its budget relatively steady over time.
+
+<p>
+
+"As an established group that has been on campus for decades, AASA generally does not vacillate much from its budget . . . As AASA gains or loses subgroups there are minor adjustments, but mostly these financial adjustments are minor compared to the bulk amount that AASA manages each year."
+
+<p>
+
+In addition, Mr. Chang says that one of his goals as treasurer was to streamline AASA's budget.  "After going through the dated AASA budget, I tried to be as honest and accurate to fiscal details as possible, and as a result I have combined events and eliminated unnecessary costs.  Two defunct subgroups and over ten dead events have been taken off the budget so that AASA may run in a clean and efficient manner . . . Since efficiency is key to AASA, it has been quite selective in choosing subgroups.  I have rejected subgroups that have requested to be under AASA because of their limited focus or excessive budgets."
+
+<p>
+
+For umbrella groups such as SMAP and AASA, some problems result from the overhead of communication between the umbrella group and the subgroups it serves.
+
+<p>
+
+Mr. Chang notes, "Also, one of the main problem for umbrella groups to make a budget is a problem of bureaucracy.  Too many subgroup treasurers who are not 'in the loop' about their treasure duties often do nothing but tie down the primary treasurer in a fiscal nightmare!  While this problem is dealt with every year, I believe that this year's Special Fees process has started too late, with too little time and notice provided to the subgroups."
+
+<p>
+
+Mr. Chang believes that special fees are a good way of ensuring funded groups stay true to their core values.  "I believe that obtaining ASSU funding is a good way for groups to gain focus.  It forces students to ponder about the next year, ponder their function within the community and how to best execute it, and provides an identity of some sort based on the events they choose to do.  It is a pity that only the treasurer of the current fiscal year is really involved with the process, since I believe that the process of Special Fees is a valuable learning process.
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:17:27 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

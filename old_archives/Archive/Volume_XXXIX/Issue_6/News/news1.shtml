@@ -1,0 +1,437 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - December 7, 2007</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style1 {font-style: italic}
+.style2 {font-size: 12px; color: #000000; line-height: 3px; font-family: Tahoma;}
+.style3 {font-style: italic}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXIX, Issue 6 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">December 7, 2007 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">NEWS</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Stanford Athletics Guilty of Discrimination?</p>
+              <p><span class="byline">by </span><span class="style2">Allysia Finley</span></p>
+              <p class="byline"><em>Investigative News Editor</em></p>
+              <p class="style1"><a href="http://www.stanfordreview.org/Archive/Volume_XXXIX/Issue_6/News/news1.jpg"><img src="http://www.stanfordreview.org/Archive/Volume_XXXIX/Issue_6/News/news1.jpg" width="299" height="187" border="0" align="right"></a></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>President Hennessy recently announced that Stanford has begun a year-long study of its athletics programs, paying particular attention to academic integrity, governance and commitment to rules compliance, and the institution&rsquo;s commitment to equity and student-athlete well-being. Although many students hesitate to raise questions about the athletics department because they don&rsquo;t want to damage school spirit or criticize their athlete classmates, Stanford&rsquo;s athletic program&mdash;particularly its Title IX compliance and operating expenses&mdash;requires some review. <br>
+                </p>
+              <p>One of the reasons Stanford&rsquo;s sports program is so dominant&mdash;why it has won the Directors&rsquo; Cup for the past thirteen years&mdash;is because it can afford to support more sports programs and to recruit the best athletes and coaches. Because the athletics department draws from a $375 million endowment, funding is not a major concern as it is at most schools. While most colleges have been forced to cut men&rsquo;s programs in order to free up scholarship funds for women, Stanford hasn&rsquo;t. </p>
+              <p>With 35 varsity sports, Stanford sponsors more teams than almost any other Division I school. Stanford has the most extensive Div. I athletic program on the West coast, rivaled on the East coast by Harvard (Div. I-AA), which supports varsity teams in ice hockey, skiing, squash, and men&rsquo;s lacrosse. The only varsity sports Stanford does not offer are women&rsquo;s bowling, ice hockey, rifling, skiing, and men&rsquo;s lacrosse. In addition to these sports programs, Berkeley has no men&rsquo;s lacrosse, men&rsquo;s volleyball, fencing, synchronized swimming, sailing, or wrestling.</p>
+              <p>Stanford can support its many teams both because of its huge endowment and because it distributes its funds more equitably among its programs. In 2005-2006, Stanford expended about the same amount of money on its sports programs as UCLA. However, Stanford spent about $2 million less on men&rsquo;s basketball, $4.5 million less on football, and nearly $2.5 million more on other men&rsquo;s sports and $800,000 more on women&rsquo;s sports. </p>
+              <p>Women&rsquo;s sports and low-revenue men&rsquo;s sports are the bread and butter of Stanford athletics because they bring home the championships. Stanford has won 94 NCAA championships&mdash;second to UCLA with 100. Thirty-six of these championships have been in women&rsquo;s sports, which is more than any other college. Within the last five years, ten out of Stanford&rsquo;s twelve national championships have been in women&rsquo;s sports&mdash;cross country, synchronized swimming, tennis, and volleyball. The only men&rsquo;s teams to win a national championship in the last five years have been cross country (2003) and golf (2007).</p>
+              <p>Two years ago, the only unranked women&rsquo;s team was field hockey. But there were six unranked men&rsquo;s teams: baseball, football, wrestling, men&rsquo;s basketball, men&rsquo;s golf, and men&rsquo;s soccer. Because women&rsquo;s programs are generally better supported and funded at Stanford than at other schools, it makes sense that they also do better (the athletics department says that funds are not dependent on a team&rsquo;s success). But even though women&rsquo;s teams are more dominant, is it fair to &ldquo;short-change&rdquo; high revenue sports like men&rsquo;s basketball and football? Moreover, are these programs being short-changed?</p>
+              <p>In 2005-2006, men&rsquo;s basketball brought in about three million more dollars than it expended. But football expended one million more dollars than it brought in. By comparison, UCLA&rsquo;s football team brought in seven million more dollars than it expended and Berkeley&rsquo;s football team brought in five million more dollars than it expended. Although football was a losing financial venture for Stanford, so were women&rsquo;s sports. In total, women&rsquo;s sports expended over 11 million more dollars than they brought in compared to men&rsquo;s sports, which expended only 3.5 million more. There are two obvious reasons for women&rsquo;s sports higher expenditures relative to their revenue. First, even though women&rsquo;s sports aren&rsquo;t as popular as men&rsquo;s sports, they require nearly half of the scholarships. Second, women&rsquo;s sports have larger operating budgets.</p>
+              <p><strong>Title IX Compliance</strong></p>
+              <p>Because of Stanford&rsquo;s efforts to comply with Title IX, female sports and scholarships have been added. Title IX is three pronged. According to LaDoris Cordell, Stanford&rsquo;s Title IX compliance officer, schools can demonstrate &ldquo;proportionate athletic opportunities for males and female athletes, a history and continuing practice of expanding opportunities for the under-represented sex, or a full and effective accommodation of the interests and abilities of the under-represented sex.&rdquo; </p>
+              <p>Institutions must only comply with one of three prongs, but Stanford complies with nearly all three prongs. In 2005-06, men received 53% of the scholarships and made up 52% of the student body. Since then, Stanford has added programs in women&rsquo;s squash and lightweight rowing to provide females more scholarships. By supporting women&rsquo;s programs where there are men&rsquo;s programs (with the exceptions of football and wrestling), Stanford provides full accommodation of women&rsquo;s interests and abilities.</p>
+              <p>But Stanford does not fully accommodate the interests and abilities of males&mdash;the over-represented sex&mdash;because it lacks a men&rsquo;s varsity lacrosse program. Adding a men&rsquo;s lacrosse program would be costly because it requires 12.5 scholarships. It would also offset the current male-female ratio of athletic aid, requiring Stanford to add even more women&rsquo;s programs. </p>
+              <p>While men are over-represented at Stanford, they are under-represented at most state schools, which makes complying with Title IX for them even tougher. Stanford&rsquo;s higher male-female ratio gives it a competitive advantage over public schools like UCLA and Berkeley, where females predominate respectively 56-44 and 54-46. To demonstrate proportionate athletic opportunities for males and females, Berkeley would have to cut all of its men&rsquo;s programs besides football and basketball. Men&rsquo;s sports are being cut across the spectrum&mdash;most commonly in gymnastics, swimming, volleyball, and wrestling. Because of budgetary constraints and the lack of revenue from women&rsquo;s sports, Title IX has become a zero-sum game for most schools. Even at Stanford, women&rsquo;s sports expend six times more than they bring in. </p>
+              <p>According to Cordell, Title IX is not intended to be a zero-sum game. But for most schools, which have had to cut men&rsquo;s programs to create low-revenue women&rsquo;s programs, it is. Stanford has gained a competitive edge because schools with top men&rsquo;s programs like UCLA and USC have cut men&rsquo;s programs. Less competition for recruits and in conference/tournament play makes it easier to field top ranked teams. Stanford does not have to compete against Cal men&rsquo;s volleyball or UCLA men&rsquo;s swimming and gymnastics, because these teams don&rsquo;t exist.  Many swimmers and gymnasts who might choose to go to UCLA instead opt for Stanford. It is in the men&rsquo;s sports that have faced major cuts at other schools that Stanford ranks highest&mdash;gymnastics, swimming, and volleyball. But in men&rsquo;s programs that have been largely unaffected by Title IX&mdash;football, basketball, soccer, and baseball&mdash;Stanford doesn&rsquo;t fare as well. </p>
+              <p><strong>Operating Expenses</strong></p>
+              <p>According to the Office of Postsecondary Education, operating expenses are &ldquo;all expenses an institution incurs attributable to home, away, and neutral-site intercollegiate athletic contests,&rdquo; which includes &ldquo;lodging, meals, transportation, uniforms, and equipment for coaches, team members, support staff, and officials.&rdquo; As long as coaches and teams comply with &ldquo;university business&rdquo;&mdash;which means that they stay at approved hotels, take approved flights, and do not write off personal expenses like alcohol under team expenses&mdash;they can spend their budgets however they wish. Generally, teams can buy as much high quality equipment, eat at as many fancy restaurants, and stay at as many swanky hotels as their budget allows.</p>
+              <p>While senior athletic assistant director Beth Goode refused to disclose budgetary information, Stanford teams&rsquo; operating expenses are available online at the Office of Postsecondary Education. Operating expenses provide a good indication of a team&rsquo;s budget (not including scholarships and salaries) because athletic teams, like most institutions and departments, tend to spend as much as they get. Budgets do not usually roll over, so as the adage goes, &ldquo;If you don&rsquo;t use it, you lose it.&rdquo; But why do most Stanford women&rsquo;s teams (the exceptions are basketball and golf) require more money to operate than men&rsquo;s teams if training facilities, publicity, travel per diem allowances, and equipment must be equal according to Title IX? Goode refused to comment. But per athlete, women&rsquo;s water polo expends $1000 more than men&rsquo;s; women&rsquo;s gymnastics $2000; women&rsquo;s soccer $2500; women&rsquo;s tennis $7,000; and women&rsquo;s volleyball $18,500. </p>
+              <p>Cordell says that the &ldquo;actual amount of money spent on women&rsquo;s and men&rsquo;s programs may differ as long as the quality of facilities and services for each program achieve parity&hellip;Title IX compliance is achieved as long as both teams are given equipment of comparable quality.&rdquo; But more money can buy better lodging, meals, transportation, and uniforms. It can also buy more and better equipment. </p>
+              <p>One reason for the discrepancy between spending for men&rsquo;s and women&rsquo;s sports is that higher ranked teams travel more to compete against top competition. Women&rsquo;s teams at Stanford in general are ranked higher than men&rsquo;s. But this explanation is not completely sufficient. Men&rsquo;s gymnastics is ranked higher than women&rsquo;s gymnastics, but expends $30,000 less. Moreover, even in sports like water polo and swimming in which women&rsquo;s and men&rsquo;s teams are ranked almost equally as high and travel equally as much, women&rsquo;s teams still expend about $1,000 more per athlete. </p>
+              <p>Stanford women&rsquo;s teams, especially those with large operating expenses like tennis and volleyball, often eat at fancier restaurants where meals can cost around $50. Men&rsquo;s teams, on the other hand, usually eat at places where meals cost in the neighborhood of $20. Some women&rsquo;s teams also stay at nicer hotels.</p>
+              <p>&ldquo;Accommodations are slightly different for the women&rsquo;s team because our coach enjoys nice hotels and nice restaurants,&rdquo; says tennis player Lindsay Burdette. &ldquo;We don&rsquo;t stay in the Ritz ever but we like to stay in little funky places that are near the fun part of town [&hellip;] Our restaurant choices are usually more expensive than the normal team. Instead of eating at Olive Garden where you can basically eat under your allotted per diem, we eat at cool little places that are usually a little bit more per person than the per diem. The difference between the men and women too is just that the guys are totally fine with Olive Garden most of the time.&rdquo;</p>
+              <p>While the men&rsquo;s teams may be content with eating at Olive Garden, their smaller operating budget hardly allows them to eat frequently at the posh places Burdette describes. The differences in travel accommodations between men&rsquo;s and women&rsquo;s teams could easily account for a $200 discrepancy per athlete per trip. Extend that over ten trips each year and that&rsquo;s $2000.</p>
+              <p>Depending on the size of their operating budgets, coaches can also afford to provide athletes with a travel per diem in addition to meals. That means that not only do the athletes eat free, but can pocket up to $35 per day. Athletes from across the spectrum&mdash;women&rsquo;s cross country, women&rsquo;s tennis, men&rsquo;s fencing, men&rsquo;s basketball&mdash;admit that they often pocket their per diems because they get most of their meals free when they travel.</p>
+              <p>&ldquo;Usually the meals are paid for and we don&rsquo;t have to use our per diem at all,&rdquo; says Burdette. &ldquo;At the airport, we use it for meals I guess, but usually the coaches will go to the market and get sandwiches or salads for pre-match. Then we&rsquo;ll all go out to dinner together. Dinners are almost always picked up by the coaches.&rdquo;</p>
+              <p>Food is also usually free at tournaments. One basketball player who did not want to be named said that last year he pocketed over $100 on a road trip. If athletes pocket $25 a day&mdash;which is not unusual&mdash;they can make up to $500 a year. But not all athletes can pocket their per diems. Some teams with smaller operating budgets like men&rsquo;s gymnastics or larger teams like track and field are more strict and do not provide athletes with meals in addition to per diems. Gymnast Andrew McIntyre says that because their team&rsquo;s budget is so small, his coach rarely takes them out to dinner. When his coach does provide meals, he deducts money from their per diems.<br>
+  &ldquo;There is a rate of per diem that we are supposed to get, but truthfully we never seem to get the full amount,&rdquo; says McIntyre. &ldquo;Our coach says he is trying to save money for the program by giving us less per diem.  But I never see anything come out of the program that really benefits me from the money he doesn&rsquo;t give us.&rdquo;</p>
+              <p>McIntyre says that because the women&rsquo;s budget is larger, they get to travel more. At a women&rsquo;s meet in LA, he says that the women stayed a few days extra to do &ldquo;fun activities&rdquo; and that the extra &ldquo;fun&rdquo; days were subsidized by the team&rsquo;s budget. Women&rsquo;s gymnasts did not respond to e-mails asking them to comment on these issues.</p>
+              <p>Many athletes say that pocketing per diem money is &ldquo;not a big deal&rdquo; because other schools spend more on their athletes and provide their athletes with better amenities. While Stanford does not provide its athletes with all of the off-field perks that some schools like USC do, it does ensure that its athletes have high quality equipment, apparel, and food as well as fan support to help them perform their best. Although Stanford may spend less on their football and basketball players, they spend more than most schools on their other athletes. Stanford spends more than $2000 per athlete on women&rsquo;s rowing, women&rsquo;s soccer, and baseball; $5000 on women&rsquo;s tennis; $6000 more on men&rsquo;s golf and tennis; and $11,000 on women&rsquo;s volleyball than Berkeley. Per athlete spending at Berkeley only exceeds Stanford in basketball, football, men&rsquo;s soccer, and softball. This may be one reason why men are hesitant to complain about their treatment compared to the women&mdash;they still fare better than athletes at other schools. </p>
+              <p>&ldquo;I can&rsquo;t really complain,&rdquo; said tennis player Kevin Kaiser. &ldquo;Compared to some other schools, we get it pretty good.&rdquo;</p>
+              <p><br>
+                <br>
+                <br>
+                <br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

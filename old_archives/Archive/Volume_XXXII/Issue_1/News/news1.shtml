@@ -1,0 +1,239 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXII - Issue 1 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinions/index.shtml" onMouseOver="window.status='Opinions'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinions</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinions/opinions1.shtml" onMouseOver="window.status='Chris Fish in Opinions'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Fish</font></a><br>
+
+<a href="../Opinions/opinions3.shtml" onMouseOver="window.status='Brooks Kincaid in Opinions'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brooks Kincaid</font></a><br>
+
+<a href="news2.shtml" onMouseOver="window.status='Christine Boehm in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Christine Boehm</font></a><br>
+
+<a href="../Opinions/opinions4.shtml" onMouseOver="window.status='Daniel Kaganovich and Michael Butler in Opinions'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Daniel Kaganovich and Michael Butler</font></a><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Editorial Staff in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Staff</font></a><br>
+
+<a href="../Opinions/opinions2.shtml" onMouseOver="window.status='Jeffrey Allen in Opinions'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jeffrey Allen</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Shawn Sims in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Shawn Sims</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXII, Issue 1
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 12, 2004</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXII'; return true" onMouseOut="window.status=' '; return true">Volume XXXII</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Regime Change at the Stanford Review
+</font><br>
+
+<b>by Editorial Staff</b><br>
+The Stanford Review<p>
+
+For being the center of all that is evil at Stanford University, most people know little about the criminal personalities that run the Stanford Review.  In order to add a face to the madness, the Review wanted to introduce its brand new esteemed staff of Volume XXXII.  
+
+<p>
+Our corporate CEO, the man pulling all the puppet strings is none other than the infamous Stephen Cohen.  Having served as Donald Rumsfeld's longtime mentor, Stephen decided that the Whitehouse was in good hands and there were bigger fish to fry.  After spending a few years on sabbatical in Alaska's bitter cold clubbing baby seals and building oil pipelines with no purpose other than to disturb the migration patterns of Caribou, he had a vision and realized he was destined to fight the entrenched liberal thought apparatus at Stanford University.  Looking for places to start, Stephen's first instinct upon arriving at Stanford was to hand out arm pit razors to Chi Theta Chi and clothes as well as deodorant to Columbae.  Even after admitting that water conservation was an environmental imperative, Stephen was still unable to convince the residents of Synergy to shower.  Now he stands, captain of the Review, willing to stake his professional reputation on the proposition that maybe capitalism, and bathing, isn't all that oppressive.  
+
+<p>
+Commanding Cohen's crusading campaign of compassionate conservatism is the one, the only David Clough Stat.  The king of prep, David spends more money per month on polo shirts than the combined GDP per capita of the entire third world.  Constantly harassed by people reminding him "His collar is up," Stat's unquestionably bold fashion is matched only by his conservative wit.  As Opinions Editor, David plans to interject into Stanford's political ether such outrageous ideas as "Perhaps Bush isn't actually Hitler" and "Maybe the rich aren't so bad after all."
+
+<p>
+As a moderating influence in what would otherwise be a triad of ultra-rightwing neo-conservatism is the beautiful and moderate Christine Boehm.  Having been the hand behind last volume's controversial MeCHA indictment, Christine was the obvious choice for Investigative News Editor.  Yet for being a bigot and hate monger she comes across as actually quite sweet.  
+
+<p>
+A few questions to the new staff:
+
+<p>
+Stephen and David, with like 80% of the campus as self-described liberals how do you expect to deal with the impending isolation?
+
+<p>
+Stephen: Well, I do a lot of talking to my Ronald Regan posters.  
+<p>David: I listen to a lot of Radiohead with my friend Johnny.  Johnny Walker.   
+<p>Christine, don't you get fed up working with these crazies? 
+<p>Christine: Although it does get tiring to keep reminding Stephen that there are actually good reasons not to invade North Korea, I hope one day to help them realize that gay marriage is good. For them.
+<p>Isn't the Review filthy rich?  Where does that money come from?  Doesn't the Review just bribe students to do work for it?
+<p>David: Well, we prefer to call that compensation.  
+<p>Stephen:  After our partnership with the CIA to sell crack to intercity neighborhoods fell apart, we had to turn to our alumni base for funding.  
+<p>Christine, you seem to be about the only girl working for the Review these days.  Want to let the ladies out there in StanfordLand know what the big secret is?
+<p>Christine: It's great to walk into a Review lunch and know, with complete certainty, that I'm the most beautiful girl in the room.  It's the best thing on campus for building a career in journalism, or, for the girls who are getting their MRS, Review boys are single and will one day be very rich.  
+<p>Straight from the source, tell us the details of the vast right wing conspiracy.
+<p>David: Every Tuesday we go to the Hoover Institute, get free pizza, and hear cool guest speakers.  Last week it was some Enron executives; next week I think Satan is coming.  
+<p>So why are you conservative:
+<p>Christine: I don't like being told what to do.  I'm a firm believer in doing the right thing, but, as long as you're an adult and not harming anyone, the government shouldn't tell you what that right thing is.  I'm also a fan of national security.
+<p>David: I believe strongly in protecting the greatness of our country through adherence to the ideals on which the United States of America was created.  We need to ensure that we resist the corrupting influences of an ever more liberalized world.  Most importantly, we need to encourage a return to traditional moral values.
+<p>Stephen: Growing up in the Bay Area as a skateboarding environmentalist, I was constantly told that there were people in Washington who wanted to change my values and way of life. When I finally started to realize more of those people came form the Northeast than the South, my views began to transform.  
+<p>Then 9/11 changed everything.  I've always been proud to be an American, and I want to know there'll be an America for my children to be proud of too.
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:31:38 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

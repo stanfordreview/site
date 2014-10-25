@@ -1,0 +1,243 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 5 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorial</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Rawls_Report/index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Aliyya Haque in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aliyya Haque</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Bob McGrew in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Dave Myszewski in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Myszewski</font></a><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial Board in Editorial'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Board</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Gary J. Raichart in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Gary J. Raichart</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Harrison Y. Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Y. Osaki</font></a><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Joe Lonsdale in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Shawn M. Sims in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Shawn M. Sims</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 5
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+November 13, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Liberals Just Say No - To Reality, Tolerance
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+1>
+Students Attempt to Censor OneTruth.org Advertisement in Stanford Daily
+</font><br>
+
+<b>by Joe Lonsdale</b><br>
+Editor Emeritus<p>
+
+We are all aware that the left is the dominant voice in today's universities, and that they hate loud, clearly articulated points of view that provide an alternate way of thinking about the world.  (If you are liberal and do not believe this, picture someone well-intentioned setting out to do an objective study on the mental and physical distinctions among the races, using methods he's thought over to ensure unbiased results.  Ooo, makes you angry.  How dare he?  Don't you hate that person?  That "racist"! Don't worry, your friends chased him out of Stanford.)  The liberals' response, whenever there is no logical way to reconcile their views with a more nuanced reality, is anger and censorship.  Any viewpoints, or even statistics, that would refute the pretty-picture-reality that liberals have painted in their heads are despised.  If it doesn't support the party line, it has no need to exist.
+
+<p>
+A similar situation persists in Arab countries, except blown even more out of proportion.  The culture of lies that exists in these places has frustrated and confounded even tried-and-true American liberals like Bill Clinton as evidenced by his failed attempts to deal with Arafat.  In these countries, other viewpoints aren't tolerated, period.  In places like Syria and Lebanon, they take it a step further than Stanford 򳒂 publicly accusing someone of being pro-Israel in an Arab land is truly the equivalent of calling for their death, and anyone who loudly cries out against those in power is quickly killed.  Arafat and his henchmen kill far more Arabs than Jews as they move to silence their dissenters and thus brainwash their youth.  Only a single point of view is allowed in schools, mosques, and in any public discussion of Jews 򳒂 hate.  "Who do we hate?" asks a teacher in a typical PLO classroom, on a video you'd never see in the liberal American press. "The Jews!" responds the class.  "Who will we kill?"  "The Jews!".  
+
+<p>
+Not all Arabs are brainwashed; that would be an impossible task, with all the diverse and intelligent individuals in the Middle East...but this is the official curriculum and public "truth" handed down from those in charge.  It's a horrible reality, and it's breeding murderers, children and young adults who celebrate death.  But note the word, "reality".  Perhaps you have heard of the Iraqi Information Minister who openly proclaimed that there were no Americans anywhere near Baghdad as tanks rolled through the city in the background?  There is no objective reality in a world defined by autocrats, only the party line, whatever it may be.  Fortunately, Stanford is not this bad.  Not yet.
+
+<p>
+What is the truth?  It's what's actually happening, outside of the solipsistic picture you paint in your head.  A recent poll jointly conducted by The Public Opinion Research of Israel and The Palestinian Center for Public Opinion showed 59% of Palestinians believe that Hamas and Islamic Jihad should continue armed struggle against Israel even if Israel leaves all of the West Bank and Gaza, including East Jerusalem, and a Palestinian state is created.
+
+<p>
+OneTruth has created ads to illustrate the basic difference, the basic truth about this conflict.  On one side, there is hate and a lack of reality, and on the other there is attempted normalcy in the face of insanity.  An ad showed Israeli children looking up to athletes as role models on one side, and Palestinian children admiring suicide bombers on the other.  Israelis mourning 9/11 and the Palestinians celebrating in the streets, cheering with their hate.  Why do I support these ads?  
+
+<p>
+To quote someone from the Stanford community, "After World War II the slogan of the Jewish people was 捌Never Again.'  Who would have thought that almost 60 years after the Holocaust it can happen again!  The ad is a wake up call!  Just listen to the prime minister of Malaysia, Mahatir Mohamad, who in a speech to the 57 member Organization of the Islamic Conference October 16, 2003, delivered to the world a 捌toxic statement of hatred of Jews.' Receiving unanimous standing ovation and applause, he declared that 捌the Jews run the world by proxy.'  捌They get others to fight and die for them.'  Muslims are 捌up against a people who think.'"<p>
+There is a clear and dangerous difference between the two sides in the Middle East conflict, and it is "intolerant" to express this reality.  The idea of a people being brainwashed simply doesn't fit with the liberal viewpoint of the world...you can't have that kind of truth because it would create way too much intolerance, so it must not be true.  Reality + liberal-mindset = does not compute, => censorship.<p>
+Whether or not you support the ad, the response of many students on campuses around the nation is telling.  Many of those responding with censorship and violence are the people who grew up in these countries where truth is subjective and the other side is not tolerated, and they're right at home in our environment.  <p>
+Read a Stanford petition:<p>
+"We find these ads to be distasteful ... simply out of keeping with the spirit of the fundamental standards to which we all adhere as members of the Stanford community. These ads were an attack on the personal honor of a specific group of people with no agenda other than to smear their image and dehumanize them. They promote the idea that it is acceptable to make blanket statements regarding an entire people and display an alarming degree of intolerance towards them. This is especially harmful..."<p>
+Despite their history of being passionately anti-Israel and misrepresenting the facts of the Middle East conflict, I applaud the Daily for their dedication to free speech in the face of this attempted censorship, and I hope it continues.  Others, however, clearly felt that this "intolerant" ad should not be allowed on a college campus.<p>
+At Michigan, "a mass effort was organized to stop these racist advertisements. These ads were in fact against the State News' advertising policy because they incriminated an ethnicity."  <p>
+At the University of Arizona, the ad provoked violence: according to pro-Israel student Noah Friend, "...As I tried to talk to [an Arab who came up to our pro-Israel table] in a peaceful manner, he resorted to name calling, using anti-Semitic slurs, including 'f---ing Jew'. He also threatened to kick me below the belt, and before he was pulled away by his friend, he assaulted me by pushing me...".  I have also been approached and threatened at Stanford by a screaming anti-Israeli student.  <p>
+According to the Daily Illini, visiting sociology professor Carl Estabrook said he wasn't pleased with the idea of running paid ads expressing "despicable speech."  
+Said the editor at the University of Chicago, Pete Beatty, "To me, it's clearly hate speech and a misuse of facts. It's lying."<p>
+Yes, Pete.  A misuse of facts.  How dare they use these facts.  How dare we "lie" by using facts to portray reality.  Welcome to the modern American University, where reality is in the eye of the liberal beholder, and others just need to learn to be more tolerant.
+<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:26:35 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

@@ -1,0 +1,268 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 5 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Charles Hallford in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Charles Hallford</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Editorial Staff in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Staff</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Michael Hasper in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael Hasper</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Travis Menk in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Travis Menk</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='William E. Hudson in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>William E. Hudson</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 5
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+April 24, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Rethinking Pen-Aisle Politics
+</font><br>
+
+<b>by William E. Hudson</b><br>
+Opinions Editor<p>
+
+  When one goes to the office-supply store these days, it's a little daunting to look at the impressive number of options one has, even when it comes to something as seemingly mundane as the pen. There are ball-points, roller-points, gels, fountains--not to mention various color alternatives.
+
+<p>
+
+  Political activity is a lot like the pen aisle. When confronted with a myriad of responses and perspectives on any one political issue, each individual in this great democracy of ours is compelled to make a choice, to take a stand -- even if that stand just means purchasing every pen in the aisle and sorting out the mess later.
+
+<p>
+
+  We have citizens who prefer disposable pens; these are the citizens who make their decisions quickly, creating a great deal of political momentum and energy in the community. They organize protests, contribute prolifically to publications, and mobilize others around their cause. 
+
+<p>
+
+  Then, there are citizens who give a nod to fountain pens; they prefer structure and order, and, even if they agree with some of the protests' messages, they'd rarely join them -- it'd disturb their order and natural political progression. 
+
+<p>
+
+  None of the pens is inherently superior to another; it's just a question of style. It doesn't matter on which side of the political fence one sits; one will have to deal with complacent liberals and frothing conservatives independently of where one sits. Both styles get in trouble and are blamed for anything and everything, ranging from creating too much a controversy to barely raising an eyebrow at an important political moment.
+
+<p>
+
+  A recent opinions column in the <i>Stanford Daily</i> complained about conservatives whining that they're underrepresented in campus media and blamed the void on a lack of conservative writing talent, or the will of conservatives to submit such writing if they can produce it. 
+
+<p>
+
+  While I take issue with the former assertion for its fallaciousness, the latter really boils down to our pen theory, with some group theory thrown in for good measure.
+
+<p>
+
+  At a campus as predominantly liberal as Stanford, it's expected that the liberal perspective will generally be taken for the truth. This is a common problem for media with largely liberal staff. Often, the publication isn't liberally biased out of malice or some cruel design to silence conservative opinion; the imbalance is a byproduct of the simple fact that most staffers are liberal. Liberals look at the world in their own way, and certain issues consequently receive more or less weight. When liberals report news stories that conservatives see as flagrantly biased, more often than not, the stories will be products of a liberal world-view, not an intentional liberal slant on the subject.
+
+<p>
+
+  Overwhelming liberalism also makes it easier for other liberals to contribute to the campus dialogue; they have a much higher chance of being politically and publicly accepted if their perspective is aligned with the majority opinion wherever they happen to be. Conversely, it makes conservative contributions much harder to proffer, since their opinions are so frequently and systematically derided from the majoritarian liberal media camp. It's harder, on a personal level, to garner enough motivation to use one's name in support of what most on campus would label "backwards, bigoted, or short-sided."
+
+<p>
+
+  Many conservatives on campus would identify themselves as the fountain-pen variety; they are passionate about their beliefs, but they'd rather preserve face and take matters slowly and surely rather than submit to the perceived chaos of protests, counter-protests, and bake sales. This has been the conservative voice's way on campus for some time; this is why institutions such as the <i>Stanford Daily</i> are relatively accustomed to defending their account of Stanford life as the objective truth. 
+
+<p>
+
+  The problem for many liberals is that this is changing on campus. The rise of the <i>Stanford Review</i> in 1987 has afforded more vociferous conservatives an opportunity to combat biased norms entrenched in University policy. The Stanford College Republicans have re-emerged this year with a bang; their membership is incredible, and they have garnered national attention for their efforts toward raising awareness for the sizeable conservative population on campus. 
+
+<p>
+
+
+  These are the types who use disposable pens to great effect; they try things constantly, and proceed with what works with incredible energy and charisma. The <i>Review</i> staff and the Stanford College Republicans are also the types who are making sure that the campus realizes that there is another side to the story -- a side the <i>Stanford Daily</i> often doesn't cover simply because it's outside of its politically narrow world-view.
+
+<p>
+
+  As something of a fountain-pen conservative myself, I'd do without all this squabbling back and forth between liberals and conservatives; it's counterproductive in general and often more of a headache than a useful political tool. 
+
+<p>
+
+  That said, given the bias in both publication and story selection with the <i>Stanford Daily</i>, I, as the Opinions Editor of the <i>Stanford Review</i> and Treasurer of the College Republicans, empathize with the efforts of those more activist individuals. So long as the <i>Daily</i> remains staffed by an overwhelming number of liberal editors and writers, conservative perspectives will continue to be suppressed -- again, often not out of malice or ill intent, but out of a simple, journalistic disregard for that "wrong" view of things.
+
+<p>
+
+  What could the <i>Daily</i> do? It could start by actively recruiting conservative writers on campus to write for them; there are plenty on campus, if they would put in the effort to look. Conservatives need to be made aware by the staff of the <i>Daily</i> that things are changing and that conservatives will no longer be treated as second-class students with second-rate opinions. 
+
+<p>
+
+  If a submission isn't up to the writing standards of the <i>Daily</i> (a questionable barrier, to be sure), then of course it shouldn't be run simply on the fact it's conservative. But when quality pieces have been submitted, time and time again, there is something else at work here, and it needs to be fixed.
+
+<p>
+
+  Liberals are fond of quota, and welfare programs, but to encourage conservative submission and publication in the <i>Stanford Daily</i> requires neither -- it just requires reaching out to conservatives a bit and being civil. sides, it seems to me, could benefit from a disposable fountain pen.
+
+<p>
+
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:23:14 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

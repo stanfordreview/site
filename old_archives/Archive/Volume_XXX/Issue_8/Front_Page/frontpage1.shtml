@@ -1,0 +1,278 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 8 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Alumni_Thoughts/index.shtml" onMouseOver="window.status='Alumni Thoughts'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Alumni Thoughts</font></a><br>
+
+<a href="../Current_Issues/index.shtml" onMouseOver="window.status='Current Issues'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Current Issues</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Current_Issues/currentissues2.shtml" onMouseOver="window.status='Alexander Kendall in Current Issues'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alexander Kendall</font></a><br>
+
+
+<a href="../Alumni_Thoughts/alumnithoughts1.shtml" onMouseOver="window.status='Aman Verjee in Alumni Thoughts'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aman Verjee</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Brooke Brody-Waite in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brooke Brody-Waite</font></a><br>
+
+<a href="../Alumni_Thoughts/alumnithoughts2.shtml" onMouseOver="window.status='David Cavicke in Alumni Thoughts'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Cavicke</font></a><br>
+
+<a href="../Current_Issues/currentissues2.shtml" onMouseOver="window.status='Elizabeth Madjlessi in Current Issues'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Elizabeth Madjlessi</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Eric M. Jackson in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Eric M. Jackson</font></a><br>
+
+<a href="frontpage3.shtml" onMouseOver="window.status='Joe Lonsdale in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Michael V. Petras in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael V. Petras</font></a><br>
+
+<a href="../Current_Issues/currentissues1.shtml" onMouseOver="window.status='Piotr H. Kosicki in Current Issues'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr H. Kosicki</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 8
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+June 6, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 8'; return true" onMouseOut="window.status=' '; return true">Issue 8</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Stanford: Where Does the Money Go?
+</font><br>
+
+<b>by Eric M. Jackson</b><br>
+Editor-in-Chief '96<p>
+
+The Stanford Fund is at it again.  I recently received a copy of the Fund's Report of Annual Giving, a glossy publication filled with pictures of smiling students and slick graphs that show how desperately Stanford needs our financial support.  The 96-page booklet also contains a roll of donors that spans 83 pages and is alphabetized by graduating class, making it easy to determine who's chipped in and who's been stingy.
+
+<p>
+
+The public shame of not appearing on the roster isn't the only motivation to donate provided by the report, though - there's also a healthy dose of heart-tugging emotion.  After introducing us to several grateful undergraduates who tell us how they've benefited from the Stanford Fund, the report intones that contributions are a "chance for alumni to give something back to the place that has played such an important part in their lives."
+<p>
+
+While their style might be a little sappy, I will cede a point to the Fund folks.  Institutions are important, and Stanford is an institution that has positively impacted the lives of its alumni.  And with students being stung by a 5.0% tuition hike and room & board increase ranging from 4.5% - 12.5% this year, at first glance the Stanford Fund's appeal to alumni to open their wallets seems like a reasonable request.  But before you grab your checkbook or log in to your PayPal account to send a contribution, a reality check is in order.<p>
+
+First of all, consider that the Fund is vague regarding how the donations it receives are spent.  This wasn't always the case.  When President Gerhard Casper created the Fund in the mid-90s their annual reports contained more specific information, so donors understood how their contributions would be used.  This changed after the Stanford Review publicized the fact that 7% of their donations went to the politicized ethnic centers; after this, the Fund started using vague terms like "Special Undergraduate Programs" and "Artists and Audiences" to describe its distributions.
+
+<p>
+
+Besides the Fund's lack of transparency, their emotional tactics are disingenuous.  Even if the recession and stock market crash have taken their toll on Stanford's finances, a review of the budget for the current academic year reveals that the $40,000 annual financial burden placed on students is completely unnecessary.
+
+<p>
+
+<b>Waste Not, Want Not</b><br>
+Stanford's 2002-2003 budget plan defines "student income" as the sum of tuition and room/board fees, minus financial aid.  Thanks to the aforementioned tuition hike and fee increases -- less a 6.6% increase in financial aid -- student income increased by 5.5% this year to $338 million.  While $338 million sounds like a lot of money, it's less than 16% of the $2.18 billion in net revenues forecast by the University for the academic year.  Stanford's budget has revenue streams coming from a variety of sources beyond students' pockets.
+On the other side of the ledger, total expenses rose by $92 million, or 5%, to $2.13 billion.  That leaves a total surplus of about $46 million.  If making education more affordable really is a concern of the University, then an obvious first step would be to apply the surplus against student fees; this alone would let Stanford cut tuition and room & board charges by nearly 14% for the current year!  
+<p>
+But that's just a start -- the budget has plenty of fat that can be trimmed and used to reduce the fees charged to students.  For example, the Vice-Provost for Student Affairs' office spends $12 million on non-salary, non-benefit expenses.  While I'm hard pressed to explain why this office even needs to exist, I'm harder pressed to figure out how it burns through $12 million in non-salary expenses in a single year.  Appendix B of the budget says there were 259 employees in "Student Affairs, Admissions & Financial Aid."  With the conservative assumption that 4/5 of these employees are in Student Affairs, this means that the vice-provost is spending a whopping $58,000 per employee in non-salary expenses!  What on earth are these bureaucrats doing - handing out the keys to a brand new Mercedes to everyone who walks in the door?
+
+<p>
+
+Residential & Dining Services is an even worse offender.  This department throws $5 million into its politically correct Residential Education program, and another $9 million goes to nebulous "administrative expenses."  I'm not sure what Residential & Dining Services thinks "administrative expenses" are, but since maintenance, utilities, salaries, and even food all have their own line items in the budget, it's clear that "administrative expenses" has little to do with providing either housing or dining services to students.
+
+<p>
+
+By eliminating the worthless Residential Education program and cutting the slush funds of Student Affairs and Residential & Dining Services in half, we can save another $16 million per year.  Combine that with the $46 million surplus off-set, and we've already freed up enough funds to reduce the $338 million in net fees charged to students by over 18%.
+And surely that's just the tip of the iceberg.  Stanford has wasteful bureaucracies aplenty.  Since Gerhard Casper and Condoleezza Rice made staffing reductions back in the early Ô90s, the total number of non-teaching employees has grown at an average rate of 4.1% over the past six years, while student enrollment has been constant at around 14,000 per year.  To put it another way, Stanford had about 0.50 non-teaching employees for every student in 1995, compared to 0.64 last year.
+
+<p>
+
+Spiraling bureaucracies are only part of the budgetary problem.  Don't forget the funds that Stanford throws to its pet "multicultural" initiatives.  While I couldn't locate any figures in the information available on Stanford's website, the University's contributions to left-wing activist groups like MECHA, the Black Student Union, and the gay student union certainly totals in the millions of dollars.  
+
+<p>
+
+<b>Where There's a Will. . . .</b><br>
+Reigning in the bureaucracies and telling the politicized special interest groups to go raise their own money will lead to some pretty dramatic savings.  This isn't rocket science.  It only took me an hour to find enough items in the budget to allow an 18% reduction in student tuition and room & board fees, so I refuse to believe that this has not occurred to the Administration before.  Why, then, are we in a situation where students are asked to pay spiraling fees when an alternative solution is readily apparent?  The answer is three-fold:
+<p>
+1) Maintaining the bureaucracy and payments to special interest groups lets the Administration keep things quiet.  Stanford has implicitly decided to prevent a return of the turmoil caused by the left's "multicultural" protests in the early Ô90s by paying them off.
+
+<p>
+
+2) There's no organized effort to push student fees lower.  Externally, no top-tier university has yet taken pricing leadership and forced other schools to follow suit.  Internally, students lack a reason to take collective action since financial aid diffuses the impact of tuition hikes, and in any case most students are supported by their parents.
+
+<p>
+
+3) Given points 1 and 2, it's actually in the University's interest to use the manufactured problem of spiraling tuition costs to appeal to alumni donors and keep contributions centralized.  Funds to support financially strapped students logically must wind up in a centralized pool to dole out scholarships, which in turn allows the Stanford Fund to siphon monies into the general fund, where much of it winds up in the pockets of bureaucrats or to fund left-wing student rallies.  Yes, students are being used as fundraising pawns.
+
+<p>
+
+It's a vicious cycle, but the solution is out there.  Armed with a red pen, his bully pulpit, and the vision and determination to make it happen, President Hennessy could dramatically lower the cost charged to students to attend the University and make a Stanford education more affordable for all.
+
+<p>
+
+What's missing is an organized effort to bring this about.  The left-wing special interest pressure that would come down on President Hennessy would be tremendous.  To overcome this, the Stanford family's silent majority needs to unite and deliver a strong message to the Administration that it's time for a change.
+
+<p>
+
+Join me in sending that message.  Withhold your contribution to the Stanford Fund and send the president a note (like the one nearby) to let him know that it's time for the University to prioritize students over special interests.  Then and only then is it appropriate to hand over gifts directly to Stanford.
+
+<p>
+
+<i>Eric Jackson graduated from Stanford with a BA in Economics with honors in 1998.  He is an independent consultant specializing in online strategy and marketing.</i>
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:24:15 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

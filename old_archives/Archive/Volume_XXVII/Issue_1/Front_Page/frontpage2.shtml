@@ -1,0 +1,377 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 1 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Word From The Editor</font></a><br>
+
+<a href="../Campus_Focus/index.shtml" onMouseOver="window.status='Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Campus Focus</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="../Letters_to_the_Editor/index.shtml" onMouseOver="window.status='Letters to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letters to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Petition/index.shtml" onMouseOver="window.status='Petition'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Petition</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/index.html" onMouseOver="window.status='Alec Rawls in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Alex Robbins in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Bry Martin in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bry Martin</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='David Myszewski in Front_Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Campus_Focus/index.html" onMouseOver="window.status='Elita Cheung in Campus Focus'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Elita Cheung</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Henry Towsner in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Justin Diener in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Justin Diener</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.html" onMouseOver="window.status='Scott Rasmussen in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXVII, Issue 1
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+October 11, 2001
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Responding to Terrorism
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+1>
+Hoover fellows respond to terrorist attacks
+</font><br>
+
+<b>by David Myszewski</b><br>
+Senior Staff Writer<p>
+
+	"The problem is we have not taken terrorism seriously."
+
+<p>
+
+<table align=Left>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_1/Front_Page/images/sofaer.jpg" width=125 height=189 alt="Abraham Sofaer">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>Abraham Sofaer</i>
+        </td>
+    </tr>
+</table>
+
+
+	Abraham Sofaer's assessment, and the notion that the United States should not have been surprised by the terrorist attacks of September 11, were echoed in the 2001-2002 academic year's first session of the Hoover Institution's World Affairs seminar series. 
+
+<p>
+
+	Mr. Sofaer, a senior fellow at the Hoover Institution and former State Department legal advisor, was joined by Bruce Bueno de Mesquita, Joseph McNamara, and moderator John Dunlop on October 3 in analyzing both the United States' response to terrorism and the reasons why the September 11 attacks were not prevented.
+
+<p>
+
+	Mr. Sofaer emphasized the vital roles that technology, intelligence, deterrence, and accountability play in terrorism and anti-terrorism.  Mr. Sofaer said that the U.S. is not using technology to its fullest extent giving the examples of impenetrable cockpit doors and airplane skins that cause the airplane to explode immediately upon a missile impact, both technologies which the Israelis employ.
+
+<p>
+
+	He argued that criminal prosecution is not an effective deterrent to terrorists.  Since the terrorists who hijacked the planes on September 11 were going to die anyway, he said, there was absolutely no deterrence from criminal prosecution.
+
+<p>
+
+	One area that is currently dismal, according to Mr. Sofaer, is accountability.
+
+<p>
+
+"The people who fail to act meaningfully against terrorists after telling us they will do so are not held accountable.  The team that allows a massive failure should go."
+
+<p>
+
+	It shouldn't have been a surprise. Due to past history, "I was not surprised by the attack on the World Trade Center," said Mr. Sofaer.
+
+<p>
+
+	He cited several historical acts, including the 1993 bombing of the World Trade Center and the famous Japenese kamikaze fighter pilots, indicating that ramming of planes into buildings uses the kamikazes' techniques and a scope similar to that of bombings.
+
+<p>
+
+	Joseph McNamara and Bruce Bueno de Mesquita gave some examples of their own.
+
+<p>
+
+<table align=right>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_1/Front_Page/images/mcnamara.jpg" width=124 height=188 alt="Joseph McNamara">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>Joseph McNamara</i>
+        </td>
+    </tr>
+</table>
+
+
+	Mr. McNamara, a research fellow at the Hoover Institution, explained part of a 1985 speech that he had made to the Commonwealth Club in San Francisco while he was Chief of Police in San Jose.  In speaking about what conditions would exist in the criminal justice area in the new millennium, McNamara gave the prediction that "domestic terrorism would occur on a scale here in the United States that we have not seen."
+
+<p>
+
+	Mr. McNamara, who spoke mainly about issues related to local law enforcement, said that he had reached that conclusion for two reasons.
+
+<p>
+
+First, he attended an FBI conference to which police chiefs from major cities all across the country had been invited, where leaders of several countries described terrorist incidents that had occurred in or around their respective countries.  ". . . .the overwhelming questions in my mind were: why have we not had similar occurrences of that magnitude in the United States?  We are a freer society; we certainly have more access to weapons and explosives than the countries that were describing the terrorist attacks, and there really was no answer."
+
+<p>
+
+	Second, after finding out that one of his police officers accidentally took a gun through the airport security, Mr. McNamara directed several officers to go through security in civilian clothes with knives, guns, and other weapons, and found that the metal detector did not detect any weapons in about two-thirds of the people.
+
+<p>
+
+	The threat of the airplanes as terrorist devices should not have been a surprise to the United States.  Abraham Sofaer recalled an event more than a decade ago, something that people in the United States now find much more reasonable.  "I remember our criticism of Israel for shooting down a civilian jetliner that came into its territory in the 1980's without announcing itself."
+
+<p>
+
+	Isreal's explanation was plain and simple: they had no idea who was flying that plane, and they didn't want to take any risks.<p>
+
+<b>What is the appropriate response?</b><br>
+
+<table align=Left>
+    <tr>
+        <td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_1/Front_Page/images/mesquita.jpg" width=125 height=188 alt="Bruce Buenode Mesquita">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>Bruce Bueno<br>de Mesquita</i>
+        </td>
+    </tr>
+</table>
+
+	Hoover Institution senior fellow and New York University professor Bruce Bueno de Mesquita, who spoke primarily on the response to the terrorist actions, was only a mile away from the World Trade Center on September 11.  He argued that perhaps the most important thing the United States has done so far is restraining from action.
+
+<p>
+
+	The Taliban's military, he explained, has had to remain ready for an attack 24 hours a day.
+
+<p>
+
+	"You can't sustain maximum vigilance for very long."
+
+<p>
+
+	Mr. Mesquita said, "It is, as was the contest to eliminate the threat of Al Capone, primarily an unexciting but effective struggle by accountants."  By shutting down the financial access of organizations like the al-Qaida network, the organizations become "no longer economically viable."
+
+<p>
+
+	"It's not as exciting as shooting Tomahawk missiles at tents, but it's much more effective."
+
+<p>
+
+He examined a possibly unexpected avenue of finding people in the al-Qaida: getting help from other terrorist organizations.
+
+<p>
+
+	"When we go out and have to deal with unsavory characters, we will also need to deal with unsavory organizations to achieve the President's stated objectives."
+
+<p>
+
+	Organizations like the IRA and PLO "engage in terrorism because they have concluded . . . . that they have no process of advancing their agenda through normal means.  These groups have a "substantial political wing" and may be interested in "cutting a deal and finding a middle ground."  Perhaps most importantly, he stated, these organizations may know how to find the terrorist organizations like the al-Qaida network.
+
+<p>
+
+	He emphasized the extreme importance of ensuring that governments in the region, such as Pakistan's, are not destabilized and replaced by governments that are even worse than the current ones.
+
+<p>
+
+	Mr. Mesquita indicated with a little-known statistic that the Taliban has been strengthened by past actions of the U.S.
+
+<p>
+
+	"Every dollar of per capita aid to a country increases the probability that that country's autocratic leaders will stay in office by 2 percent.  Last year, we gave the Taliban government of Afghanistan $175 million in foreign assistance."  Since Afghanistan has about 25 million people, that is $7 per capita in aid, which "increased the probability that the Taliban government will remain in charge of Afghanistan by 14 percent."
+
+<p>
+
+	"It is good to help poor people who are poor through no fault of their own.  It is foolish to do so by turning the assistance over to the control of a government who uses that assistance to bribe its cronies, to create a black market, and to suppress its people and keep them poor while sustaining themselves in office.  That is what we are doing--today, even--in Afghanistan."
+
+<p>
+
+	The biggest problem that we have, though, is not in the acquisition of the information, but in sorting it out.
+
+<p>
+
+	"In December 1941, an intelligence failure--a failure to sort out messages and recognize a message that made clear the intent of the Japanese with regard to Pearl Harbor--was overlooked, leading to cataclysmic consequences.  Apparently we are not much better at sorting out information."
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:04:56 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

@@ -1,0 +1,201 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 5 - The Rawls Report</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorial</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="index.shtml" onMouseOver="window.status='Alec Rawls in The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alec Rawls</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Aliyya Haque in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aliyya Haque</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Bob McGrew in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../News/news4.shtml" onMouseOver="window.status='Dave Myszewski in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Myszewski</font></a><br>
+
+<a href="../Editorial/index.shtml" onMouseOver="window.status='Editorial Board in Editorial'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Editorial Board</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Gary J. Raichart in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Gary J. Raichart</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Harrison Y. Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Y. Osaki</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Joe Lonsdale in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Ryan Wisnesky in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Shawn M. Sims in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Shawn M. Sims</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 5
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+November 13, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXXI'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - The Rawls Report
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3> The Rawls Report </font><br> <font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2> The Moral Incompetence of Disarmed Society </font><br> <b>by Alec Rawls</b><br> Contributing Editor<p>Consider the following advice from Thomas Jefferson to his 15-year-old nephew: <p> A strong body makes the mind strong. As to the species of exercise, I advise the gun. While this gives a moderate exercise to the body, it gives boldness, enterprise, and independence to the mind. Games played with the ball, and others of that nature, are too violent for the body, and stamp no character on the mind. Let your gun therefore be the constant companion of your walks.1 <p> A little unfair to games with the ball perhaps, but dead on about arms giving boldness to the mind. Armed with a gun, one can move toward circumstances of possible conflict with the prospect of being able to be of help, should help be needed. And what is more on the mind a fifteen year old boy, out on a walk in rural Virginia, than the situations he might encounter, especially dangerous situations, where bravery and fast comportment might be called for? Armed, he can think of how to proceed. <p> Gunfire sounds nearby. Jefferson's nephew runs up to the bend in the road and sees a wagon ahead. Another thunderous report and a man on the nearside of the wagon tumbles backwards. A young woman screams. Two men run up from the other side of the road and muffle her. One of the highwaymen is cut through the heart with the boy's first shot. Ducking back behind cover, he reloads. Thanks to much practice, he can do it in about thirty seconds if he uses pre-patched balls and doesn't swab the bore, which he has found he can get away with once. <p> "Let the woman go" the boy bellows with his newly deep voice, "and we won't kill you." No reply. He darts up through the trees alongside the road to get to cover in front of the bend. From there he sees the villain running back into the woods on the other side of the road %Talone. A horse whinnys and gallops off. Running up to help, the boy finds that the waylaid man, the age of his own father, is alert. The author of the scream is the man's very shaken, very grateful and very beautiful 14 year old daughter... <p> Kids. <p> But a gun is not all fun and games. A gun, one learns the first time one pulls a trigger, is a very serious thing. Any mistake in its use will haunt the rest of one's days. At the same time, a gun can also save whole lifetimes, including one's own. Thus hard questions are thrust onto the imagination. <p> What to do if you come upon a violent scene and do not know who is the assailant and who is the victim, or whether neither is blameless? If one combatant begs for mercy and the other will not grant it, you can insist. But at what point is deadly force justified, and when must it be withheld, even at risk to oneself? A gun prompts its possessor to consider lifetimes of value, and come to grips with the weighing of such quantities against each other. Whether to drop a highwayman molesting a girl is a trivially easy question. The person who walks with a gun is prompted to ponder infinitely more difficult questions than that. <p> A stamp on the mind indeed. Now consider how the disarmed condition stamps the mind. <p> Many years ago in Harvard Square I saw a dirty young man attack another street person who was standing in a doorway, slicing him again and again with a knife. The sharp blade made an awful sound as it laid open the man's face and palms. No one could do anything but seek for the police, who were nowhere to be found. <p> After the attacker had had his fill, no one met his eye as he slithered off. None followed as he looked back over his shoulder. Against a knife, every passerby was defenseless. Recoil was the only possible course, as it always is for the disarmed person. To go through life disarmed is to ever contemplate timidity, instinctively shrinking from every serious threat. Where the armed condition stamps the mind with powers of moral engagement, the disarmed person is stamped with flight from moral engagement. <p> This is a very serious lack of moral scope to have in a democracy, where fight or flight is ultimately for the electorate to decide. Western civilization is currently witnessing a most remarkable phenomenon. Majorities across most of Western Europe and across large swaths of the United States are mortified that the United States is waging war on those who plot the mass murder of Americans, a rather obvious imperative, one would think, in the wake of 9/11. Is it coincidence that citizens of European countries are almost all disarmed, and that in America, anti-war views and anti-gun views are highly correlated? Anti-gunners presumably eschew gun ownership, which would explain why they share with disarmed Europeans a seeming unfamiliarity with the moral use of force. <p> Thank God for the Bush Administration. At least our present government is not a lamb for the slaughter, right? Don't be so sure. Joel Mowbray, in his book Dangerous Diplomacy, documents how the State Department is ruled by the exact moral incompetence that the disarmed condition creates: recoil from forceful engagement. State opposes every use of American power on the grounds that even forceful demands, never mind actual uses of force, pose a threat to diplomatic ties, which constitute State's preferred avenue for promoting America's interests. <p> That preference may be ideological, stemming from pacifist/anti-gun type incompetence regarding the moral use of force, or it might be a manifestation of the principle-agent problem, where State sees its own power as operating through diplomatic ties and, like a miser, does not want to spend its own power on national objectives. Either way, eschewing the use of power has the effect of rendering State, and The United States, powerless. State often ends up acting as if it is doing its best to throw the contest to the Islamist enemy, shielding them from American power wherever possible. <p>Diplomacy is a mouthpiece for will. You can't get rid of the will and still have a moral mouthpiece. A similarly immoral institution is the U.N., designed from the outset to prioritize diplomacy over force, and even to strip nations of their sovereign power to employ force: a kind of gun-control on the nation-state level. Here too the coincidence between moral incompetence and the disarmed condition obtains. U.N. aficionados are the anti-gunners from Europe and America.<p> To believe in liberty is to be willing to pay a price for it. With gun rights, both reason and evidence indicate that gun rights make us safer. The logic is simple: public safety comes from tipping the advantage in favor of would-be defenders and away from would-be attackers. Disarming criminals tips the advantage towards defenders, a plus. Disarming law-abiding citizens tips the advantage towards attackers, a negative. We should disarm convicts, but not law abiding citizens.<p> In addition, an armed citizenry gains advantage from concealment. Not knowing who is armed, the criminals are deterred from attacking anyone. Thus even those who want nothing to do with guns are safer when the right of law abiding citizens to keep and bear arms is protected.<p> The evidence is just as conclusive. Over the last fifteen years, thirty four states have passed "shall issue" gun carry laws, stripping sheriffs of the power to deny law-abiding citizens their right to bear arms. All applicants who are not disqualified by history of crime or mental illness must be issued a gun carry permit. The results of this massive experiment can be stated concisely: More Guns Less Crime, as University of Chicago economist John Lott titled his comprehensive analysis of the data.2 Thus the anti-gun position is revealed to be what one might call a pure illiberalism. Instead of being willing to pay a price for liberty, anti-gunners are willing to pay a high price in public safety in order to get rid of gun rights, in violation of the priority of liberty. This is beyond the pale. <p> Adherents of the moral philosophy of John Rawls should note that the priority of liberty is the very core of the "overlapping consensus" that Rawls thought all reasonable people must accept. His candidate for this reasonable consensus was his two principles of justice, with the first principle the priority of liberty taking lexical (or absolute) priority. Rawls did not hit every nail square on the head, but this conclusion is unshakable: those who do not accept the priority of liberty those who are willing to pay a price in human life and prosperity in order to diminish liberty are the unreasonable of the unreasonable. They stand outside of the polity of liberty, and hence outside of the reasonable consensus upon which legitimate government can and must be based. Our anti-gun, anti-war Democrats offer a living, breathing, example of unreasonableness gone haywire. Ignorant of the lessons that guns teach, they only know to shrink from force. They don't care if gun rights make us safer, they still don't want people to be allowed to carry guns. They think that the liberty to keep and bear arms is uncivilized. They think that civilized people don't fight back. They can't even defend America. Having been suckled on flight from moral engagement, their moral comprehension is non-existent.<p> The morally incompetent will always be with us. The great imperative is to expel these people from every level of government and from every position of public trust. <p> <p> Further information:<p> 1   To Peter Carr, Paris, August 19, 1785. Complete letter available at Yale Law School's Avalon Project: . <p> 2   John Lott, More Guns Less Crime, second edition, University of Chicago Press, 1998/2000.<p> <p> <i>Alec Rawls is a Contributing Editor to the Stanford Review.  He is currently writing a book on republicanism. Contact alec@rawls.org or visit http://www.rawls.org/</i><p> 
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:26:38 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

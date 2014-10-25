@@ -1,0 +1,387 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 5 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Word_From_The_Editor/index.shtml" onMouseOver="window.status='A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>A Word From The Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Alex Robbins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../The_Last_Page/index.html" onMouseOver="window.status='Andrew Wright in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='David Myszewski in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Justin Diener in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Justin Diener</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Katie Kollitz in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Katie Kollitz</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Keun Lee in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Keun Lee</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Kevin McCaffrey in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Kevin McCaffrey</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="../News/news3.shtml" onMouseOver="window.status='Nels Hansen in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="../A_Word_From_The_Editor/index.html" onMouseOver="window.status='Scott Rasmussen in A Word From The Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 5
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+January 16, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 5'; return true" onMouseOut="window.status=' '; return true">Issue 5</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+ASSU Funded by Endowment, Enterprise
+</font><br>
+
+<b>by Kevin McCaffrey and Katie Kollitz</b><br>
+Contributing Writers<p>
+
+Ever wonder what happened to the $70 fee that ASSU charged you at the beginning of the quarter? Most students believe it goes toward supporting the ASSU itself, but this is not the case. Rather, it funds a number of student groups annually selected in spring quarter special-fee elections.  Stanford Student Enterprises, a collection of student-run businesses, funds the ASSU itself.  "If you can grasp this subtlety and understand that no student money supports the ASSU," says Ross Davisson, ASSU Financial Manager and President of SSE, "you will know something that not many students do." He explains, "The ASSU is self-funded." 
+
+<p>
+
+<table border=1>
+<tr>
+<td>
+<center>
+<b><font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+2>Selected Student Government Salaries</font></b>
+</center>
+<br>
+<table border=0>
+<tr>
+<td>
+ASSU President
+</td>
+<td>
+$7,700
+</td>
+</tr>
+
+<tr>
+<td>
+ASSU Vice-President
+</td>
+<td>
+$4,800
+</td>
+</tr>
+
+
+<tr>
+<td>
+ASSU Senate Chair
+</td>
+<td>
+$3,000
+</td>
+</tr>
+
+<tr>
+<td>
+ASSU Appropriations Chair
+</td>
+<td>
+$2,000
+</td>
+</tr>
+
+<tr>
+<td>
+ASSU President Cabinet Officer
+</td>
+<td>
+$1,600
+</td>
+</tr>
+
+<tr>
+<td>
+Nominations Committee Chair
+</td>
+<td>
+$3,000
+</td>
+</tr>
+
+<tr>
+<td>
+Election Committee Chair
+</td>
+<td>
+$3,000
+</td>
+</tr>
+
+<tr>
+<td>
+Publications Director
+</td>
+<td>
+$3,000
+</td>
+</tr>
+
+<tr>
+<td>
+Programming and Service Director
+</td>
+<td>
+$3,000
+</td>
+</tr>
+
+<tr>
+<td>
+GSC Chair
+</td>
+<td>
+$3,000
+</td>
+</tr>
+
+<tr>
+<td>
+GSC Webmaster
+</td>
+<td>
+$3,000
+</td>
+</tr>
+
+<tr>
+<td>
+GSC Food Czar
+</td>
+<td>
+$500
+</td>
+</tr>
+</table>
+<br>
+<i>Assu refers to Associated Students of Stanford University.<br>
+GSC refers to Graduate Student Council.<br>
+Source: FY01 ASSU Operating Budget.</i>
+</td>
+</tr>
+</table>
+
+<br>
+
+	What this really means is that the combined total of the revenue generated by that fee, charged to all students, goes towards the groups that give back to the students. The SSE covers the ASSU itself, such as the costs of processing those fees and maintaining the systems used to do so, the costs of the annual election of ASSU officers, senators, and representatives, and the cost of running the funding processes. This year, the revenue from the fee system totals $66,145.
+
+<p>
+
+	You can, however, request a refund of those funds automatically given as special fees to groups who require more money than the $6000 limit imposed by the general funding guidelines.  Whichever groups you do withdraw funding from are given your ID number and do then reserve the right to deny you services they provide for others. The two groups who do this are the Legal Counsel offices, who will not provide counsel if you refund their services, and the Speaker's Bureau, who will charge you for admittance to an event that others may attend for free. You can refund your fees at <a href=http://assu.stanford.edu/groups/refund/index.shtml onMouseOver="window.status='Special fees refund'; return true" onMouseOut="window.status=' '; return true">http://assu.stanford.edu/groups/refund/index.shtml</a>.
+
+<p>
+
+	The remainder of the ASSU budget--$193,960 this year--comes out of the ASSU endowment.  The endowment acts essentially as a large bank account, funding the vast majority of all the ASSU events, projects, and stipends of the officers. "Each year, this endowment makes a payout based on its size to underwrite the operations of the ASSU," explains Mr. Davisson. 	"The endowment is made up of the retained earnings of the ASSU Business Projects (which became Stanford Student Enterprises officially in 1997). Each year, the earnings of SSE are contributed back to this endowment; this is how SSE funds the ASSU, albeit indirectly through the endowment."  Unspent allocations will return to the endowment.
+
+<p>
+
+	Mr. Davisson was less open about the revenue the SSE generates to finance the ASSU endowment: "SSE's finances are proprietary business information and therefore are not available for release." The status of the accumulation of revenue into the endowment thus remains unknown, meaning that the ASSU could be limited by shrinking SSE profits, could indeed be spending exactly as much as the SSE earns each year, or might have a significant accretion of unallocated cash that would allow it to fund more events if it so chose. 
+
+<p>
+
+	However, such speculation diverts from the heart of the matter. The ASSU's main expenditures, then, do not rely or indeed in any way interact with the fees charged to students at the beginning of each quarter. Instead, money you choose to spend at Flicks, The Stanford Store (that little cubicle that sells sweatshirts and coffee mugs next to the gym in Tressider), or any of the other SSE Business Projects will indirectly finance ASSU operations. The largest source of SSE profits, however, don't come from student wallets at all: the Ad Agency, which sells promotional spots before Flicks and other SSE projects, generates the most profit, financing the bulk of ASSU operations. In short, corporations rather than students pay for the vast majority of ASSU's projects, events, and groups. 
+
+<p>
+
+	There are two types of spending procedures. The first is open-ended.  Mr. Davisson describes, "Discretionary spending, generally, is money that is allocated not for a specific purpose (such as meeting food or office supplies) but rather for use at the discretion of its owner. For example, the President's discretionary funds can be spent as he sees fit, as long as the uses don't fall outside the general policies to which we hold all student organizations." The President and the Undergraduate Senate happen to be allocated $16,950 and $6000, respectively. That's a lot of brownies and staplers.
+
+<p>
+
+	However, discretionary spending does give the individuals in the ASSU the ability to fund projects that might not have been able to secure funding through normal means. The discretionary budget also allows flexibility to finance unforeseen projects, which inevitably will arise throughout the year. "Non-discretionary funds," continues Mr. Davisson, "which are funds allocated for specific uses, must be used only for those purposes. For example, if $500 is allocated for meeting food, then all of that $500 must be spent on meeting food, or nothing at all."
+
+<p>
+
+	Group funding is non-discretionary spending, but can be given out in one of two ways: as an annual year-long grant, or for a one-time use for an event during one quarter. Mr. Davisson explains, "Annual funding is distributed to groups during spring quarter and is intended to fund them for the whole year. These are groups who have stable membership and funding needs, but don't qualify for or do not want to pursue a special fee."  These groups are funded selectively based upon an application process throughout the year. 
+
+<p>
+
+	"Essentially, students pay their fee and then we allocate money through an interview process to student groups, who then offer their events cost free to the student body," says Dana Craig, Programming Director for the ASSU.  "Groups are allowed to receive up to $6000 each year, though many groups, especially the community service ones, do not request that much funding."
+
+<p>
+
+	Ms. Craig continues, "We fund everything from office supplies to DJs to choreographers to copies. We will not fund something like accommodations, which does not benefit the Stanford student body as a whole." Some groups funded this year are Amnesty International, Cardinal Ballet, Hapa Issues Forum, Stanford Figure Skating, United Students for Veterans' Health, Queer Students Social and Political Awareness, Caribbean Students Association, Stanford Objectivist Club, Urban Styles, Hindu Students Council, and Nine/Eleven. 
+
+<p>
+
+	Not to be confused with discretionary spending, "Discretionary funding is handed out quarterly and is intended to meet the needs of new groups and groups who want to run specific events through the year," says Mr. Davisson.  Some of the events funded this year include the Stanford Tennis Tournament, Youth Concerts by the Stanford Music Society, a dance by the Russian Club, a party and barbeque by the Queer/Straight Social and Political Alliance, and the Diwali Celebration by the Hindu Student Council. 
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:13:36 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

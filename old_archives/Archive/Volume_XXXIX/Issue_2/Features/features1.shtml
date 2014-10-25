@@ -1,0 +1,431 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - October 15, 2007</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style1 {font-style: italic}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXIX, Issue 2 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">October 15, 2007 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">FEATURES</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Neoconservatism: An Interview with Douglas Murray</p>
+              <p class="byline">by <a href="http://www.stanfordreview.org/About/Staff/dslate.shtml">Daniel Slate</a></p>
+              <p class="byline"><em>Editor-in-Chief</em></p>
+              <p class="style1"><img src="http://www.stanfordreview.org/Archive/Volume_XXXIX/Issue_2/Features/features1.jpg" width="300" height="446" border="0" align="right"></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p><strong>The SR:</strong> Thank you for talking with the Review today. You argue in your most recent book that the West needs neoconservatism more than ever. Why do you think so?</p>
+              <p><strong>Murray:</strong> For quite a few reasons, among which are the fact that it seemed to me that the Western powers and the Western people had for a great extent lost almost any kind of moral compass, and I think need to re-find one. People need a compass by which they can orient themselves, by which they can see the difference between right and wrong, the difference between people who, at the most basic level, blow up innocent civilians out of a desire to kill and take as much innocent life as possible, and nation states waging justifiable wars.</p>
+              <p>It&rsquo;s amazing it&rsquo;s come to this, and some people seem to actually be sympathizing by claiming these bombings are needed. It can&rsquo;t really be overstressed the level of nihilism we&rsquo;ve come to. It&rsquo;s a system where you&rsquo;re so desperate for moral comfort where you only respect a few reasons, and where those are pretty much reduced to, essentially, suffering. Suffering, of course, does not give you moral right, it does not give you foreign policy expertise.  Every day you can open a newspaper, every day you can hear a politician and not from the fringe parties anymore, but from the mainstream parties making immoral moral judgments which I think need to be stopped, or at least countered.</p>
+              <p><strong>SR:</strong> And the countering force would be neoconservatism?</p>
+              <p><strong>Murray:</strong> Well I say that because, in the version I express it in, I show how it&rsquo;s a way of looking at the world which I think is appropriate to the world we have today.  It&rsquo;s not a set of rules, it&rsquo;s not a set of moral strictures or of commandments, it&rsquo;s simply a way of looking at the world. But I think it is a way of looking at the world that is uniquely sensible for us today. Of course, it&rsquo;s probably the best time for me to say this now. I&rsquo;m fully aware that now &ldquo;neoconservative&rdquo; is now pretty much a buzz word for everything that&rsquo;s bad. I know some people I get regular emails saying as much who say that there&rsquo;s no difference between neo-conservatism and neo-Nazism, I guess drawing this mistaken conclusion after discovering that they have the &ldquo;neo&rdquo; in common. So I&rsquo;m aware that this is not a popular<br>
+                catchword.</p>
+              <p>I simply think it&rsquo;s an appropriate way of looking at the world we&rsquo;re currently in. It reminds me of a great metaphor by the French philosopher Chantal Delsol in her book Icarus Fallen from a few years ago, and its successor volume, The Unlearned Lessons of the Twentieth Century--I think a rather un-catchy title--but Icarus Fallen provides actually quite a good metaphor that modern man, which I suppose means post-nineties man is similar to Icarus, if he&rsquo;d have survived the fall, if he&rsquo;d have plummeted down to earth having achieved the heights and realizing that it didn&rsquo;t work. And modern man is facing that conundrum. Being fallen Icaruses, we have a limited number of ways in which we can look at the world. The idealism of liberalism, that is, what is currently called liberalism, seems to me to be utterly without sensible approaches to the world. It says that if the world is not as I would like it to be, I will try to pretend it is. Or I will kick my feet. Or I will simply shut my eyes, put the blanket over my head, like a child trying to escape a monster--if I can&rsquo;t see it, it can&rsquo;t see me--but this one&rsquo;s real! And liberalism does not offer and has not for a long time offered any answers for the real problems that exist, and doesn&rsquo;t seem to realize that you can&rsquo;t wish problems away because you&rsquo;d like there not to be problems. So I think of the neoconservative attitude, which put at its bluntest I suppose is defined by Kristol as liberals who?ve been mugged by reality. And I say we&rsquo;re both a mixture of idealists and realists in that we see the world as it is but act in the world as we&rsquo;d like to make it. And I think that that blend of idealism and realism is appropriate to this age, which seems in many ways to have lost any form of idealism, and simultaneous to losing its idealism has significantly lost its sense of realism, its ability to see things as they are. The age is consumed by cynicism, which refuses to even imagine how the world could be.</p>
+              <p><strong>SR: </strong>In America and in Europe neoconservatism has in many circles become something of a dirty word, which &ldquo;neocon&rdquo; often serving as a pejorative. Might it be reclaimed, and would explanation about what neoconservatism is do the trick? Do you think neoconservatism is misunderstood, essentially?</p>
+              <p><strong>Murray:</strong> I think it&rsquo;s more than misunderstanding. If you had asked me two years ago if I thought the word could be reclaimed, I probably would have said yes, but when you ask me now I think probably no. It&rsquo;s become a synonym for other things, not untinged with anti-Semitism. Largely when people say &ldquo;neocon&rdquo; they imply Jewishness. They really mean hawkishness, with no understanding of what the difference is between a hawk and a neocon. For instance, John Bolton was on the news the other night and was asked a question that began with referring to him as a neocon and he said, &ldquo;I&rsquo;m not a neocon.&rdquo; And the interviewer didn&rsquo;t really know what to say because she had just assumed he was. Many people seem to have no understanding of the differences, sometimes very subtle, sometimes huge, between different types of American and other conservatisms. And as a matter of fact, I don&rsquo;t think neoconservatism is all that conservative in some ways. Of course, I make no apologies--I&rsquo;m not a member of the Conservative Party and I don&rsquo;t make a fetish out of conservatism. But that seems to be an important point, that neoconservatism has become a synonym for bad things.</p>
+              <p>I don&rsquo;t know if the word can be reclaimed, but the word is not what&rsquo;s important. What are important are the ideas and the policies, and I think they can be. The attack on neoconservatism and the lies being told about it are useful of course, because among other things they allow people to duck the issue. If you weren?t in favor of regime change in Iraq, you had to realize, or you should have had to realize, the seriousness of what you were proposing to continue?just to take Iraq as an example. We could take Afghanistan or the Balkans or any number of cases. What you were proposing to continue was the most barbaric and worst regime on earth. Therefore, objection to regime change carried in itself a rather heavy, leaden weight. I think it was Ian McEwan who made the point that if the crowd in the antiwar movement had been as serious as it should have been, they would have walked in silence, realizing what they were going to make continue. So I think a heavy moral weight bears down particularly on the left, who found themselves in the rather difficult and un-leftish position really of being pro-tyrannical regime, or at least defending tyrannical regimes, which were the status quo. And I think a heavy moral weight lies on their shoulders on that, and I think they are not unaware of that. And so one of the ways out is to pretend that the anti-totalitarian movement, that is, primarily the movement labeled neoconservatism, has other motives, that, you know, we're in it for oil, we&rsquo;re in it for expansion of Greater Israel, or any of these other slurs and smears. It&rsquo;s an attempt to offset what should I think be pretty overbearing guilt. It&rsquo;s displacement of guilt.</p>
+              <p><strong>SR:</strong> The current war in Iraq is being interpreted in some circles as a referendum on neoconservatism. Do you think neoconservatism has a future after Iraq, and if so, what do you see it being, whether the result in Iraq is defeat or victory there?</p>
+              <p><strong>Murray:</strong> It&rsquo;s worth pointing out that neoconservatives in general, myself included, were supportive of the Iraq invasion but did not run the invasion. And I know some people think that that&rsquo;s a kind of cowardly way out, but I think it&rsquo;s kind of important. It would be important, stepping back again, to remind ourselves that two of the architects of the invasion, Dick Cheney and Donald Rumsfeld, neither fit in any way the neoconservative label. The mishandling of the war, which I don&rsquo;t think anyone can debate hasn&rsquo;t occurred, I don?t think it can be put down to a very small group of usually not even self-identified neoconservatives. It just doesn&rsquo;t make sense. The highest spot you can identify any actual so-called neoconservatives being is Secretary Wolfowitz, and deputy defense secretaries don&rsquo;t run U.S. policy. I think part of the problem in Iraq has not been too much neoconservatism--it&rsquo;s that there&rsquo;s been too little. But this isn&rsquo;t the referendum on neoconservatism. It shows something of the glibness that politics has come to in America that people interpret it that way. The success of Iraq is a referendum on the people of Iraq, and the success or failure of Iraq is primarily a worry of the people of Iraq, our allies who we have let down too many times before.</p>
+              <p><strong>SR: </strong>Media discussion of terrorism today, even after the recent attempts here in London and Glasgow, seems defined by ethically neutral language. The strongest word used is &ldquo;militant.&rdquo; Why does it often seem that there are so few people like you on the air, saying things like &ldquo;Hamas is a terrorist organization,&rdquo; which has somehow become a politically incorrect thing to say?</p>
+              <p><strong>Murray:</strong> It&rsquo;s worse than you say. We&rsquo;ve now got a clique of politicians who like to refer to the people like the people who planted bombs the other week as &ldquo;criminals.&rdquo; A criminal is someone who steals my mobile phone. I think I can safely say that a terrorist is someone who puts a bomb outside a nightclub in order to kill as many young women as possible. And if you can&rsquo;t make that moral call, I think I know why. I think I know why people don&rsquo;t want to call them terrorists. And I don&rsquo;t have any time for them. I don?t have any time for people who think that the enemy will stop hating you if you speak nicely of them. I mean, anyone who is so glib and fatuous as to believe that doesn&rsquo;t have his or her head on the right way around. The enemy isn&rsquo;t particularly interested in what we call them, they&rsquo;re interested in what we do. But I think they can take some comfort from the fact that there are so many people in the West, in prominent positions, who honestly think that this war, which is what is being waged upon the West and upon Western ideals and Western values, that this war is essentially a linguistic matter. I think they lack seriousness.</p>
+              <p><strong>SR:</strong> Your viewpoint seems to be rare in the media. Why do you think that is?</p>
+              <p><strong>Murray:</strong> I don&rsquo;t know. I honestly don&rsquo;t know. It seems common sense to me. I never thought, as a student of history, I never thought it would come to the point in my lifetime where the annihilation of another six million Jews would be in the offing, and people would be criticizing you for saying that was going to happen. I really never thought &ldquo;it deeply shocks me&rdquo; that there are still people out there who are willing to say all that time that Ahmedinejad is misunderstood or mistranslated when he is no such thing. I genuinely cannot understand how it has come to this, and how it could come to that, when people are blown up on their way to work, there is a group of people that is not willing to call the people who do that by their name. I don&rsquo;t know why people don&rsquo;t do it. Stupidity? Perhaps. Cowardice? Possibly. But what have people got to fear from telling the truth? I think we have much more to fear from pulling the blankets up over our heads and wishing the enemy away, because it?s not going anywhere that way.</p>
+              <p><strong>SR:</strong> The war with Islamic terrorism is sometimes characterized as a conflict between modernity and tradition. Do you think this gets at the reality or is it misleading?</p>
+              <p><strong>Murray:</strong> No, I&rsquo;ve heard it characterized as modernity and medievalism, which is not a bad way of doing it. I don&rsquo;t think this is a battle between modernity and tradition, I think it could be a battle between modernity and medievalism, only if we use medievalism as a synonym for barbarism. It certainly is a war against barbarism. It is a war between an ideology--which is modern Western ideology, which for instance holds women to be equal, and to have equally valid and equally meaningful lives as the men--and a way of life that regards them as having less than half the worth of a man, a worth not much above that of common animals. I think that&rsquo;s an important difference. The reactionary nature of Islamism cannot be overstated; it aims backwards in every way. It&rsquo;s about something else as well: its extraordinary attempts at supremacy, its attempts at empire building over lands it claimed it once conquered, over lands it never did conquer but that it nevertheless claims that it had. We would have to define what we mean by modernity, but if by that we mean liberalism of the real kind, then yes it would be a battle between liberalism of the true kind and a barbarism that I think most Westerners thought we had left behind, and thought we wouldn&rsquo;t have to see again.</p>
+              <p><strong>SR:</strong> There is some sense, then, that Will Durant&rsquo;s observation in The Story of Civilization may apply to us: A great civilization is not conquered from without until it has destroyed itself from within. Would you say that this is the main thought what worries you?</p>
+              <p><strong>Murray:</strong> Very much so. Spengler says much the same thing: civilizations don&rsquo;t get killed, they commit suicide. I think that is the case. I think that the jihadists have no chance whatsoever of beating America, Britain or any of the other great nations, or subverting us to their obnoxious creed. I don?t think they have any chance whatsoever of doing that, of winning, certainly not militarily. What they do stand a chance of doing is by subverting our societies from within because we allow them to. I give you the example of the law. This has become clear in recent years, the last few in particular. There are Muslim radicals in our midst in the West who would like to see established on our shores elements of shariah. And I think one of the basic tenets of the West, one of the things that makes us attractive, inside and outside our lands, is the very important notion of equality before the law. And I think that&rsquo;s an inviolable right of everyone living in the West, whatever their creed, whatever the color of their skin. Equality before the law. Shariah does not give that, and not only does it not give that in and of itself, shariah acting as a kind of sideline law for particular groups lets in one of the most odious notions of all, which the West cannot tolerate, which is that you will treat people differently according to their ethnic origin.The notion that we would treat a child who had been born to Muslim parents to a different legal system than that which any other child would go through, that seems completely unacceptable. That sort of thing will be chipped away at. And the question will be how and whether we stand up to that kind of threat. It&rsquo;s not hard to get people to recognize that there&rsquo;s a threat from people who fly planes into towers or who blow up people on their way to work on the subway and bus. But people have to realize what the threat is from creeping Islamism, what the threat is from the law, from the new attempt to have different styles of banking within the West, whereby a Muslim would get different treatment from a bank than I do, or anyone else.</p>
+              <p>These are the threats I see as most serious. Our test, for all of us in the West, of whatever religion, including Muslims, our test is whether or not we can stand up to that. Because if we don;t stand up to that, then I think I can see what would be coming. Not far down the road would be an unbelievable and appalling segregation, and beyond that, defeat. The Muslims who come to the West, I think very often come to the West for particular reasons, and they are reasons that are deeply understandable. And I think we need and deserve to treat them with the same equality as we treat people who are already here. And I think failing that, failing this early test, bodes very badly for us. They will not, I repeat, they will not get shariah by setting off bombs. They will get shariah while not letting off bombs.</p>
+              <p><strong>SR:</strong> Might part of the answer lie then in education--in Western ideals of natural right, and education about the nature of the enemy we face. Should governments be more aggressive in promoting this kind of education, or do you think that realistically only individuals who educate themselves will prove themselves as able fighters for the West?</p>
+              <p><strong>Murray: </strong>The answer is in both. But it is vital that we rely on the education system, which is something that most people largely do not have a choice to opt out of. Education teaches people the best in human nature, in human history, and in human accomplishment and attainment. And I think it&rsquo;s regrettable when it stops doing that, and I think we&rsquo;re not far off from when it stops doing that. I think the teaching of history and of our country is among the best things you can pass on. They don&rsquo;t demonstrate nationalism, they don&rsquo;t even demonstrate patriotism. They show the great accomplishments of the human spirit, and anyone reading history learns from it, learns the lessons of human greatness, of what human brings are capable of--for the good, not just for the bad. You learn of heroes, and of men and women who have done tremendous acts in warfare and in peacetime, of great men and women who you can aspire to. I think there can be no better thing you can show a child, and no better thing to save you from a morass of relativism and nihilism.</p>
+              <p><strong>SR:</strong> Douglas Murray, thank you very much.</p>
+              <p><strong>Murray:</strong> Of course. </p>
+              <p><br>
+                <br>
+                <br>
+                <br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

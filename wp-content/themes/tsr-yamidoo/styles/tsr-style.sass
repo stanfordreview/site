@@ -1,0 +1,236 @@
+!page_width = 980px
+!logo_height = 100px
+
+!c_cardinal = #871414
+
+
+body
+  :font-family 'times new roman', 'times', serif
+
+#header
+  :margin 14px auto 0
+  :width 100%
+  :max-width = !page_width
+  
+  #topline
+    :text-align right
+  
+  #logo
+    :border-top solid 2px black
+    :padding-top 4px
+    :margin 5px 0 6px
+    :clear both
+  
+  #search
+    :margin-left 10px
+    :float right
+
+
+ul#nav
+  :float right
+  :max-width = !page_width
+  :margin 5px auto 0
+  :font-size 0.85em
+  li
+    :display inline
+    a
+      :padding 5px 5px 0px
+      &:hover
+        :background-color #ccc
+        :text-decoration none
+
+/*** SECTIONS ***/
+
+#sections_wrap
+  :background-color = !c_cardinal
+  :border solid 2px black
+  :width = !page_width
+  :margin 0 auto
+
+
+ol#sections
+  :padding 6px 6px 6px 10px
+  :margin-top 0px
+  li
+    :display inline
+    :margin 0 14px
+    a
+      :font-family 'georgia'
+      :padding 6px 4px
+      :color white !important
+      :font-size 1.1em
+      :text-decoration none
+      &:hover
+        :text-decoration underline
+  #search
+    :float right
+
+
+
+/*** SIDEBAR ***/
+
+#sidebar
+  .image
+    .caption
+      :padding 4px 10px 10px
+      :font-family 'helvetica','arial',sans-serif
+      :font-size 0.9em
+
+
+/*** CONTENT ***/
+
+#content-wrap
+  :margin 20px auto 0
+  :width 100%
+  :max-width = !page_width
+  h1
+    :font-weight bold !important
+    :font-family 'georgia'//'book antiqua','palatino','palatino linotype' //'times new roman', 'times'//'garamond', 'adobe garamond', 'adobe garamond pro'
+  
+#featured-articles
+  :float left
+  :width 476px
+  h1
+    :font-size 1.5em
+    
+  .featured-article
+    :float left
+    :width 228px
+    :height 285px
+    :margin-left 10px
+    &:last-child
+      :width 216px
+      :margin-left 10px
+      :padding-left 10px
+      :border-left solid 1px #000
+
+h1, h2, h3, h4
+  :font-family 'georgia'
+
+.column h4, .column_last h4
+  :display block
+  :color white
+  :background-color = !c_cardinal
+  //:border-bottom = solid 3px !c_cardinal
+  :border solid 1px black
+  :padding 1px 6px
+  :margin 5px 0
+  :width 177px !important
+  :font-weight bold
+  :font-size 0.75em
+  :font-family 'helvetica', 'arial'
+  :text-transform uppercase
+
+/* RECENT ARTICLES */
+
+#articles
+  .article
+    :min-height 90px
+
+#articles h3, .post h3
+  :background-color white
+  :font-size 2.4em
+  :color black
+  :font-family 'georgia','times new roman'
+  :text-transform none
+  :margin -3px 5px 13px 0px
+  :padding 0 0 3px 4px
+  :border-bottom solid 2px black
+  :border-width 0 0 2px 0
+  :float none
+
+.post h3
+  :padding 11px 0 11px
+
+
+#articles.frontpage
+  .article
+    :min-height none !important
+  h3
+    :background-color = !c_cardinal
+    :padding 7px
+    :margin 13px 5px 0px 13px
+    :float left
+    :color white
+    :border solid 1px black
+    :text-transform uppercase
+    :font-family 'helvetica','arial',sans-serif
+    :font-size 0.85em
+
+  
+#archives_link
+  :margin -10px 10px 10px
+  :clear both
+  a
+    :display block
+    :padding 3px
+    :font-size 1.4em
+    :font-weight bold
+
+.widget h3
+  :border-top 3px solid #ccc
+  :font-size 12px
+  :font-weight 700
+  :padding 8px 0 8px 10px
+  :text-transform uppercase
+
+
+/***********************************
+***  common elements
+************************************/
+
+#searchform
+  :padding 1px
+
+#s
+  :width 150px
+  :padding 1px 2px
+  :margin-right 5px
+  
+
+#footer
+  :clear both
+  :border-top solid 2px black
+  :margin-top 30px
+  :padding-top 30px
+  :float none
+  :width 980px
+  :padding 7px 5px
+  
+  
+  
+
+#footer_right
+  :text-align right
+  :float right
+  :margin-bottom 15px
+  :font-family 'times', 'times new roman'
+  :padding-top 0
+  a
+    :text-transform none
+    :border-bottom none
+  li a
+    :padding 3px
+    &:hover
+      :background-color #ccc
+      
+#footer .ads
+  :float left
+  :width 500px
+  h2, ul, li
+    :display inline
+  h2
+    :font-size 1.0em
+    :font-weight bold
+    :margin-right 8px
+  a
+    :font-weight normal !important
+    :border none !important
+    :text-decoration underline
+  li
+    &:after
+      :content "  -  "
+    &:last-child:after
+      :content "" !important
+  
+

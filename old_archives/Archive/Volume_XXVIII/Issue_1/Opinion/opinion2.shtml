@@ -1,0 +1,264 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVIII - Issue 1 - Opinion</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Alex Robbins in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Andrew Wright in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Harrison Osaki in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Harrison Osaki</font></a><br>
+
+<a href="../Editors_Note/index.html" onMouseOver="window.status='Henry Towsner in Editor\'s Note and Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="opinion2.shtml" onMouseOver="window.status='Joe Lonsdale in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="opinion1.shtml" onMouseOver="window.status='Matthew Barrett in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="opinion3.shtml" onMouseOver="window.status='Ming Zhu in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ming Zhu</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Sam Shapero in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Sam Shapero</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVIII, Issue 1
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 14, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVIII'; return true" onMouseOut="window.status=' '; return true">Volume XXVIII</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - Opinion
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Opinion
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Charity and Social Entrepreneurship
+</font><br>
+
+<b>by Joe Lonsdale</b><br>
+Opinions Editor<p>
+
+Fliers on the Stanford campus tout every imaginable liberal cause.  Checking out one of the omnipresent boards of fliers in my Toyon hallway yields a few daunting examples--"Promote Human Health in the Middle East [with taxpayers' dollars]"; "...Workers Deserve Better Pay [regardless of their free market worth]"; "Anti-Sweatshop Activists to Speak at Meyer [about how evil Nike is]."  Next to these liberal postings is another flier with a liberal ring to it--Social Entrepreneurship: Creating Social Change in the 21st Century.
+
+<p>
+
+My first thought, like any conservative jaded by the liberals to whom he is constantly exposed in the far-left environment of a modern University, was, "Hooray!  More foolishness!"  In a political context, the word "social" tends to provoke this response, as well it should.  Though Socialism has died as a legitimate political system, its ideas are alive and well in the hearts of this country's modern liberals.  One of the greatest faults of the neoliberal is that he refuses to admit that Socialism is and was a bad idea, and that it harms society at any scale on which it's implemented.  Government-run social programs, Social Security, social welfare, and "social forums" for governmental agencies with our money to spend and time to burn--all of these are bad and wasteful.  If your first response to "Social X" is not, "I am suddenly very wary of those in favor of Social X," then there is a good chance that you are not a conservative.
+
+<p>
+
+Despite this conservative understanding, President Bush has been attempting to grow AmeriCorps, the government volunteering organization signed into law in 1993 by then President Clinton.  Yes--despite the lesson we've learned about Socialism, Bush is giving in here, and trying to get the government to run a branch of society that the public sector has handled perfectly well itself.  Bush's plan "includes a call for 200,000 new volunteers to community service with AmeriCorps." It's too bad that Clinton did not name it "Social Volunteering Corps", so that Bush could have been tipped off by the name.  Fortunately, his longtime ally Dick Armey of Texas is standing up to him on this issue.  Speaking at his weekly news conference, he said, "My own view is that America is a nation of great charity, and we give best when we give what is in our own hearts.  We give least well when we give at the direction and supervision of the government...The idea that government can teach charity to America rings very hallow with me." 
+
+<p>
+
+Armey later entertainingly remarked, "I do not understand why anyone would embrace AmeriCorps .... I think the conceptual framework of AmeriCorps is obnoxious."
+
+<p>
+
+Government-run volunteering is for some an easy issue to give in on. The fact that it is so easy here to lie supinely on our backs as we are trampled upon by idiocy, without so much as a word about freedom from the government and the superiority of private efficiency, is precisely why this is so dangerous an issue.  Every aware conservative knows that the government is not as effective or efficient as the private sector.  America has always been a nation of great charity, and bringing in the government's bungling is not the sort of leadership we need from our President. Bush is giving in to an emotional current in our public that is more interested in a feel-good outpouring of liberalism than in making intelligent choices--Armey is right to stand up to him.  Private organizations have always done a better job, and the idea that it is within the Federal Government's domain to lead our efforts in taking pride in our society is ridiculous.  Only after thinking about the solution to this dangerous encroachment by the government did I realize that Social Entrepreneurship deserved a second look.
+
+<p>
+
+J. Gregory Dees of The Stanford Business School describes our need for Social Entrepreneurship in apt terms:
+
+<p>
+
+[Social Entrepreneurship] combines the passion of a social mission with an image of business-like discipline, innovation, and determination commonly associated with, for instance, the high-tech pioneers of Silicon Valley. The time is certainly ripe for entrepreneurial approaches to social problems. Many governmental and philanthropic efforts have fallen far short of our expectations. Major social sector institutions are often viewed as inefficient, ineffective, and unresponsive. Social entrepreneurs are needed to develop new models for a new century.
+
+<p>
+
+My first impression of Social Entrepreneurship was clearly wrong.  For the first time in my memory, the liberal buzzword "Social" had not lived up to its name--perhaps the sly person who named this philosophy realized that a liberal title would be well received by sponsors such as "The Program on Urban Studies", "ASSU", and "Stanford Public Policy Program".  
+
+<p>
+
+Flowers can occasionally grow from fetid piles of muck, and in this case I was wrong to judge the philosophy by it sponsors and its name.  Social Entrepreneurship provides a powerful, viable alternative to Federal Governmental programs, while helping our society in a much more powerful manner.
+
+<p>
+
+"Entrepreneur" originally referred to someone who "undertakes" a task or a duty, and has come to be associated with the innovation and hard work of one who adds value to our society through a business undertaking.  The precepts of Social Entrepreneurship are based on applying the logic and hard work of the public sector to solving America's problems, and this is precisely what needs to be done.
+
+<p>
+
+Anyone who has pride in their society and wants to make it a better place should look into doing so, and Social Entrepreneur causes are a great way to do this.  If you personally feel that the environment in one area needs to be cleaned up, that children in an inner-city need mentors, that a school needs a chess club--you can make a difference in these areas by volunteering, or creating a business based on this volunteerism.  When necessary to accomplish a community-service goal, several non-profits have sprung up, supported by those who feel that its existence benefits their society. Examples include companies that develop technology for handicapped citizens, or creating sustainable charities by selling products while guaranteeing a certain percent of the proceeds for the community cause.  People who care about their society can do anything the government has tried to do better.
+
+<p>
+
+Donating and working for these causes solves our problems in a much better way than Americorps ever could.  Why?  Only something that people actually feel is a problem is worked on, because people are choosing exactly how to spend their own time.  And, with a limited budget that isn't being taken from the infinite resource of government money, effort is spent getting things done, rather than being inefficient in an effort to show that your branch of government needs more money.  If a private Social Entrepreneur is inefficient, he goes bankrupt.   In contrast, when AmeriCorps is inefficient, it steals more of our money, and then decides how to spend it so it can take even more.
+
+<p>
+
+<i>The Stanford Review </i>endorses the concept of Social Entrepreneurship.  While nobody should be forced to contribute to a cause that they disagree with, a good citizen is involved in his community, and makes it a better place through his efforts.  To find out more about the philosophy or to get involved, visit <a href=http://fusion.stanford.edu onMouseOver="window.status='FUSION web site'; return true" onMouseOut="window.status=' '; return true">http://fusion.stanford.edu</a>.  Beware of government organizations claiming to be associated with Social Entrepreneurship, but know that there are several good people out there working to help society in an honest and efficient manner.
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:16:47 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

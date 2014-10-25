@@ -1,0 +1,270 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXX - Issue 8 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Alumni_Thoughts/index.shtml" onMouseOver="window.status='Alumni Thoughts'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Alumni Thoughts</font></a><br>
+
+<a href="../Current_Issues/index.shtml" onMouseOver="window.status='Current Issues'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Current Issues</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../Current_Issues/currentissues2.shtml" onMouseOver="window.status='Alexander Kendall in Current Issues'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alexander Kendall</font></a><br>
+
+
+<a href="../Alumni_Thoughts/alumnithoughts1.shtml" onMouseOver="window.status='Aman Verjee in Alumni Thoughts'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Aman Verjee</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Brooke Brody-Waite in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brooke Brody-Waite</font></a><br>
+
+<a href="../Alumni_Thoughts/alumnithoughts2.shtml" onMouseOver="window.status='David Cavicke in Alumni Thoughts'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Cavicke</font></a><br>
+
+<a href="../Current_Issues/currentissues2.shtml" onMouseOver="window.status='Elizabeth Madjlessi in Current Issues'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Elizabeth Madjlessi</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Eric M. Jackson in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Eric M. Jackson</font></a><br>
+
+<a href="frontpage3.shtml" onMouseOver="window.status='Joe Lonsdale in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Joe Lonsdale</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='Michael V. Petras in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Michael V. Petras</font></a><br>
+
+<a href="../Current_Issues/currentissues1.shtml" onMouseOver="window.status='Piotr H. Kosicki in Current Issues'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Piotr H. Kosicki</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXX, Issue 8
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+June 6, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXX</a> - <a href="../index.html" onMouseOver="window.status='Issue 8'; return true" onMouseOut="window.status=' '; return true">Issue 8</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+Front Page
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Skepticism of Habit
+</font><br>
+
+<b>by Joe Lonsdale</b><br>
+Editor-in-Chief '02-'03<p>
+
+   Our undergraduate years at Stanford contribute greatly to our ultimate identities, as it is here that we morph from adolescent to adult. During our time at The Farm, our minds begin to accustom themselves to certain habits of thought and action.  Our algorithmic responses to conflicts, politics, surprising news, stupidity, kindness, failures, and successes become more deeply encoded in the psyche, as the mind swaps its strikingly pliant heaps of SRAM for pre-coded hardware and less flexible storage devices. 
+
+<p>
+
+   My experience with conservative journalism at Stanford has been a great aid in understanding these key processes in my development. In the end, I would even say that the experience has played a huge role in saving me from poorly developed robotic responses to important areas of life.  
+
+<p>
+
+   The first thing any conservative student acquires at a modern university is a powerful sense of skepticism. When the Black Studies program conducts a study on affirmative action, a government public-policy agency analyzes information on racism and sentencing, or an economist completes research on the correlation between taxes on the rich and the lifestyles of America's poor...we can probably tell you the result ahead of time.  I have seen fellow students vehemently citing studies such as these in their discussions and debates, and it amazes me that they truly take the studies seriously.  This skepticism carries over well into many parts of life: by immediately responding to information by analyzing its source and biases, we gain a stronger grasp on the finer points of negotiation and reality.  We shed adolescent naïveté by sadly understanding why the Muslim student group is truly against the war in 
+Iraq.
+
+<p>
+
+   More profitably, if we look to understand this concept and apply it further, we learn also to be skeptical of our own reactions and beliefs.  By surrounding ourselves with conservatives and learning to hit "mute" when utter foolishness gets thrown at us by loud and radical groups, we become too accustomed to disparaging dismissals of outside viewpoints.  Wading through excrement is a poor use of talent, and the mind can only reject defunct ideas and phrases so many times.  However, habits are easily formed, and we must avoid the overconfidence and single-mindedness this instinctual response may engender.  If we refuse to challenge our precepts by seeking sound reason and intelligent alternatives to our specific beliefs, we lose the most valuable benefit of this learned response -- skepticism is most useful when applied to challenge our own 
+thoughts and reactions.     
+
+<p>
+
+   This is true regardless of who you are and what you believe.
+Analyzing our own beliefs has led many conservative students, including myself, to acquire a more libertarian perception of the world.  In addition, I have found that it is dangerous to be absolutely sure of anything -- on a very limited basis, I now support part of a system I otherwise abhor: affirmative action.  Understanding the situation of friends from difficult backgrounds has given me respect for certain specific applications of affirmative action, especially to individuals of culturally deficient communities that spurned their academic efforts and achievements.  I'd rather work with a like-minded intelligent conservative, but I'd rather debate an intelligent liberal, if you'll pardon the use of that oxymoron in the 
+<i>Review</i>. 
+
+<p>
+
+   Unlike the mainstream PC campus culture of "don't-be-mean, let's-dance-around-trees-and-be-nice-to-everyone-even-if-they're-stupid-and-weird," conservatives can be an unforgiving group.  If you do something stupid, you should be criticized for it and correct yourself.  If you don't listen and you do it again anyway, you're probably a jerk or an idiot.  True, perhaps, but there comes a point where we need to recognize that both responses -- oblivious acceptance and harshly dismissive criticism -- become more trouble 
+than they're worth.
+
+<p>
+
+   Of all my habits, insensitive idea-bashing and anger-spurring criticism is the hardest to break.  There is unquestionably a problem with the blind acceptance of too many foolish ideas, activities, and projects on this campus.  Students who have never been told "that opinion is wrong" their entire lives are undeterred in whatever crazy schemes they righteously hatch and hoist on their banners.  There is wisdom in both 
+acceptance and criticism.   
+
+<p>
+ 
+   While it is satisfying to demolish a person or group for their tethered spin about a cosmically warped reality, it usually doesn't accomplish much.  "But it's fun," I would protest.  However, if I am to be concerned with the reality in which I'm working, the instinct to reply harshly and destroy any hope for dialogue 
+needs to be repressed.  
+
+<p>
+
+   A harsh and unforgiving knowledge of what is wrong is extremely important, but the ability to communicate amicably despite this is at times even more valuable.  In person-to-person contact, I've been impressed by the honor and kindness with which conservatives students conduct themselves, in contrast to the hate and violence often focused on us from students on the other side.  
+
+<p>
+
+   Conservatives here have often been raised as honorable gentlemen and ladies and do not tend themselves to cruelty in conversation with liberals, but too often we allow ourselves a dismissive tone in print that contributes an unhelpful negativity to the community.  Oftentimes, people only need to be told why a portion of their philosophy may be mistaken in a manner that doesn't assault their good sense or dignity, and allows them an honorable method of fixing the problem.  I'm still at a loss as to how to communicate with the makers of the big red "Poverty is not a Stanford value!" sign, but this philosophy has proven greatly useful in discussions with moderate liberals.
+
+<p>
+
+   Applying skepticism to our habits of thought and action is one of the most difficult challenges students face at Stanford.  From our midterms, many of us have learned resilience and confidence in response to failure, and hard work instead of overconfidence in response to success.  The most important habit a conservative at Stanford can build is 
+metacognition.  
+
+<p>
+
+   Instead of responding with anger or hate when you encounter a harmful point of view,  analyze your intended response, and decide whether it's worth getting emotionally or conversationally involved and what impact your response and involvement will have on the participants and the issue.  By questioning the habits that comprise our character, we become more mature adults, and the challenges we face as campus conservatives play a key role in 
+our transformation.
+
+<p>
+   
+<i> Joe Lonsdale is a junior majoring in Computer Science.</i>
+
+<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:24:17 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

@@ -1,0 +1,287 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVIII - Issue 3 - News</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Letter_to_the_Editor/index.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Letter to the Editor</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="news1.shtml" onMouseOver="window.status='Andrew Wright in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Andrew Wright</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='David Myszewski in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Henry Towsner in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Jason Rheins in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jason Rheins</font></a><br>
+
+<a href="news3.shtml" onMouseOver="window.status='Mark Zavislak in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mark Zavislak</font></a><br>
+
+<a href="../Opinion/opinion3.shtml" onMouseOver="window.status='Nels Hansen in Opinion and News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Nels Hansen</font></a><br>
+
+<a href="../Opinion/opinion2.shtml" onMouseOver="window.status='Ryan Wisnesky in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ryan Wisnesky</font></a><br>
+
+<a href="news4.shtml" onMouseOver="window.status='Will Hudson in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Will Hudson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVIII, Issue 3
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+March 14, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVIII'; return true" onMouseOut="window.status=' '; return true">Volume XXVIII</a> - <a href="../index.html" onMouseOver="window.status='Issue 3'; return true" onMouseOut="window.status=' '; return true">Issue 3</a> - News
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+News
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Professor Elam Defends "Beyond White" Event
+</font><br>
+
+<b>by Nels Hansen</b><br>
+News Editor<p>
+
+Last issue, due to various scheduling issues, the news article on the "Beyond 'White'" workshop was not able to include the comments of either Aya De Leon, the leader of the workshop, or Professor Harry Elam, director of the <a href=http://www.stanford.edu/dept/ida/ onMouseOver="window.status='Institute for Diversity in the Arts'; return true" onMouseOut="window.status=' '; return true">Stanford Irvine Institute for Diversity in the Arts</a>.    As such, it mainly consisted of a summary of the events surrounding the expulsion of <i>Review</i> reporters Alex Robbins and Ming Zhu from the workshop.
+
+<p>
+
+Mr. Robbins and Ms. Zhu approached Ms. De Leon prior to the beginning of the evening's workshop and told her that they would like to attend the workshop.  After expressing concerns regarding the ethnicity of Ms. Zhu (who is not of "European-American heritage") as the group was to explore the issues at hand apart from all such people apart from herself, Ms. De Leon said she would ask the participants how they felt about the changes in the groups dynamics and let that determine whether the reporters could remain. At this point Ms. Zhu and Mr. Robbins identified themselves as Review staff members, and Ms. De Leon then expressed further concerns about their attendence, even though Ms. Zhu and Mr. Robbins offered to omit all personal details regarding individuals present.  Once 7 other individuals arrived, the workshop began, and Ms. De Leon asked the group about how they felt about the presence of persons of non-European descent (Ms. Zhu among them) in the group, and the group felt that this was acceptable.  Ms. De Leon then stated that there were journalists present, but did not specify from which publication they were from.  Group members felt that, as long as they followed and respected the posted rules regarding confidentiality (i.e., only published purely auto-biographical accounts of the event), they would be comfortable sharing as usual.  Ms. De Leon then returned to the issue of the remaining (2 had left by this point) non-whites present, but the group remained comfortable with their presence.  Finally Ms. De Leon, who already knew that Ms. Zhu and Mr. Robbins were from the <i>Review</i>, asked the journalists which publication they worked for.  When they stated that they were from the <i>Review</i>, one group member stated that she was uncomfortable with their presence due to the fact they were from the <i>Review</i> in particular, and the reporters were asked to leave.  
+
+<p>
+
+<table width=200 align=right>
+<tr>
+<td bgcolor=#cccccc>
+<font color=#23238E face="Arial,Helvetica,Verdana,sans-serif" size=+1>Questions Ms. De Leon has Declined to Answer</font><br>
+
+1) What is the affiliation of the "Beyond 'White'" workshop with the university and the drama department.<br>
+
+1a) Is it sponsored by either?<br>
+
+1b) What is the workshop's purpose?<p>
+
+2) Do your workshops on Tuesday and Thursday night ("Beyond 'White'" and "Raise the Roof") have an arrangement with the Harmony House for use of the space during those times?
+
+<p>
+
+3) Why is it your policy to expel a non-white (or non European-American, though I'm about as European as my car... :) ) member of the group if anyone feels uncomfortable with his/her presence?
+
+<p>
+
+4) Why is it your policy to expel journalists from group if anyone feels uncomfortable with his/her presence, even if they agree to follow the rules posted on the wall, particularly regarding confidentiality?
+
+<p>
+
+5) Why did you allow Ming and me to stay once the group accepted the presence of journalists (with confidentiality restrictions) but ask us to leave once a group member expressed discomfort with our being from <i>The Stanford Review</i> rather than our being journalists, per se.
+
+<p>
+
+6) Why do you base the decisions to expel someone on the
+complaint/objection of any member of the group rather than a consensus or majority vote?
+</td>
+</tr>
+</table>
+
+Though the <i>Review</i> was able to set up an interview with Mr. Elam, Ms. De Leon did not respond to email requests for comments or have time for an interview.  She wrote Mr. Robbins in an email that "Most of all, Alex, I wish you'd returned my calls & email prior to the first article, but I appreciate your willingness to  try and make it happen for a follow-up.  Too bad our schedules conflicted."  The calls she refers to here were one call on Thursday, February 21st telling Mr. Robbins that she would be leaving for Berkeley that afternoon, and another call directly afterwards adding a detail.  The email she refers to was never received by Mr. Robbins.  Ms. De Leon, according to an email sent by her assistant, Christine Cordero, was too sick for the usual Thursday evening workshop on March 7th, and Ms. De Leon again declined to comment for this issue due to other commitments.
+
+<p>
+
+INTERVIEW WITH PROFESSOR HARRY ELAM
+
+<p>
+
+<b>What is the affiliation of the "Beyond 'White'" workshop with regards to Stanford?</b><p>
+ 
+"The workshop is sponsored by the Stanford Irvine Institute for Diversity in Arts, which is funded by the President, the Provost, and the Irvine Foundation.  Aya De Leon is one of 4 guest artists from California of international and national renown hosted for winter quarter.  Ms De Leon is a spoken word artist, which is the most popular art form at this time, so she suggested the 2 evening workshops to help meet the high level of interest students have in this art form.  The workshops were a sort of extra-curricular event on her part."
+
+<p>
+ 
+<b>What is the policy of the workshop and affiliates with regards to race and ideology of participants?</b><p>
+ 
+"Anyone could sign up for the classes, and no one was to be prohibited from signing up, which she knew and understood from the beginning. Pedagogically, the focus of the two workshops is different in that they talk about individual's experiences in different ways - approaching whiteness as an ethnicity.  Often people associate race first with Blacks and then other non-whites.  So it approached the issue in a new and interesting way."
+
+<p>
+ 
+<b>What is your understanding of the incident in which two <i>Review</i> reporters were asked to leave the "Beyond 'White'" workshop, in particular as it relates to Title 6 and University Bylaws and policy?</b><p>
+ 
+"Having spoken with the legal department, the students involved, and Aya herself, this is what I understand regarding this incident: the reporters identified themselves as members of the press, though they did not state which publication they were from.  The concern was that the class, which had been going on for several weeks before this time, would not be able to maintain the safe space it had created, and the dynamics would be changed by the scrutiny of the press.  While the freedom of the press is an important one, in some situations the ability of the press to be present at some meetings is overridden, and this is certainly such an instance."
+
+<p>
+ 
+<b>On being told of the perspective of the <i>Review</i> reporters on the event (that Aya knew they were from the <i>Review</i>, tried to get them kicked out based on race, then based on journalistic affiliation, then because they were from the <i>Review</i> in particular):</b><p>
+ 
+"That differs from my understanding of the incident, and as such it is difficult for me to speculate on the legality of what the reporters say happened; however, it seems to me that the earnestness of their desire to participate in the project of taking the class was reasonably in question at that point."
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:17:37 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

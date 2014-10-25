@@ -1,0 +1,439 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - May 22, 2008</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style1 {font-style: italic}
+.style3 {font-weight: bold}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XL, Issue 8 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">May 22, 2008 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">FEATURES</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Alumni Notables: Interview with James Pinkerton</p>
+              <p class="byline">by <a href="http://www.stanfordreview.org/About/Staff/tabbey.shtml">Tristan Abbey</a></p>
+              <p class="byline"><em>Editor-at-Large</em></p>
+              <p class="style1"><img src="http://www.stanfordreview.org/Archive/Volume_XL/Issue_8/Features/features1.jpg" width="300" height="319" border="0" align="right"></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p><em>Over the Christmas holiday, the Review&rsquo;s Tristan Abbey caught up with James Pinkerton, a regular contributor to Fox News Channel&rsquo;s Fox News Watch and, until he joined Mike Huckabee&rsquo;s campaign, a columnist at Newsday. But, most importantly, he&rsquo;s a Stanford alum.</em></p>
+              <p><strong>1. Newsday columnist, Fox News Channel contributor - by all accounts, you have become a successful journalist. What role did Stanford play? When did you attend and graduate, what did you study?</strong></p>
+              <p>I was a Political Science major. &nbsp;I was supposed to be the class of &lsquo;79, but I actually graduated in &lsquo;80. &nbsp;In that era, at least, Stanford was a great school for the motivated, not so great for the unmotivated&mdash;what with few distribution requirements and lots of pass-failing. &nbsp;The area, of course, was, and surely still is, a great place to mellow out, if that&rsquo;s what one wants to do.</p>
+              <p>As it happened, the events of the day un-mellowed me: my interest in politics got stirred up during those years, mostly in reaction to events outside of school. Perhaps the most valuable resource for me during those years turned out to be newspapers, available for anyone to read, on wooden poles at Tresidder Union. &nbsp;If you want to be in practical politics, you have to know what&rsquo;s going on&mdash;theory is nice, but names and dates are more immediately important. &nbsp; Having said that, the theory is important, too. &nbsp;I wish I had learned more, then, about the Federalist Papers, for example, and about all the arguments concerning republics and democracies. &nbsp; I have done my best to catch up, over the decades, but I wish I had learned all that then.</p>
+              <p>Still, the newspapers were my best window outward, enabling me to see the stagflation of the Carter years, punctuated, of course, by Proposition 13 in 1978 and the publication of Jude Wanniski&rsquo;s &ldquo;The Way the World Works,&rdquo; which was a definite paradigm-shifter for me. &nbsp;All that, plus Carter&rsquo;s &ldquo;malaise&rdquo; speech and the Soviet invasion of Afghanistan&mdash;that got me out of the ivory tower.</p>
+              <p>Yet I think back in admiration and gratitude to various profs, including Charles Drekmeier of the Political Science Department, who obviously didn&rsquo;t agree with me on much of anything, but who nevertheless was willing, in the spirit of civil inquiry, to give me plenty of argumentative leeway in discussion groups at his house in Palo Alto. &nbsp;I was also fortunate, back then, to meet Doug Bandow, then at the law school, who in turn put me in touch with Martin C. Anderson of Hoover [Institution]. &nbsp;Marty was a mentor, friend, and boss to Doug and myself at the Reagan campaign in 1980 and at the White House starting in &lsquo;81.</p>
+              <p><strong>2. Much has been said about the rising &ldquo;new media&rdquo;&mdash;Fox, Drudge, the blogosphere. How hopeful are you for the future of news? Will things become harder or easier for budding conservative journalists?</strong></p>
+              <p>I think that &ldquo;the news&rdquo; will do fine. &nbsp;It&rsquo;ll just be a lot harder to get paid in familiar ways, in part because MSM [mainstream media] institutions are mostly faltering, financially, and in part because so many millions of people are eager and willing to do it for free, and give it away. &nbsp;I think that the big winners worldwide, paradoxically, are going to be government-provided media: BBC, NPR/PBS, Al-Jazeera, CCTV, etc.</p>
+              <p>The internet is a feast of reading, surfing, and blogging, but most bloggers seem to be critics, frequently media critics. &nbsp; There&rsquo;s nothing wrong with criticizing the media, of course, but what&rsquo;s always most compelling to news consumers are scoops and breaking news. Opinions tend to be boring after awhile, but new discoveries are always compelling&mdash;that is to say, news.</p>
+              <p>So many journalists of the future are likely to be government/quasi-government employees, or else employees of some non-profit journalistic trust, or maybe &ldquo;blog-unteers.&rdquo; And many will probably be representative of various entities&mdash;corporate, academic, philanthropic, ideological&mdash;that have decided to cut out the middleman, and get right into the news-and-opinion-mongering game via their own portal.</p>
+              <p><strong>3. I quote you to yourself, writing in the September 10, 2007, issue of The American Conservative: &ldquo;With apologies to the frankenfood-fearers and polar bear-sentimentalizers, the biggest danger we face is the Clash of Civilizations, especially as we rub against the &lsquo;bloody borders&rsquo; of Islam.&rdquo; Is the problem Islam itself, or the growing jihadist view within the Islamic community? Dinesh D&rsquo;Souza, for example, argues that traditional Muslims should be our allies.</strong></p>
+              <p>I hope that everyone is America&rsquo;s ally, although history offers a drearier prognosis. &nbsp;And when I read on the front page of The Washington Post today, December 26, about the struggle for power in the Shia parts of Iraq, &nbsp;I am reminded that our capacity to fool ourselves as to what&rsquo;s happening faraway is near-infinite. &nbsp;It seems that the Supreme Council of Iraq, led by Abdul Aziz al-Hakim, is listed as our &ldquo;ally&rdquo; in the struggle against the Mehdi Army of Moqtada al-Sadr; Hakim, of course, lived in Iran prior to coming back to Iraq. &nbsp;He&rsquo;s no fan of America or of Americans. &nbsp;So I don&rsquo;t think that he is truly our ally; more likely, he is just playing us for a sucker.</p>
+              <p>I mean, I am all for tactical relationships, as they come available. &nbsp; But a genuine alliance? &nbsp;I doubt it. &nbsp; And the same holds true for, to name other additional examples, Pakistan and Sudan.  Consider the assassination of Benazir Bhutto in Pakistan. &nbsp; The point, again, is that we have very little ability to positively affect the politics of these places. &nbsp;We can make them worse, of course, and we can make them better through aid, but the politics are just too complicated and murky for us to figure out from 10,000 miles away. Samuel Huntington was right: We&rsquo;re in a clash of civilizations. &nbsp; And so what matters is not that the Arabs are small &ldquo;d&rdquo; democrats or not. What matters is that they want their own culture and civilization. &nbsp;And if we want to change them and their ways, we will have to fight them.</p>
+              <p>Genuine allies are like genuine friends: they like you, and they stick with you, even when you&rsquo;re wrong.</p>
+              <p>What we are seeing in the Muslim world today is a reformation of a kind, a jihad-struggle for religious and cultural purity&mdash;starting with getting the foreigners out. &nbsp; And that includes, alas, us. &nbsp; It&rsquo;s been perfectly possible for the US to have good relations with Vietnam, but only after we agreed that any American flags were going to be atop our embassies and consulates, not atop fortresses and firebases. &nbsp;They needed to assert their sovereignty before they were ready to deal with us.</p>
+              <p>We&rsquo;re in a time of nationalism, and that means that people in the Third World will welcome us, maybe, as traders and NGO-ers&mdash;and I emphasize the maybe&mdash;but not as liberators or occupiers. &nbsp;They just won&rsquo;t&mdash;instead, they will use the presence of Americans on their soil as a rallying cry for resistance. That&rsquo;s not an insult to America, it&rsquo;s just an observation as we look around the world.</p>
+              <p>So what really matters is that the US defend itself, and its allies&mdash;its true allies. &nbsp;That&rsquo;s where the &ldquo;Council of the West&rdquo; comes in. &nbsp; We should start by getting serious about immigration control, border protection, asserting US sovereignty, and energy independence.</p>
+              <p><strong>4. You&rsquo;ve set up something called the Sovereignty Caucus. What is this group&rsquo;s agenda? Is it a reaction against neoconservatism, liberalism, one-world universalism, or something else?</strong></p>
+              <p>Every people should have a country. &nbsp;Not somebody else&rsquo;s country, their own country, and not an empire, which is, by definition, multicultural&mdash;thus the lesson for these United States, which should defend this land of ours. America&rsquo;s identity as an English- speaking country, multiethnic but unicultural, is under assault from the globalist left and the globalist right. &nbsp;On the left, the multiculturalists and neo-Susan Sontags, who think that white people are the problem. &nbsp;On the right, businesses and their lobbyists who just want more consumers and lower wages, with the long term consequences of national destiny left to someone else to worry about.</p>
+              <p>So I established the Sovereignty Caucus as a place for like-minded souls to focus on issues of border security, the threat from a Kyoto-like global warming treaty, etc. &nbsp;There&rsquo;s an SC on Facebook, too.</p>
+              <p><strong>5. October 7, 1996, Fox News Channel launched nationwide. Was this an exciting time for you as a journalist with views outside the liberal mainstream? When did you realize that Fox was making an impact?</strong></p>
+              <p>I have loved working at Fox. &nbsp;Roger Ailes is a genius, and he has put together a great team. &nbsp;I look forward, in the next decade, to helping make Fox as much of a presence on the web as it is on TV.</p>
+              <p>I always thought that Fox would be a success, because the MSM had so foolishly ignored such a huge share of the country. &nbsp; But I guess my own personal moment came during the flap over CNN&rsquo;s &ldquo;Operation Tailwind&rdquo; special in 1998. &nbsp;Tailwind was a real-enough US military operation in Laos in 1970, but CNN felt the urge to amp up its story by &ldquo;reporting&rdquo; that the US had used poison gas during the operation. It was a lie and a smear that some elements of Ted Turner&rsquo;s network were all too eager to put out on worldwide TV. &nbsp;At the time, nine years ago, I was asked to rate the credibility of the CNN story on Fox&rsquo;s &ldquo;News Watch&rdquo; show, on a scale of 1 to 10, I gave it a &ldquo;minus 12.&rdquo; &nbsp;And sure enough, within days, a rising tide of New Media skepticism undid CNN&rsquo;s canard against our troops. The whole story collapsed, CNN&rsquo;s Peter Arnett and others got fired or pushed out. &nbsp;Looking back, I can&rsquo;t say that I did all that much to debunk the &ldquo;Tailwind&rdquo; story, but I did what I could, and together with many others, the onetime liberal monopoly was busted. &nbsp;Yay!</p>
+              <p><strong>6. You worked for both Ronald Reagan and George H.W. Bush. Have things changed in Washington since then? For the worse, for the better?</strong></p>
+              <p>America is certainly better off because of the contributions of those two presidents; I was proud to work for both, even if the Bush 41 experience was oftentimes exasperating. &nbsp;As for others since, I think that there&rsquo;s so much upward momentum in the US economy, and in the American people, that it&rsquo;s hard to show that a president has done so much damage that the country was worse off at the end of his tenure in office. &nbsp; As for Washington DC, this is physically a much nicer place today than it was when I came here in 1980. The city is prone to horrendous misgovernment, vis-&agrave;-vis Marion Berry, but the capital of a great country is inherently going to be a nice place. Tere are too many interests who will step in, and team up, to force better governance. And so this city, for example, is swarming with non-District police forces&mdash;Secret Service, Federal Protective Service, etc. &nbsp;And we now have a lot of Business Improvement Districts, which are a good idea.</p>
+              <p>As for political polarization, I suppose that that&rsquo;s gotten worse. &nbsp;It probably takes a crisis to turn that around, and strangely enough, 9-11 and the various wars have not proven to the sort of crises that forces a reassessment of polarization as a perceived optimum condition. But I suspect such a crisis is coming.</p>
+              <p><strong>7.  You say, on the one hand: &ldquo;On the right, businesses and their lobbyists who just want more consumers and lower wages, with the long term consequences of national destiny left to someone else to worry about.&rdquo; On the other hand, you say: &ldquo;I think that there&rsquo;s so much upward momentum in the US economy, and in the American people, that it&rsquo;s hard to show that a president has done so much damage that the country was worse off at the end of his tenure in office.&rdquo; Do you, then, have doubts about free trade/globalization, offshoring, and so forth? Just trying to clarify how you reconcile the &ldquo;upward momentum&rdquo; with the &ldquo;long-term consequences of national destiny&rdquo;?</strong></p>
+              <p>Countries can be prosperous in and of themselves. &nbsp; Trade is great, but national survival is greater. &nbsp;The market should serve the nation, not vice versa. &nbsp; I am all for trade and comparative advantage and all that, but leaders need to be mindful of other factors, too, on the home-front&mdash;including the stability of wages, the wellbeing of the country, and the readiness of an adequate industrial base. &nbsp;And that means that you need the wherewithal to win your wars. &nbsp;And it&rsquo;s not clear to me that we still have that capacity, at least not readily at hand. &nbsp; We won World War Two with a blizzard of steel&mdash;today, we barely make steel anymore.</p>
+              <p><strong>8.  You say: &ldquo;the various wars have not proven to the sort of crises that forces a reassessment of polarization as a perceived optimum condition. &nbsp; &nbsp;But I suspect such a crisis is coming.&rdquo; From where? The rise of a third-party, the collapse of another?</strong></p>
+              <p>I think America is going to get a crisis-shock from one of five directions, maybe more:<br>
+                First, and most obviously, WMD terrorism. &nbsp; All our views on border control, national ID card, etc. will then change immediately. </p>
+              <p>Second, problems of trade, as noted above&mdash;I don&rsquo;t think that the dogma of free trade will survive the coming &ldquo;online&rdquo; of India and China.</p>
+              <p>Third, demography. &nbsp;I think movies such as &ldquo;Knocked Up&rdquo; and &ldquo;Juno&rdquo; speak to the sense that people aren&rsquo;t having enough children, that a society based on consumption, as opposed to future-oriented procreation, is doomed. &nbsp; And happily, even the pop culture has figured that out. &nbsp; A country that resolves to be more nurturing to children&mdash;and yes, more pro-life&mdash;will be a nicer country all the way around.</p>
+              <p>Fourth, environmental issues. I have no considered opinion on the causes of global warming, but I can easily see that one way or another, to solve one problem or another, we are going to have to get a little more structured and disciplined about our enviro-footprint. &nbsp; Maybe we&rsquo;ll all have to recycle, and bicycle. &nbsp; Or maybe we&rsquo;ll have to stand guard, as a society, over a string of new nuclear plants (to generate electricity without CO2) and their waste and all that. &nbsp; If so, in the WMD era, we will have to be walk on eggshells, in terms of security.</p>
+              <p>Fifth, and most broadly and vaguely, new technology. &nbsp;If the industrial revolution brought forth a whole slew of nutty ideologies&mdash;communism, fascism, anarchism, nihilism, just for starters&mdash;then what will the computer revolution bring forth? &nbsp; (For an early indicator, we might consult Harlan Ellison&rsquo;s &ldquo;I have no mouth and I must scream.&rdquo;) &nbsp; And what will be the biotech revolution bring forth? &nbsp;(For an early indicator, we might consult Mary Shelley&rsquo;s &ldquo;Frankenstein.&rdquo;)</p>
+              <p><br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

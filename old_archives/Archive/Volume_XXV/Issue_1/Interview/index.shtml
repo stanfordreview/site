@@ -1,0 +1,244 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXV - Issue 1 - Interview</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.shtml" onMouseOver="window.status='A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Note From Bob</font></a><br>
+
+<a href="../Best_Of_Web/index.shtml" onMouseOver="window.status='Best of the Web'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Best of the Web</font></a><br>
+
+<a href="../Book_Review/index.shtml" onMouseOver="window.status='Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Book Review</font></a><br>
+
+<a href="../Election_Roundup/index.shtml" onMouseOver="window.status='Election Roundup'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Election Roundup</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Interview</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../The_Last_Page/index.html" onMouseOver="window.status='Alex Robbins in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Alex Robbins</font></a><br>
+
+<a href="../A_Note_From_Bob/index.html" onMouseOver="window.status='Bob McGrew in A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../Opinion/opinion1.shtml" onMouseOver="window.status='Chris Desmond in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Chris Desmond</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='Christopher Fish in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Christopher Fish</font></a><br>
+
+<a href="../Front_Page/frontpage2.shtml" onMouseOver="window.status='Dave Myszewski in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Dave Myszewski</font></a><br>
+
+<a href="../Book_Review/index.html" onMouseOver="window.status='Henry Towsner in Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../News/news1.shtml" onMouseOver="window.status='Mike Neruda in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Mike Neruda</font></a><br>
+
+<a href="../Front_Page/frontpage1.shtml" onMouseOver="window.status='Scott Rasmussen in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+</font>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXV, Issue 1
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+October 13, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXV'; return true" onMouseOut="window.status=' '; return true">Volume XXV</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - Interview
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Interview</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>Up Close And Personal With Rich Lowry</font><br>
+
+<i>The Stanford Review</i>: What have been the main shifts that <i>National Review</i> has experienced?  How have things changed since William F. Buckley?<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Issue_1/Interview/images/nroeditor.jpg" width=120 height=150 alt="NRO Editor" align=left>
+Mr. Lowry: In the early days, conservatism was still in a very inchoate phase where a lot of the ideas and emphases were still being fleshed out.  So what Bill [Buckley] did was bring together a lot of conservative intellectuals who didn't agree on anything.  And through the pages of <i>National Review</i>, they worked a lot of things out.  They worked out what is now the rock-bottom basics of conservatism, what's called fusionism, uniting libertarian economics with traditionalism on moral issues and staunch anti-communism.  Those are really the three pillars of modern conservatism and were the pillars of Reagan's appeal and approach.  <i>National Review</i> hasn't moved off that much.  There have been some different emphases throughout the course but it has been fairly solid on those three legs of the stool.  Once those were argued out, and were literally argued out oftentimes with near fisticuffs and shouting, we've been pretty solid on that course ever since.  <p>
+
+TSR: How has National Review Online affected readership and the overall message of <i>National Review</i>?<p>
+
+Mr. Lowry: It's been a great advantage to us.  Journalistically, the drawback to <i>National Review</i> has been our publication schedule.  We publish once every two weeks and as the news cycle has grown ever faster, it has become harder for us to keep up with the print publication.  So NRO has become almost a publication of its own, tightly focused on keeping up with the news cycle and changing by the hour on hot days.  It's a really important way to give our writers a venue to react instantly to things in a way that we can't with the magazine.  It's also, thanks a lot to Jonah Goldberg who edits the site, developed a sensibility of its own, a much more wackier, more informal, sometimes hipper style.  All indications are that this has helped the site draw a younger audience that is distinct from the one that the magazine has.  We're also getting a lot of subscriptions through the web, which has been a great boon to the magazine but is another indication that this is a new audience we're drawing to the <i>National Review</i> brand name.  The thinking is that it's good for both the web and the magazine.  It's just more <i>National Review</i> for everyone.<p>
+
+TSR: Where does the taboo on free exchange of ideas on college campuses come from?<p>
+
+Mr. Lowry: There's a deep tendency from the left to assume that if you're conservative, there's something wrong with you.  Not just that you're mistaken, the way conservatives think liberals are, but that there's something actively evil about you.  I experience this in my daily life here in New York at the most superficial level.  I'll meet people at parties and if I tell them what I do for a living, they look at me like I've just confessed to being an axe murderer.  There's a deep tendency on the left to believe in its own righteousness and to think therefore that ideas it doesn't agree with are not just wrong but are somehow illegitimate and hence taboo.  I think it's, ironically, a great boon to conservatives on campus and to conservative journalists because the most effective way to attack things is to make fun of them and to do things with good humor, and a lot of the campus left has totally ceded that.  These are people who don't smile.  So it's possible for the conservatives to be the ones who are fun and defend humor and good times on campus against these latter-day puritans from the left.  <p>
+
+TSR: What does "compassionate conservatism" really mean?<p>
+
+Mr. Lowry: I don't think it means a lot and it's essentially a defensive posture.  In political terms, the translation of it is "I am not Newt Gingrich."  That's turned out to be an extremely valuable message for Bush to send because Gingrich's image with the public was so awful.  But beyond that I'm not sure what enduring meaning it has. 
+I don't think this represents a fundamental shift in conservative thinking.  In effect, a lot of these ideas -- that society's "small platoons" can do a better job of governing -- have been part of conservative thinking for decades.  I think too much is made of "compassionate conservatism" and now that Gore has found his footing a little bit and is being more aggressive on the policy front, Bush is not going to be able to rely on repeating the platitudes of compassionate conservatism to get him through the last weeks of the campaign and win the thing.  <p>
+
+TSR: Is this country ready to privatize Social Security, at least partially?<p>
+
+Mr. Lowry: It's been extraordinary the way the Social Security debates have played out.  Very interesting things happened when Bush rolled out that plan.  The first significant thing was that he was rolling it out at all.  The second was that Gore went after it in the traditional way that Democrats have, total scare-mongering and demagogic attacks about throwing our seniors overboard.  That attack just did not take at all and what Gore ended up doing was re-tooling his own Social Security plan to move it in the direction that Bush was going.  The distinction now between the two plans is that Bush is taking part of the actual payroll tax to fund people's private accounts, and Gore is leaving the payroll tax the way it is and giving people a private savings option outside the system.  That's why Gore says his plan is Social Security plus and Bush's is Social Security minus.  But the fact is that both parties now acknowledge that the rate of return is a disaster and that people can be taken care of better if they actually save and invest for themselves.  That's a huge change in the politics of our country.  <p>
+
+Another interesting straw in the wind here is that in the post-convention period when Gore has been very aggressive in taking Bush's policies on, what he's mainly been attacking have been tax cuts and health care and prescription drugs - not Social Security.  To me this is another indication that people are ready for change along these lines.  The fact now is that whoever gets elected, we are going to move in that direction, either a full step with Bush or a half step with Gore.  <p>
+
+TSR: If the Republicans were to win back the White House, keep Congress and make the important judicial appointments of the next few years, what would this ideal conservative government look like?  What would we see change most?<p>
+
+Mr. Lowry: With a Bush administration, even if you get a Republican Congress, there are just a few big things you should hope for and not much besides that if you're conservative.  You would hope to get a tax cut, entitlement reform, and missile defense.  Those are the three big things.  And then you'd hope to get decent judicial nominations which are extremely important because we have a slow motion crisis in self-government in this country.  We have judges, regulators and trial lawyers conspiring to overthrow traditions of democratic governance that have existed for centuries in Anglo-America and that were built up through revolutions and wars.  Blood was spilt over establishing these traditions and we're just kissing them away.<p>
+
+TSR: When did education become a Republican priority and why hasn't it always been one?<p>
+
+Mr. Lowry: I think it's because liberals from Rousseau on have placed such value on education in terms of molding human nature while the conservative sensibilities have been a little more oriented towards a 'human nature is what is' ideal and the notion that you can't educate that out of people.  In general, though, I think it's a bad rap for Republicans because they just haven't been as eager to fund public schools and that has been made into a charge that they don't really care about education.  <p>
+
+So I think Bush talking more about education is very shrewd because it's become a national issue the way crime was a local issue for a long time before Nixon nationalized it in '68.  Clinton did a similar thing with education in '96 and a Republican candidate just can't ignore it anymore.  Bush's rap on it is pretty good. Public schools aren't very good because they're a governmental bureaucracy with no accountability and Bush is very passionate when he talks about the failure of public schools to measure success.  <p>
+
+We've just recently had a sign that the dam may be breaking on this issue.  There was a front page New York Times story recently on how much better Hispanic kids in California are learning now that bilingual education has been eliminated.  Then there was a story in the [<i>Washington</i>] <i>Post</i> about a study showing that kids using vouchers to go to private schools were scoring better than the public school students.  I think the idea that public schools are failing and that they need a radical shake-up and that there are other means of education worth exploring is finally breaking through.<p>
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:52:40 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>

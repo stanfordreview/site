@@ -1,0 +1,421 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../../feed.xml" />
+<title>The Stanford Review - November 30, 2007</title>
+<style type="text/css">
+<!--
+.masthead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	color: #990000;
+}
+.header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 120%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.byline {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 3px;
+}
+.date {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.header:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	text-decoration: none;
+}
+.header:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 120%;
+	color: #FF0000;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.leftbarhead {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.leftbar A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+}
+.leftbar A:hover {
+	font-family Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.leftbar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.headline {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:link {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:visited {
+	font-family: Tahoma;
+	font-size: 18px;
+}
+.headline A:hover {
+	font-family: Tahoma;
+	font-size: 18px;
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.text {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.text A:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:visited{
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #990000;
+	font-weight: normal;
+}
+.text A:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight: normal;
+}
+.leftbar1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+body {
+	background-image: url(http://www.stanfordreview.org/images/center.jpg);
+	background-position: 50% 0%;
+	background-repeat: repeat-y;
+	border-color: #CC0000;
+}
+.style1 {font-style: italic}
+.style2 {font-size: 12px; color: #000000; line-height: 3px; font-family: Tahoma;}
+.style3 {font-style: italic}
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function POPUP(ID,Name)
+{
+  ASwindow = window.open('https://www.optigift.com/charity/PreInstructions_charity.jsp?ID='+ID+'&Name='+Name+'&date='+(new Date()).getTime(),'ASpopup', 'toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=550,height=650,top=10,left=50'); 
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bordercolor="#990000" bgcolor="#990000">
+    <tr>
+      <td width="705" bordercolor="#990000"><div align="center"><img src="../../../../images/topbanner.jpg" width="800" height="180"></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="0" cellspacing="0" bgcolor="#990000">
+    <tr>
+      <td width="208"><div align="center" class="header"><a href="../../../../index.html" class="header">Home</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="http://www.stanfordreview.org/phpbb/" class="header">Forum</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../index.html" class="header">Archives</a></div></td>
+      <td width="208"><div align="center" class="header"><a href="../../../../Support/index.html" class="header">Support</a></div></td>
+      <td width="209"><div align="center" class="header"><a href="../../../../About/index.html" class="header">About</a></div></td>
+    </tr>
+  </table>
+  <table width="800"  border="0" cellpadding="4" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="304" class="date"><div align="left">Volume XXXIX, Issue 5 </div></td>
+      <td width="409"><div align="center" class="date">Established 1987 </div></td>
+      <td width="304" class="date"><div align="right">November 30, 2007 </div></td>
+    </tr>
+  </table>
+  <table width="800" height="510"  border="0" cellpadding="2" cellspacing="1" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+    <tr>
+      <td width="120" height="1" valign="top" bgcolor="#990000"><div align="center"><span class="leftbarhead">QUICK LINKS </span></div></td>
+      <td bgcolor="#990000"><div align="center" class="leftbarhead">NEWS</div></td>
+      <td width="120" valign="top" bgcolor="#990000"><div align="center" class="leftbarhead">FIAT LUX ! </div></td>
+    </tr>
+    <tr>
+      <td width="120" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF"><p class="leftbar">&nbsp;</p>
+        <p align="center" class="leftbar"><a href="../index.html">Front Page</a> 
+	    <p align="center" class="leftbar"><strong><a href="../../../../Search/index.html">Search</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/index.html">Support</a></strong></p>
+<p align="center" class="leftbar"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanford.edu">Stanford</a></strong></p>
+<p align="center" class="leftbar"><strong></strong><a href="http://www.stanfordreview.org/phpbb/">Discuss</a></strong></p>
+<p align="center" class="leftbar"><a href="../../../../Alumni/index.html">Alumni</a></p>
+<p align="center" class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></p>
+
+		&nbsp;
+		<table width="115" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#990000"><div align="center" class="leftbarhead">ADS</div></td>
+        </tr>
+      </table>      
+	  <style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #990000; }
+.style3 {
+	font-size: 14px
+}
+.textad {
+	line-height: 20px;
+	font: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style>
+<p align="center" class="leftbar"><img src="../../../../Template/adheading.GIF" width="100" height="58" />
+<table width="100" border="1" align="center">
+  <tr>
+    <td><p align="center" class="leftbar style3">&nbsp; </p>
+      <p align="center" class="leftbar style3"> </p>
+    <p align="center" class="textad"><a href="http://www.usedcars.com" class="textad">Find Used Cars</a></p>
+    <p align="center" class="sidebar">&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.kosmix.com">Search on Kosmix </a></p>
+    <p align="center" class="textad">for <a href="http://www.kosmix.com/health">Health</a>, <a href="http://www.kosmix.com/travel">Travel</a>, and <a href="http://www.kosmix.com/autos">Autos</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad"><a href="http://www.evisibility.com">Internet Marketing Company</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+  <tr>
+    <td><p align="center" class="textad">&nbsp;</p>
+      <p align="center" class="textad">Design Custom <a href="http://www.customink.com/">T-Shirts</a></p>
+    <p align="center" class="textad">&nbsp;</p></td>
+  </tr>
+
+</table>
+<p align="center" class="leftbar style3">
+
+<p align="center" class="leftbar"></p>
+      </p>
+      <p class="leftbar">&nbsp;</p></td>
+      <td valign="top" bordercolor="#FFFFFF" bgcolor="#FFFFFF" class="leftbar"><div align="center">
+        <table width="520" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+		  <!-- ### print_start ### -->
+            <td valign="top"><div align="left" class="text">
+              <p class="headline">Stanford Hosts Conference on Ethnicity in Europe </p>
+              <p><span class="byline">by </span><span class="style2">Jonathan Gelbart</span></p>
+              <p class="byline"><em>Staff Writer</em></p>
+              <p class="style1"><img src="http://www.stanfordreview.org/Archive/Volume_XXXIX/Issue_5/News/news2.jpg" width="300" height="260" border="0" align="right"></p>
+              <p>&nbsp;</p>
+              <p><a href="http://www.stanfordreview.org/Tellfriend/index.php"><strong><img src="http://www.stanfordreview.org/images/mailicon.jpg" width="13" height="14" border="0"> Forward Article to a Friend</strong></a></p>
+<p><a href="http://www.stanfordreview.org/cjprint/printpage.php"><strong><img src="http://www.stanfordreview.org/images/printicon.jpg" width="15" height="16" border="0"> Print Article </strong></a></p>
+
+			 <p>&nbsp;     </p>
+              <p>The culmination of nearly two years of planning, the Ethnicity in Today's Europe conference concluded Veteran's Day weekend. The conference brought together scholars from Spain, Germany, and across the United States to address the question &quot;What is new about the question of ethnicity in Europe today, and what is not?&quot; Panelists tackled this question from many different angles, using their expertise in fields ranging from economics to German Studies. The conference, co-sponsored by the Stanford Humanities Center and the Forum on Contemporary Europe, was organized with a particular emphasis on crossing disciplinary lines and thereby allowing participants to improve their own research, according to Matthew Tiews, Associate Director of the Humanities Center. Although some of the questions raised in the conference have been addressed before, Stanford has, until now, never hosted a conference on this topic.</p>
+              <p>The conference opened on the night of Wednesday, November 7 with a Presidential Lecture by Partha Chaterjee, Professor of Anthropology at Columbia University, titled &quot;The Black Hole of Empire.&quot; Based on this title, one would expect the lecture's primary topic to be the legacy of colonialism in Europe and its former colonies, or something similar. Yet this issue was only peripherally addressed, and its main focus was in fact on a specific incident at the &quot;Black Hole Prison&quot; in Calcutta in 1757. Although the lecture was interesting, Chaterjee read directly from his paper, not engaging the audience at all, and it seemed as though the lecture had very little to do with the topic of the conference. Before he began, Chaterjee himself said that he could not even pretend to be an expert on ethnicity in today's Europe. Despite this, the event drew an enormous crowd, as did the question and answer session the following morning. </p>
+              <p>On Thursday, the talks on the actual topic of the conference&mdash;Ethnicity in Today's Europe&mdash;began with an introduction by the Director of the Forum on Contemporary Europe, Dr. Amir Eshel. In his convocation, Eshel assured the audience that the conference would attempt to promote unique viewpoints: &quot;Our discussion will not simply reiterate such commonplaces as the much propagated clash of civilizations or follow such dated dichotomies as assimilation vs. integration or fundamentalism vs. enlightenment values.&quot; </p>
+              <p>Although this sounds like a reasonable goal, these &quot;commonplace&quot; concepts are in fact important aspects of the European ethnicity question that should not be disregarded. Assimilation and fundamentalism are at the heart of Europe's current problems, and refusing to consider them simply because they have been previously addressed seems short-sighted. Eshel later added: &quot;In recent years, and much more so in the years to come, our very notion of what European culture means is bound to alter considerably.&quot; Rather than suggesting that, in the trying years ahead, Europeans should hold onto their culture before it is annihilated by mass immigration and multiculturalism, Eshel seemed to imply that Europe should accept these trends as inevitable and desirable. </p>
+              <p>Not all of the speakers agreed with Dr. Eshel, although many had rather unorthodox ideas of their own. Saskia Sassen, a Professor of Sociology at Columbia widely known for coining the term &quot;global city,&quot; focused on how &quot;the immigrant is an invented subject,&quot; and suggested that illegal immigration is blurring the notions of the citizen and the immigrant. She gave the example of how rights which were once reserved for citizens, such as home ownership, are now being offered to undocumented immigrants. She also pointed out that while many of Europe's current immigrant-related problems are blamed on racial and cultural differences, there was even more violence when the citizens and the immigrants were more or less the same. Her presentation definitely catered to an academic audience, but it was still very interesting and intelligible to the layman. Although some of her ideas border on iconoclastic, she has done extensive research to support them, and she explained them eloquently. </p>
+              <p>Unfortunately, the same professionalism and eloquence could not be found in the next speaker. Professor Alec Hargreaves of Florida State University spoke next, specifically about the immigrant situation in modern France. Without citing any hard evidence, he boldly proclaimed that all of the problems in France today, such as the 2005 riots, stem from institutionalized governmental discrimination. Without addressing the fact that France not only allowed the rioting immigrants to settle in France in the first place, but also continues to give them enormous welfare and unemployment benefits at the expense of French taxpayers, he had no problem placing the blame for everything squarely on the shoulders of white racism. Professor Hargreaves also went on to say that the victory of conservative Nicolas Sarkozy, known for his tough stance on immigration, in the recent presidential election is the latest example of &quot;the contaminating effect of the Front National on French politics.&quot; The Front National is a far-right, anti-immigrant political party led by Holocaust denier Jean Marie Le Pen. Professor Hargreaves' position might be at least partially explained by his close friendship with former French Minister of Equal Opportunities Azouz Begag, one of President Sarkozy's most vocal and virulent opponents. Begag, who was originally slated to participate in this conference but had to cancel at the last minute, was the first to use the now infamous term &quot;youths&quot; to describe the Muslim residents of the French banlieues, and consistently dismisses any claim that Islam has a link to the 2005 riots as &quot;totally unfounded.&quot; Professor Hargreaves seemed to share many of Begag's ideas. When asked why Muslim immigrants across Europe are creating similar problems, even in extremely tolerant countries like Sweden, Professor Hargreaves insisted: &quot;There are some people in the minority who behave in unreasonable ways... but these are a very, very, very small part of the minority population.&quot; </p>
+              <p>After some interesting but unremarkable talks that afternoon on the history of Jews in Germany and Turkey, the vilification of the West continued in earnest that night with the showing of Zelimir Zilnik's seven-year-old documentary Fortress Europe, a low-budget film that details the struggle of immigrants from Eastern Europe and the Middle East to illegally enter Italy via Slovenia. This main premise is now obsolete, however, due to Slovenia's accession to the European Union in 2004. While Zilnik tries to make the situation more gut-wrenching by following one Russian family and its trials throughout the film, the deadbeat father makes it easier for the viewer to sympathize with the Italian authorities than with the family. The film echoes many arguments made by illegal immigration advocates in the United States: the immigrants just want a better life, they want their children to have a good education, etc. While these are of course completely understandable desires, there are processes to legally immigrate to these countries. Western European countries are particularly welcoming, especially to immigrants from the Middle East, so it is surprising that so many people feel the need to immigrate illegally and risk their lives in the process. </p>
+              <p>The conference reconvened the next morning with a talk by UCLA Professor of Sociology Rogers Brubaker. Like Saskia Sassen's talk, it had a very academic feel, laying out interesting facts about nationalism and migration in Europe and the former Soviet Union. Some attendees of the conference stated that Professor Brubaker was the star of the entire conference. Indeed, it was his talk which most directly addressed the topic of ethnicity in today's Europe and its changing nature over the past two decades. Unlike the other participants in the conference, he brought in the topic of the Eastern European states and how, in their case, the ideas of nationalism and ethnicity have merged&mdash;Poland views itself as a place for ethnic Poles, Romania views itself as a place for ethnic Romanians, etc. He also discussed immigration between member states of the European Union, which the other participants in the conference barely touched on. Muslim immigration to Europe usually overshadows this intra-EU migration, but it is important to realize that the movement of people between the Atlantic and the Urals is just as important and merits careful study. His talk was very interesting and thought-provoking and brought an interesting perspective to the European ethnicity debate. </p>
+              <p>Next to speak was Carole Fink, Professor of History at Ohio State University, who gave a fascinating talk on the recent rise of anti-Semitism throughout Europe. While this new wave of hatred has been partially fueled by mass immigration from the Islamic world, widespread hatred of Israel among white Christians has morphed into traditional anti-Semitism. Even as Jewish culture has become more accepted throughout Europe, with Jewish heritage festivals, museum exhibits, and concerts becoming increasingly common, its long-dormant counterpart, anti-Semitism, has come along with it. Professor Fink cited examples of Jew-hatred by public figures and governments in nearly every country in Europe, from Sweden to Bulgaria. The resurgence of this ancient hatred, along with increased levels of intermarriage between Jews and non-Jews, has led some to fear for the future of Jewish culture in Europe. Professor Fink's talk was very enlightening and answered the important question of how Jews fit into the question of ethnicity in today's Europe and how they are being affected by the rapid changes in European demographics. </p>
+              <p>Since Azouz Begag was unable to attend the conference, the organizers decided to show a recent speech he gave at Florida State University during the lunch break. In the video, Professor Hargreaves personally introduces him. The speech was supposedly on a &quot;similar topic&quot; to what he was slated to talk about at the conference. This is interesting, however, because it was almost entirely autobiographical and contained very little actual research. It seemed more like a political speech than a didactic presentation. In fact, a large portion of Begag's speech consisted of attacks on President Sarkozy, saying that Sarkozy treats him condescendingly and, through clever political maneuvers, has taken credit for policy successes which Begag says were actually his own. Overall, the speech felt somewhat politicized, given the conference's academic environment. </p>
+              <p>After lunch, the conference continued with a talk by Salvador Card&uacute;s Ros, Professor of Sociology at the Autonomous University of Barcelona. He was the first speaker in the conference to decidedly speak out against the policy of multiculturalism in Europe. In his thick Catalonian accent, he laid out his argument that multiculturalism has a deleterious effect on national cohesion because it encourages immigrants to remain encapsulated in their culture of origin and not integrate into the native population. He went on to describe how the policies of many European governments effectively turn cultural origin into &quot;a prison where the inmates will...be able to obtain the generous protection of the welfare state, but only on the condition that they never go.&quot; Thus, according to Professor Ros, the multicultural model, rather than promoting cultural diversity, has instead led to a situation in which the opportunities of immigrants are permanently limited. He said that &quot;postcolonial guilt and a politically correct discourse&quot; are at least partially to blame for this situation. He also described his theory &quot;that we have moved from an identity of content to an identity of container. The contents are no longer relevant.&quot; He cites British Prime Minister Gordon Brown being unable to define &quot;Britishness&quot; as a prime example. While the label of being British and having a distinct British culture is considered important, what this actually means is increasingly ignored, to the point that even the Prime Minister cannot describe it. Perhaps Professor Ros' most notable quote was &quot;the best politics is not the right to be different. It is the right to be indifferent.&quot; Overall, his different point of view was refreshing and offered an interesting alternative perspective to that of Professor Hargreaves, Monsieur Begag, and the film. </p>
+              <p>Last but certainly not least was Bassam Tibi, the Syrian-German Muslim reformist most well-known for his work on &quot;Euro-Islam,&quot; an interpretation of Islam that is intended to be compatible with Europe's secular, democratic society. As a Muslim immigrant living in Europe, he is in a unique position to comment on the current situation. Rather than exclusively blaming native Europeans or Islam for Europe's current problems with its immigrants, in his talk he argued that both parties are equally at fault, and engage in what he calls &quot;mutual ethnicization.&quot; There is no such thing as a European ethnicity and no such thing as an Islamic ethnicity, yet these concepts are nonetheless being created as a result of the extreme tension in the current situation. As the relationship between the two groups becomes increasingly strained, they push each other into equally opposite corners, further widening the culture gap and leading to more pent-up hostility. Tibi argues that an artificial Islamic ethnicity is developing because Muslim immigrants in Europe feel caught between civilizations. Turks in Germany, for example, are called Turks while in Germany and called Germans when they return home. The only place they feel accepted is in Islam, so that is where they turn, and that becomes their identity. Tibi suggests that the solution to Europe's problems is de-ethnicization. He says Muslims in Europe must realize that they can become European without leaving Islam, and the Europeans must accept the Muslims as Europeans. Tibi warns that the failure of either party to fulfill their end of the bargain could leave all of Europe looking like Kosovo in as little as thirty years. </p>
+              <p>After an hour-long roundtable discussion to wrap up and summarize the ideas that had been raised over the previous two days, the Ethnicity in Today's Europe conference came to an end. From the question of citizenship to anti-Semitism to Muslim assimilation, the conference provided a very detailed depiction of most of the major aspects of Europe's current situation and many of the current points of debate. And one can be sure that as ethnicity in Europe and elsewhere continues to evolve and change the ways peoples interact with each other, academics will be there to study it, learn from it, and impart that knowledge to all who will listen. </p>
+              <p><br>
+                <br>
+                <br>
+                <br>
+              </p>
+              <!-- ### print_end ### -->
+            </div>
+              </td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div></td>
+      <td width="120" align="center" valign="top" bordercolor="#FFFFFF" bgcolor="#EFEFEF" class="leftbar"><p>&nbsp;</p>
+      <p class="sidebar"><style type="text/css">
+<!--
+.leftbar1 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')"><p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Support/subscribe.shtml">Subscribe</a></strong></span></p>
+<p align="center" class="sidebar"><span class="leftbar1"><strong><a href="../../../../Reunion2007/index.shtml">Reunion</a></strong></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a></span></p>
+<p align="center" class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock1','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock1" width="50" height="63" border="0" align="middle" id="stock1"></a></span></p>
+<p align="center" class="sidebar"><a href="https://www.linkedin.com/e/gis/1793/4BD98D781055/"><img src="../../../../images/linkedin.gif" width="103" height="25" border="1"></a></p>
+<p align="center" class="sidebar"><a href="../../../../Join/index.html"><img src="../../../../images/joinbanner.jpg" width="120" height="686" border="1"></a></p>
+<p align="center" class="leftbar">&nbsp;</p>
+</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+      <td bgcolor="#FFFFFF" class="text"><div align="center">
+        <p><script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('http://www.stanfordreview.org/images/donateStock01.gif')">
+<div align="center"><table width="538" border="1" cellpadding="5" cellspacing="5" bgcolor="#EFEFEF">
+          <tr>
+            <td scope="col"><p align="center" style="font:Verdana; font-size:14px; font-weight:bold; color:#990000;"><img src="../../../../Template/footerMessage.gif" width="386" height="11"></p>
+            <table width="520" border="0" align="center" cellpadding="5" cellspacing="0" style="margin:auto">
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.nobelcom.com/">Phone Cards</a><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="https://www.ctic.com"></a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/ci/Free+Business+Cards">Free Business Cards</a></span></div></td>
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Custom T-Shirts</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="#">Family Reunion T-Shirts</a></span></div></td>      
+              </tr>
+              <tr>
+                <td width="250" scope="col" style="padding-bottom:10px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com/postcards.html">Postcards</a></span></div></td>
+                <td width="250" scope="col" style="padding-bottom:15px;"><div align="center"><span style="font-family:Tahoma; font-size:12px;"><a style="color:#990000; text-decoration:none;" onMouseOver="this.style.color='#FF0000'" onMouseOut="this.style.color='#990000'" onClick="this.style.color='#990000'" href="http://www.printsmadeeasy.com">Business Cards</a></span></div></td>      
+              </tr>
+
+            </table>           
+ </table>
+  <p>&nbsp;</p>
+</div>
+<p align="center">&copy;2008 Stanford Review, All Rights Reserved </p>
+<p align="center"><span class="leftbar"><a href="../../../../Support/feed.shtml"><img src="../../../../Support/feed.gif" width="36" height="14" border="0"></a><a href="../../../../Support/feed.shtml"><img src="../../../../Support/rss.png" width="36" height="14" border="0"></a></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="https://secure.paypal.com/xclick/business=editor@stanfordreview.org&item_name=One-year+subscription+($75+or+more)&no_intl=1&return=http%3A//stanfordreview.org/Donations/thankyou.shtml"><img src="../../../../images/x-click-but7.gif" alt="Donate to the Review" width="72" height="29" border="0" align="top"></a> </span></span></p>
+<p align="center"><span class="sidebar"><span class="toplinks"><a href="javascript:POPUP('CH0664372','The Stanford Review')" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('stock11','','http://www.stanfordreview.org/images/donateStock01.gif',1)"><img src="../../../../images/donateStock.gif" alt="Donate Stock to The Stanford Review" name="stock11" width="50" height="63" border="0" align="middle" id="stock1"></a></span></span></p>
+</p>
+        </div></td>
+      <td width="120" bgcolor="#EFEFEF">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+

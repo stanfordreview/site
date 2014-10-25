@@ -1,0 +1,309 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 7 - 1994</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../1987-1988/index.shtml" onMouseOver="window.status='1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1987-1988</font></a><br>
+
+<a href="../1991-1993/index.shtml" onMouseOver="window.status='1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1991-1993</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='1994'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1994</font></a><br>
+
+<a href="../1995/index.shtml" onMouseOver="window.status='1995'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1995</font></a><br>
+
+<a href="../2001/index.shtml" onMouseOver="window.status='2001'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>2001</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../2001/index.shtml" onMouseOver="window.status='David Myszewski in 2001'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="../1991-1993/1991-19932.shtml" onMouseOver="window.status='David Valle in 1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Valle</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Ed Malone in 1994'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ed Malone</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Henry Towsner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../1987-1988/1987-19882.shtml" onMouseOver="window.status='Jennifer Bryson in 1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jennifer Bryson</font></a><br>
+
+<a href="../1991-1993/1991-19931.shtml" onMouseOver="window.status='Rakesh R. Khanna in 1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Rakesh R. Khanna</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Scott Rasmussen in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<a href="../1987-1988/1987-19881.shtml" onMouseOver="window.status='Steve Hellman in 1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Steve Hellman</font></a><br>
+
+<a href="../1995/index.shtml" onMouseOver="window.status='Thorvin Anderson in 1995'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Thorvin Anderson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 7
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 7, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 7'; return true" onMouseOut="window.status=' '; return true">Issue 7</a> - 1994
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+1994
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Get the Hell Out of Here: Zapata Resident Fellow Verbally Assaults <i>Review</i> Distributors
+</font><br>
+
+<b>by Ed Malone</b><br>
+Volume XII, Issue 13: May 1994<p>
+
+<table align=Left width=250>
+    <tr>
+        <td>
+<a href="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/1994/images/zapata_big.jpg" onMouseOver="window.status='View larger image'; return true" onMouseOut="window.status=' '; return true"><img src="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/1994/images/zapata_small.jpg" width=250 height=208 alt="Zapata image" border=0></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <i>Caught on camera: Jose Burciaga illegally confiscates stacks of the </i>Review<i> from the paper's business manager Bob Dolbow.<br><a href="http://www.stanfordreview.org/Archive/Volume_XXVII/Issue_7/1994/images/zapata_big.jpg" onMouseOver="window.status='View larger image'; return true" onMouseOut="window.status=' '; return true">(Click for larger image)</a></i>
+        </td>
+    </tr>
+</table>
+
+
+	According to the Resident Fellow Position Description, a Resident Fellow is expected to promote pluralism and the free expression of ideas.  "Resident Fellow encourage students to respect and learn from others whose backgrounds, ethnicity, or life experience differs from their own," reads the document.  "Through programming and by example, RF's actively promote inclusive communities where students of any race, class, gender, or sexual orientation may feel comfortable."  Last week, however, it became quite clear that Tony Burciaga was not doing his job.
+
+<p>
+
+	In a blatant assault on the free expression of opposing viewpoints, Casa Zapata Resident Fellow Jose Burciaga discarded a large number of copies of the Stanford Review and forcefully prevented myself and two other students from distributing copies of the <i>Review</i> in his dorm.  Not only did Burciaga throw out the papers meant for distribution in Zapata, but he threw out the papers we intended to distribute at other dorms in Stern Hall.  In response to this, the <i>Review</i> has filed a formal complaint to the Stanford Judicial Affairs Office against Jose Burciaga and is currently exploring the option of filing legal complaints outside the jurisdiction of the University.
+
+<p>
+
+<b>The Incident</b><br>
+	At approximately 5:40 p.m. Monday, May 9, Bob Dolbow, Jack Guerrero, and I entered Casa Zapata, the Chicano theme house, intending to distribute copies of the paper to each room as part of our designated distribution route.
+
+<p>
+
+	Upon entering the first floor hallway in Casa Zapata, we were immediately confronted by Burciaga, who demanded to know what newspaper we were holding in our hands.  When Guerrero told him that we were distributing copies of <i>The Stanford Review</i>, Burciaga shouted, "Get that trash out of here!  All of you, get the hell out of here!"
+
+<p>
+
+	Before we could respond, he charged at us, grabbed a bundle of our papers off the floor, and threw them into a recycling bin right outside the dorm.  Burciaga continued to shout, "All of you get the hell out of here!" as he took another bundle of Reviews to the recycling bin.
+
+<p>
+
+	Burciaga then yanked approximately another 200 papers from Dolbow's hands, proceeded to throw them away, and further demanded that we "get this trash out of here."
+
+<p>
+
+	While Burciaga was outside the dorm throwing the papers out, a small crowd began to congregate in response to this commotion.  Many of them yelled comments like, "get out of here," "you'd better leave," and "this is our home."
+
+<p>
+
+	After his third trip to the bin, Burciaga sprinted to the stairwell and formed a human barricade, spreading his arms and legs in order to prevent Dolbow, Guerrero and I from distributing the papers on the second and third floors.
+
+<p>
+
+	Dolbow informed Burciaga that he was breaking Stanford policy in expelling the students.  Burciaga then yelled, "I don't give a damn about University policy.  I'm out of here."
+
+<p>
+
+<b>Police Called</b><br>
+Next, Burciaga rushed to the telephone, exclaiming, "I'm going to call 911!"  By this time, about 50 residents of Casa Zapata-one half of the dorm's population-had surrounded us in gauntlet fashion and continued to harass us, shouting insults and demanding once again that we leave.
+
+<p>
+
+	Associate Dean of Student Affairs and Casa Zapata Resident Fellow Cecilia Burciaga then came to join her husband and residents in their efforts to throw us out of their dorm.  "This is our home," she said.  "Just go.  Please go."
+
+<p>
+
+	Burciaga returned form the phone booth and warned us that the police were coming.  However, Dolbow, Guerrero and I decided that we would wait on the police because we knew that Burciaga was in the wrong.  I asked Burciaga, "Is this what you do when you don't agree with a certain viewpoint?"  Burciaga screamed at the top of his lungs, "Shut up! Shut up!"
+
+<p>
+
+<b>Compromise Reached</b><br>
+	When a police officer arrived at the dorm, he asked Dolbow, Guerrero, and me to step outside for a private conference.
+
+<p>
+
+	At the request of the officer, we agreed on a compromise.  Instead of distributing papers under all residents' dorms, Dolbow, escorted by the officer, placed 75 papers in the Casa Zapata common lounge.  The moment that Bob and the officer turned their backs to depart, a Casa Zapata resident grabbed the 75 papers and left the area, with the obvious intent of throwing them away just as Burciaga had done.
+
+<p>
+
+	Although no physical contact took place, we all felt threatened by Burciaga's raging anger.  Guerrero later exclaimed, "I felt threatened.  He could have attacked any one of us."
+
+<p>
+
+	The sad irony in this case could not be more obvious: As a Resident Fellow of Casa Zapata, one to whom Stanford confers a great deal of benefits to supposedly foster open discourse and a tolerance, Jose Burciaga could not have been more closed-minded and intolerant of our opposing viewpoints.  He has made a mockery of higher education at Stanford.
+
+<p>
+
+<b>Editor's Note</b>: Distribution is an ongoing problem at Stanford.  Despite having no written policy on door-to-door distribution and without consulting the <i>Review</i> first, Residential Education Director Jane Camarillo sent the following email to all dorm staff on October 11, 2001.  Three months after meeting with the Review and other affected student publications, Ms. Camarillo's office has yet to communicate an official policy.
+
+<p>
+
+"The <i>Stanford Review</i> staff was found sliding their paper under resident doors tonight in one of the houses.  This is not allowed in any of the residences because it is forcing a publication into a private space rather than allowing students to take it as their choice.  In the same way, we would not allow the <i>Stanford Daily</i> or <i>Palo Alto Weekly</i> staff to slide papers underneath resident doors. . . . We have been urged to take precautions as it regards the security of our buildings and our residents.  Please stay vigilant as you all are to strangers in the residence and immediately contact police and Residence Dean if you see suspicious behavior or people in your residence."
+
+<p>
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:14:46 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

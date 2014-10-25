@@ -1,0 +1,6 @@
+# Server auto-generates htaccess, so it needs to be BLANK!
+
+# <IfModule mod_rewrite.c>
+# RewriteEngine On
+# RewriteRule $ /index.php/404
+# </IfModule>

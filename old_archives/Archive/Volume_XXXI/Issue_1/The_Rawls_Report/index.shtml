@@ -1,0 +1,317 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXXI - Issue 1 - The Rawls Report</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../Editorials/index.shtml" onMouseOver="window.status='Editorials'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editorials</font></a><br>
+
+<a href="../Features/index.shtml" onMouseOver="window.status='Features'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Features</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>News</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='The Rawls Report'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Rawls Report</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<!-- commented out #include virtual="/Archive/Volume_XXXI/Issue_1/Includes/columnists.txt" -->
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXXI, Issue 1
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+October 3, 2003</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXX'; return true" onMouseOut="window.status=' '; return true">Volume XXXI</a> - <a href="../index.html" onMouseOver="window.status='Issue 1'; return true" onMouseOut="window.status=' '; return true">Issue 1</a> - The Rawls Report
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+The Rawls Report
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+California: The Silly State of Insanity
+</font><br>
+
+<b>by Alec Rawls</b><br>
+Opinions Staff<p>
+
+The backstory to California's upcoming recall election is the destruction of the 
+state's economy by the liberty-hating Democrat legislature. They hate gun rights, 
+they hate school choice, but the liberty they hate the most is economic liberty. 
+Governor Davis gets to be the poster boy for this anti-capitalist leftism because 
+he single-handedly struck the biggest blow when he refused to let the state-regulated 
+consumer price of electricity rise during the electricity crisis. 
+<p>Now Democrat replacement candidate Cruz Bustamante wants to do the same thing 
+  with gasoline, proposing a state constitutional amendment that would allow the 
+  state to dictate gasoline prices. The only difference is that Bustamante is 
+  also a racist who refuses to renounce his ties to the Nazi-like Chicano organization 
+  MEChA.</p>
+<p>MEChA's founding slogan is: &quot;For the race, everything. For those outside 
+  the race, nothing.&quot; MEChA is also a leftist anti-capitalist organization, 
+  proclaiming in its founding document that: &quot;Our cultural values of life, 
+  family, and home will serve as a powerful weapon to defeat the gringo dollar 
+  value system and encourage the process of love and brotherhood.&quot; </p>
+<p>Leftists are real good at love and brotherhood. 100 million murdered in the 
+  twentieth century in the name of love and brotherhood. But let's start with 
+  more mundane matters, like the fitness of someone who rejects the &quot;gringo 
+  dollar value system&quot; to be governor. Since Bustamante seeks to repeat Davis's 
+  electricity crisis mistake, it is important to understand what an astounding 
+  mistake it was.</p>
+<p></p>
+<p>Electricity</p>
+<p>Price elasticity estimates indicated that, when California's electricity crisis 
+  started to hit in 2000, the consumer price of electricity would only have had 
+  to about double to bring demand into line with supply, and only for the year 
+  it would take for new supply to come online. When instead Davis refused to let 
+  the regulated consumer price rise, low consumer prices caused demand to remain 
+  unmoderated, which caused wholesale prices to spike by factors of 50 to 100, 
+  with the difference between the wholesale and the consumer price covered by 
+  state borrowing. </p>
+<p>More than half of California's 38 billion dollar budget deficit can be attributed 
+  to this entirely unnecessary expenditure. An equally large long term expense 
+  is the contracts for electricity that Davis signed at the height of the crisis. 
+  Generators offered lower prices in 2001 in exchange for doubling long term prices, 
+  and Davis signed many years worth of such contracts. </p>
+<p>Saddled with these gigantic burdens, California simply can't compete. The proprietor 
+  of a local quickie-mart showed me his electricity bill: $2500/month, or about 
+  the same as rent. Most companies, even if they just have a building full of 
+  computer users, are electricity intensive. Add in the high taxes, and they want 
+  to be anywhere but here. </p>
+<p>Davis turned a modest short term problem into a huge long term problem. Out 
+  of pure old-fashioned capitalism-hating leftism, he sent a torpedo square amid-ships 
+  into the state's economy. Davis has truly earned his way out of office. Bustamante, 
+  in wanting to make the identical mistake with gasoline, has earned his way out 
+  of office before the election. </p>
+<p>But the Democrat-leftist hatred of economic liberty goes far beyond Soviet 
+  style rejection of freedom of contract in the setting of prices. They hate freedom 
+  of contract and freedom of association generally. Like Davis, Bustamante will 
+  sign every liberty-hating bill the Democrat legislature sends down, and they 
+  are sending plenty. </p>
+<p></p>
+<p>Freedom of contract and association</p>
+<p>One new law allows men who want to dress as women to sue for employment discrimination. 
+  What? You didn't promote that 250 pound bald man wearing a dress and a push-up 
+  bra? See you in court. And what sane jury would ever believe that this person's 
+  grotesque behavior is NOT an impairment to advancement? You're screwed.</p>
+<p>This follows California's expansion of anti-discrimination law three years 
+  ago to cover sexual-orientation. Companies in California now have to worry about 
+  getting sued for everything under the sun. They have to watch everybody's race, 
+  everybody's sex, everybody's sexual orientation, everybody's religion, everybody's 
+  dress, everybody's age, everybody's disability and try to make sure that no-one 
+  has any way to claim discrimination or harassment. That's an impossible order, 
+  when everyone has million-dollar incentive to interpret every slight or setback 
+  as discrimination or harassment, in a state where politically correct jurors 
+  strive to honor every victim claim.</p>
+<p>Only liberty can judge merit. Companies have full incentive to hire and promote 
+  the best employees. Turning the job of judging merit over to dizzy jurors on 
+  the he-said she-said merry-go-round of tort law strips liberty of jurisdiction 
+  and replaces it with Russian roulette. Do business in California, shoot yourself 
+  in the head.</p>
+<p>Of course California Democrats are not content just with government oversight 
+  of merit either. They also want government to trump merit, as with the use of 
+  affirmative action. Another example is the crazy bill that just breezed through 
+  the state's lower house, holding companies liable for damages whenever any employee 
+  promotes another employee he has a romantic relationship with, regardless of 
+  the merits of the promotion.</p>
+<p>Any company doing business in San Francisco will simply have to leave. Imagine 
+  being liable for which homosexual employee is promoting which homosexual love 
+  object when half of your employees are promiscuously sleeping with each other? 
+  &quot;Merit not mating&quot; is the bill's catchphrase, but that is a misnomer. 
+  The bill has nothing to do with merit. It is only anti-mating. But how can anyone 
+  think that it is the government's job to be anti-mating?</p>
+<p>Holding both houses of the legislature and the governor's rubber stamp, the 
+  Democrats are laying into the state's economy like the iceberg that sank the 
+  Titanic. The only immediate hope for California is veto power. Mr. Schwarzenegger 
+  may be a pretty weak veto, being a leftist himself on half the issues, but at 
+  least he would throw some sand into the Democrats' now unchecked drive to self-destruction.</p>
+<p></p>
+<p>Racism</p>
+<p>MEChA defenders, like Los Angeles Times editor Frank del Olmo, have tried to 
+  deny the racist nature of the organization by saying it has outgrown its 60's 
+  ideology, but MEChA's new constitution, adopted in 1995, reasserts that its 
+  primary objective is &quot;liberating Aztlan.&quot; &quot;Philosophy Papers&quot; 
+  and &quot;Goals and Objectives&quot; amended as late as 1999 also continue to 
+  affirm MEChA's founding document, El Plan de Aztlan, as the group's guiding 
+  vision.</p>
+<p>Aztlan is a mythical Aztec homeland that includes the entire southwestern United 
+  States, from Texas to Oregon. According to El Plan, &quot;Aztlan belongs to 
+  those who plant the seeds, water the fields, and gather the crops and not to 
+  the foreign Europeans.&quot; This is an anti-American organization that rejects 
+  the principles of individual liberty in favor of group rights. Their version 
+  of democracy is representation of groups by quota, with &quot;equal representation 
+  of Chicanas and Chicanos.&quot; As with their envisioned future state, everyone 
+  else's quota is zero. &quot;For those outside the race, nothing.&quot;</p>
+<p>Their radical-leftist anti-capitalism is also current ideology. At MEChA's 
+  annual conference in 2000, the keynote speaker opined that: &quot;Capitalism 
+  is the root of domination. Racism and sexism exist because capitalism requires 
+  it.&quot; Yup, it's hard to think of anything so oppressive as freedom. Bustamante 
+  demonstrates this ideology with his championship of every Democrat attack on 
+  economic liberty. Prices are to be set by the state, not by individual agreement. 
+  Merit is to be judged by the state, not by individuals, and is to be trumped 
+  by the state to implement racial preferences. </p>
+<p>Bustamante is Mechista to his core. He is a racist national socialist. His 
+  organization, MEChA, is a cadre of radical leftists who espouse the most explicit 
+  racism while proclaiming that the real racist force, the great enemy to be destroyed, 
+  is American liberty. Stanford students who are thinking of joining this group 
+  be warned: you will be marked for life. This country will not long tolerate 
+  your Nazi party. If Bustamante wins, the inevitable demise of California will 
+  take his leftist-racist cause down with it.</p>
+<p></p>
+<p></p>
+<p><em>Alec Rawls is a Contributing Editor of The Stanford Review. He is currently 
+  writing a book on republicanism. Contact alec@rawls.org or visit www.rawls.org. 
+  </em><br>
+</p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:24:51 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

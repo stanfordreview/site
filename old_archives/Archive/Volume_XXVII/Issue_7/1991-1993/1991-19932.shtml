@@ -1,0 +1,286 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXVII - Issue 7 - 1991-1993</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../1987-1988/index.shtml" onMouseOver="window.status='1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1987-1988</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1991-1993</font></a><br>
+
+<a href="../1994/index.shtml" onMouseOver="window.status='1994'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1994</font></a><br>
+
+<a href="../1995/index.shtml" onMouseOver="window.status='1995'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>1995</font></a><br>
+
+<a href="../2001/index.shtml" onMouseOver="window.status='2001'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>2001</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Editor's Note</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Front Page</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face="Arial,Helvetica,sans-serif" color=white>The Last Page</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../2001/index.shtml" onMouseOver="window.status='David Myszewski in 2001'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="1991-19932.shtml" onMouseOver="window.status='David Valle in 1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Valle</font></a><br>
+
+<a href="../1994/index.shtml" onMouseOver="window.status='Ed Malone in 1994'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Ed Malone</font></a><br>
+
+<a href="../Front_Page/index.shtml" onMouseOver="window.status='Henry Towsner in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="../1987-1988/1987-19882.shtml" onMouseOver="window.status='Jennifer Bryson in 1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jennifer Bryson</font></a><br>
+
+<a href="1991-19931.shtml" onMouseOver="window.status='Rakesh R. Khanna in 1991-1993'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Rakesh R. Khanna</font></a><br>
+
+<a href="../Editors_Note/index.shtml" onMouseOver="window.status='Scott Rasmussen in Editor\'s Note'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<a href="../1987-1988/1987-19881.shtml" onMouseOver="window.status='Steve Hellman in 1987-1988'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Steve Hellman</font></a><br>
+
+<a href="../1995/index.shtml" onMouseOver="window.status='Thorvin Anderson in 1995'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Thorvin Anderson</font></a><br>
+
+
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face="Arial,Helvetica,sans-serif">
+Volume XXVII, Issue 7
+</font>
+</td>
+<td align=right>
+
+<font face="Arial,Helvetica,sans-serif">
+February 7, 2002</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXVII'; return true" onMouseOut="window.status=' '; return true">Volume XXVII</a> - <a href="../index.html" onMouseOver="window.status='Issue 7'; return true" onMouseOut="window.status=' '; return true">Issue 7</a> - 1991-1993
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>
+1991-1993
+</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>
+Grade Inflation Hurts Best Stanford Students
+</font><br>
+
+<b>by David Valle</b><br>
+Volume XI, Issue 4: October 1993<p>
+
+Are Stanford students doing as well as they think in their classes?  Massive grade inflation threatens to undermine America's educational system by giving students a false sense of their abilities, several scholars argue.
+
+<p>
+
+Over the past 20 years, 35% of all grades given to Stanford undergraduates have been A's and 28% B's, according to studies done by the Committee on Academic Appraisal and Achievement (CAAA).  Only a slim percentage of C's have been given, totaling 7%, and an even smaller amount of D's were awarded-a slight 1%.
+
+<p>
+
+In a letter to faculty introducing a survey on sentiment towards "reinstating the F grade," these percentages were used to substantiate the claim that "there is no evidence of 'grade inflation' at Stanford over the past 20 years."
+
+<p>
+
+Nevertheless, when broken down by letter grade alone- A's, B's, C's, and D's -49% of all grades have been A's; 39% have been B's; 10% C's; and 1.5% D's.  The mean grade has migrated from the C, considered average twenty years ago, to the area between the A- and the B+.  Grade percentages for the years prior to the '70s indicate a marked difference beginning with the removal of the F from use in 1970.  For the year of '68/'69, only 29% received A's, while 35% were awarded B's.  Yet in the following year, in percentages which have remained stable until now, 41% have received A's, and only 29% B's. 
+
+<p>
+
+This drastic difference has led to speculation that grades are no longer accurate reflections of a student's work.  University policy on grading systems defines grades in the following: an A is exceptional performance; a B is superior performance; a C is satisfactory performance; and a D is minimal pass.  There is no current definition for the F.  The CAAA raises the point in their report that, "The grading system should function so as to distinguish levels of academic achievement in a realistic fashion," and also to function as "a useful indicator for outside agencies to which Stanford students apply."
+
+<p>
+
+As a result of the abolition of the F, since 1973/74, the amount of faculty-elected "Pass/No Cred" option has grown from 5% to a significant 13%, and has effectively replaced the F grade.  This option permits a failing student, or one dissatisfied with his performance, to prevent a grade from appearing on a transcript.  Students concerned about the value of their Stanford degree are "opposed to the present policy [and] saw it as devaluing the transcript or failing to teach responsibility," according to the CAAA.
+
+<p>
+
+In light of recent studies showing poor alumni satisfaction and Stanford University's fall in current institutional rankings, the issues surrounding grade inflation and the reinstatement of the F grade at Stanford have become topics of lively debate.
+
+<p>
+
+Nel Noddings, Acting Dean of the school of Education maintains that the F grade is useless.  "I can't see what can be gained by it.  Students need to feel free to take risks...it is bad enough to not get credit," she says.  "To have it stay as a permanent record is unnecessary."
+
+<p>
+
+Concerning attitudes that faculty and administration are primarily responsible for the use of grades and the phenomena of grade inflation, Noddings emphasizes that "students bear some responsibility for being ethical and conscientious.  Even so, I don't think its clear.  This institution has changed considerably."
+
+<p>
+
+Another aspect to be considered says Noddings, is that "these students have been getting A's all their lives."  The high percentage of A's here at Stanford, she argues, is simply a reiteration of the students' abilities as demonstrated in secondary school.
+
+<p>
+
+Stanford, though, is not alone when confronted with the inflation of grades.   Other institutions have also felt pressure to ensure the "success" of their student bodies.  Writing in the Dartmouth Alumni Magazine, Eric Konigsberg suggests that doing poorly at top universities is becoming increasingly difficulty.  "Today, a student has to give up on his courses entirely in order to flunk out," he states.  "These factors explain why the average amount of time a student spent studying declined from 5.2 hours a day in 1958 to 3.3 a day in 1986.  And, as studying declined, the average GPA went up, from the equivalent to 1.6 in the 1910's to 2.48 in 1949-50, to 3.1 in the seventies, to 3.22 in 1989."
+
+<p>
+
+Harvard has also experienced a rise over the years in average undergraduate grades.  over the last 27 years, students' averages have risen, from between a B- and a B, to a B+ and above.  In fact, A's accounted for 22% of all grades in 1966/67, while today it compromises a startling 43%.
+
+<p>
+
+Accordingly, the percentages of people graduating Magna Cum Laude has jumped from 21% to 30%.  Harvey C. Mansfield Jr., professor of government at Harvard, says, "When 43 percent is earning the top grade, that's a big lie- unless you don't want to distinguish your really top people from 43 percent of the students."
+
+<p>
+
+Central to discussion surrounding grade inflation is the additional controversy concerning transcripts.  According to the CAAA, there are two opinions concerning what a transcript ought to reflect.  One considers the transcript a "historical record" in "which the University maintained records of all courses a student attempted."  The other is "a record of achievement" in "which only courses successfully completed were recorded."  It was after the former was removed in the early '70s that grade inflation began to take hold.
+William Cole, in an article which appeared in The Chronicle of Higher Education, indicts not only students, but also faculty and administrators.  "In many courses, faculty member are giving out relatively high grades for average or subpar work," he argues.  "While such inflation might look innocent, it has in fact grown into a significant problem, with no end in sight.  By rewarding mediocrity we discourage excellence."
+
+<p>
+
+Cole also contends that "most teachers seem to have forgotten the motivational power of a low grade.  We sometimes carelessly assume that by giving B-minuses (or better) to students who we honestly feel should have failed, we are doing them a big favor.  Will their employers so indulge them later on?
+
+<p>
+
+"Perhaps it is not surprising that grade inflation seems to have coincided with the 'opening up' of the curriculum that began in the late 1960's," Cole continues.  "Many academics now seems to believe that all cultures, books, and fields of study are, in some vague sense, equally valid and thus, in, an even vaguer sense, equally 'good.'  Having embraced this relativism, some faculty members may feel that it is incomparable with making absolute judgments of our students.  Giving everyone a good grade becomes the path of least resistance."
+
+<p>
+
+
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Thursday, 02-Mar-2006 00:14:40 MST</i></font>.
+
+</td>
+</tr>
+</table>
+
+</table>

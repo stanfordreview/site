@@ -1,0 +1,263 @@
+<title>Stanford Review [v2.0] - Archive - Volume XXV - Issue 4 - Front Page</title>
+
+<body bgcolor=#ffffff background="../../../../Background/tile.gif">
+
+<table border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td width=112 valign=top>
+
+<!--SEARCH AND NEWSLETTER-->
+<!--SEARCH-->
+<FORM ACTION="http://www.stanfordreview.org/cgi-bin/excite/AT-stanfordreview_orgsearch.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+<a href="../../../../Search/index.html" onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>Search</font></a> the<br>Stanford Review
+</font>
+<INPUT NAME="search" VALUE="Search" size=14>
+<INPUT TYPE=submit NAME="searchButton" value="Search" BORDER=0>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+</form>
+<br>
+
+<!--NEWSLETTER SUBSCRIBE-->
+<FORM name=form onSubmit="return checkFields();" ACTION="http://stanfordreview.org/cgi-bin/cgiwrap/stanfordreview/newsletter.cgi" METHOD=POST>
+<font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>
+Subscribe to<br>our <a href=http://www.stanfordreview.org/Newsletter/ onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif size=2 color=#ffffff>newsletter</font></a>
+</font>
+<input type=hidden name="recipient" value="newsletter@stanfordreview.org">
+<input type=hidden name="subject" value="Subscribe">
+<input type=text name="email" value="E-mail address" size=14>
+<input type=hidden name="required" value="email">
+<input type=hidden name="redirect" value="http://www.stanfordreview.org/Newsletter/newsletterreply.shtml">
+<input onSubmit="return checkFields();" type=submit value="Subscribe">
+</form>
+<br>
+
+<!--FEEDBACK & DONATIONS-->
+
+<!--FEEDBACK-->
+<img src="../../../../Navbar/feedback.gif" width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Advertise/index.shtml onMouseOver="window.status='Advertising information'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Advertising Information</font></a><br>
+
+<a href="../../../../Contact/lettertoeditor.shtml" onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href="../../../../Contact/webmaster.shtml" onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href="../../../../Contact/index.shtml" onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href="../../../../Subscribe/index.shtml" onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe<br>(paper edition)</font></a><br>
+
+<!--DONATIONS-->
+
+<a href="../../../../Donations/index.html" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+<!-- Begin PayPal Logo -->
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+<!-- End PayPal Logo -->
+
+<p>
+
+<!--IN THIS ISSUE-->
+<img src="../../../../Navbar/inthisissue.gif" alt="In This Issue" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.shtml" onMouseOver="window.status='A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>A Note From Bob</font></a><br>
+
+<a href="../Best_Of_Web/index.shtml" onMouseOver="window.status='Best of the Web'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Best of the Web</font></a><br>
+
+<a href="../Book_Review/index.shtml" onMouseOver="window.status='Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Book Review</font></a><br>
+
+<a href="index.shtml" onMouseOver="window.status='Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Front Page</font></a><br>
+
+<a href="../Interview/index.html" onMouseOver="window.status='Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Interview</font></a><br>
+
+<a href="../News/index.shtml" onMouseOver="window.status='News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>News</font></a><br>
+
+<a href="../Opinion/index.shtml" onMouseOver="window.status='Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Opinion</font></a><br>
+
+<a href="../Smoke_Signals/index.shtml" onMouseOver="window.status='Smoke Signals'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Smoke Signals</font></a><br>
+
+<a href="../The_Last_Page/index.shtml" onMouseOver="window.status='The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>The Last Page</font></a><br>
+
+<p>
+<p>
+
+<!--COLUMNISTS-->
+<img src="../../../../Navbar/columnists.gif" alt="Columnists" width=91 height=11><br>
+
+<a href="../A_Note_From_Bob/index.html" onMouseOver="window.status='Bob McGrew in A Note From Bob'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Bob McGrew</font></a><br>
+
+<a href="../Interview/index.html" onMouseOver="window.status='Brian Ball in Interview'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Brian Ball</font></a><br>
+
+<a href="../News/news2.shtml" onMouseOver="window.status='David Myszewski in News'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>David Myszewski</font></a><br>
+
+<a href="frontpage2.shtml" onMouseOver="window.status='Grey Baker in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Grey Baker</font></a><br>
+
+<a href="../The_Last_Page/index.html" onMouseOver="window.status='Henry Towsner in The Last Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Henry Towsner</font></a><br>
+
+<a href="frontpage1.shtml" onMouseOver="window.status='Jim Carlson in Front Page'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Jim Carlson</font></a><br>
+
+<a href="../Opinion/index.html" onMouseOver="window.status='Matthew Barrett in Opinion'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Matthew Barrett</font></a><br>
+
+<a href="../Book_Review/index.html" onMouseOver="window.status='Scott Rasmussen in Book Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Scott Rasmussen</font></a><br>
+
+<p>
+<p>
+
+<!--FEEDBACK-->
+<!--
+<img src=http://www.stanfordreview.org/Navbar/feedback.gif width=91 height=11 alt="Feedback">
+
+<a href=http://www.stanfordreview.org/Contact/lettertoeditor.shtml onMouseOver="window.status='Letter to the Editor'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Letter to the Editor</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/webmaster.shtml onMouseOver="window.status='Comments for the webmaster'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Comments for the Webmaster</font></a><br>
+
+<a href=http://www.stanfordreview.org/Contact/index.shtml onMouseOver="window.status='Other contact information: phone, fax, and snail mail address'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Other contact information</font></a><br>
+
+<a href=http://www.stanfordreview.org/Subscribe/index.shtml onMouseOver="window.status='Subscribe to the Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Subscribe to paper edition</font></a><br>
+-->
+
+<p>
+<!--SMALL REVIEW GRAPHIC-->
+<!--Small Review graphic deleted
+Donations are also deleted-->
+<!--
+<a href=http://www.stanfordreview.org/Donations/ onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true"><font face=Arial,Helvetica,sans-serif color=white>Donate</font></a><br>
+
+-- Begin PayPal Logo --
+
+<A HREF="https://secure.paypal.com/xclick/business=editor%40stanfordreview.org&amp;item_name=One-year+subscription+%28%2475+or+more%29&amp;no_intl=1&amp;return=http%3A//stanfordreview.org/Donations/thankyou.shtml" onMouseOver="window.status='Donate to The Stanford Review'; return true" onMouseOut="window.status=' '; return true" target="_blank"><IMG SRC="http://images.paypal.com/images/x-click-but7.gif" BORDER="0" ALT="Make payments with PayPal - it's fast, free and secure!"></A>
+
+-- End PayPal Logo --
+
+-->
+
+</td>
+
+<td width=18>
+</td>
+
+<td valign=top>
+
+<!--LOGO IMAGE MAP-->
+<img src="../../../../Header/logo.gif" width="400" height="108" usemap="#reviewlogo" ismap alt="Stanford Review Graphic" border="0" >
+
+<map name="reviewlogo">
+<area shape="rect" coords="0,2,90,107"  href="http://www-hoover.stanford.edu"  onMouseOver="window.status='Hoover Institute'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,2,400,55"  href="../../../../index.html"  onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,54,176,81"  href="../../../../About/index.shtml"  onMouseOver="window.status='About'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="89,80,176,107"  href="http://www.stanfordreview.org/Newsletter/index.shtml"  onMouseOver="window.status='Newsletter'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,54,243,81"  href="../../../index.shtml"  onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="175,80,243,107"  href="../../../../Search/index.shtml"  onMouseOver="window.status='Search'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,54,308,81"  href="../../../../Contact/index.shtml"  onMouseOver="window.status='Contact'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="242,80,308,107"  href="http://www.stanfordreview.org/Staff/index.shtml"  onMouseOver="window.status='Staff'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,54,400,81"  href="../../../../index.shtml"  onMouseOver="window.status='Latest Issue'; return true" onMouseOut="window.status=' '; return true">
+
+<area shape="rect" coords="307,80,400,107"  href="http://www.stanfordreview.org/Updates/index.shtml"  onMouseOver="window.status='Updates'; return true" onMouseOut="window.status=' '; return true">
+<AREA SHAPE="DEFAULT" NOHREF>
+</map>
+
+<br>
+
+<table width=400 border=0 cellpadding=0 cellspacing=0>
+<tr>
+<!--ISSUE INFO-->
+<td>
+<font face=Arial,Helvetica,sans-serif>
+Volume XXV, Issue 4
+</font>
+</td>
+<td align=right>
+<font face=Arial,Helvetica,sans-serif>
+November 16, 2000
+</font>
+</td>
+</tr>
+
+<tr>
+<td colspan=2>
+<!--CURRENT LOCATION-->
+<a href="../../../../index.html" onMouseOver="window.status='The Stanford Review'; return true" onMouseOut="window.status=' '; return true">Stanford Review</a> - <a href="../../../index.html" onMouseOver="window.status='Archive'; return true" onMouseOut="window.status=' '; return true">Archive</a> - <a href="../../index.html" onMouseOver="window.status='Volume XXV'; return true" onMouseOut="window.status=' '; return true">Volume XXV</a> - <a href="../index.html" onMouseOver="window.status='Issue 4'; return true" onMouseOut="window.status=' '; return true">Issue 4</a> - Front Page
+<p>
+
+<!--CONTENT-->
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+3>Front Page</font><br>
+
+<font color=#23238E face="Arial, Helvetica, Verdana, sans-serif" size=+2>Another Year Of The Grape Boycott?</font><br>
+
+<b>by Jim Carlson</b><br>
+Staff Writer<p>
+
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Issue_4/Front_Page/images/grape_balloon_girl.jpg" width=180 height=230 alt="Grape balloon girl" align=left>
+	It's mid-Autumn at Stanford University, and the students are preparing themselves for an emotionally charged annual contest which represents a unique campus tradition.  No, it's not the Big Game, but rather the Great Grape Debate, in which undergraduate students in each dorm decide whether California grapes will be served in their dining hall.<p>
+
+	The yearly voting process, administered by the Grape Education Committee, gauges student support for a boycott called years ago by the United Farm Workers Organizing Committee (UFW), and reflects broader concerns over the labor conditions faced by grape workers throughout southern California.  Each year a variety of voices, both for and against the boycott, compete for student attention, making it difficult to ignore this contentious issue.<p>
+
+	The grape issue had its first origins in a 1965 boycott called by Cesar Chavez, in demand of higher wages and labor contracts.  In 1984 the issue resurfaced, as the UFW declared the boycott which still stands today, targeting all non-union table grape growers in California.  The exact motivations of the 1984 boycott are subject to debate, but labor politics, low wages, and the use of dangerous pesticides are generally counted as chief among them.<p>
+
+<table align=left width=192>
+<tr>
+<td>
+<img src="http://www.stanfordreview.org/Archive/Volume_XXV/Issue_4/Front_Page/images/grapes_guy_with_pot.jpg" width=190 height=220 alt="Students protest grapes"><br>
+<i>Students protest the use of pesticides in grape fields.</i><br>
+Photo by Connie Zhou.
+</td>
+</tr>
+</table>
+	The grape debate first impacted Stanford in 1987 when both MEChA and the ASSU brought the UFW boycott to the attention of the administration.  The result was a policy nearly identical to the current one, whereby each residence was to hold regular votes to determine the presence of grapes in its dining hall.  These dorm votes have been taking place on campus every year since 1988.  The issue reached new prominence in 1994, however, as the legendary May 4th student hunger strike included among its demands a University wide ban on grapes.  This demand was not met, but instead President Casper and Provost Rice reached a compromise with the protesters which entailed the formation of the Grapes Policy Committee, a group of students, staff and faculty tasked with researching the situation and providing recommendations to the University. <p>
+
+	This process culminated in the creation of the current Grapes Education and Voting program, directed by Residential Education.  This program provides educational resources to the residence staff and students, largely through a web site at <a href=http://www.stanford.edu/dept/resed/Program/Grapes onMouseOver="window.status='Grape education program'; return true" onMouseOut="window.status=' '; return true">http://www.stanford.edu/dept/resed/Program/Grapes</a>, and a widely circulated thirty-minute video explaining the debate.  Each year, after acquainting their residents with this information, staff members in each dorm are required to hold a vote, roughly as they have since 1988.<p>
+
+While the Grapes Education Committee is responsible for providing balanced information on the issue, various student groups traditionally play a large role in promoting the UFW boycott on campus.  This year the pro-boycott position is represented by the Grapes Coalition, an ad hoc assembly of supporters largely drawn from groups such as MEChA and the Stanford Labor Action Coalition (SLAC), but also composed of issue-minded individuals without particular group affiliations.<p>
+
+	Organizer Monica Henestroza defines the Grapes Coalition's mission as "promoting outreach and political education on campus, letting people know about the historic significance and why this issue is still pertinent."  The Coalition aims at making its position known to the student body through the distribution of fliers and brochures, campus presentations such as the "Carn-UVA-l" which took place  in White Plaza Wednesday, November 8th, and occasional dorm talks.
+	For the Coalition, the boycott represents a way of putting pressure on table grape growers to improve wages and labor conditions and to end the use of dangerous pesticides.  A widely distributed flier entitled, "Fields Of Poison," highlights the health risks allegedly faced by grape workers, citing reports which find the use of pesticides responsible for increases in cancer, brain damage, birth defects and acute poisonings.<p>
+
+	These charges are partially corroborated by the 1995 "Report of the Grape Policy Committee," which found a correlation between certain pesticide use and acute problems such as dermatitis and long term risks of cancer and reproductive damage, yet stressed the inconclusive nature of the scientific data.  The Grapes Coalition views the boycott as a powerful method of addressing health concerns and other labor issues, citing Cesar Chavez's successful 1965 boycott as encouraging historical evidence.<p>
+
+	Opposition to the UFW boycott is primarily represented by the Grape Workers and Farmers Coalition (GWFC), an industry group assembled in 1985 to protect the open market for California table grapes.  The GWFC, whose arguments are summarized on the Residential Education web site, boasts a petition containing the signatures of over 60,000 opponents to the boycott, most of whom are actual grape workers.<p>
+
+	According to Gary Caloroso, who represents the GWFC, the 1984 UFW boycott was a "purely political statement," through which organizers sought to express dissatisfaction with former Governor George Dukemejian's labor policies.  Since then, he notes, the UFW has stopped actively pursuing the boycott.  According to Mr. Caloroso, the UFW currently represents less than two percent of Californian grape workers, and has not made any attempts at organizing in several years.<p>
+
+	Of course, Stanford's Grapes Coalition is not merely the campus branch of the UFW.  While the Coalition characterizes its relationship with the UFW as an "act of solidarity" and a "partnership," the interests of the grape workers come first.  As organizer Miguel Chavira points out:  "We're going to be making the decisions based on what we think makes sense, what we think is important... it's not like we just follow what they [the UFW] say."<p>
+
+	Mr. Caloroso of the GWFC also condemned the use of "scare tactics" by the UFW concerning the health risks of pesticides.  California's pesticide regulations are generally recognized as the strictest in the nation, and a 1999 Department of Pesticide Regulation news release charts a decade-long decline in fieldworker illnesses.  In addition to rigors of state law, Mr. Caloroso notes that "the table grape industry has been very progressive in developing alternatives to using pesticides."  <p>
+
+	Furthermore, said Mr. Caloroso, "most farmers know that they need a satisfied 	work force to be successful, and they strive to provide the best possible working conditions, compensation and benefits... Grape farmers have met or exceeded the legal requirements regarding working conditions."<p>
+
+	However, proponents of the boycott insist that serious problems persist on California's grape farms, and despite strict labor and health regulations, enforcement remains intolerably lax.<p>
+
+	According to Mr. Chavira, "On the legal side there have been improvements, but again it comes down to the issue of enforcement.  We really haven't seen that improving."  In terms of labor conditions, Mr. Chavira also stressed that a limiting factor is the "knowledge base" of the average worker, as "they're not going to be aware of all the resources they have," such as access to the Agricultural Labor Relations Board (ALRB).<p>
+
+	One perspective on the issue, crucial yet frequently overlooked, is that of the grape workers themselves.  The Grapes Coalition insists that the boycott reflects the will of the workers.  In Mr. Chavira's words, "I definitely believe that they would support this... that's why we're doing the things that we're doing."<p>
+
+	Yet at least one table grape worker sees things differently.  According to Carmen Garza, a Mexican immigrant and life-long grape worker who is currently employed at Sunview Vineyards and affiliated with the GWFC, the boycott is a "waste of time" - an all but dead attempt by the UFW to "attract attention."  While she credits the past achievements of union activists, Mrs. Garza feels that the situation has improved for grape workers.<p>
+
+	"We have become more educated, a lot of us are now citizens of the United States, we speak English.  And so we know that there is an ALRB out there working for us.  And if we have any complaints, any problems, we go to the ALRB, and the farmers know this.  So it isn't to their best interest to not keep good wages and working conditions and so on, because we now speak for ourselves."<p>
+
+Mrs. Garza refers to herself as a "happy farmer," and views her coworkers as "hard working people... We work to make a living just like anyone else.  We buy our homes, we buy our cars, we send our kids to school, just like anybody else."  While admitting the good intentions of those pursuing the boycott, she expresses frustration over the stereotype of farm workers as helpless and uninformed.<p>
+
+"Why do they think we're so ignorant like that, that we can't speak for ourselves?" she asks. "And that's the picture that they draw and I don't like it.  I think we may not have our college degrees and so on, but we have a good mind, we can think for ourselves, we can speak for ourselves, we can defend ourselves."<p>
+
+	Carmen Garza directs a message to the Stanford campus: "I would just like people to forget this voting... I mean, what's the point?  We are the farm workers, we are the ones who are supposed to be directly affected by this, and we don't care!  I don't see a point to it."<p>
+
+	Of course, Mrs. Garza is only one of the approximately 50,000 grape workers employed throughout California -- a population whose views are difficult to adequately survey.  In an effort to help bridge this gap, last year Stanford's Grapes Education Committee held an instructional forum where representatives of the grape workers, the GWFC and the UFW were invited to present their views.  However, the UFW withdrew at the last minute and a mere handful of students attended the forum, highlighting the waning interest on campus.  Meanwhile, against a backdrop of steadily decreasing popular support for the boycott, the tradition continues this fall, with the Grapes Education Committee striving to keep the campus informed, and the Grapes Coalition ardently pushing their case.<p>
+
+
+<!--DATE POSTED-->
+<font size=2><i>Page last modified on Wednesday, 01-Mar-2006 23:54:31 MST</i></font>.
+</td>
+</tr>
+</table>
+
+
+</table>
