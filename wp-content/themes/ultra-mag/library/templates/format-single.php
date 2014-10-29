@@ -17,11 +17,21 @@
         <h1 class="entry-title"><?php the_title(); ?></h1>
     </header>
 
+    <div class="byline">
+	<?php if ( function_exists( 'coauthors' ) ) { //CUSTOM COAUTHORS PLUGIN FIX BY JOHN LUTTIG
+    		coauthors();
+	} else {
+    		the_author();
+	} ?>
+    </div>
+
     <?php if ( 'show' === get_option( 'kopa_theme_options_featured_image_status', 'show' ) && has_post_thumbnail() ) { ?>
         <div class="entry-thumb"><?php the_post_thumbnail( 'kopa-single-featured-size' ); ?></div>
     <?php } ?>
 
     <div class="elements-box clearfix">
+    <?php if(function_exists('fontResizer_place')) { fontResizer_place(); } ?>
+
         <?php the_content(); ?>
     </div>
     

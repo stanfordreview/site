@@ -49,7 +49,7 @@
     <?php } elseif ( 'show' === get_option( 'kopa_theme_options_featured_image_status', 'show' ) &&  has_post_thumbnail() ) { ?>
         <div class="entry-thumb"><?php the_post_thumbnail( 'kopa-single-featured-size' ); ?></div>
     <?php } ?>
-
+    
     <div class="elements-box clearfix">
         <?php
         $content = get_the_content(); 

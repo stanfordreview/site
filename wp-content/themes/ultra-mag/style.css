@@ -13,26 +13,60 @@ Tags: black, blue, green, white, two-columns, three-columns, right-sidebar, resp
 Common styles
 ============================================================ */
 @font-face {
-    font-family: 'texgyreadventorregular';
-    src: url('fonts/texgyreadventor-regular-webfont.eot');
-    src: url('fonts/texgyreadventor-regular-webfont.eot?#iefix') format('embedded-opentype'),
-        url('fonts/texgyreadventor-regular-webfont.woff') format('woff'),
-        url('fonts/texgyreadventor-regular-webfont.ttf') format('truetype'),
-        url('fonts/texgyreadventor-regular-webfont.svg#texgyreadventorregular') format('svg');
+    font-family: 'Sentinel';
+    src: url('fonts/sentinel-light.eot');
+    src: url('fonts/sentinel-light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/sentinel-light.woff') format('woff'),
+        url('fonts/sentinel-light.ttf') format('truetype'),
+        url('fonts/sentinel-light.svg#sentinellight') format('svg');
     font-weight: normal;
     font-style: normal;
-
 }
+
+@font-face {
+    font-family: 'Sentinel-Bold';
+    src: url('fonts/sentinel-bold.eot');
+    src: url('fonts/sentinel-bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/sentinel-bold.woff') format('woff'),
+        url('fonts/sentinel-bold.ttf') format('truetype'),
+        url('fonts/sentinel-bold.svg#sentinelbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sentinel-Semibold';
+    src: url('fonts/Sentinel-Semibold.eot');
+    src: url('fonts/Sentinel-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Sentinel-Semibold.woff') format('woff'),
+        url('fonts/Sentinel-Semibold.ttf') format('truetype'),
+        url('fonts/Sentinel-Semibold.svg#SentinelSemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'theinhardt';
+    src: url('fonts/theinhardtlight-webfont.eot');
+    src: url('fonts/theinhardtlight-webfont?#iefix') format('embedded-opentype'),
+        url('fonts/theinhardtlight-webfont.woff') format('woff'),
+        url('fonts/theinhardtlight-webfont.ttf') format('truetype'),
+        url('fonts/theinhardtlight-webfont.svg#theinhardtlightwebfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 body {
     color: #666;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 12px;
+    font-family: 'theinhardt', 'Georgia', sans-serif;
+    font-size: 12px;	
     outline: none;
     overflow-x: hidden;
 }
 
 pre, code {
-    font-family: 'DejaVu Sans Mono',Menlo,Consolas,monospace;
+    font-family: 'theinhardt',Menlo,Consolas,monospace;
 }
 hr {
     -moz-border-bottom-colors: none;
@@ -78,7 +112,7 @@ Elements
 blockquote {
     background:url(images/icons/quote-icon.png) no-repeat 15px 15px #f6f6f6;
     color: #666;
-    font-family: Georgia,"Times New Roman",Times,serif;
+    font-family: "Sentinel-Semibold",Georgia,"Times New Roman",Times,serif;
     font-size: 14px;
     font-style: italic;
     line-height: 24px;
@@ -138,40 +172,40 @@ Heading
 ============================================================ */
 h1 {
     color: #666;
-    font: 400 32px/34px 'texgyreadventorregular', sans-serif;
+    font: 400 32px/34px 'Sentinel-Bold', sans-serif;
     letter-spacing: 0;
     margin-bottom:5px;
 
 }
 h2 {
     color: #666;
-    font: 400 28px/30px 'texgyreadventorregular',  sans-serif;
+    font: 400 28px/30px 'Sentinel',  sans-serif;
     letter-spacing: 0;
     margin-bottom:5px;
 }
 h3 {
     color: #666;
-    font: 400 24px/26px 'texgyreadventorregular',  sans-serif;
+    font: 400 24px/26px 'Sentinel',  sans-serif;
     letter-spacing: 0;
     margin-bottom:5px;
 }
 h4 {
     color: #666;
-    font: 400 20px/22px 'texgyreadventorregular',  sans-serif;
+    font: 400 20px/22px 'Sentinel',  sans-serif;
     letter-spacing: 0;
     margin-bottom:5px;
 
 }
 h5 {
     color: #666;
-    font: 400 16px/20px 'texgyreadventorregular',  sans-serif;
+    font: 400 16px/20px 'Sentinel',  sans-serif;
     letter-spacing: 0;
     margin-bottom:5px;
 
 }
 h6 {
     color: #666;
-    font: 400 14px/20px 'texgyreadventorregular',  sans-serif;
+    font: 400 14px/20px 'Sentinel',  sans-serif;
     letter-spacing: 0;
     margin-bottom:5px;
 
@@ -182,7 +216,6 @@ a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
 .kp-article-list-widget .entry-item .entry-title a:hover,
 .home-slider ul li .entry-content .entry-title a:hover,
 .home-slider ul li .entry-content .entry-title a:hover {
-    color: #666;
     text-decoration:none;
     outline: none;
 }
@@ -201,7 +234,14 @@ a, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
 }
 p { 
     margin-bottom:10px;
-    line-height:18px;
+    line-height:175%;
+}
+
+.byline {
+    font: 400 12px 'Sentinel',  sans-serif;
+    letter-spacing: 0;
+    margin-bottom:5px;
+
 }
 /* =========================================================
 Clear Floated Elements
@@ -385,11 +425,92 @@ Header
     margin: 0;
     position: relative;
 }
+
+#menu-item-86956{
+    background: #313D3F;
+}
+#menu-item-86956:after{
+   height: 0;
+   width: 100%;
+   content:"";
+   position: absolute; 
+   border-top: 10px solid #313D3F; 
+   border-left: 10px solid #313D3F;  
+   border-right: 10px solid white; 
+   margin-top: -10px;
+}
+  
+
+#menu-item-81935{
+    background: #EE5E44;
+}
+#menu-item-81935:after{
+   height: 0;
+   width: 100%;
+   content:"";
+   position: absolute; 
+   border-top: 10px solid #EE5E44; 
+   border-left: 10px solid #EE5E44;  
+   border-right: 10px solid white; 
+   margin-top: -10px;
+}
+
+#menu-item-81934{
+    background: #F0B74C;
+}
+#menu-item-81934:after{
+   height: 0;
+   width: 100%;
+   content:"";
+   position: absolute; 
+   border-top: 10px solid #F0B74C; 
+   border-left: 10px solid #F0B74C;  
+   border-right: 10px solid white; 
+   margin-top: -10px;
+}
+#menu-item-81933{
+    background: #87C4CE;
+}
+#menu-item-81933:after{
+   height: 0;
+   width: 100%;
+   content:"";
+   position: absolute; 
+   border-top: 10px solid #87C4CE; 
+   border-left: 10px solid #87C4CE;  
+   border-right: 10px solid white; 
+   margin-top: -10px;
+}
+#menu-item-81996{
+    background: #313D3F;
+}
+#menu-item-81996:after{
+   height: 0;
+   width: 100%;
+   content:"";
+   position: absolute; 
+   border-top: 10px solid #313D3F; 
+   border-left: 10px solid #313D3F;  
+   border-right: 10px solid white; 
+   margin-top: -10px;
+}
+#menu-item-81932 {
+    background: #EE5E44;
+}
+#menu-item-81932:after{
+   height: 0;
+   width: 100%;
+   content:"";
+   position: absolute; 
+   border-top: 10px solid #EE5E44; 
+   border-left: 10px solid #EE5E44;  
+   border-right: 10px solid white; 
+   margin-top: -10px;
+}
 #main-menu > li > a {
-    text-transform: uppercase;
-    color: #666;
+    color: white;
     font-size: 15px;
-    font-family: 'texgyreadventorregular',  sans-serif;
+    font-family: 'Sentinel-Semibold',  sans-serif;
     font-weight: 400;
     display: block;
     padding: 10px 15px;
@@ -427,7 +548,7 @@ Header
 #main-menu li ul li a {
     display: block;
     font-size: 14px;
-    font-family: 'texgyreadventorregular', sans-serif;
+    font-family: 'Sentinel', sans-serif;
     padding: 10px 0;
 }
 
@@ -540,7 +661,7 @@ Header
 #top-responsive-menu {
     color: #000;
     border: 1px solid #222;
-    font-family: Arial,Helvetica,sans-serif;
+    font-family: "Sentinel-Semibold",Arial,Helvetica,sans-serif;
     padding: 4px 6px;
     display: none;
     margin: 15px 0;
@@ -635,7 +756,7 @@ Main Content
 .widget_categories li:before,
 .widget_archive li:before {
     content: "\f0c5";
-    font-family: 'FontAwesome';
+    font-family: 'Sentinel';
     margin-right: 5px;
     font-size: 11px;
 }
@@ -654,7 +775,7 @@ Main Content
 .kp-article-list-widget .entry-item .entry-title {
     margin: 0;
     font-size: 14px;
-    font-family:'texgyreadventorregular',  sans-serif;
+    font-family:'Sentinel',  sans-serif;
     line-height: 22px;
 }
 .kp-article-list-widget .entry-item header {
@@ -709,7 +830,7 @@ Main Content
 }
 .more-link:before {
     content: "\f08e";
-    font-family: 'FontAwesome';
+    font-family: 'Sentinel';
     color: #888;
     font-weight: 300;
     margin-right: 5px;
@@ -764,7 +885,7 @@ Main Content
 }
 
 .hover-effect .hover-icon:before {
-    font-family: 'FontAwesome';
+    font-family: 'Sentinel';
 }
 .standard-post .hover-effect .hover-icon:before {
     content: "\f083";
@@ -811,7 +932,7 @@ Center-col
     border: 1px solid #ccc;
     font-size: 14px;
     font-weight: 400;
-    font-family: 'texgyreadventorregular', san-serif;
+    font-family: "Sentinel-Semibold", san-serif;
     padding: 5px 40px;
 }
 .load-more:hover {
@@ -1147,7 +1268,7 @@ Bottom sidebar
 #bottom-menu li a {
     display: block;
     padding: 10px;
-    font-family: 'texgyreadventorregular',​sans-serif;
+    font-family: 'Sentinel-Semibold',​sans-serif;
     font-weight: 400;
     text-transform: uppercase;
     font-size: 13px;
@@ -1305,7 +1426,7 @@ Category page
 .pagination ul li span {
     display: block;
     font-size: 19px;
-    font-family: 'texgyreadventorregular',sans-serif;
+    font-family: 'Sentinel-Semibold',sans-serif;
     padding: 0 10px;    
 }
 .pagination ul li span {
@@ -1354,7 +1475,7 @@ Single page
     padding-bottom: 10px;
 }
 .page-links {
-    font-family: 'texgyreadventorregular',sans-serif;
+    font-family: 'Sentinel-Semibold',sans-serif;
 
 }
 .page-links a {
