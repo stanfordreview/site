@@ -14,22 +14,22 @@ Common styles
 ============================================================ */
 @font-face {
     font-family: 'Sentinel';
-    src: url('fonts/sentinel-light.eot');
-    src: url('fonts/sentinel-light.eot?#iefix') format('embedded-opentype'),
-        url('fonts/sentinel-light.woff') format('woff'),
-        url('fonts/sentinel-light.ttf') format('truetype'),
-        url('fonts/sentinel-light.svg#sentinellight') format('svg');
+    src: url('fonts/Sentinel-Light.eot');
+    src: url('fonts/Sentinel-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Sentinel-Light.woff') format('woff'),
+        url('fonts/Sentinel-Light.ttf') format('truetype'),
+        url('fonts/SentinelLight.svg#sentinellight') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Sentinel-Bold';
-    src: url('fonts/sentinel-bold.eot');
-    src: url('fonts/sentinel-bold.eot?#iefix') format('embedded-opentype'),
-        url('fonts/sentinel-bold.woff') format('woff'),
-        url('fonts/sentinel-bold.ttf') format('truetype'),
-        url('fonts/sentinel-bold.svg#sentinelbold') format('svg');
+    src: url('fonts/Sentinel-Bold.eot');
+    src: url('fonts/Sentinel-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Sentinel-Bold.woff') format('woff'),
+        url('fonts/Sentinel-Bold.ttf') format('truetype'),
+        url('fonts/Sentinel-Bold.svg#sentinelbold') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -41,6 +41,17 @@ Common styles
         url('fonts/Sentinel-Semibold.woff') format('woff'),
         url('fonts/Sentinel-Semibold.ttf') format('truetype'),
         url('fonts/Sentinel-Semibold.svg#SentinelSemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sentinel-SemiboldItalic';
+    src: url('fonts/Sentinel-SemiboldItalic.eot');
+    src: url('fonts/Sentinel-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Sentinel-SemiboldItalic.woff') format('woff'),
+        url('fonts/Sentinel-SemiboldItalic.ttf') format('truetype'),
+        url('fonts/Sentinel-SemiboldItalic.svg#SentinelSemiboldItalic') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -60,7 +71,8 @@ Common styles
 body {
     color: #666;
     font-family: 'theinhardt', 'Georgia', sans-serif;
-    font-size: 12px;	
+    font-size: 12px;    
+    line-height: 100%;
     outline: none;
     overflow-x: hidden;
 }
@@ -167,6 +179,9 @@ blockquote {
     height: 100%;
 }
 
+.entry-title {
+    font-family: Sentinel-Bold;
+}
 /* =========================================================
 Heading
 ============================================================ */
@@ -205,7 +220,7 @@ h5 {
 }
 h6 {
     color: #666;
-    font: 400 14px/20px 'Sentinel',  sans-serif;
+    font: 400 14px/20px 'Sentinel-Semibold',  sans-serif;
     letter-spacing: 0;
     margin-bottom:5px;
 
@@ -238,7 +253,8 @@ p {
 }
 
 .byline {
-    font: 400 12px 'Sentinel',  sans-serif;
+    font: 400 13px 'Sentinel-Semibold',  sans-serif;
+    text-transform: uppercase;
     letter-spacing: 0;
     margin-bottom:5px;
 
@@ -719,7 +735,7 @@ Main Content
     line-height: 35px;
     margin: 0 0 15px;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 
 #main-content .widget_nav_menu ul li {
@@ -775,7 +791,7 @@ Main Content
 .kp-article-list-widget .entry-item .entry-title {
     margin: 0;
     font-size: 14px;
-    font-family:'Sentinel',  sans-serif;
+    font-family:'Sentinel-Semibold',  sans-serif;
     line-height: 22px;
 }
 .kp-article-list-widget .entry-item header {
@@ -1146,7 +1162,7 @@ Right sidebar
 .add-to-cart-button {
     display: inline-block;
     font-size: 12px;
-    font-family: 'texgyreadventorregular', san-serif;
+    font-family: 'Sentinel-Bold', san-serif;
 }
 .add-to-cart-button:before {
     content: "\f07a";
@@ -1216,7 +1232,7 @@ Right sidebar
 
 .widget_tag_cloud a {
     display: inline-block;
-    font-family: 'texgyreadventorregular',sans-serif;
+    font-family: 'Sentinel',sans-serif;
     margin: 0 25px 5px 0;
 }
 
@@ -1276,7 +1292,7 @@ Bottom sidebar
 
 #bottom-sidebar .widget .widget-title {
     font-size: 16px;
-    text-transform: uppercase;
+    text-transform: lowercase;
     margin: 0 0 10px;
     color: #666;
 }
@@ -1303,7 +1319,7 @@ Bottom sidebar
     background-color: #222222;
     border: 1px solid #222222;
     color: #FFFFFF;
-    font-family: 'texgyreadventorregular', sans-serif;
+    font-family: 'Sentinel', sans-serif;
     font-size: 13px;
     height: 44px;
     line-height: 22px;
@@ -1401,7 +1417,7 @@ Category page
 }
 .sub-page ul.article-list li .entry-title {
     font-size: 16px;
-    font-family: 'texgyreadventorregular',sans-serif;
+    font-family: 'Sentinel',sans-serif;
     margin: 0 0 5px;
     line-height: 18px;
 }
@@ -1438,7 +1454,7 @@ Category page
     background-color: #fff;
     padding: 0;
     border-bottom: 1px solid #ccc;
-    font-family: 'texgyreadventorregular', san-serif;
+    font-family: 'Sentinel', san-serif;
     font-size: 15px;
     margin-bottom: 30px;
 }
@@ -1489,7 +1505,7 @@ Single page
     list-style: none;
     float: left;
     font-size: 13px;
-    font-family: 'texgyreadventorregular',sans-serif;
+    font-family: 'Sentinel-Bold',sans-serif;
     margin: 0 0 0 2px;
     line-height: 34px;
 }
@@ -1509,7 +1525,7 @@ Single page
 
 .tag-box {
     font-size: 14px;   
-    font-family: 'texgyreadventorregular',sans-serif;
+    font-family: 'Sentinel-Bold',sans-serif;
     margin: 15px 0;
     line-height: 34px;
 }
@@ -1520,7 +1536,7 @@ Single page
 }
 .entry-box footer p {
     font-weight: 700;
-    font-family: 'texgyreadventorregular',sans-serif;
+    font-family: 'Sentinel',sans-serif;
     font-size: 14px;
     margin-bottom: 0;
 }
@@ -1548,7 +1564,7 @@ Single page
 }
 .about-author header a.author-article {
     font-style: italic;
-    font-family: Georgia, "Times New Roman", Times, serif;
+    font-family: "Sentinel-Semibold", "Times New Roman", Times, serif;
     line-height: 20px;
 }
 .about-author .avatar-thumb {
@@ -1599,7 +1615,7 @@ Single page
     margin: 0 0 5px;
 }
 .comments-list .comment .comment-body header .comment-button {
-    font-family: 'texgyreadventorregular',sans-serif;
+    font-family: 'Sentinel-Bold',sans-serif;
 
 }
 .comments-list .comment .comment-body header .comment-button .comment-reply-link {
@@ -1616,7 +1632,7 @@ Single page
 #comments .pagination {
     border-top: none;
     margin: 0;
-    font-family: 'texgyreadventorregular',sans-serif;
+    font-family: 'Sentinel-Bold',sans-serif;
     font-size: 14px;
     padding: 0;
 }
@@ -1647,14 +1663,14 @@ Single page
 #contact-form .c-note {
     display: block;
     font-style: italic;
-    font-family: Georgia, "Times New Roman", Times, serif;
+    font-family: "Sentinel-Semibold", "Times New Roman", Times, serif;
     font-size: 13px;
     margin-bottom: 10px;
 }
 #comments-form .required,
 #contact-form .required {
     font-weight: 700;
-    font-family: 'texgyreadventorregular',sans-serif;
+    font-family: 'Sentinel-Bold',sans-serif;
 }
 #comments-form .comment-left,
 #contact-form .contact-left {
@@ -1708,7 +1724,7 @@ Single page
     background-color: #222;
     color: #fff;
     font-size: 14px;
-    font-family: 'texgyreadventorregular',sans-serif;
+    font-family: 'Sentinel-Bold',sans-serif;
     font-weight: 700;
     border: 1px solid #222;
     padding: 10px 15px;
@@ -1911,7 +1927,7 @@ Single page
     background-color: #222222;
     border: 1px solid #222222;
     color: #FFFFFF;
-    font-family: Georgia,"Times New Roman",Times,serif;
+    font-family: "Sentinel-Semibold","Times New Roman",Times,serif;
     font-weight: 700;
     padding: 10px 15px;
 }
@@ -1933,7 +1949,7 @@ Single page
     color: #222;
     background-color: #e2e1e2;    
     display: inline-block;
-    font-family: Georgia,"Times New Roman",Times,serif;
+    font-family: "Sentinel-Semibold","Times New Roman",Times,serif;
     font-weight: 700;
     padding: 10px 15px 9px;
 }
@@ -2007,7 +2023,7 @@ Search Page
 .kp-search-result {
     font-size: 24px;
     font-style: italic;
-    font-family: Georgia,"Times New Roman",Times,serif;
+    font-family: "Sentinel-Semibold","Times New Roman",Times,serif;
     margin-bottom: 10px;
 }
 
@@ -2129,7 +2145,7 @@ Portfolio Page
 #pf-items article .pf-title {
     margin: 0 0 5px;
     font-size: 12px;
-    font-family: Georgia,"Times New Roman",Times,serif;
+    font-family: "Sentinel-Semibold","Times New Roman",Times,serif;
 }
 .kp-pf-2col .hover-icon {
     width: 50px;
@@ -2171,7 +2187,7 @@ Portfolio Detail Page
 }
 #related-portfolio #splitter .masonry-box .entry-title {
     font-size: 12px;
-    font-family: Georgia, "Times New Roman", Times, serif;
+    font-family: "Sentinel-Semibold", "Times New Roman", Times, serif;
     margin: 5px 0 10px;
 }
 

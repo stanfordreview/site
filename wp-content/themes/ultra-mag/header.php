@@ -49,6 +49,15 @@
                 <?php $logo_image = get_option( 'kopa_theme_options_logo_url' );
 
                 if ( $logo_image ) { ?>
+		<script type="text/javascript">
+			window.onscroll = function() {
+    				var y_scroll_pos = (window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop;
+				var min_height = 150;
+    				if(y_scroll_pos > min_height) {
+        			//	console.log('1');	//do stuff
+    				}
+			}
+		</script>
                 <a href="<?php echo esc_url( home_url() ); ?>"><img src="<?php echo esc_url( $logo_image ); ?>" alt="<?php bloginfo('name'); ?>"></a>
                 <?php } else { ?>
                 <h1 class="site-title"><a href="<?php echo esc_url( home_url() ); ?>"><?php bloginfo('name'); ?></a></h1>
