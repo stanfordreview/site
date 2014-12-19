@@ -12,7 +12,7 @@ $sidebars = $kopa_setting['sidebars'];
 
         <?php get_template_part( 'library/templates/loop', 'blog-2' ); ?>
 
-    </div> <!-- center-col -->
+    </div> <!-- blog-2 center-col -->
 
     <?php if ( is_active_sidebar( $sidebars[1] ) ) { ?>
     <div id="right-sidebar" class="widget-area-2">

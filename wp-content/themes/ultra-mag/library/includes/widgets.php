@@ -852,7 +852,9 @@ class Kopa_Widget_Featured_Articles_Slider extends WP_Widget {
                             <?php } ?>
                         </header>
                         <h6 class="entry-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h6>
-                        <?php the_excerpt(); ?>
+                        <?php //JOHN LUTTIG INSERT AUTHOR TEXT ?>
+			<p class="author-name-field"><?php the_author(); ?></p>
+			<?php the_excerpt(); ?>
 
                         <?php if ( $instance['display_readmore'] ) { ?>
                         <a href="<?php the_permalink(); ?>" class="more-link"><?php _e( 'Read more...', kopa_get_domain() ); ?></a>

@@ -5,7 +5,7 @@ $sidebars = $kopa_setting['sidebars'];
 
 <?php get_header(); ?>
 
-<div id="primary-col">
+<div id="primary-col" class="article-wide-col">
     <div id="center-col">
 		
 		<?php kopa_breadcrumb(); ?>
@@ -13,7 +13,7 @@ $sidebars = $kopa_setting['sidebars'];
 		<?php get_template_part( 'library/templates/loop', 'single' ); ?>
 
     </div>
-    <!-- center-col -->
+    <!-- layout-single center-col -->
 
 	<?php if ( is_active_sidebar( $sidebars[1] ) ) { ?>
     <div id="right-sidebar" class="widget-area-2">

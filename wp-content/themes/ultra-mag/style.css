@@ -71,8 +71,7 @@ Common styles
 body {
     color: #666;
     font-family: 'theinhardt', 'Georgia', sans-serif;
-    font-size: 12px;    
-    line-height: 100%;
+    font-size: 14px;    
     outline: none;
     overflow-x: hidden;
 }
@@ -511,21 +510,21 @@ Header
    margin-top: -10px;
 }
 #menu-item-81932 {
-    background: #EE5E44;
+    background: #313D3F;
 }
 #menu-item-81932:after{
    height: 0;
    width: 100%;
    content:"";
    position: absolute; 
-   border-top: 10px solid #EE5E44; 
-   border-left: 10px solid #EE5E44;  
+   border-top: 10px solid #313D3F; 
+   border-left: 10px solid #313D3F;  
    border-right: 10px solid white; 
    margin-top: -10px;
 }
 #main-menu > li > a {
     color: white;
-    font-size: 15px;
+    font-size: 16px;
     font-family: 'Sentinel-Semibold',  sans-serif;
     font-weight: 400;
     display: block;
@@ -735,7 +734,6 @@ Main Content
     line-height: 35px;
     margin: 0 0 15px;
     text-align: center;
-    text-transform: lowercase;
 }
 
 #main-content .widget_nav_menu ul li {
@@ -804,9 +802,17 @@ Main Content
     margin-bottom: 10px;
 }
 .kp-article-list-widget .entry-item .entry-thumb img {
-    width: 100%;
+    //HOMEPAGE ARTICLE IMAGES
+    width: 100% !important;
     display: block;
 }
+.attachment-kopa-article-list-size.wp-post-image {
+    width: 100% !important;
+    max-height: 350px !important;
+    height: auto !important;
+    object-fit: contain !important;
+}
+
 .kp-article-list-widget .entry-item .entry-content p {
     margin-bottom: 5px;
 }
@@ -1292,7 +1298,6 @@ Bottom sidebar
 
 #bottom-sidebar .widget .widget-title {
     font-size: 16px;
-    text-transform: lowercase;
     margin: 0 0 10px;
     color: #666;
 }

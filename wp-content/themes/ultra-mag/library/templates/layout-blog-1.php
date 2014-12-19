@@ -5,14 +5,14 @@ $sidebars = $kopa_setting['sidebars'];
 
 <?php get_header(); ?>
 
-<div id="primary-col">        
+<div id="primary-col" class="section-page-primary-col">        
     <div id="center-col">
 
         <?php kopa_breadcrumb(); ?>
 
         <?php get_template_part( 'library/templates/loop', 'blog-1' ); ?>
 
-    </div> <!-- center-col -->
+    </div> <!-- layout-blog-1 enter-col -->
 
     <?php if ( is_active_sidebar( $sidebars[1] ) ) { ?>
     <div id="right-sidebar" class="widget-area-2">
